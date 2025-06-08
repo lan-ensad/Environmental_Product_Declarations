@@ -4,6 +4,8 @@ This repo contains an easy tool to scrap edp file from three sources.
 
 `pip install -r requirements.txt`
 
+Be sure to `playwright install` before launch scraping script.
+
 ## Downloding PDF
 
 - `environdec/` https://environdec.com/library
