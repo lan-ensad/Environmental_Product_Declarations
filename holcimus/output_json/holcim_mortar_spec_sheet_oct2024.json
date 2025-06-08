@@ -1,0 +1,49 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim (US) Inc.",
+    "address": "8700 Bryn Mawr Avenue, Chicago, IL 60631",
+    "phone": "(888) 646-5246",
+    "email": "ask@holcim.com",
+    "web": "www.holcim.us",
+    "update_date": "10.2024"
+  },
+  "product_description": {
+    "product_name": "Mortar Cement",
+    "usage": "Mortar cement is used in producing masonry mortars for brick, block, and stone masonry units. It is recommended for load-bearing walls and can also be used to produce stucco.",
+    "composition": "Portland cement, plasticizers, ground limestone, and air entraining additives.",
+    "types": "Conforms to ASTM C1329 for Type N, S, or M.",
+    "sizes": {
+      "Type N": "31.8 kg (70 pounds)",
+      "Type S": "34 kg (75 pounds)",
+      "Type M": "36.3 kg (80 pounds)"
+    },
+    "colors": "Gray, with pigmented options available."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "installation": {
+      "preparatory_work": "Mix in accordance with ASTM C270. Machine mixing recommended.",
+      "batching_sequence": "Add 3/4 of mix water, 1/2 sand, 1 bag of cement, then remaining sand and water.",
+      "precautions": [
+        "Do not change sand sources or mixture proportions.",
+        "Do not use other additives or admixtures.",
+        "Tool joints uniformly.",
+        "Avoid excessive re-tempering.",
+        "Protect masonry units from weather.",
+        "Do not use acid-based cleaning solutions.",
+        "Erect a job-specific sample panel."
+      ],
+      "safety_precautions": "Consult Safety Data Sheet. Avoid skin contact. Use PPE.",
+      "storage_and_handling": "Store above ground on pallets, covered with tarps or polyethylene sheeting."
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "availability_and_cost": "Regionally available. Contact nearest sales office for pricing.",
+    "warranty": "Material Certification Reports available upon request. No guarantee on finish work.",
+    "technical_services": "Contact nearest sales office or Technical Services Engineer for assistance.",
+    "filing_systems": "Additional product information available from the manufacturer."
+  }
+}

@@ -1,0 +1,876 @@
+Cold Patch Asphalt
+
+Ca H O LC I M Safety Data Sheet
+QG According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 05/29/2015 Supersedes Date: 05/12/2021 Version: 3.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+
+Product Form: Mixture
+
+Product Name: Cold Patch Asphalt
+
+Synonyms: Cold Asphalt Paving Material, Cold Mix Asphalt, Cold Mix Asphaltic Concrete, Hot Mix Cold Lay Asphalt
+1.2. intended Use of the Product
+
+Cold patch is utilized as a construction material used for repairing asphalt base, intermediate and surface course pavements,
+
+driveways, parking lots, and other pavement applications.
+
+1.3. Name, Address, and Telephone of the Responsible Party
+
+Company
+
+Holcim US
+
+8700 West Bryn Mawr Avenue, Suite 300
+
+Chicago, IL 60631
+
+Information: (888) 646-5246 (9am to 5pm CST)
+
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number  : ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+
+Skin Irrit. 2 H315
+Carc. 1A H350
+STOTRE 1 H372
+Aquatic Acute 3 H402
+Aquatic Chronic 3 H412
+
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+GHS-US/CA Labeling
+
+Hazard Pictograms (GHS-US/CA)
+
+GHS07 GHS08
+Signal Word (GHS-US/CA) : Danger
+Hazard Statements (GHS-US/CA) : H315 - Causes skinirritation.
+H350 - May cause cancer (inhalation).
+H372 - Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+H402 - Harmful to aquatic life.
+H412 - Harmful to aquatic life with long lasting effects.
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+P260 - Do not breathe dust, fume.
+P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.
+P270 - Do not eat, drink or smoke when using this product.
+P273 - Avoid release to the environment.
+
+03/12/2022 EN (English US) 1/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+P280 - Wear protective gloves, protective clothing, and eye protection.
+P302+P352 -IF ON SKIN: Wash with plenty of water.
+
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+P314 - Get medical advice/attention if you feel unwell.
+
+P321 - Specific treatment (see section 4 on this SDS).
+
+2.3.
+
+P332+P313 - If skin irritation occurs: Get medical advice/attention.
+
+P362+P364 - Take off contaminated clothing and wash it before reuse.
+P405 - Store locked up.
+P501 - Dispose of contents/container in accordance with local, regional, national,
+territorial, provincial, and international regulations.
+
+Other Hazards
+
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Asphalt may contain trace quantities of benzene (< 0.1%).
+Elevated temperature conditions may emit hydrogen sulfide, an asphalt decomposition product. Material may be heated. If heated,
+caution must be taken to avoid injury from thermal burns. Heating may also release toxic hydrogen sulfide gas. Repeated or
+prolonged exposure to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will
+include progressively more difficult breathing, cough, fever, and weight loss.
+
+2.4.
+
+Unknown Acute Toxicity (GHS-US/CA)
+No data available
+
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+
+3.1. Substance
+Not applicable
+3.2. Mixture
+Name Synonyms Product Identifier % * GHS Ingredient
+Lo | Classification
+Aggregates / | Crushed stone / Sand / Gravel / Slag (CAS-No.) Not 90 — Not classified
+Aggregates applicable 95
+blend
+Asphalt Asphalt (petroleum) / Bitumens / Bitumen / Bituminous | (CAS-No.) 8052-42-4 <10 Carc. 2,H351
+asphalt / Bitumens, asphalt / Hydrocarbon resin /
+Asphalt (A very complex combination of high molecular
+weight organic compounds containing a relatively high
+proportion of hydrocarbons having carbon numbers
+predominantly greater than C25 with high carbon-to-
+hydrogen ratios. It also contains small amounts of
+various metals such as nickel, iron, or vanadium. It is
+obtained as the non-volatile residue from distillation of
+crude oil or by separation as the raffinate from a
+residual oil in a deasphalting or decarbonization
+process.)
+Fuel oil, no. 2 | Fuel oil No. 2 / Fuel oil, No. 2 / No. 2 Fuel oil / Fuel oil, (CAS-No.) 68476-30-2 <5 Flam. Liq. 3, H226
+no. 2 (A distillate oil having a minimum viscosity of 32.6 Acute Tox. 4
+SUS at 37.7°C (100°F) to a maximum of 37.9 SUS at . .
+37.7°C (100°F).) / Fuel oil, No 2; Gasoil - unspecified [A (Inhalation:dust,mist), H332
+distillate oil having a minimum viscosity of 32.6 SUS at Skin Irrit. 2, H315
+37.7°C (100°F) to a maximum of 37.9 SUS at 37.7°C Carc. 2, H351
+(100°P). STOT RE 2, H373
+Asp. Tox. 1, H304
+Aquatic Acute 3, H402
+Aquatic Chronic 2, H411
+Kerosine, Kerosene / Kerosine / Kerosine (petroleum) / (CAS-No.) 8008-20-6 <5 Flam. Liq. 3, H226
+petroleum DEODORIZED KEROSENE / Kerosine, petroleum (Straight Skin rit. 2, H315
+Run, Kerosene (petroleum). A complex combination of
+hydrocarbons produced by the distillation of crude oil. STOT SE 3, 4336
+It consists of hydrocarbons having carbon numbers Asp. Tox. 1, H304
+predominantly in the range of C9-16 and boiling in the Aquatic Acute 2, H401
+range of approximately 180-300°C.) / Kerosene, jet fuel Aquatic Chronic 2, H411
+/ Kerosene, jet fuels / Kerosine fraction petroleum / ’
+Lamp oil / Kerosene/Jet fuels / Kerosenes (including jet
+03/12/2022 EN (English US) 2/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+fuels) / Kerosine (petroleum); Straight run kerosine [A
+complex combination of hydrocarbons produced by the
+distillation of crude oil. It consists of hydrocarbons
+having carbon numbers predominantly in the range of
+C9 through C16 and boiling in the range of
+approximately 150°C to 290°C (320°F to 554°F).] / Navy
+Fuels JP-5
+
+Quartz Quartz (SiO2) / Silica, crystalline, quartz / Crystalline (CAS-No.) 14808-60-7 <5 Carc. 1A, H350
+silica, quartz / .alpha.-Quartz / Silica, crystalline, .alpha.- STOT SE 3, H335
+quartz / Crystalline silica in the form of quartz / Quartz, ’
+silica / Quartz (respirable fraction) / Silica dust / Silica, STOT RE 1, H372
+crystalline-.alpha.quartz / Silica, quartz / Silica, .alpha.-
+quartz / Silicon dioxide / Silica, crystalline / Quartz
+(crystalline silica) / Silica dust, crystalline / QUARTZ
+POWDER / Silica, crystalline (quartz)
+
+Full text of H-phrases: see section 16
+
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+by volume percentage (v/v%).
+
+SECTION 4: FIRST AID MEASURES
+
+4.1. Description of First-aid Measures
+
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+possible).
+
+Inhalation: When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty
+persists.
+
+Skin Contact: Remove contaminated clothing. Immediately drench affected area with water for at least 15 minutes. If exposed or
+concerned: Get medical advice/attention. Seek medical attention for thermal burns.
+
+Eye Contact: Rinse cautiously with water for at least 15 minutes. Remove contact lenses, if present and easy to do. Continue rinsing.
+Obtain medical attention if irritation develops or persists.
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain medical attention.
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+General: May cause cancer. Causes damage to organs through prolonged or repeated exposure. Risk of thermal burns on contact
+with molten product. Causes skin irritation.
+Inhalation: Toxic fumes may be generated from heating asphalt and may be harmful if inhaled. WARNING: irritating and toxic
+hydrogen sulfide gas may be present. Greater than 15-20ppm continuous exposure can cause mucous membrane and respiratory
+tract irritation. 50-500 ppm can cause headache, nausea, and dizziness. Continued exposure at these levels can lead to loss of
+reasoning and balance, difficulty in breathing, fluid in the lungs, and possible loss of consciousness. Greater than 500ppm can cause
+rapid unconsciousness and death if not promptly revived. Prolonged exposure may cause irritation. Repeated or prolonged exposure
+to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include progressively
+more difficult breathing, cough, fever, and weight loss.
+Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. May cause thermal burns.
+Eye Contact: May cause slight irritation to eyes. May cause thermal burns.
+Ingestion: Ingestion may cause adverse effects.
+Chronic Symptoms: May cause cancer. Causes damage to organs through prolonged or repeated exposure.
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+
+Suitable Extinguishing Media: Water spray, dry chemical, foam, carbon dioxide.
+
+Unsuitable Extinguishing Media: Do not use a heavy water stream. Use of heavy stream of water may spread fire.
+5.2. Special Hazards Arising From the Substance or Mixture
+
+Fire Hazard: Not considered flammable but may burn at high temperatures.
+
+Explosion Hazard: Product is not explosive.
+
+Reactivity: Hazardous reactions will not occur under normal conditions.
+
+03/12/2022 EN (English US) 3/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+5.3. Advice for Firefighters
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+Firefighting Instructions: Use water spray or fog for cooling exposed containers.
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Carbon dioxide, carbon monoxide, smoke, fumes, unburned hydrocarbons and oxides of sulfur.
+Hydrogen sulfide and other sulfur-containing gases can evolve from this product particularily at elevated temperatures.
+Other Information: Do not allow run-off from fire fighting to enter drains or water courses.
+5.4. Reference to Other Sections
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+General Measures: Do not handle until all safety precautions have been read and understood. Do not get in eyes, on skin, or on
+clothing. Do not breathe dust.
+
+6.1.1. For Non-Emergency Personnel
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+Emergency Procedures: Evacuate unnecessaryÿ personnel.
+
+6.1.2. For Emergency Personnel
+Protective Equipment: Equip cleanup crew with proper protection.
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Avoid release to the environment. Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+For Containment: Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams.
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling or
+sweeping. Transfer spilled material to a suitable container for disposal. Contact competent authorities after a spill. Vacuum clean-up
+is preferred. If sweeping is required use a dust suppressant.
+
+6.4. Reference to Other Sections
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+Additional Hazards When Processed: Cutting, crushing, sanding or grinding of crystalline silica-bearing materials will release
+respirable crystalline silica. Use all appropriate measures of dust control or suppression, and Personal Protective Equipment (PPE)
+described in Section 8 below. Heavy material - proper lifting methods or equipment. Hydrogen sulfide is a highly flammable,
+explosive gas under certain conditions, is a toxic gas, and may be fatal. Gas can accumulate in the headspace of closed containers,
+use caution when opening sealed containers. Heating the product or containers can cause thermal decomposition of the product
+and release hydrogen sulfide.
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Do not breathe dust. Avoid contact with eyes, skin and clothing. Wash hands and other exposed areas with mild soap
+and water before eating, drinking or smoking and when leaving work.
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+Technical Measures: Comply with applicable regulations.
+Storage Conditions: Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight,
+extremely high or low temperatures and incompatible materials. Store locked up/in a secure area.
+Incompatible Materials: Strong acids, strong bases, strong oxidizers. Fluorine.
+Storage Temperature: Unlimited
+
+7.3. Specific End Use(s)
+Cold patch is utilized as a construction material used for repairing asphalt base, intermediate and surface course pavements,
+driveways, parking lots, and other pavement applications.
+
+03/12/2022 EN (English US) a/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+8.1. Control Parameters
+
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+Asphalt (8052-42-4)
+
+USA ACGIH ACGIH OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+USA ACGIH ACGIH chemical category | Not Classifiable as a Human Carcinogen fume, coal tar-free
+
+USA ACGIH BEI (BLV) 2.5 ug/l Parameter: 1-Hydroxypyrene with hydrolysis - Medium: urine -
+Sampling time: end of shift at end of workweek (background)
+Parameter: 3-Hydroxybenzo(a)pyrene with hydrolysis - Medium: urine -
+Sampling time: end of shift at end of workweek (nonquantitative)
+
+USA NIOSH NIOSH REL (Ceiling) 5 mg/m* (fume)
+
+Alberta OEL TWA 5 mg/mi (Petroleum-fume)
+
+British Columbia OEL TWA 0.5 mg/m* (inhalable fume)
+
+Manitoba OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+New Brunswick OEL TWA 5 mg/mi (petroleum fumes)
+
+Newfoundland & Labrador | OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Nova Scotia OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Nunavut OELSTEL 1.5 mg/m$ (Bitumen-fume)
+
+Nunavut OEL TWA 0.5 mg/m* (Bitumen-fume)
+
+Northwest Territories OELSTEL 1.5 mg/mé (Bitumen-fume)
+
+Northwest Territories OEL TWA 0.5 mg/m* (Bitumen-fume)
+
+Ontario OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Prince Edward Island OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Québec VEMP (OEL TWA) 5 mg/m (fume)
+
+Saskatchewan OEL STEL 1.5 mg/m$ (fume and inhalable fraction)
+
+Saskatchewan OEL TWA 0.5 mg/mf (fume and inhalable fraction)
+
+Yukon OEL STEL 10 mg/m* (fume)
+
+Yukon OEL TWA 5 mg/m (fume)
+
+Fuel oil, no. 2 (68476-30-2)
+
+USA ACGIH ACGIH OEL TWA 100 mg/m* (inhalable fraction and vapor (Diesel fuel)
+
+USA ACGIH ACGIH chemical category | Confirmed Animal Carcinogen with Unknown Relevance to Humans,Skin -
+potential significant contribution to overall exposure by the cutaneous
+route
+
+Alberta OEL TWA 100 mg/m° (Diesel fuel)
+
+British Columbia OEL TWA 100 mg/m* (inhalable; inhalable aerosol and vapour (Diesel fuel)
+
+Manitoba OEL TWA 100 mg/m* (inhalable fraction and vapor (Diesel fuel)
+
+Newfoundland & Labrador | OELTWA 100 mg/m* (inhalable fraction and vapor (Diesel fuel)
+
+Nova Scotia OEL TWA 100 mg/m* (inhalable fraction and vapor (Diesel fuel)
+
+Nunavut OELSTEL 150 mg/m* (vapour (Diesel fuel)
+
+Nunavut OEL TWA 100 mg/m* (vapour (Diesel fuel)
+
+Northwest Territories OELSTEL 150 mg/m* (vapour (Diesel fuel)
+
+Northwest Territories OEL TWA 100 mg/m* (vapour (Diesel fuel)
+
+Ontario OEL TWA 100 mg/m* (inhalable fraction and vapor (Diesel fuel)
+
+Prince Edward Island OEL TWA 100 mg/m* (inhalable fraction and vapor (Diesel fuel)
+
+Saskatchewan OELSTEL 150 mg/m* (vapour (Diesel fuel)
+
+Saskatchewan OEL TWA 100 mg/m* (vapour (Diesel fuel)
+
+Kerosine, petroleum (8008-20-6)
+
+03/12/2022 EN (English US) 5/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+USA ACGIH ACGIH OEL TWA 200 mg/m (application restricted to conditions in which there are
+negligible aerosol exposures-total hydrocarbon vapor (Kerosene/Jet
+fuels)
+
+USA ACGIH ACGIH chemical category | Confirmed Animal Carcinogen with Unknown Relevance to Humans,Skin -
+potential significant contribution to overall exposure by the cutaneous
+route
+
+USA NIOSH NIOSH REL (TWA) 100 mg/m°
+
+Alberta OEL TWA 200 mg/m°
+
+British Columbia OEL TWA 200 mg/m (application restricted to conditions in which there are
+negligible aerosol exposures)
+
+Manitoba OEL TWA 200 mg/m (application restricted to conditions in which there are
+negligible aerosol exposures-total Hydrocarbon vapor (Kerosene/Jet
+fuels)
+
+Newfoundland & Labrador | OEL TWA 200 mg/m (application restricted to conditions in which there are
+negligible aerosol exposures-total Hydrocarbon vapor (Kerosene/Jet
+fuels)
+
+Nova Scotia OEL TWA 200 mg/m (application restricted to conditions in which there are
+negligible aerosol exposures-total Hydrocarbon vapor (Kerosene/Jet
+fuels)
+
+Nunavut OELSTEL 250 mg/m° (Kerosene/Jet fuels)
+
+Nunavut OEL TWA 200 mg/m (Kerosene/Jet fuels)
+
+Northwest Territories OELSTEL 250 mg/m° (Kerosene/Jet fuels)
+
+Northwest Territories OEL TWA 200 mg/m (Kerosene/Jet fuels)
+
+Ontario OEL TWA 200 mg/mÂ (restricted to conditions where there is negligible aerosol
+exposure (Kerosene/Jet fuels)
+
+Prince Edward Island OEL TWA 200 mg/m (application restricted to conditions in which there are
+negligible aerosol exposures-total Hydrocarbon vapor (Kerosene/Jet
+fuels)
+
+Saskatchewan OEL STEL 250 mg/m°
+
+Saskatchewan OEL TWA 200 mg/m°
+
+Quartz (14808-60-7)
+
+USA ACGIH ACGIH OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | A2 - Suspected Human Carcinogen
+
+USA OSHA OSHA PEL (TWA) [1] 50 Ug/mi (Respirable crystalline silica)
+
+USA OSHA OSHA PEL (TWA) [2] (250)/(%SiO02+5) mppcf TWA (respirable fraction)
+
+(10)/(%SiO2+2) mg/m°$ TWA (respirable fraction)
+
+(For any operations or sectors for which the respirable crystalline silica
+standard, 1910.1053, is stayed or otherwise not in effect, See 20 CFR
+1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL (TWA) 0.05 mg/m* (respirable dust)
+
+USA IDLH IDLH 50 mg/m* (respirable dust)
+
+Alberta OEL TWA 0.025 mg/m* (respirable particulate)
+
+British Columbia OEL TWA 0.025 mg/m* (respirable)
+
+Manitoba OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+New Brunswick OEL TWA 0.1 mg/mi (respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nova Scotia OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nunavut OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Northwest Territories OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Ontario OEL TWA 0.1 mg/mi (designated substances regulation-respirable fraction (Silica,
+crystalline)
+
+Prince Edward Island OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+03/12/2022 EN (English US) 6/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Québec VEMP (OEL TWA) 0.1 mg/mi (respirable dust)
+Saskatchewan OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline (Trydimite removed))
+Yukon OEL TWA 300 particle/mL (Silica - Quartz, crystalline)
+
+8.2. Exposure Controls
+Appropriate Engineering Controls: Emergency eye wash fountains and safety showers should be available in the immediate vicinity
+of any potential exposure. Ensure adequate ventilation, especially in confined areas. Gas detectors should be used when toxic gases
+may be released. Ensure all national/local regulations are observed.
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Insufficient ventilation: wear respiratory protection.
+
+Materials for Protective Clothing: Chemically resistant materials and fabrics.
+Hand Protection: Wear protective gloves.
+Eye and Face Protection: Chemical safety goggles.
+Skin and Body Protection: Wear suitable protective clothing.
+Respiratory Protection: Wear a NIOSH approved respirator that is properly fitted and is in good condition when exposed to dust
+above exposure limits. If exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+protection.
+Thermal Hazard Protection: If material is hot, wear thermally resistant protective gloves.
+Other Information: When using, do not eat, drink or smoke.
+
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+
+9.1. Information on Basic Physical and Chemical Properties
+
+Physical State : Solid
+
+Appearance : Black Granular Solid
+Odor : _ Slight Petroleum Odor
+Odor Threshold : Not available
+
+pH : Not available
+Evaporation Rate : Not available
+Melting Point : Not available
+Freezing Point : Not available
+Boiling Point : Not available
+
+Flash Point : Not available
+Auto-ignition Temperature : Not available
+Decomposition Temperature : Not available
+Flammability (solid, gas) : Not available
+Lower Flammable Limit : Not available
+Upper Flammable Limit : Not available
+Vapor Pressure : Not available
+Relative Vapor Density at 20°C : Not available
+Relative Density : Not available
+Specific Gravity : Not available
+Solubility : Water: Insoluble in water
+Partition Coefficient: N-Octanol/Water : Not available
+Viscosity : Not available
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:  Hazardous reactions will not occur under normal conditions.
+10.2. Chemical Stability: Stable under recommended handling and storage conditions (see section 7).
+10.3. Possibility of Hazardous Reactions:  Hazardous polymerization will not occur.
+
+03/12/2022 EN (English US) 7/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+10.4. Conditions to Avoid: Direct sunlight, extremely high or low temperatures, and incompatible materials.
+
+10.5. Incompatible Materials: Strong acids, strong bases, strong oxidizers. Fluorine.
+
+10.6. Hazardous Decomposition Products: Thermal decomposition may produce: Carbon dioxide, carbon monoxide, smoke,
+fumes, unburned hydrocarbons and oxides of sulfur and/or nitrogen. Hydrogen sulfide and other sulfur-containing gases can evolve
+from this product particularly at elevated temperatures.
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+11.1. Information on Toxicological Effects - Product
+Acute Toxicity (Oral): Not classified
+Acute Toxicity (Dermal): Not classified
+Acute Toxicity (Inhalation): Not classified
+
+LD50 and LC50 Data: Not available
+
+Skin Corrosion/irritation: Causes skin irritation.
+
+Eye Damage/irritation: Not classified
+
+Respiratory or Skin Sensitization: Not classified
+
+Germ Cell Mutagenicity: Not classified
+
+Carcinogenicity: May cause cancer (Inhalation).
+
+Specific Target Organ Toxicity (Repeated Exposure): Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+
+Reproductive Toxicity: Not classified
+
+Specific Target Organ Toxicity (Single Exposure): Not classified
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Toxic fumes may be generated from heating asphalt and may be harmful if inhaled. WARNING:
+irritating and toxic hydrogen sulfide gas may be present. Greater than 15-20ppm continuous exposure can cause mucous membrane
+and respiratory tract irritation. 50-500 ppm can cause headache, nausea, and dizziness. Continued exposure at these levels can lead
+to loss of reasoning and balance, difficulty in breathing, fluid in the lungs, and possible loss of consciousness. Greater than 500ppm
+can cause rapid unconsciousness and death if not promptly revived. Prolonged exposure may causeirritation. Repeated or prolonged
+exposure to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include
+progressively more difficult breathing, cough, fever, and weight loss.
+
+Symptoms/Injuries After Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. May cause thermal burns.
+Symptoms/Injuries After Eye Contact: May cause slight irritation to eyes. May cause thermal burns.
+
+Symptoms/Injuries After Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: May cause cancer. Causes damage to organs through prolonged or repeated exposure.
+
+11.2. Information on Toxicological Effects - Ingredient(s)
+
+LD50 and LC50 Data:
+Asphalt (8052-42-4)
+LD50 Oral Rat > 5000 mg/kg
+LD50 Dermal Rabbit > 2000 mg/kg
+LC50 inhalation Rat > 94.4 mg/m°
+Fuel oil, no. 2 (68476-30-2)
+LD50 Oral Rat 12 g/kg
+LD50 Dermal Rabbit 4720 Ul/kg
+LC50 Inhalation Rat 4.6 mg/1/4h
+Kerosine, petroleum (8008-20-6)
+LD50 Oral Rat > 5000 mg/kg
+LD50 Dermal Rabbit > 2000 mg/kg
+LC50 Inhalation Rat > 5.28 mg/I/4h
+Quartz (14808-60-7)
+LD50 Oral Rat > 5000 mg/kg
+LD50 Dermal Rat > 5000 mg/kg
+Asphalt (8052-42-4)
+
+03/12/2022 EN (English US) 8/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+IARC Group 2A, 2B
+
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+Quartz (14808-60-7)
+
+IARC Group 1
+
+National Toxicology Program (NTP) Status Known Human Carcinogens.
+
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+12.1. Toxicity
+Ecology - General: Harmful to aquatic life with long lasting effects.
+
+Fuel oil, no. 2 (68476-30-2)
+
+LC50 Fish 1 35 mg/l (Exposure time: 96 h - Species: Pimephales promelas [flow-through])
+Kerosine, petroleum (8008-20-6)
+
+LC50 Fish 1 2(2-5) mg/kg (Exposure time: 96 h - Species: Oncorhynchus mykiss [semi-static])
+NOEC Chronic Fish 0.098 mg/I (PETROTOX, Klimmish score: 2)
+
+12.2. Persistence and Degradability
+
+Cold Patch Asphalt
+Persistence and Degradability May cause long-term adverse effects in the environment.
+
+12.3. Bioaccumulative Potential
+
+Cold Patch Asphalt
+
+Bioaccumulative Potential Not established.
+Asphalt (8052-42-4)
+BCF Fish 1 (no bioaccumulation expected)
+Partition coefficient n-octanol/water > 6
+(Log Pow)
+12.4. Mobility in Soil Not available
+
+12.5. Other Adverse Effects
+Other Information: Avoid release to the environment.
+
+SECTION 13: DISPOSAL CONSIDERATIONS
+
+13.1. Waste treatment methods
+
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, territorial, provincial,
+and international regulations.
+
+Ecology - Waste Materials: This material is hazardous to the aquatic environment. Keep out of sewers and waterways. Avoid release
+to the environment.
+
+SECTION 14: TRANSPORT INFORMATION
+
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+
+14.1. In Accordance with DOT Not regulated for transport
+14.2. In Accordance with IMDG Not regulated for transport
+14.3. In Accordance with IATA Not regulated for transport
+14.4. In Accordance with TDG Not regulated for transport
+
+SECTION 15: REGULATORY INFORMATION
+
+15.1. US Federal Regulations
+
+Cold Patch Asphalt
+
+SARA Section 311/312 Hazard Classes | Health hazard - Specific target organ toxicity (single or repeated exposure)
+Health hazard - Carcinogenicity
+Health hazard - Skin corrosion or Irritation
+
+Asphalt (8052-42-4)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+03/12/2022 EN (English US) 9/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Fuel oil, no. 2 (68476-30-2)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Kerosine, petroleum (8008-20-6)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Quartz (14808-60-7)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+15.2. US State Regulations
+
+California Proposition 65
+WARNING: This product can expose you to Bitumens, extracts of steam-refined and air refined, which is known to the
+State of California to cause cancer. For more information go to www.P65Warnings.ca.gov.
+
+Chemical Name (CAS No.) Carcinogenicity | Developmental Female Male
+Toxicity Reproductive Reproductive
+Toxicity Toxicity
+Bitumens, extracts of steam-refined and air X
+refined
+Quartz (14808-60-7) X
+
+Asphalt (8052-42-4)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Kerosine, petroleum (8008-20-6)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Quartz (14808-60-7)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+15.3. Canadian Regulations
+
+Asphalt (8052-42-4)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Fuel oil, no. 2 (68476-30-2)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Kerosine, petroleum (8008-20-6)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Quartz (14808-60-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+Date of Preparation or Latest : 03/12/2022
+Revision
+Other Information : _ This document has been prepared in accordance with the SDS requirements of the OSHA
+
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+GHS Full Text Phrases:
+
+Acute Tox. 4 (Inhalation:dust,mist) | Acute toxicity (inhalation:dust,mist) Category 4
+
+Aquatic Acute 2 Hazardous to the aquatic environment - Acute Hazard Category 2
+Aquatic Acute 3 Hazardous to the aquatic environment - Acute Hazard Category 3
+Aquatic Chronic 2 Hazardous to the aquatic environment - Chronic Hazard Category 2
+Aquatic Chronic 3 Hazardous to the aquatic environment - Chronic Hazard Category 3
+
+03/12/2022 EN (English US) 10/11
+Cold Patch Asphalt
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26,
+
+2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Asp. Tox. 1 Aspiration hazard Category 1
+
+Carc. 1A Carcinogenicity Category 1A
+
+Carc. 2 Carcinogenicity Category 2
+
+Flam. Liq. 3 Flammable liquids Category 3
+
+Skin Irrit. 2 Skin corrosion/irritation Category 2
+
+STOTRE 1 Specific target organ toxicity (repeated exposure) Category 1
+STOTRE 2 Specific target organ toxicity (repeated exposure) Category 2
+
+STOT SE 3 Specific target organ toxicity — Single exposure, Category 3, Narcosis
+STOT SE 3 Specific target organ toxicity — Single exposure, Category 3, Respiratory tract irritation
+H226 Flammable liquid and vapor
+
+H304 May be fatal if swallowed and enters airways
+
+H315 Causes skin irritation
+
+H332 Harmful if inhaled
+
+H335 May cause respiratory irritation
+
+H336 May cause drowsiness or dizziness
+
+H350 May cause cancer
+
+H351 Suspected of causing cancer
+
+H372 Causes damage to organs through prolonged or repeated exposure
+H373 May cause damage to organs through prolonged or repeated exposure
+H401 Toxic to aquatic life
+
+H402 Harmful to aquatic life
+
+H411 Toxic to aquatic life with long lasting effects
+
+H412 Harmful to aquatic life with long lasting effects
+
+Indication of Changes
+
+Section
+
+Change
+
+Date Changed Version
+
+1
+
+Modified responsible 03/12/2022 3.1
+party information, logo
+& emergency telephone
+
+number
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+accuracy and assumes no liability in connection with the use of the information contained herein which is not intended to be and
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+this product should review all such laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+
+Provincial and State regulations.
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR À PARTICULAR PURPOSE, OR OTHERWISE.
+
+NA GHS SDS 2015 (Can, US)
+
+03/12/2022
+
+EN (English US) 11/11
+

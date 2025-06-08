@@ -1,0 +1,119 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "05/29/2015",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Cold Patch Asphalt",
+    "synonyms": [
+      "Cold Asphalt Paving Material",
+      "Cold Mix Asphalt",
+      "Cold Mix Asphaltic Concrete",
+      "Hot Mix Cold Lay Asphalt"
+    ],
+    "intended_use": "Cold patch is utilized as a construction material used for repairing asphalt base, intermediate and surface course pavements, driveways, parking lots, and other pavement applications.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us",
+      "emergency_phone": "1-800-255-3924"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "dot": "Not regulated for transport",
+      "imdg": "Not regulated for transport",
+      "iata": "Not regulated for transport",
+      "tdg": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations.",
+    "ecology_waste_materials": "This material is hazardous to the aquatic environment. Keep out of sewers and waterways. Avoid release to the environment."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Carc. 1A H350",
+        "STOTRE 1 H372",
+        "Aquatic Acute 3 H402",
+        "Aquatic Chronic 3 H412"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H315 - Causes skin irritation.",
+          "H350 - May cause cancer (inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation).",
+          "H402 - Harmful to aquatic life.",
+          "H412 - Harmful to aquatic life with long lasting effects."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust, fume.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P273 - Avoid release to the environment.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P302+P352 - IF ON SKIN: Wash with plenty of water.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P321 - Specific treatment (see section 4 on this SDS).",
+          "P332+P313 - If skin irritation occurs: Get medical advice/attention.",
+          "P362+P364 - Take off contaminated clothing and wash it before reuse.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      }
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Aggregates",
+          "synonyms": "Crushed stone / Sand / Gravel / Slag",
+          "cas_no": "Not applicable",
+          "percentage": "90-95",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Asphalt",
+          "synonyms": "Asphalt (petroleum) / Bitumens / Bitumen / Bituminous asphalt",
+          "cas_no": "8052-42-4",
+          "percentage": "<10",
+          "classification": "Carc. 2, H351"
+        },
+        {
+          "name": "Fuel oil, no. 2",
+          "synonyms": "Fuel oil No. 2 / Fuel oil, No. 2 / No. 2 Fuel oil",
+          "cas_no": "68476-30-2",
+          "percentage": "<5",
+          "classification": "Flam. Liq. 3, H226; Acute Tox. 4 (Inhalation:dust,mist), H332; Skin Irrit. 2, H315; Carc. 2, H351; STOT RE 2, H373; Asp. Tox. 1, H304; Aquatic Acute 3, H402; Aquatic Chronic 2, H411"
+        },
+        {
+          "name": "Kerosine, petroleum",
+          "synonyms": "Kerosene / Kerosine / Kerosine (petroleum)",
+          "cas_no": "8008-20-6",
+          "percentage": "<5",
+          "classification": "Flam. Liq. 3, H226; Skin Irrit. 2, H315; STOT SE 3, H336; Asp. Tox. 1, H304; Aquatic Acute 2, H401; Aquatic Chronic 2, H411"
+        },
+        {
+          "name": "Quartz",
+          "synonyms": "Quartz (SiO2) / Silica, crystalline, quartz",
+          "cas_no": "14808-60-7",
+          "percentage": "<5",
+          "classification": "Carc. 1A, H350; STOT SE 3, H335; STOT RE 1, H372"
+        }
+      ]
+    }
+  }
+}

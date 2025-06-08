@@ -1,0 +1,134 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US), Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact_person": "Sonia Gagnon",
+    "contact_email": "sonia.gagnon@holcim.com",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 180",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "02/26/2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement",
+    "reference_year": "2019"
+  },
+  "product_description": {
+    "facility_name": "Holcim (US), Ada Plant",
+    "facility_address": "14500 County Road 1550, Ada, OK 74820",
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_types": [
+      "Portland Cement Type I",
+      "Portland Cement Type II",
+      "Portland Cement Type I/II Low Alkali",
+      "Blended Cement Type IL",
+      "Masonry Cement Type S",
+      "Masonry Cement Type N"
+    ],
+    "product_applicability": "Portland cement is the basic ingredient of concrete.",
+    "applicable_standards": [
+      "ASTM C150 / C150M - 20",
+      "ASTM C595 / C595M - 20",
+      "ASTM C91 / C91M - 18",
+      "ASTM C1157 / C1157M - 20",
+      "AASHTO M 85-20"
+    ],
+    "product_composition": {
+      "Portland Type I/II": {
+        "Clinker": "91%",
+        "Gypsum": "5%",
+        "Limestone": "4%",
+        "Other": "<1%"
+      },
+      "Portland Type I/II Low Alkali": {
+        "Clinker": "90%",
+        "Gypsum": "6%",
+        "Limestone": "4%",
+        "Other": "<1%"
+      },
+      "Portland Type I": {
+        "Clinker": "91%",
+        "Gypsum": "5%",
+        "Limestone": "4%",
+        "Other": "<1%"
+      },
+      "Blended Type IL": {
+        "Clinker": "85%",
+        "Gypsum": "6%",
+        "Limestone": "9%",
+        "Other": "<1%"
+      },
+      "Masonry Type S": {
+        "Clinker": "60%",
+        "Gypsum": "3%",
+        "Limestone": "37%",
+        "Other": "<1%"
+      },
+      "Masonry Type N": {
+        "Clinker": "43%",
+        "Gypsum": "3%",
+        "Limestone": "54%",
+        "Other": "<1%"
+      }
+    }
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "modules_covered": "A1-A3",
+    "cut_off_criteria": "NSF PCR, Section 7.1.8 and ISO 21930, 7.1.8",
+    "allocation_rules": "ISO 14044 Clause 4.3.4, NSF PCR, ISO 21930 section 7.2",
+    "data_quality_requirements": {
+      "technology_coverage": "High",
+      "geographic_coverage": "U.S.",
+      "time_coverage": "2019",
+      "completeness": "All relevant processes considered",
+      "consistency": "High level of consistency maintained",
+      "reproducibility": "Internal reproducibility possible"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II": "1,178 kg CO2 eq",
+      "Portland Type I/II Low Alkali": "1,172 kg CO2 eq",
+      "Portland Type I": "1,174 kg CO2 eq",
+      "Blended Type IL": "1,120 kg CO2 eq",
+      "Masonry Type S": "804 kg CO2 eq",
+      "Masonry Type N": "595 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type I/II": "476 kg CO2 eq",
+      "Portland Type I/II Low Alkali": "472 kg CO2 eq",
+      "Portland Type I": "476 kg CO2 eq",
+      "Blended Type IL": "448 kg CO2 eq",
+      "Masonry Type S": "314 kg CO2 eq",
+      "Masonry Type N": "228 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": {
+      "Portland Type I/II": "17 kg",
+      "Portland Type I/II Low Alkali": "17 kg",
+      "Portland Type I": "17 kg",
+      "Blended Type IL": "16 kg",
+      "Masonry Type S": "11 kg",
+      "Masonry Type N": "8 kg"
+    },
+    "materials_for_recycling": {
+      "Portland Type I/II": "51.4 kg",
+      "Portland Type I/II Low Alkali": "50.9 kg",
+      "Portland Type I": "51.4 kg",
+      "Blended Type IL": "48.4 kg",
+      "Masonry Type S": "33.9 kg",
+      "Masonry Type N": "24.6 kg"
+    }
+  },
+  "additional_info": {
+    "sustainability_commitment": "The Ada plant co-processes waste by recovering energy from scrap tires.",
+    "environmental_protection": "Holcim (US) complies with EPA regulations and monitors emissions.",
+    "air_pollution_abatement": "High and low temperature baghouses, precipitator, SNCR, and activated carbon injection."
+  }
+}

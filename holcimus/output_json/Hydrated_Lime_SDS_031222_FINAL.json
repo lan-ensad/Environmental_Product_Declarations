@@ -1,0 +1,130 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "12/15/2014",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Hydrated Lime",
+    "synonyms": [
+      "Calcium Dihydroxide",
+      "Calcium Hydroxide",
+      "Calcium Magnesium Hydroxide",
+      "Caustic Lime",
+      "Dolomitic Hydrated Lime",
+      "Lafarge Hydrated Lime",
+      "Lime",
+      "Lime Hydrate",
+      "Slaked Lime",
+      "Type N Lime",
+      "Type S Lime"
+    ],
+    "intended_use": "Hydrated lime is used as an additive for mortar, cement, concrete and concrete products. It is also used in soil stabilization, as an anti-stripping agent in asphalt, for pH adjustment, and in other products that are widely used in construction.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us",
+      "emergency_phone": "1-800-255-3924"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "dot": "Not regulated for transport",
+      "imdg": "Not regulated for transport",
+      "iata": "Not regulated for transport",
+      "tdg": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Eye Dam. 1 H318",
+        "Carc. 1A H350",
+        "STOT SE 3 H335"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H315 - Causes skin irritation.",
+          "H318 - Causes serious eye damage.",
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P261 - Avoid breathing dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Calcium hydroxide",
+          "cas_no": "1305-62-0",
+          "percentage": "50-95",
+          "classification": [
+            "Skin irrit. 2, H315",
+            "Eye Dam. 1, H318",
+            "STOT SE 3, H335"
+          ]
+        },
+        {
+          "name": "Magnesium hydroxide",
+          "cas_no": "1309-42-8",
+          "percentage": "<50",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Magnesium oxide",
+          "cas_no": "1309-48-4",
+          "percentage": "<5",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Calcium oxide",
+          "cas_no": "1305-78-8",
+          "percentage": "<5",
+          "classification": [
+            "Skin Irrit. 2, H315",
+            "Eye Dam. 1, H318",
+            "STOT SE 3, H335",
+            "Aquatic Acute 3, H402",
+            "Aquatic Chronic 3, H412"
+          ]
+        },
+        {
+          "name": "Limestone",
+          "cas_no": "1317-65-3",
+          "percentage": "<3",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Quartz",
+          "cas_no": "14808-60-7",
+          "percentage": "<1",
+          "classification": [
+            "Carc. 1A, H350",
+            "STOT SE 3, H335",
+            "STOT RE 1, H372"
+          ]
+        }
+      ]
+    }
+  }
+}

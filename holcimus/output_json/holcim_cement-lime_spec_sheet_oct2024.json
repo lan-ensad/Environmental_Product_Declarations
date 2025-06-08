@@ -1,0 +1,55 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim (US) Inc.",
+    "address": "8700 Bryn Mawr Avenue, Chicago, IL 60631",
+    "phone": "(888) 646-5246",
+    "email": "ask@holcim.com",
+    "website": "www.holcim.us",
+    "update_date": "10.2024"
+  },
+  "product_description": {
+    "product_name": "Cement-Lime blends",
+    "usage": "Pre-measured mixtures of cement and hydrated lime for masonry mortars in brick, block, and stone masonry units.",
+    "composition": "Combination of cement and Type S hydrated mason's lime.",
+    "types": {
+      "Type N": "General purpose light construction, such as above-grade walls and stucco.",
+      "Type S": "Construction with strong lateral and compressive forces, commercial construction, stone masonry, and exterior stucco.",
+      "Type M": "Foundations, manholes, and extreme moisture and freeze-thaw environments."
+    },
+    "sizes": {
+      "Type N": "32 kilogram (70.5 pound)",
+      "Type S": "34 kilogram (75 pound)",
+      "Type M": "36 kilogram (79.4 pound)"
+    },
+    "colors": "Gray, with pigmented options available."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "installation": {
+      "preparatory_work": "Mix according to ASTM C270. Machine mixing recommended.",
+      "batching_sequence": "Add 3/4 mix water, 1/2 sand, 1 bag Cement-Lime, rest of sand, and remaining water.",
+      "mixing_time": "3-5 minutes after all materials are in the mixer."
+    },
+    "precautions": [
+      "Do not change sand sources or mixture proportions.",
+      "Avoid other additives or admixtures.",
+      "Tool joints uniformly.",
+      "Avoid excessive re-tempering.",
+      "Protect masonry units from weather.",
+      "Avoid acid-based cleaning solutions.",
+      "Erect a job-specific sample panel."
+    ],
+    "safety_precautions": "Consult Safety Data Sheet (SDS). Avoid skin contact. Flush eyes with water if contact occurs. Use proper PPE.",
+    "storage_and_handling": "Store above ground on pallets, cover with tarps, avoid direct contact with walls, allow air circulation."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "availability": "Regionally available. Contact nearest sales office.",
+    "cost": "Pricing information available from nearest sales office.",
+    "warranty": "Material Certification Reports available upon request. No guarantee on finish work.",
+    "technical_services": "Contact nearest sales office or Technical Services Engineer.",
+    "filing_systems": "Additional product information available from the manufacturer."
+  }
+}

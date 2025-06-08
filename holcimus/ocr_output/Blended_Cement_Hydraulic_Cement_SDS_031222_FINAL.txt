@@ -1,0 +1,1030 @@
+Blended Cement
+
+Ca H O LC I M Safety Data Sheet
+QG According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 04/21/2015 Supersedes Date: 07/28/2021 Version: 3.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+Product Form: Mixture
+Product Name: Blended Cement
+Synonyms: API Class L well cement; Blended Cement (ASTM C595 & AASHTO M240) Types [P, IS, IT and IL; ENVIROBASE"";
+ENVIROCORES®:; ENVIROSET®; FortiCem®; FortiMax""; FortiPave®; Hydraulic Cement (ASTM C1157) Types GU, HE, MS, HS, MH, LH;
+Lightweight Well Cement Types IS, IP, IT, GUb, HEb, MSb, HSb, MHb, LHb, GULb, MSLb, MHLb, HELb, HSLb; LowDense’""; MaxCemf;
+NewCem® Plus; NewCem® Slag Cement; OneCem®; SF" Cement; Silica Fume Cement; TerCem 3000%; TerraCem""; TerraFlow'"
+1.2. Intended Use of the Product
+Cement is used as a binder in concrete and mortars that are widely used in construction. Cement is distributed in bags, totes and
+bulk shipment.
+1.3. Name, Address, and Telephone of the Responsible Party
+Company
+Holcim US
+8700 West Bryn Mawr Avenue, Suite 300
+Chicago, IL 60631
+Information: (888) 646-5246 (9am to 5pm CST)
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number _: ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+
+Skin Irrit. 2 H315
+Eye Dam. 1 H318
+Skin Sens. 1 H317
+Carc. 1A H350
+STOT SE 3 H335
+STOT RE 1 H372
+
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+GHS-US/CA Labeling
+
+Hazard Pictograms (GHS-US/CA)
+
+GHSO5 GHSO7 GHSO8
+Signal Word (GHS-US/CA) : Danger
+Hazard Statements (GHS-US/CA) : H315 - Causes skinirritation.
+H317 - May cause an allergic skin reaction.
+H318 - Causes serious eye damage.
+H335 - May cause respiratoryirritation.
+H350 - May cause cancer (inhalation).
+H372 - Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+
+03/12/2022 EN (English US) 1/13
+Blended Cement
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+P260 - Do not breathe dust.
+P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.
+P270 - Do not eat, drink or smoke when using this product.
+P271 - Use only outdoors or in a well-ventilated area.
+P272 - Contaminated work clothing should not be allowed out of the workplace.
+P280 - Wear protective gloves, protective clothing, and eye protection.
+P302+P352 -IF ON SKIN: Wash with plenty of water.
+P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for
+breathing.
+P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+P310 - Immediately call a POISON CENTER or doctor.
+P314 - Get medical advice/attention if you feel unwell.
+P321 - Specific treatment (see section 4 on this SDS).
+P333+P313 - If skin irritation or rash occurs: Get medical advice/attention.
+P362+P364 - Take off contaminated clothing and wash it before reuse.
+P403+P233 - Store in a well-ventilated place. Keep container tightly closed.
+P405 - Store locked up.
+P501 - Dispose of contents/container in accordance with local, regional, national,
+territorial, provincial, and international regulations.
+
+2.3. Other Hazards
+
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne)
+crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include progressively more difficult breathing,
+cough, fever, and weight loss.
+
+2.4. Unknown Acute Toxicity (GHS-US/CA)
+
+No data available
+
+3.1. Substance
+
+Not applicable
+
+3.2. Mixture
+
+Name Synonyms Product Identifier % * GHS Ingredient
+Classification
+
+Cement, portland, Portland cement / Silicate, portland cement / (CAS-No.) 65997-15- | 5 — Skin Irrit. 2, H315
+
+chemicals Cement kiln dust / Cement Portland 1 95 Eye Dam. 1, H318
+
+Skin Sens. 1, H317
+STOT SE 3, H335
+Slags, ferrous metal, | Slags, ferrous metal, blast furnace (The fused (CAS-No.) 65996-69- | < 95 Not classified
+blast furnace substance formed by the action of a flux upon the 2
+gangue of the iron-bearing materials charged to a
+blast furnace and upon the oxidized impurities in the
+iron produced. Depending upon the particular blast
+furnace operation, the slag is composed primarily of
+sulfur and oxides of aluminum, calcium, magnesium,
+
+and silicon.)
+Ashes, residues Ceramic microspheres / Coal ash by-product / (CAS-No.) 68131-74- | <40 Not classified
+Furnace residues / Oil ash, by-product / Ashes / 8
+
+Bottom ash / Ash / Coal fly ash / Fly ash / Coal ash /
+Ash coals Podmoskovny, Pechorsky, Kuznetsky,
+Donetsk, Ekibastuzsky, brand B1 of Babaevsky and
+Tyulgansky deposits / Ashes from fluidized bed
+combustion / Ashes, residues (The residuum from
+the burning of a combination of carbonaceous
+materials. The following elements may be present as
+oxides: aluminum, calcium, iron, magnesium, nickel,
+phosphorus, potassium, silicon, sulfur, titanium, and
+vanadium.) / Ashes (residues), coal
+
+03/12/2022 EN (English US) 2/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Limestone Chalk / Limestone (A noncombustible solid (CAS-No.) 1317-65-3 | < 30 Not classified
+characteristic of sedimentary rock. It consists
+
+primarily of calcium carbonate.) / Natural calcium
+carbonate / Marble / Calcium carbonate / Limestone
+(sedimentary rock) / Calcite / Limestone ground /
+Acetate, 4-methyl-2-propyl-2H-tetrahydropyran-4-yl
+/ Ground limestone
+
+Kaolin Clay (CAS-No.) 1332-58-7 | < 20 Not classified
+
+Gypsum Gypsum (CAS-No.) 13397-24- | 1— Not classified
+
+(Ca(SO4).2H20) 5 10
+
+Fumes, silica Silica fume (amorphous) / Fumes, silica (Amorphous | (CAS-No.) 69012-64- | <10 | Not classified
+silicon dioxide particles from the volatilization and 2
+
+vaporization of furnace feed materials in the
+manufacture of ferrosilicon and silicon.) / Silica,
+amorphous fume / Silica, fume
+
+Quartz Quartz (SiO2) / Silica, crystalline, quartz / Crystalline (CAS-No.) 14808-60- | < 10 Carc. 14, H350
+silica, quartz / .alpha.-Quartz / Silica, crystalline, 7 STOT SE 3, H335
+.alpha.-quartz / Crystalline silica in the form of quartz ’
+
+/ Quartz, silica / Quartz (respirable fraction) / Silica STOTRE 1, H372
+dust / Silica, quartz / Silica, .alpha.-quartz / Silicon
+dioxide / Silica, crystalline / Quartz (crystalline silica)
+/ Silica dust, crystalline / Quartz powder
+
+Flue dust, portland | Portland cement (dust) / Flue dust, portland cement | (CAS-No.) 68475-76- | < 10 Skin Irrit. 2, H315
+cement (A complex combination of finely divided inorganic 3 Eye Dam. 1, H318
+particles separated from the exit gases formed .
+during the manufacture of Portland cement. The flue Skin Sens. 1, H317
+dust consists of uncalcined raw materials along with STOT SE 3, H335
+partially calcined materials. Some Portland cement
+clinker is usually included. The major constituents of
+kiln dust are calcium carbonate, clays, shales, quartz
+and sulfate salts. The following materials may also
+be present: Dolomite; Feldspars; Fly ash; Iron oxides;
+CaF2; CaO; Glasses of SiO2, AI203 and Fe203;
+Ca(OH)2; CaSO4; KCI; K2CO3; K2S04; Na2S04;
+Portland cement chemicals)
+
+Full text of H- and EUH-statements: see section 16
+
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+
+by volume percentage (v/v%).
+
+4.1. Description of First-aid Measures
+
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+
+possible).
+
+Inhalation: When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty
+
+persists.
+
+Skin Contact: Remove contaminated clothing. Drench affected area with soap and water for at least 15 minutes. Obtain medical
+
+attention ifirritation/rash develops or persists. If exposed or concerned: Get medical advice/attention.
+
+Eye Contact: Immediately rinse with water for at least 30 minutes. Remove contact lenses, if present and easy to do. Continue
+
+rinsing. Get immediate medical advice/attention.
+
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain emergency medical attention. Obtain medical attention.
+
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+General: May cause respiratory irritation. Skin sensitization. Causes skin irritation. Causes serious eye damage. Causes damage to
+organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation). May cause cancer by inhalation.
+Inhalation: irritation of the respiratory tract and the other mucous membranes. Some studies show that exposure to respirable
+crystalline silica (without silicosis) or that the disease silicosis may be associated with the increased incidence of several
+autoimmune disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis and
+diseases affecting the kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased incidence of chronic
+kidney disease and end-stage renal disease in workers exposed to respirable crystalline silica.
+Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. May cause an allergic skin reaction. May cause skin
+to become dry or cracked.
+
+03/12/2022 EN (English US) 3/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Eye Contact: Causes permanent damage to the cornea, iris, or conjunctiva. Airborne dust may cause immediate or delayed irritation
+or inflammation. Eye contact with large amounts of dry powder or with wet cement can cause moderate eyeirritation, chemical
+burns and blindness. Eye exposures require immediate first aid and medical attention to prevent significant damage to the eye.
+Ingestion: Ingestion may cause adverse effects.
+Chronic Symptoms: Skin sensitization. Long term exposure to respirable crystalline silica results in a significant risk of developing
+silicosis and other non-malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+Suitable Extinguishing Media: Water spray, dry chemical, foam, carbon dioxide.
+Unsuitable Extinguishing Media: Do not use a heavy water stream. Use of heavy stream of water may spread fire.
+5.2. Special Hazards Arising From the Substance or Mixture
+Fire Hazard: Not considered flammable but may burn at high temperatures.
+Explosion Hazard: Product is not explosive.
+Reactivity: Hazardous reactions will not occur under normal conditions.
+5.3. Advice for Firefighters
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+Firefighting Instructions: Use water spray or fog for cooling exposed containers.
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Calcium oxides. Iron oxides. Silicon oxides. Sulfur oxides.
+5.4. Reference to Other Sections
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+General Measures: Do not handle until all safety precautions have been read and understood. Do not breathe dust. Do not get in
+eyes, on skin, or on clothing.
+
+6.1.1. For Non-Emergency Personnel
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+Emergency Procedures: Evacuate unnecessaryÿ personnel.
+
+6.1.2. For Emergency Personnel
+Protective Equipment: Equip cleanup crew with proper protection.
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+For Containment: Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams. As an
+immediate precautionary measure, isolate spill or leak area in all directions.
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling or
+sweeping. Vacuum clean-up is preferred. If sweeping is required use a dust suppressant. Transfer spilled material to a suitable
+container for disposal. Contact competent authorities after a spill.
+
+6.4. Reference to Other Sections
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+Additional Hazards When Processed: Cutting, crushing or grinding crystalline silica-bearing materials may release respirable
+crystalline silica, a known carcinogen. Use all appropriate measures of dust control or suppression and Personal Protective.
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving
+work. Do not get in eyes, on skin, or on clothing. Do not breathe dust.
+
+03/12/2022 EN (English US) 4/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+Technical Measures: Comply with applicable regulations.
+Storage Conditions: Keep bulk and bagged cement dry until used. Stack bagged material in a secure manner to prevent falling.
+Bagged cement is heavy and poses risks such as sprains and strains to the back, arms, shoulders and legs during lifting and mixing.
+Handle with care and use appropriate control measures. Engulfment hazard. To prevent burial or suffocation, do not enter a
+confined space, such as a silo, bin, bulk truck, or other storage container or vessel that stores or contains cement. Cement can
+buildup or adhere to the walls of a confined space. The cement can release, collapse or fall unexpectedly. . Keep container closed
+when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight, extremely high or low temperatures and
+incompatible materials. Store locked up/in a secure area.
+Incompatible Materials: Acids, ammonium salts and aluminum metal. Cement dissolves in hydrofluoric acid, producing corrosive
+silicon tetrafluoride gas. Cement reacts with water to form silicates and calcium hydroxide. Silicates react with powerful oxidizers
+such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+
+7.3. Specific End Use(s)
+Cement is used as a binder in concrete and mortars that are widely used in construction. Cement is distributed in bags, totes and
+bulk shipment.
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+8.1. Control Parameters
+
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+Cement, portland, chemicals (65997-15-1)
+
+USA ACGIH ACGIH OEL TWA 1 mg/mé (particulate matter containing no asbestos and <1% crystalline
+silica, respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | Not Classifiable as a Human Carcinogen
+
+USA OSHA OSHA PEL TWA 15 mg/m$ (total dust)
+5 mg/mi (respirable fraction)
+
+USA OSHA OSHA PEL TWA 50 mppcf (<1% Crystalline silica)
+(See 29 CFR 1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL TWA 10 mg/m* (total dust)
+5 mg/m* (respirable dust)
+
+USA IDLH IDLH 5000 mg/m°
+
+Alberta OEL TWA 10 mg/m°
+
+British Columbia OEL TWA 1 mg/mé (particulate matter containing no Asbestos and <1% Crystalline
+silica-respirable particulate)
+
+Manitoba OEL TWA 1 mg/mé (particulate matter containing no Asbestos and <1% Crystalline
+
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+New Brunswick OEL TWA 10 mg/m (particulate matter containing no Asbestos and <1% Crystalline
+silica)
+Newfoundland & Labrador | OEL TWA 1 mg/mé (particulate matter containing no Asbestos and <1% Crystalline
+
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+Nova Scotia OEL TWA 1 mg/mé (particulate matter containing no Asbestos and <1% Crystalline
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+Nunavut OEL STEL 20 mg/m°
+Nunavut OEL TWA 10 mg/m°
+Northwest Territories OEL STEL 20 mg/m°
+Northwest Territories OEL TWA 10 mg/m°
+Ontario OEL TWA 1 mg/mé (particulate matter containing no Asbestos and <1% Crystalline
+
+silica-respirable particulate matter)
+
+03/12/2022 EN (English US) 5/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Prince Edward Island OEL TWA 1 mg/mé (particulate matter containing no Asbestos and <1% Crystalline
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+Québec VEMP OELTWA 10 mg/mf (containing no Asbestos and <1% Crystalline silica-total dust)
+5 mg/mi (containing no Asbestos and <1% Crystalline silica-respirable
+dust)
+
+Saskatchewan OEL STEL 20 mg/m°
+
+Saskatchewan OEL TWA 10 mg/m°
+
+Yukon OEL STEL 20 mg/m*
+
+Yukon OEL TWA 30 mppcf
+10 mg/m°
+
+Limestone (1317-65-3)
+
+USA OSHA OSHA PEL TWA 15 mg/m$ (total dust)
+
+5 mg/mi (respirable fraction)
+
+USA NIOSH NIOSH REL TWA 10 mg/m* (total dust)
+
+5 mg/m* (respirable dust)
+
+Alberta OEL TWA 10 mg/m°
+
+British Columbia OEL STEL 20 mg/m (total)
+
+British Columbia OEL TWA 10 mg/m* (total dust)
+
+3 mg/mi (respirable fraction)
+
+New Brunswick OEL TWA 10 mg/m (particulate matter containing no Asbestos and <1% Crystalline
+silica)
+
+Nunavut OEL STEL 20 mg/m°
+
+Nunavut OEL TWA 10 mg/m°
+
+Northwest Territories OEL STEL 20 mg/m°
+
+Northwest Territories OEL TWA 10 mg/m°
+
+Québec VEMP OELTWA 10 mg/m° (Limestone, containing no Asbestos and <1% Crystalline silica-
+total dust)
+
+Saskatchewan OEL STEL 20 mg/m*
+
+Saskatchewan OEL TWA 10 mg/m°
+
+Yukon OEL STEL 20 mg/m°
+
+Yukon OEL TWA 30 mppcf
+10 mg/m°
+
+Kaolin (1332-58-7)
+
+USA ACGIH ACGIH OEL TWA 2 mg/m* (particulate matter containing no asbestos and <1% crystalline
+silica, respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | Not Classifiable as a Human Carcinogen
+
+USA OSHA OSHA PEL TWA 15 mg/m$ (total dust)
+
+5 mg/mi (respirable fraction)
+
+USA NIOSH NIOSH REL TWA 10 mg/m* (total dust)
+
+5 mg/m* (respirable dust)
+
+Alberta OEL TWA 2 mg/m* (respirable)
+
+British Columbia OEL TWA 2 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+silica-respirable particulate)
+
+Manitoba OEL TWA 2 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+New Brunswick OEL TWA 2 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+silica, respirable fraction)
+Newfoundland & Labrador | OEL TWA 2 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+03/12/2022 EN (English US) 6/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Nova Scotia OEL TWA 2 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+Nunavut OELSTEL 4 mg/m* (respirable fraction)
+
+Nunavut OEL TWA 2 mg/mi (respirable fraction)
+
+Northwest Territories OEL STEL 4 mg/m* (respirable fraction)
+
+Northwest Territories OEL TWA 2 mg/mi (respirable fraction)
+
+Ontario OEL TWA 2 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+silica-respirable particulate matter)
+
+Prince Edward Island OEL TWA 2 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+
+silica, respirable particulate matter-particulate matter, respirable
+particulate matter)
+
+Québec VEMP OELTWA 2 mg/mi (containing no Asbestos and <1% Crystalline silica-respirable
+dust)
+Saskatchewan OELSTEL 4 mg/m* (respirable fraction)
+Saskatchewan OEL TWA 2 mg/mi (respirable fraction)
+Yukon OEL STEL 20 mg/m°
+Yukon OEL TWA 30 mppcf
+10 mg/m°
+Gypsum (Ca(SO4).2H20) (13397-24-5)
+USA ACGIH ACGIH OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+USA OSHA OSHA PEL TWA 15 mg/m$ (total dust)
+5 mg/mi (respirable fraction)
+USA NIOSH NIOSH REL TWA 10 mg/m* (total dust)
+5 mg/m* (respirable dust)
+Alberta OEL TWA 10 mg/m (Calcium sulphate)
+British Columbia OEL STEL 20 mg/m (total)
+British Columbia OEL TWA 10 mg/m* (total dust)
+
+3 mg/mi (respirable fraction)
+10 mg/m* (regulated under Calcium sulfate-inhalable)
+
+Manitoba OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Newfoundland & Labrador | OELTWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Nova Scotia OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Ontario OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Prince Edward Island OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Québec VEMP OELTWA 10 mg/m* (containing no Asbestos and <1% Crystalline silica-inhalable
+dust (Calcium sulfate)
+Saskatchewan OEL STEL 20 mg/m°
+Saskatchewan OEL TWA 10 mg/m°
+Yukon OEL STEL 20 mg/m°
+Yukon OEL TWA 30 mppcf
+10 mg/m°
+Fumes, silica (69012-64-2)
+British Columbia OEL TWA 4 mg/m* (total)
+1.5 mg/m* (respirable)
+New Brunswick OEL TWA 2 mg/mi (respirable fraction)
+Nunavut OEL TWA 2 mg/m* (respirable fraction (Silica amorphous)
+Northwest Territories OEL TWA 2 mg/m* (respirable fraction (Silica amorphous)
+Ontario OEL TWA 2 mg/m* (respirable fraction (Silica fume)
+Québec VEMP OELTWA 2 mg/mi (containing no Asbestos and <1% Crystalline silica-respirable
+dust)
+Saskatchewan OEL TWA 2 mg/m* (respirable fraction (Silica amorphous)
+
+03/12/2022 EN (English US) 7/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Quartz (14808-60-7)
+
+USA ACGIH ACGIH OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | A2 - Suspected Human Carcinogen
+
+USA OSHA OSHA PEL TWA 50 Ug/mi (Respirable crystalline silica)
+
+USA OSHA OSHA PEL TWA (250)/(%SiO02+5) mppcf TWA (respirable fraction)
+(10)/(%Si02+2) mg/m$ TWA (respirable fraction)
+(For any operations or sectors for which the respirable crystalline silica
+standard, 1910.1053, is stayed or otherwise not in effect, See 20 CFR
+1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL TWA 0.05 mg/m* (respirable dust)
+
+USA IDLH IDLH 50 mg/m* (respirable dust)
+
+Alberta OEL TWA 0.025 mg/m* (respirable particulate)
+
+British Columbia OEL TWA 0.025 mg/m* (respirable)
+
+Manitoba OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+New Brunswick OEL TWA 0.1 mg/mi (respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nova Scotia OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nunavut OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Northwest Territories OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Ontario OEL TWA 0.1 mg/mf (designated substances regulation-respirable fraction (Silica,
+crystalline)
+
+Prince Edward Island OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Québec VEMP OEL TWA 0.1 mg/mi (respirable dust)
+
+Saskatchewan OEL TWA 0.05 mg/mÿ (Trydimite removed-respirable fraction (Silica - crystalline
+(Trydimite removed))
+
+Yukon OEL TWA 300 particle/mL (Silica - Quartz, crystalline)
+
+8.2. Exposure Controls
+Appropriate Engineering Controls: Emergency eye wash fountains and safety showers should be available in the immediate vicinity
+of any potential exposure. Ensure adequate ventilation, especially in confined areas. Ensure all national/local regulations are
+observed.
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Face shield. Insufficient ventilation: wear
+respiratory protection.
+
+00060
+
+Materials for Protective Clothing: Chemically resistant materials and fabrics.
+
+Hand Protection: Wear protective gloves.
+
+Eye and Face Protection: Chemical safety goggles.
+
+Skin and Body Protection: Wear suitable protective clothing.
+
+Respiratory Protection: If exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+protection.
+
+Other Information: When using, do not eat, drink or smoke.
+
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+9.1. Information on Basic Physical and Chemical Properties
+
+Physical State : Solid
+
+Appearance : Gray or white powder
+Odor :  Odorless
+
+Odor Threshold : Not available
+
+pH : 12-13
+
+Evaporation Rate : Not available
+
+03/12/2022 EN (English US) 8/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Melting Point : Not available
+Freezing Point : Not available
+Boiling Point : > 1000 °C (1832 °F)
+Flash Point : Not available
+Auto-ignition Temperature : Not available
+Decomposition Temperature : Not available
+Flammability (solid, gas) : Not available
+
+Lower Flammable Limit : Not available
+Upper Flammable Limit : Not available
+Vapor Pressure : Not available
+Relative Vapor Density at 20°C : Not available
+Relative Density : Not available
+Specific Gravity : _3.0-3.2 (Water =1)
+Solubility : Water: 0.1 —-1 % (sightly soluble)
+Partition Coefficient: N-Octanol/Water : Not available
+Viscosity : Not available
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:  Hazardous reactions will not occur under normal conditions.
+
+10.2. Chemical Stability: Stable under recommended handling and storage conditions (see section 7).
+
+10.3. Possibility of Hazardous Reactions:  Hazardous polymerization will not occur.
+
+10.4. Conditions to Avoid: Direct sunlight, extremely high or low temperatures, and incompatible materials.
+
+10.5. Incompatible Materials:  Acids, ammonium salts and aluminum metal. Cement dissolves in hydrofluoric acid, producing
+corrosive silicon tetrafluoride gas. Cement reacts with water to form silicates and calcium hydroxide. Silicates react with powerful
+oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+
+10.6. Hazardous Decomposition Products: Thermal decomposition may produce: Calcium oxides. Silicon oxides. sulfur oxides.
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+11.1. Information on Toxicological Effects - Product
+Acute Toxicity (Oral): Not classified
+Acute Toxicity (Dermal): Not classified
+Acute Toxicity (Inhalation): Not classified
+
+LD50 and LC50 Data: Not available
+
+Skin Corrosion/irritation: Causes skin irritation.
+
+pH: 12 — 13
+Eye Damage/irritation: Causes serious eye damage.
+pH: 12 — 13
+
+Respiratory or Skin Sensitization: May cause an allergic skin reaction.
+
+Germ Cell Mutagenicity: Not classified
+
+Carcinogenicity: May cause cancer (Inhalation).
+
+Specific Target Organ Toxicity (Repeated Exposure): Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+
+Reproductive Toxicity: Not classified
+
+Specific Target Organ Toxicity (Single Exposure): May cause respiratoryirritation.
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Irritation of the respiratory tract and the other mucous membranes. Some studies show that
+exposure to respirable crystalline silica (without silicosis) or that the disease silicosis may be associated with the increased incidence
+of several autoimmune disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis
+and diseases affecting the kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased incidence of chronic
+kidney disease and end-stage renal disease in workers exposed to respirable crystalline silica.
+
+Symptoms/Injuries After Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. May cause an allergic skin
+reaction. May cause skin to become dry or cracked.
+
+Symptoms/Injuries After Eye Contact: Causes permanent damage to the cornea, iris, or conjunctiva. Airborne dust may cause
+immediate or delayedirritation or inflammation. Eye contact with large amounts of dry powder or with wet cement can cause
+
+03/12/2022 EN (English US) 9/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+moderate eyeirritation, chemical burns and blindness. Eye exposures require immediate first aid and medical attention to prevent
+significant damage to the eye.
+
+Symptoms/Injuries After Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Skin sensitization. Long term exposure to respirable crystalline silica results in a significant risk of developing
+silicosis and other non-malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+11.2. Information on Toxicological Effects - Ingredient(s)
+
+LD50 and LC50 Data:
+
+Slags, ferrous metal, blast furnace (65996-69-2)
+
+LD50 Oral Rat > 2000 mg/kg
+
+LD50 Dermal Rat > 4000 mg/kg
+
+LC50 inhalation Rat > 230.1 mg/mÿ (Exposure Time: 6 h; Species: Wistar)
+Ashes, residues (68131-74-8)
+
+LD50 Oral Rat > 2000 mg/kg
+
+Kaolin (1332-58-7)
+
+LD50 Oral Rat > 5000 mg/kg
+
+LD50 Dermal Rat > 5000 mg/kg
+
+LD50 Dermal Rabbit > 5000 mg/kg
+
+Quartz (14808-60-7)
+
+LD50 Oral Rat > 5000 mg/kg
+
+LD50 Dermal Rat > 5000 mg/kg
+
+Flue dust, portland cement (68475-76-3)
+
+LD50 Dermal Rat > 2000 mg/kg
+
+LC50 Inhalation Rat > 6.04 mg/I/4h
+
+Quartz (14808-60-7)
+
+IARC Group 1
+
+National Toxicology Program (NTP) Status Known Human Carcinogens.
+
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+12.1. Toxicity
+Ecology - General: Not classified.
+Fumes, silica (69012-64-2)
+
+LC50 Fish > 100 mg/l (Exposure time: 96 h - Species: Danio rerio [semi-static])
+
+12.2. Persistence and Degradability
+
+Blended Cement
+
+Persistence and Degradability Not established.
+
+12.3. Bioaccumulative Potential
+
+Blended Cement
+
+Bioaccumulative Potential Not established.
+
+12.4. Mobility in Soil Not available
+12.5. Other Adverse Effects
+Other Information: Avoid release to the environment.
+
+SECTION 13: DISPOSAL CONSIDERATIONS
+
+13.1. Waste treatment methods
+
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, and international
+regulations
+
+Additional Information: Container may remain hazardous when empty. Continue to observe all precautions.
+
+Ecology - Waste Materials: Avoid release to the environment.
+
+SECTION 14: TRANSPORT INFORMATION
+
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+
+03/12/2022 EN (English US) 10/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+14.1. In Accordance with DOT Not regulated for transport
+14.2. In Accordance with IMDG Not regulated for transport
+14.3. In Accordance with IATA Not regulated for transport
+14.4. In Accordance with TDG Not regulated for transport
+
+SECTION 15: REGULATORY INFORMATION
+
+15.1. US Federal Regulations
+
+Blended Cement
+
+SARA Section 311/312 Hazard Classes Health hazard - Serious eye damage or eyeirritation
+Health hazard - Specific target organ toxicity (single or repeated exposure)
+Health hazard - Skin corrosion or Irritation
+Health hazard - Carcinogenicity
+Health hazard - Respiratory or skin sensitization
+
+Cement, portland, chemicals (65997-15-1)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Slags, ferrous metal, blast furnace (65996-69-2)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Ashes, residues (68131-74-8)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Limestone (1317-65-3)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Kaolin (1332-58-7)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Fumes, silica (69012-64-2)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Quartz (14808-60-7)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Flue dust, portland cement (68475-76-3)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+15.2. US State Regulations
+California Proposition 65
+AN WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer. For more
+information go to www.P65Warnings.ca.gov.
+Chemical Name (CAS No.) Carcinogenicity Developmental Female Reproductive Male Reproductive
+Toxicity Toxicity Toxicity
+
+Quartz (14808-60-7) X
+Cement, portland, chemicals (65997-15-1)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Limestone (1317-65-3)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Kaolin (1332-58-7)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Gypsum (Ca(SO4).2H20) (13397-24-5)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+03/12/2022 EN (English US) 11/13
+Blended Cement
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+Fumes, silica (69012-64-2)
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Massachusetts - Right To Know List
+Quartz (14808-60-7)
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+U.S. - Massachusetts - Right To Know List
+
+15.3. Canadian Regulations
+
+Cement, portland, chemicals (65997-15-1)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Slags, ferrous metal, blast furnace (65996-69-2)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Ashes, residues (68131-74-8)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Limestone (1317-65-3)
+
+Listed on the Canadian NDSL (Non-Domestic Substances List)
+
+Kaolin (1332-58-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Gypsum (Ca(SO4).2H20) (13397-24-5)
+Listed on the Canadian DSL (Domestic Substances List)
+
+Fumes, silica (69012-64-2)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Quartz (14808-60-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Flue dust, portland cement (68475-76-3)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+Date of Preparation or Latest Revision : 03/12/2022
+
+Other Information : This document has been prepared in accordance with the SDS requirements of the OSHA
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+
+GHS Full Text Phrases:
+
+Carc. 1A Carcinogenicity Category 1A
+
+Eye Dam. 1 Serious eye damage/eyeirritation Category 1
+
+Skin Irrit. 2 Skin corrosion/irritation Category 2
+
+Skin Sens. 1 Skin sensitization, Category 1
+
+STOTRE 1 Specific target organ toxicity (repeated exposure) Category 1
+
+STOT SE 3 Specific target organ toxicity (single exposure) Category 3, Respiratory tract irritation
+H315 Causes skin irritation
+
+H317 May cause an allergic skin reaction
+
+H318 Causes serious eye damage
+
+H335 May cause respiratoryirritation
+
+H350 May cause cancer
+
+H372 Causes damage to organs through prolonged or repeated exposure
+
+03/12/2022 EN (English US) 12/13
+Blended Cement
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Indication of Changes
+
+Section
+
+Change
+
+Date Changed
+
+Version
+
+1
+
+Modified responsible
+party information, logo
+& emergency telephone
+number
+
+03/12/2022
+
+3.1
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+accuracy and assumes no liability in connection with the use of the information contained herein which is not intended to be and
+
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+
+this product should review all such laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+Provincial and State regulations.
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR OTHERWISE.
+
+NA GHS SDS 2015 (Can, US)
+
+03/12/2022
+
+EN (English US)
+
+13/13

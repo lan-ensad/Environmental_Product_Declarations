@@ -1,0 +1,122 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "03/01/2014",
+    "supersedes_date": "06/14/2021",
+    "version": "4.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "ChemTel LLC 1-800-255-3924"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Limestone and Dolomite",
+    "synonyms": [
+      "Aggregates",
+      "Asphalt Sand",
+      "Base Material",
+      "Calcium Carbonate",
+      "Carbonate Rock",
+      "Concrete Sand",
+      "Crushed Rock",
+      "Crushed Run",
+      "Crushed Stone",
+      "Dense Graded Aggregate",
+      "Dolomite",
+      "Dolostone",
+      "Fill Sand",
+      "Golf Course Sand",
+      "Gravel",
+      "Limestone",
+      "Manufactured Sand",
+      "Mason Sand"
+    ],
+    "intended_use": "Used in the manufacture of bricks, mortar, cement, concrete, plasters, paving materials, and other construction applications. Not for abrasive blasting."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Carc. 1A H350",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition_information": {
+      "limestone": {
+        "cas_no": "1317-65-3",
+        "percentage": "50-100"
+      },
+      "carbonic_acid_magnesium_salt": {
+        "cas_no": "546-93-0",
+        "percentage": "< 50"
+      },
+      "quartz": {
+        "cas_no": "14808-60-7",
+        "percentage": "< 15",
+        "classification": [
+          "Carc. 1A, H350",
+          "STOT SE 3, H335",
+          "STOT RE 1, H372"
+        ]
+      }
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "Variety of colors",
+      "odor": "Odorless",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "specific_gravity": "2.6-2.8",
+      "solubility": "Insoluble in water"
+    },
+    "regulatory_information": {
+      "us_federal_regulations": {
+        "sara_section_311_312": [
+          "Health hazard - Carcinogenicity",
+          "Health hazard - Specific target organ toxicity (single or repeated exposure)"
+        ],
+        "california_proposition_65": "WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer."
+      },
+      "canadian_regulations": {
+        "quartz": "Listed on the Canadian DSL (Domestic Substances List)",
+        "carbonic_acid_magnesium_salt": "Listed on the Canadian DSL (Domestic Substances List)",
+        "limestone": "Listed on the Canadian NDSL (Non-Domestic Substances List)"
+      }
+    }
+  }
+}

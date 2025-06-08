@@ -1,0 +1,587 @@
+SPARROWS POINT MD SLAG
+CEMENT PLANT
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+www.holcim.us C: L le O LC Î M
+Environmental Product Declaration (EPD) LIU
+Hé El O LC | M In accordance with ISO 14025 and 21930 1/
+
+About this EPD
+
+‘ul
+
+This cradle-to-gate environmental product declaration for slag cement as produced at Holcim’s Sparrows Point
+plant. The life cycle assessment was prepared according to ISO 14025:2006, ISO 21930:2017 (the core PCR) and
+the NSF product category rules for slag cement (subcategory PCR) and ASTM International's EPD program
+operator rules. This environmental product declaration (EPD) is intended for business-to-business audiences.
+
+General Summary
+
+EPD Commissioner and Owner
+
+) HOLCIM
+
+Product Group and Name
+
+Product Definition
+
+Product Category Rules (PCR)
+
+Date of Issue & Validity Period
+
+Declared Unit
+
+Holcim (US) Inc.
+
+8700 W Bryn Mawr Ave
+Chicago, IL 60631
+Phone: 626-852-6200
+www.holcim.us
+
+Holcim provided both LCI and meta-data for slag granulation and slag cement
+manufacture for reference year 2019. The owner of the declaration is liable
+for the underlying information and evidence.
+
+For any explanatory material, regarding this EPD, please contact Sonia
+
+Gagnon (sonia.gagnon@holcim.com).
+
+Slag Cement, UNSD CPC 3744, UNSPSC Code 30111601
+
+Slag cement, UNSD CPC 3744 and UNSPSC Code 30111601, is defined as
+granulated blast-furnace slag that has been ground to cement fineness, with
+or without additions, and is a hydraulic cement
+
+NSF International, Product Category Rules for Preparing an Environmental
+Product Declaration for Slag Cement, v2.0, December 2020.
+
+31.03.2022 — 5 years
+
+1 metric ton of slag cement
+
+EPD and Project Report Information
+
+Program Operator
+Declaration Number
+Declaration Type
+Applicable Countries
+
+Product Applicability
+
+ASTM International
+
+EPD 299
+
+Cradle-to-gate (modules A1 to A3). Facility and product-specific
+
+United States
+
+Slag cement is a supplementary cementitious material (SCM) typically used
+
+in concretes and mortars to replace a portion of the portland cement in, and
+augment the performance of, concrete and mortars.
+
+) HOLCIM
+? HOLCIM
+
+Content of the Declaration
+
+This EPD was independently
+verified by ASTM in accordance
+With ISO 14025 and the reference
+PCR:
+
+Internal External X
+
+The Project Report
+
+LCA report and EPD Prepared by:
+
+7 Athena
+Sustainable Materials
+Institute
+
+This EPD project report was
+independently verified by in
+accordance with ISO 14025, ISO
+
+14040/44, and the reference PCR:
+
+PCR Information
+
+Environmental Product Declaration (EPD)
+
+In accordance with ISO 14025 and 21930 4
+
+u11/
+
+This declaration follows Section 9; Content of an EPD, NSF International,
+Product Category Rules for Preparing an Environmental Product Declaration
+for Slag Cement, v2.0, December 2020 [2].
+
+Tim Brooke
+
+ASTM International
+100 Barr Harbor Drive
+PO Box C700
+
+West Conshohocken
+PA 19428-2959, USA
+cert@astm.org
+
+A Cradle-to-Gate Life Cycle Assessment of Slag Cement produced by Holcim
+US, March 2022.
+
+Lindita Bushi, PhD, Jamie Meil & Grant Finlayson
+Athena Sustainable Materials Institute
+
+280 Albert Street, Suite 404
+
+Ottawa, Ontario, Canada K1P 5G8
+info@athenasmi.org
+
+www.athenasmi.org
+
+Thomas P. Gloria, Ph. D.
+Industrial Ecology Consultants
+35 Bracebridge Rd.
+
+Newton, MA
+
+Program Operator
+
+Reference PCR
+
+PCR review was conducted by:
+
+NSF International
+
+Product Category Rules for Preparing an Environmental Product Declaration
+for Slag Cement, v2.0 [2].
+
+Thomas P. Gloria, PhD (Chair), Industrial Ecology Consultants,
+Mr. Jack Geibig, EcoForm
+Mr. Bill Stough, Sustainable Research Group
+
+Holcim US Slag Cement Production Facility
+
+Holcim is the global leader in building materials and solutions. As the largest cement manufacturer in the United
+States, Holcim’s ambition is to lead the industry in reducing carbon emissions and shifting towards low-carbon
+
+construction.
+
+In the United States, Holcim companies include close to 350 sites in 43 states and employ 7,000 people. Our
+customers rely on us to help them design and build better communities with innovative solutions that deliver
+
+structural integrity and eco-efficiency.
+
+Facility Name:
+
+Product Description
+
+Holcim Sparrows Point Plant, 2001 Wharf Road, Sparrows Point, MD 21219
+
+ne
+
+G’ HOLCIM
+Environmental Product Declaration (EPD) LIU
+Hé ri O LC Il M In accordance with ISO 14025 and 21930
+
+tu11/
+
+Slag cement, UN CPC 3744, is defined in ASTM C128 as granulated blast-furnace slag that has been ground to
+cement fineness, with or without additions, and that is a hydraulic cement [2]. Slag cement is a supplementary
+cementitious material (SCM). Iron blast furnace slag (BFS) is a waste material of pig iron production and as such is
+categorized as a “recovered material” [2]. To transform iron BFS, so it can be used as a SCM in concrete and
+mortars, it is first rapidly quenched with water to form granules known as Granulated Blast Furnace Slag (GBFS). It
+then undergoes dewatering, crushing of oversized material only (if applicable), and storage at the granulating
+facilities. GBFS is then shipped to the grinding facilities where it undergoes dewatering/drying (if applicable), iron
+removal from slag granules (if applicable), crushing (if applicable), grinding, and packaging (if applicable). The slag
+cement is then stored onsite.
+
+Products and Standards
+
+Inputs Quantity (%) Applicable Standards:
+As an SCM in concrete:
++ ASTM C989/C989M, Standard Specification for Slag Cement for
+Use in Concrete and Mortars
++ AASHTO M 302, Standard Specification for Slag Cement for Use in
+Concrete and Mortars
++ CSA A3001, Cementitious Materials for Use in Concrete
+
+Total 100% + ASTM C125 Standard Terminology Relating to Concrete and
+Concrete Aggregates
+
+Slag Granules 99.9%
+
+Grinding Aids <0.1%
+
+As a constituent of blended cement
+
+. ASTM C596/C595M, Standard Specification for Blended Hydraulic Cements
+. AASHTO M 240M/M 240, Standard Specification for Blended Hydraulic Cements
+. ASTM C219, Standard Terminology Relating to Hydraulic Cement.
+
+Declared Unit
+
+The declared unit is one metric tonne (1,000 kg) of slag cement.
+
+System Boundary
+
+This EPD is a cradle-to-gate EPD covering the production stage (A1-A3) as depicted in the figure below. The
+production stage includes extraction and recovery of raw materials (cradle) through the manufacture of slag cement
+ready for shipment (gate). Downstream activity stages - Construction, Use, End-of-life, and Optional supplementary
+information beyond the system boundary - are excluded from the system boundary. The Sparrows Point slag
+grinding plant sources its granulated slag (slag granules) input offshore. This EPD includes an offshore granulation
+process.
+
+| ) HOLCIM
+? HOLCIM
+
+PRODUCTION
+Stage
+
+CONSTRUCTION
+Stage
+
+A1
+Extraction and
+upstream production
+
+A4
+Transport to site
+
+A2 A5
+Transport to factory Installation
+
+A3
+
+Manufacturing
+
+Life Cycle Information within the System Boundary
+
+Environmental Product Declaration (EPD)
+In accordance with ISO 14025 and 21930
+
+END OF LIFE
+Stage
+
+C1
+
+De-construction
+Demolition
+
+C2
+
+Maintenance Transport
+
+B3 C3
+Repair Waste Processing
+
+B4
+Replacement
+
+Ca
+Disposal of waste
+
+B5
+Refurbishment
+
+B6
+Operational Energy
+Use
+
+B7
+Operational Water
+Use
+
+4h
+
+‘ul
+
+Optional
+supplementary
+information
+beyond the
+system boundary
+
+Potential net
+benefits from
+reuse,
+
+recycling, and/or
+energy recovery
+beyond the system
+boundary
+
+Items excluded from the system boundary include:
+
+Cut-off Criteria
+
+Production, manufacture, and construction of manufacturing capital goods and infrastructure
+Production and manufacture of production equipment, delivery vehicles, and laboratory equipment
+Personnel-related activities (travel, furniture, and office supplies)
+Energy and water use related to company management and sales activities that may be located either
+Within the factory site or at another location
+
+The cut-off criteria as per NSF PCR, Section 7.1.8 [2] and ISO 21930, 7.1.8 [3] were followed. Per ISO 21930, all
+input/output data required were collected and included in the LCI modelling. No substances with hazardous and
+toxic properties that pose a concern for human health and/or the environment were identified in the framework of
+this EPD. Any plant specific data gaps for the reference year 2019 (e.g., amount of lubricants) were filled in with
+
+industry data (secondary data).
+
+Data Collection
+
+Gate-to-gate input/output flow data were collected for the following processes for the reference year 2019:
+e Offshore (Brazil) granulation and Sparrows Point slag cement manufacture.
+
+He
+
+HOLCIM
+Environmental Product Declaration (EPD) LIU
+In accordance with ISO 14025 and 21930 ‘u ( J
+
+? HOLCIM
+
+Allocation Rules
+
+Allocation follows the requirements and guidance of ISO 14044 Clause 4.3.4 [5], NSF PCR [2], and ISO 21930
+section 7.2 [3]. The sub-category PCR recognizes iron blast furnace slag as a recovered material and thus the
+environmental impacts allocated to raw slag are limited to the treatment and transportation required to use as a
+material input. “Mass” was used as the physical parameter for allocating flows between slag cement and other co-
+products to calculate the input energy flows (e.g., electricity, natural gas, diesel), packaging materials, freshwater
+consumption, process emissions to air, water and land and waste flows (if applicable). LCI modeling did consider
+the plant specific manufacturing yield.
+
+Data Quality Requirements and Assessment
+
+Data Quality
+Requirements
+
+Technology
+Coverage
+
+Geographic
+Coverage
+
+Time Coverage
+
+Completeness
+
+Consistency
+
+Reproducibility
+
+Transparency
+
+Uncertainty
+
+Description
+
+Data represents the prevailing technology in use at both the East Chicago granulation facility and the
+Sparrows Point grinding facility. Whenever available, for all upstream and core material and processes,
+North American typical or average industry LCI datasets were utilized.
+
+Technological representativeness is characterized as “high”.
+
+The geographic region considered is U.S.
+Geographical representativeness is characterized as "high".
+
+Activity (primary) data are representative of 2019 calendar year (12 months).
+
+- Brazil slag granulation,
+
+- Sparrows Point slag cement manufacturing,
+
+- In-bound/ out-bound transportation data - primary data collected for slag cement manufacturing plant.
+
+- Generic data: the most appropriate LCI datasets were used as found in the ecoinvent v.3.5 database for
+US and global, 2018 and US LCI Database. US LCI database (empty/missing LCI datasets) are substituted
+With ecoinvent v3.5 LCI datasets.
+
+Temporal representativeness is characterized as “high”.
+
+All relevant, specific processes, including inputs (raw materials, energy and ancillary materials) and outputs
+(emissions and production volume) were considered and modeled to complete production profile for
+Sparrows Point slag cement.
+
+The relevant background materials and processes were taken from the US LCI Database (adjusted for
+known data placeholders), ecoinvent v 3.5 LCI database for US, and modeled in SimaPro software
+V.9.0.0.30, 2020. The completeness of the cradle-to-gate process chain in terms of process steps is
+rigorously assessed for all cement product systems
+
+All relevant, specific processes, including inputs (raw materials, energy, and ancillary materials) and outputs
+(emissions and production volume) were considered and modeled to complete production profile for
+Sparrows Point slag cement.
+
+The relevant background materials and processes were taken from the US LCI Database, ecoinvent v 3.5
+LCI database for US, and modeled in SimaPro software v.9.0.0.30, 2020. The completeness of the cradle-
+to-gate process chain in terms of process steps is rigorously assessed across product system.
+
+Internal reproducibility is possible since the data and the models are stored and available in Holcim_Athena
+LCI database developed in SimaPro, 2021. A high level of transparency is provided throughout the report
+as the LCI profile is presented for each of the declared products as well as major upstream inputs. Key
+primary (manufacturer specific) and secondary (generic) LCI data sources are also summarized in the
+background report. External reproducibility is not possible as the background report is confidential.
+
+Activity and LCI datasets are disclosed in the project report, including all data sources.
+
+A sensitivity check was conducted to assess the reliability of the EPD results and conclusions by determining
+how they are affected by uncertainties in the data or assumptions on calculation of LCIA and energy indicator
+
+results.
+
+G’ HOLCIM
+‘ul
+
+Life Cycle Impact Assessment Results: Sparrows Point Slag Cement
+
+This section summarizes the product stage life cycle impact assessment (LCIA) results including resource use and
+waste generated metrics based on the cradle-to-gate life cycle inventory inputs and outputs analysis. The results are
+calculated based on 1 metric ton of slag cement as produced at the South Chicago, IL plant. /f should be noted that
+LCIA results are relative expressions and do not predict impacts on category endpoints, the exceeding of thresholds,
+safety margins or risks [4], [5]. Further, a number of LCA impact categories and inventory items are still emerging or
+under development and can have high levels of uncertainty that preclude international acceptance pending further
+development. Use caution when interpreting results for these categories — identified with an “*” [2].
+
+Environmental Product Declaration (EPD) LIU
+Hé ri O LC Il M In accordance with ISO 14025 and 21930 1/
+
+EPDSs based on cradile-to-gate and cradle-to-gate with options information modules shall not be compared. Further,
+EPDs based on a declared unit shall not be used for comparisons [2]. Environmental declarations from different
+programs may not be comparable [7]. EPDs are comparable only if they comply with ISO 21930, use the same, sub-
+category PCR where applicable, include all relevant information modules and are based on equivalent scenarios with
+respect to the context of construction works [3].
+
+Production stage EPD Results: Sparrows Point, MD -— per metric ton
+
+Impact category and Unit Al, A2, A3, Total
+inventory indicators Extraction | Transport Manufacturing
+and to factory
+
+upstream
+
+production
+Global warming potential, GWP 1007), AR5 kg COz2 eq 2 43.2 88.9 134
+Ozone depletion potential, ODP2) kg CFC-11eq  2.9E-07 9.6E-06 1.1E-05 2.1E-05
+Smog formation potential, SFP2) kg O3 eq 0.2 19.5 2.4 22.1
+Acidification potential, AP2) kg SO2 eq 0.01 1.14 0.24 1.39
+Eutrophication potential, EP?) kg N eq 0.00 4.9E-02 2.6E-01 0.31
+Abiotic depletion potential for non-fossi kg Sb eq 1.7E-06 1.6E-06 6.3E-05 6.6E-05
+mineral resources, ADP elements)
+Abiotic depletion potential for MJ surplus
+fossil resources, ADP fossil2) LHV 3 85 111 199
+Renewable primary resources used as an My LHV 69 07 42.0 49.7
+energy carrier (fuel), RPRE'”?
+Renewable primary resources with energy My LHV 0 0 0 0
+content used as material, RPRu‘ 7)
+Non-renewable primary resources used as My LHV 21 560 1,505 2,086
+an energy carrier (fuel), NRPRE'")
+Non-renewable primary resources with
+energy content used as material, NRPRu)”) My EHV 0 0 0 0
+Secondary materials, SM4)°) kg 1101 0 0 1,101
+Renewable secondary fuels, RSF4)7) MJ LHV 0 0 0 0
+
+| ) HOLCIM
+Environmental Product Declaration (EPD) LIU
+Hé El O LC | M In accordance with ISO 14025 and 21930 1/
+
+‘ui
+Non-renewable secondary fuels, NRSF“ MJ LHV 0 0 0 0
+Recovered energy, RE") MJ LHV 0 0 0 0
+Consumption of freshwater, FW4) m° 3.7E-03 0 1.6E-04 3.8E-03
+Hazardous waste disposed, HWD4)") kg 3.1E-03 0 0.0E+00 3.1E-03
+Non-hazardous waste disposed, NHWD4 ) kg 0 0 4.6E-02 4.6E-02
+rl renoatony HLEWWET Sonditioned, to 5.6E-10 0 2.4E-07 2.4E-07
+Intermediate- and low-level radioactive
+waste, conditioned, to final repository, m 9.4E-08 0 3.6E-06 6.9E-06
+ILLRW#
+Components for re-use, CRU)" kg 0 0 0 0
+Materials for recycling, MR") Kg 0 0 0 0
+Materials for energy recovery, MER") Kg 0 0 0 0
+TT TT
+Additional Inventory Parameters for Transparency
+Emissions from calcination kg CO; eq 0 0 0 0
+
+Biogenic CO, reporting the removals and
+emissions associated with biogenic carbon kg CO, eq 0 0 0 0
+content contained within biobased products
+
+Table Notes:
+
+1 Calculated as per U.S EPA TRACI v2.1, with IPCC 2013 (AR 5), SimaPro v 9.2.0.2 2022 [10].
+
+GWP 100, excludes biogenic CO removals and emissions associated with biobased products; 100-Year time horizon GWP factors
+are provided by the IPCC 2013 Fifth Assessment Report (AR5), TRACI v2.1 with ARS, v1.05 [10].
+
+2) Calculated as per U.S EPA TRACI v2.1, SimaPro v 9.2.0.2 2022 [10].
+
+3) ADP elements is calculated as per CML-IA Baseline V3.05, SimaPro v 9.2.0.2 [10].
+
+4 Calculated as per ACLCA ISO 21930 Guidance [11].
+
+| ) HOLCIM
+Environmental Product Declaration (EPD) LIU
+Hé ri O LC Il M In accordance with ISO 14025 and 21930 1/
+
+‘ul
+
+LCA Interpretation
+
+The Manufacturing module (A3) drives most of the potential environmental impacts. Manufacturing impacts are
+primarily driven by energy use (electricity and thermal fuels) used during the drying and grinding of slag granules.
+Transportation Module A2 is the second largest contributor for the Sparrows Point facility which sourced its slag
+granules from Brazil. Raw material extraction (A1) is a minor contributor to the overall EPD results.
+
+Additional Environmental Information
+
+Environmental Protection and Equipment
+
+Holcim manufacturing facilities comply with the U.S. environmental protection requirements, monitor and report the
+emissions to air during the manufacturing process as per the following:
+
+- EPCRA Section 313 Toxic Release Inventory reporting (U.S) https://www.epa.gov/toxics-release-inventory-tri-
+program, accessed 08-2020.
+
+Pollution abatement equipment used at Holcim’s Sparrows Point plant consist of high temperature baghouses, and
+bin vents and water sprinklers to control particulate matter and dust generation.
+
+References
+
+1. ASTM C989/ C989M, Standard Specification for Slag Cement for Use in Concrete and Mortars.
+
+2. NSF International, Product Category Rules for Preparing an Environmental Product Declaration for Slag
+Cement, v2.0, December 2020.
+
+3. ISO 21930:2017 Sustainability in buildings and civil engineering works - Core rules for environmental product
+declarations of construction products and services.
+
+4. ISO 14040:2006/Amd 1:2020 Environmental management - Life cycle assessment - Principles and
+framework.
+
+5. ISO 14044:2006/Amd1:2017/Amd2:2020 Environmental management - Life cycle assessment -
+Requirements and guidelines.
+
+6. NSF International, Product Category Rule Environmental Product Declarations, PCR for Concrete, February
+2020.
+
+7. ISO 14025:2006 Environmental labeling and declarations - Type Ill environmental declarations - Principles
+and procedures.
+
+8. ISO 14021:2016 Environmental labels and declarations -- Self-declared environmental claims (Type Il
+environmental labelling).
+
+9. ASTM. (2020). General Program Instructions, Version: 8.0. ASTM Program Operator for Product Category
+Rules (PCR) and Environmental Product Declarations (EPDs).
+
+10. PRé 2019.SimaPro LCA Software v9.2.0.2, 2022.
+https://simapro.com/, accessed 08-2020.
+
+11. ACLCA 2019, Guidance to Calculating Non-LCIA Inventory Metrics in Accordance with ISO 21930:2017. The
+American Centre for Life Cycle Assessment. May, 2019.
+
+https://aclca.org/aclca-iso-21930-quidance/, accessed 02-2022.
+
+| ) HOLCIM

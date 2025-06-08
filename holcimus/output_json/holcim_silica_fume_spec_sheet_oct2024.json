@@ -1,0 +1,64 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim (US) Inc.",
+    "address": "8700 Bryn Mawr Avenue, Chicago, IL 60631",
+    "phone": "(888) 646-5246",
+    "email": "ask@holcim.com",
+    "website": "www.holcim.us",
+    "updated": "10.2024"
+  },
+  "product_description": {
+    "product_name": [
+      "Portland-Silica Fume Blended Cement",
+      "Portland-Limestone with Silica Fume Blended Cement"
+    ],
+    "usage": "Portland-silica fume blended cement is used in a wide variety of concrete construction, including structural, commercial, and architectural applications. It is suitable for High Performance Concrete (HPC) applications.",
+    "uses": [
+      "Bridges",
+      "Precast",
+      "Cast-in-place",
+      "Pre-stress or post-tension",
+      "Concrete Masonry Units",
+      "Ready-mix",
+      "Roads",
+      "Drains",
+      "Soil Stabilization",
+      "Grout",
+      "Tilt-Up",
+      "Masonry",
+      "Watertanks",
+      "Pipe"
+    ],
+    "packaging": "Regionally available and can be supplied in bulk quantities.",
+    "composition_and_materials": "Calcium silicate based clinker, gypsum, and silica fume ground to a fine powder.",
+    "blended_cement_types": [
+      "ASTM C595 Type IP portland-pozzolan cement with silica fume",
+      "ASTM C595 Type IT ternary blended cement with silica fume"
+    ],
+    "benefits": "Well suited for high performance concrete applications with enhanced strengths or durability properties.",
+    "limitations": "Good concreting practices are required. Variables affecting performance are beyond the control of the cement manufacturer."
+  },
+  "lca_information": {
+    "applicable_standards": [
+      "ASTM C595 Standard Specification for Blended Hydraulic Cements",
+      "AASHTO M 240 Standard Specification for Blended Hydraulic Cements",
+      "CSA A3000 Cementitious Materials Compendium A362 Blended Hydraulic Cement"
+    ],
+    "physical_chemical_properties": "Manufactured to conform to all applicable requirements for the designated type of ASTM C595, AASHTO M 240 and CSA A3000."
+  },
+  "transport_and_installation": {
+    "requirements": "Consult specific project requirements or applicable specifications and guides.",
+    "preparatory_work": "Deliver products in original, unopened containers. Store materials protected from harmful environmental conditions.",
+    "methods": "Proper proportioning, batching, mixing, placing, consolidating, finishing, and curing are critical. Water-cement ratio is especially critical."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "safety_precautions": "Refer to the applicable Safety Data Sheet (SDS). Avoid direct contact with skin. Use proper PPE.",
+    "availability_and_cost": "Regionally available. Contact the nearest Holcim (US) Inc. sales office for pricing.",
+    "warranty": "Material Certification Reports available upon request. No guarantee on finish work.",
+    "technical_services": "Available by contacting the nearest Holcim (US) Inc. sales office.",
+    "filing_systems": "Additional product information is available from the manufacturer."
+  }
+}

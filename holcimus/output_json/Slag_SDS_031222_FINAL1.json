@@ -1,0 +1,131 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "04/14/2015",
+    "supersedes_date": "06/14/2021",
+    "version": "4.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "ChemTel LLC 1-800-255-3924 (US and Canada)"
+  },
+  "product_description": {
+    "product_form": "Substance",
+    "product_name": "Slag",
+    "synonyms": [
+      "Air Cooled Slag",
+      "Blast Furnace Slag",
+      "Granulated blast furnace slag (GBFS)",
+      "Granulated Slag",
+      "Ground Granulated Blast Furnace Slag (GGBFS)",
+      "Hydraulic Slag Cement",
+      "Lafarge Slag",
+      "Litex Lightweight Aggregate",
+      "Metallic Slag",
+      "NewCem",
+      "Pelletized Slag",
+      "PROCEM",
+      "Slag Cement",
+      "True Lite Lightweight Aggregate",
+      "Vitrex Pelletized Slag"
+    ],
+    "intended_use": "Ground slag is used as a supplementary cementitious material for cement, concrete and concrete products. It is also used in soil stabilization and as filler in asphalt and other products that are widely used in construction. Pelletized slag, when appropriately graded, can be used as a lightweight aggregate in concrete mixtures and in other applications suitable for lightweight aggregate."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_considerations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations. This material is hazardous to the aquatic environment. Keep out of sewers and waterways. Avoid release to the environment."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Eye Dam. 1 H318",
+        "Carc. 1A H350",
+        "STOT SE 3 H335",
+        "Aquatic Acute 3 H402",
+        "Aquatic Chronic 3 H412"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H315 - Causes skin irritation.",
+          "H318 - Causes serious eye damage.",
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (inhalation).",
+          "H402 - Harmful to aquatic life.",
+          "H412 - Harmful to aquatic life with long lasting effects."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P261 - Avoid breathing dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P273 - Avoid release to the environment.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P302+P352 - IF ON SKIN: Wash with plenty of water.",
+          "P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+          "P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P310 - Immediately call a POISON CENTER or doctor.",
+          "P321 - Specific treatment (see section 4 on this SDS).",
+          "P332+P313 - If skin irritation occurs: Get medical advice/attention.",
+          "P362+P364 - Take off contaminated clothing and wash it before reuse.",
+          "P403+P233 - Store in a well-ventilated place. Keep container tightly closed.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      }
+    },
+    "composition_information": {
+      "substance": {
+        "name": "Slags, ferrous metal, blast furnace",
+        "cas_no": "65996-69-2",
+        "percentage": "100",
+        "ghs_ingredient_classification": "Not classified"
+      },
+      "contains": [
+        {
+          "name": "Calcium oxide",
+          "cas_no": "1305-78-8",
+          "percentage": "30-50",
+          "ghs_ingredient_classification": [
+            "Skin Irrit. 2, H315",
+            "Eye Dam. 1, H318",
+            "STOT SE 3, H335",
+            "Aquatic Acute 3, H402",
+            "Aquatic Chronic 3, H412"
+          ]
+        },
+        {
+          "name": "Magnesium oxide",
+          "cas_no": "1309-48-4",
+          "percentage": "<20",
+          "ghs_ingredient_classification": "Not classified"
+        },
+        {
+          "name": "Quartz",
+          "cas_no": "14808-60-7",
+          "percentage": "<1",
+          "ghs_ingredient_classification": [
+            "Carc. 1A, H350",
+            "STOT SE 3, H335",
+            "STOT RE 1, H372"
+          ]
+        }
+      ]
+    }
+  }
+}

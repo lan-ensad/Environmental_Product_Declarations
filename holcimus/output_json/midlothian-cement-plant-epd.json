@@ -1,0 +1,108 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US), Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 178",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3). Facility and product-specific.",
+    "applicable_countries": "United States",
+    "date_of_issue": "02/26/2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement"
+  },
+  "product_description": {
+    "facility_name": "Holcim (US), Midlothian Plant",
+    "facility_address": "1800 Dove Lane, Midlothian, TX 76065",
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_definition": "Portland and Blended cements",
+    "product_types": [
+      "Portland Cement Type I",
+      "Portland Cement Type II",
+      "Blended Cement Type IL"
+    ],
+    "inputs": {
+      "Portland Type I/II": {
+        "Clinker": "90%",
+        "Gypsum": "5%",
+        "Limestone": "4%",
+        "Other": "1%"
+      },
+      "Portland Type I/II Low Alkali": {
+        "Clinker": "90%",
+        "Gypsum": "5%",
+        "Limestone": "4%",
+        "Other": "1%"
+      },
+      "Blended Type IL": {
+        "Clinker": "84%",
+        "Gypsum": "5%",
+        "Limestone": "10%",
+        "Other": "1%"
+      }
+    },
+    "applicable_standards": [
+      "ASTM C150 / C150M - 20",
+      "ASTM C595 / C595M - 20",
+      "ASTM C1157 / C1157M - 20",
+      "AASHTO M 85-20"
+    ]
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "modules_covered": "A1-A3",
+    "cut_off_criteria": "NSF PCR, Section 7.1.8 and ISO 21930, 7.1.8",
+    "data_collection": "Gate-to-gate input/output flow data for 2019",
+    "allocation_rules": "ISO 14044 Clause 4.3.4, NSF PCR, ISO 21930 section 7.2",
+    "data_quality_requirements": {
+      "technology_coverage": "High",
+      "geographic_coverage": "High",
+      "time_coverage": "2019",
+      "completeness": "All relevant processes considered",
+      "consistency": "High",
+      "reproducibility": "Internal possible, external not possible",
+      "transparency": "High",
+      "uncertainty": "Sensitivity check conducted"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II": "938 kg CO2 eq",
+      "Portland Type I/II Low Alkali": "938 kg CO2 eq",
+      "Blended Type IL": "883 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type I/II": "473 kg CO2 eq",
+      "Portland Type I/II Low Alkali": "473 kg CO2 eq",
+      "Blended Type IL": "441 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "alternative_fuels": "Scrap tires and plastic derived fuel",
+    "recycling_and_recycled_content": "Modeled using the cut-off rule"
+  },
+  "additional_info": {
+    "environmental_protection_and_equipment": "High and low temperature baghouses, cartridge filters, bin vents, SNCR, SCR, wet scrubber, RTO",
+    "references": [
+      "ASTM C1157 / C1157M — 20",
+      "NSF International, Product Category Rule Environmental Product Declarations, V3.1, September 2020",
+      "ISO 21930:2017",
+      "ISO 14040:2006/Amd1:2020",
+      "ISO 14044:2006/Amd1:2017/Amd2:2020",
+      "NSF International, Product Category Rule Environmental Product Declarations, PCR for Concrete, February 2020",
+      "ISO 14025:2006",
+      "ISO 14021:2016",
+      "ASTM Program Operator Rules, v.8.0, 04/29/2020",
+      "PRé 2019.SimaPro LCA Software v9.1.1.1, September 2020",
+      "ACLCA 2019, Guidance to Calculating Non-LCIA Inventory Metrics in Accordance with ISO 21930:2017",
+      "LEED v4, Building Design and Construction Guide (BD+C), MR Credit",
+      "LEED v4.1, Building Design and Construction Guide (BD+C), MR Credit",
+      "U.S. EPA, Emissions & Generation Resource Integrated Database (eGRID)",
+      "WBCSD CSI 2013: CO2 and Energy Protocol Version 3.1"
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "12/18/2014",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Fly Ash and Bottom Ash",
+    "synonyms": [
+      "Anthracite Coal Fly Ash",
+      "Ash",
+      "Bituminous Coal Fly Ash",
+      "Bottom Ash",
+      "Class C Fly Ash",
+      "Class F Fly Ash",
+      "Coal Fly Ash",
+      "Lafarge Fly Ash and Bottom Ash",
+      "Lignite Coal Fly Ash",
+      "Subbituminous Coal Fly Ash",
+      "Type CH Fly Ash",
+      "Type CI Fly Ash",
+      "Type F Fly Ash"
+    ],
+    "intended_use": "Used as a supplementary cementitious or pozzolanic material for cement, concrete and concrete products. Also used in soil stabilization, remediation and as filler in asphalt and other products widely used in construction.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us",
+      "emergency_phone": "1-800-255-3924"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "dot": "Not regulated for transport",
+      "imdg": "Not regulated for transport",
+      "iata": "Not regulated for transport",
+      "tdg": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Carc. 1A H350",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Ashes, residues",
+          "product_identifier": "CAS-No. 68131-74-8",
+          "percentage": "<100"
+        },
+        {
+          "name": "Quartz",
+          "product_identifier": "CAS-No. 14808-60-7",
+          "percentage": "<10"
+        }
+      ]
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "Gray/black or brown/tan powder. May contain solidified masses",
+      "odor": "Odorless",
+      "pH": "4-12",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "specific_gravity": "2.0-2.9 (water =1)",
+      "solubility": "Water: <5 % (slightly soluble)"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "05/29/2015",
+    "supersedes_date": "06/14/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Windguard",
+    "intended_use": "Evaporation reducer for concrete flatwork to help reduce surface moisture evaporation.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us"
+    },
+    "emergency_phone": "1-800-255-3924 (US and Canada)"
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Muta. 1B H340",
+        "Carc. 1B H350",
+        "Repr. 2 H361"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H340 - May cause genetic defects.",
+          "H350 - May cause cancer.",
+          "H361 - Suspected of damaging fertility or the unborn child."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions."
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Water",
+          "synonyms": "AQUA",
+          "cas_no": "7732-18-5",
+          "percentage": ">99",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Solvent naphtha, petroleum, light aromatic",
+          "cas_no": "64742-95-6",
+          "percentage": "<1",
+          "classification": [
+            "Flam. Liq. 1, H224",
+            "Skin Irrit. 2, H315",
+            "Muta. 1B, H340",
+            "Carc. 1B, H350",
+            "Repr. 2, H361",
+            "STOT SE 3, H336",
+            "Asp. Tox. 1, H304",
+            "Aquatic Acute 2, H401",
+            "Aquatic Chronic 2, H411"
+          ]
+        }
+      ]
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Liquid",
+      "appearance": "Opaque, yellowish",
+      "odor": "Mild",
+      "freezing_point": "0 °C (32 °F)",
+      "boiling_point": "100 °C (212 °F)",
+      "flash_point": "Non-combustible",
+      "specific_gravity": "1.01 (water =1)",
+      "voc_content": "<1%"
+    },
+    "toxicological_information": {
+      "acute_toxicity": "Not classified",
+      "germ_cell_mutagenicity": "May cause genetic defects.",
+      "carcinogenicity": "May cause cancer.",
+      "reproductive_toxicity": "Suspected of damaging fertility or the unborn child."
+    },
+    "ecological_information": {
+      "ecology_general": "Not classified.",
+      "persistence_and_degradability": "Not established.",
+      "bioaccumulative_potential": "Not established."
+    }
+  }
+}

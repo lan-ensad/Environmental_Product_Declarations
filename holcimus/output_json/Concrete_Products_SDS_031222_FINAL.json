@@ -1,0 +1,122 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "04/21/2015",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "ChemTel LLC 1-800-255-3924"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Concrete Products",
+    "synonyms": [
+      "Concrete Block",
+      "Ductal® Panels",
+      "Insul-Core Building Wall Panels",
+      "Lafarge Concrete Products",
+      "Lafarge Pipe",
+      "Lintels",
+      "Pavers",
+      "Precast Concrete",
+      "Precast Panels",
+      "Precast Pipe",
+      "Sanitary Pipe",
+      "Storm Pipe"
+    ],
+    "intended_use": "Concrete products are used in a wide variety of applications in buildings and civil engineering projects."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Eye Dam. 1 H318",
+        "Skin Sens. 1 H317",
+        "Carc. 1A H350",
+        "STOT SE 3 H335",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H315 - Causes skin irritation.",
+          "H317 - May cause an allergic skin reaction.",
+          "H318 - Causes serious eye damage.",
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P272 - Contaminated work clothing should not be allowed out of the workplace.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P302+P352 - IF ON SKIN: Wash with plenty of water.",
+          "P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+          "P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P310 - Immediately call a POISON CENTER or doctor.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P321 - Specific treatment (see section 4 on this SDS).",
+          "P333+P313 - If skin irritation or rash occurs: Get medical advice/attention.",
+          "P362+P364 - Take off contaminated clothing and wash it before reuse.",
+          "P403+P233 - Store in a well-ventilated place. Keep container tightly closed.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, and international regulations."
+        ]
+      }
+    },
+    "composition_information": {
+      "quartz": {
+        "cas_no": "14808-60-7",
+        "percentage": "< 90",
+        "classification": [
+          "Carc. 1A, H350",
+          "STOT SE 3, H335",
+          "STOT RE 1, H372"
+        ]
+      },
+      "calcium_hydroxide": {
+        "cas_no": "1305-62-0",
+        "percentage": "15-25",
+        "classification": [
+          "Skin irrit. 2, H315",
+          "Eye Dam. 1, H318",
+          "STOT SE 3, H335"
+        ]
+      },
+      "cement_portland": {
+        "cas_no": "65997-15-1",
+        "percentage": "< 10",
+        "classification": [
+          "Skin Irrit. 2, H315",
+          "Eye Dam. 1, H318",
+          "Skin Sens. 1, H317",
+          "STOT SE 3, H335"
+        ]
+      }
+    }
+  }
+}

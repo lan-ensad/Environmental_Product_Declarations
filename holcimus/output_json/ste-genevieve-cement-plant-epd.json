@@ -1,0 +1,84 @@
+{
+  "epd_metadata": {
+    "epd_commissioner": "Holcim (US), Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact_person": "Sonia Gagnon",
+    "contact_email": "sonia.gagnon@holcim.com",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 175",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "02/26/2021",
+    "validity_period": "5 years",
+    "reference_year": "2019",
+    "verification": "External",
+    "verified_by": "Thomas P. Gloria, Ph.D.",
+    "pcr": "NSF International, Product Category Rules for Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco) Cements, V3.2, September 2021"
+  },
+  "product_description": {
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_definition": "Portland cement is defined as a hydraulic cement produced by pulverizing clinker, consisting essentially of crystalline hydraulic calcium silicates, and usually containing one or more of the following: water, calcium sulfate, up to 5% limestone, and processing additions.",
+    "product_types": [
+      "Portland Cement Type I",
+      "Portland Cement Type II",
+      "Blended Cement Type IL",
+      "Blended Cement Type IT"
+    ],
+    "facility_name": "Holcim (US), Ste. Genevieve Cement Plant",
+    "facility_address": "2942 US Highway 61, Bloomsdale, MO 63627",
+    "fremont_terminal": "3350 N Broad St, Fremont, NE 68026",
+    "declared_unit": "1 metric ton of cement"
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "modules_covered": "A1-A3",
+    "cut_off_criteria": "All input/output data required were collected and included in the LCI modelling.",
+    "data_collection": "Gate-to-gate input/output flow data were collected for the reference year 2019.",
+    "allocation_rules": "Recycling and recycled content are modeled using the cut-off rule.",
+    "data_quality": {
+      "technology_coverage": "High",
+      "geographic_coverage": "High",
+      "time_coverage": "High",
+      "completeness": "All relevant, specific processes were considered and modeled.",
+      "consistency": "Crosschecks concerning the plausibility of mass and energy flows were continuously conducted.",
+      "reproducibility": "Internal reproducibility is possible.",
+      "transparency": "Activity and LCI datasets are disclosed in the project report."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II Low Alkali": "748 kg CO2 eq",
+      "Blended Type IL": "724 kg CO2 eq",
+      "Blended Type IT (P25)(L6)": "608 kg CO2 eq",
+      "Blended Type IT (S30)(P10)": "514 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type I/II Low Alkali": "474 kg CO2 eq",
+      "Blended Type IL": "457 kg CO2 eq",
+      "Blended Type IT (P25)(L6)": "342 kg CO2 eq",
+      "Blended Type IT (S30)(P10)": "273 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": {
+      "Portland Type I/II Low Alkali": "146 kg",
+      "Blended Type IL": "133 kg",
+      "Blended Type IT (P25)(L6)": "100 kg",
+      "Blended Type IT (S30)(P10)": "421 kg"
+    },
+    "non_renewable_secondary_fuels": {
+      "Portland Type I/II Low Alkali": "54 MJ LHV",
+      "Blended Type IL": "52 MJ LHV",
+      "Blended Type IT (P25)(L6)": "39 MJ LHV",
+      "Blended Type IT (S30)(P10)": "31 MJ LHV"
+    }
+  },
+  "additional_info": {
+    "environmental_protection": "Holcim manufacturing facilities comply with the U.S. environmental protection agency (EPA) regulations.",
+    "air_pollution_abatement": "High and low temperature baghouses, cartridge filters, and bin vents are used at Holcim's Ste. Genevieve plant."
+  }
+}

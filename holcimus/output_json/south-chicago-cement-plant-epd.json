@@ -1,0 +1,76 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US) Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact_person": "Sonia Gagnon",
+    "contact_email": "sonia.gagnon@holcim.com",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 298",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States and Canada",
+    "date_of_issue": "31.03.2022",
+    "validity_period": "5 years"
+  },
+  "product_description": {
+    "product_group_and_name": "Slag Cement, UNSD CPC 3744, UNSPSC Code 30111601",
+    "product_definition": "Slag cement, UNSD CPC 3744 and UNSPSC Code 30111601, is defined as granulated blast-furnace slag that has been ground to cement fineness, with or without additions, and is a hydraulic cement.",
+    "product_applicability": "Slag cement is a supplementary cementitious material (SCM) typically used in concretes and mortars to replace a portion of the portland cement in, and augment the performance of, concrete and mortars.",
+    "facility_name": "Holcim South Chicago Plant, 2150 East 130th Street, Chicago, IL 60633",
+    "inputs": {
+      "slag_granules": "99.9%",
+      "grinding_aids": "<0.7%"
+    },
+    "applicable_standards": [
+      "ASTM C989/C989M",
+      "AASHTO M 302",
+      "CSA A3001",
+      "ASTM C125",
+      "ASTM C596/C595M",
+      "AASHTO M 240M/M 240",
+      "ASTM C219"
+    ],
+    "declared_unit": "1 metric ton of slag cement"
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate covering the production stage (A1-A3)",
+    "cut_off_criteria": "Production, manufacture, and construction of manufacturing capital goods and infrastructure; Production and manufacture of production equipment, delivery vehicles, and laboratory equipment; Personnel-related activities; Energy and water use related to company management and sales activities.",
+    "data_collection": "Gate-to-gate input/output flow data collected for East Chicago granulation and South Chicago slag cement manufacture for the reference year 2019.",
+    "allocation_rules": "Allocation follows ISO 14044 Clause 4.3.4, NSF PCR, and ISO 21930 section 7.2. 'Mass' was used as the physical parameter for allocating flows.",
+    "data_quality_requirements": {
+      "technology_coverage": "High",
+      "geographic_coverage": "High",
+      "time_coverage": "2019",
+      "completeness": "All relevant processes considered and modeled.",
+      "consistency": "Relevant background materials and processes taken from US LCI Database and ecoinvent v 3.5.",
+      "reproducibility": "Internal reproducibility possible; external reproducibility not possible.",
+      "transparency": "High level of transparency provided throughout the report.",
+      "uncertainty": "Sensitivity check conducted."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "95 kg CO2 eq",
+    "ozone_depletion_potential": "1.1E-05 kg CFC-11 eq",
+    "smog_formation_potential": "3.6 kg O3 eq",
+    "acidification_potential": "0.28 kg SO2 eq",
+    "eutrophication_potential": "0.25 kg N eq",
+    "abiotic_depletion_potential_elements": "1.0E-04 kg Sb eq",
+    "abiotic_depletion_potential_fossil": "129 MJ surplus",
+    "renewable_primary_resources_energy": "42.7 MJ LHV",
+    "non_renewable_primary_resources_energy": "1,558 MJ LHV",
+    "secondary_materials": "1,137 kg",
+    "consumption_of_freshwater": "4.8E-03 m3"
+  },
+  "recycled_materials_handling": {
+    "iron_blast_furnace_slag": "Recognized as a recovered material",
+    "secondary_materials": "1,137 kg"
+  },
+  "additional_info": {
+    "environmental_protection_and_equipment": "Holcim manufacturing facilities comply with U.S. environmental protection requirements, monitor and report emissions to air during the manufacturing process.",
+    "certifications": "ISO 9001 and 14001 certified",
+    "pollution_abatement_equipment": "High temperature baghouses, cartridge filters, bin vents, and water sprinklers."
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "12/16/2014",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us"
+    },
+    "emergency_phone": "1-800-255-3924"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Igneous or Granitic Rock",
+    "synonyms": [
+      "Aggregates",
+      "Asphalt Sand",
+      "Basalt",
+      "Base Material",
+      "Concrete Sand",
+      "Crushed Rock",
+      "Crushed Run",
+      "Crushed Stone",
+      "Dense Graded Aggregate",
+      "Fill Sand",
+      "Gabbro",
+      "Golf Course Sand",
+      "Granite",
+      "Gravel",
+      "Rock",
+      "Manufactured Sand",
+      "Mason Sand"
+    ],
+    "intended_use": "Aggregate is used in the manufacture of bricks, mortar, cement, concrete, plasters, paving materials, and other construction applications."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "dot": "Not regulated for transport",
+      "imdg": "Not regulated for transport",
+      "iata": "Not regulated for transport",
+      "tdg": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Carc. 1A H350",
+        "STOTSE 3 H335",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P312 - Call a POISON CENTER or doctor if you feel unwell.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P403+P233 - Store in a well-ventilated place. Keep container tightly closed.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Mica",
+          "cas_no": "12001-26-2",
+          "percentage": "< 100",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Quartz",
+          "cas_no": "14808-60-7",
+          "percentage": "40 — 70",
+          "classification": [
+            "Carc. 1A, H350",
+            "STOT SE 3, H335",
+            "STOT RE 1, H372"
+          ]
+        }
+      ]
+    },
+    "exposure_controls": {
+      "control_parameters": {
+        "quartz": {
+          "acgih_oel_twa": "0.025 mg/m³",
+          "osha_pel_twa": "50 ug/m³",
+          "niosh_rel_twa": "0.05 mg/m³"
+        },
+        "mica": {
+          "acgih_oel_twa": "3 mg/m³",
+          "osha_pel_twa": "20 mppcf",
+          "niosh_rel_twa": "3 mg/m³"
+        }
+      },
+      "personal_protective_equipment": [
+        "Gloves",
+        "Protective clothing",
+        "Protective goggles",
+        "Respiratory protection"
+      ]
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "04/21/2015",
+    "supersedes_date": "07/28/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Blended Cement",
+    "synonyms": [
+      "API Class L well cement",
+      "Blended Cement (ASTM C595 & AASHTO M240) Types [P, IS, IT and IL",
+      "ENVIROBASE",
+      "ENVIROCORES",
+      "ENVIROSET",
+      "FortiCem",
+      "FortiMax",
+      "FortiPave",
+      "Hydraulic Cement (ASTM C1157) Types GU, HE, MS, HS, MH, LH",
+      "Lightweight Well Cement Types IS, IP, IT, GUb, HEb, MSb, HSb, MHb, LHb, GULb, MSLb, MHLb, HELb, HSLb",
+      "LowDense",
+      "MaxCemf",
+      "NewCem Plus",
+      "NewCem Slag Cement",
+      "OneCem",
+      "SF Cement",
+      "Silica Fume Cement",
+      "TerCem 3000",
+      "TerraCem",
+      "TerraFlow"
+    ],
+    "intended_use": "Cement is used as a binder in concrete and mortars that are widely used in construction. Cement is distributed in bags, totes and bulk shipment.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us"
+    },
+    "emergency_phone": "1-800-255-3924"
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "dot": "Not regulated for transport",
+      "imdg": "Not regulated for transport",
+      "iata": "Not regulated for transport",
+      "tdg": "Not regulated for transport"
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Eye Dam. 1 H318",
+        "Skin Sens. 1 H317",
+        "Carc. 1A H350",
+        "STOT SE 3 H335",
+        "STOT RE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H315 - Causes skin irritation.",
+          "H317 - May cause an allergic skin reaction.",
+          "H318 - Causes serious eye damage.",
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P272 - Contaminated work clothing should not be allowed out of the workplace.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P302+P352 - IF ON SKIN: Wash with plenty of water.",
+          "P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+          "P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P310 - Immediately call a POISON CENTER or doctor.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P321 - Specific treatment (see section 4 on this SDS).",
+          "P333+P313 - If skin irritation or rash occurs: Get medical advice/attention.",
+          "P362+P364 - Take off contaminated clothing and wash it before reuse.",
+          "P403+P233 - Store in a well-ventilated place. Keep container tightly closed.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      }
+    },
+    "composition": [
+      {
+        "name": "Cement, portland, chemicals",
+        "cas_no": "65997-15-1",
+        "percentage": "5-95",
+        "classification": [
+          "Skin Irrit. 2, H315",
+          "Eye Dam. 1, H318",
+          "Skin Sens. 1, H317",
+          "STOT SE 3, H335"
+        ]
+      },
+      {
+        "name": "Slags, ferrous metal, blast furnace",
+        "cas_no": "65996-69-2",
+        "percentage": "<95",
+        "classification": "Not classified"
+      },
+      {
+        "name": "Ashes, residues",
+        "cas_no": "68131-74-8",
+        "percentage": "<40",
+        "classification": "Not classified"
+      },
+      {
+        "name": "Limestone",
+        "cas_no": "1317-65-3",
+        "percentage": "<30",
+        "classification": "Not classified"
+      },
+      {
+        "name": "Kaolin",
+        "cas_no": "1332-58-7",
+        "percentage": "<20",
+        "classification": "Not classified"
+      },
+      {
+        "name": "Gypsum",
+        "cas_no": "13397-24-5",
+        "percentage": "1-10",
+        "classification": "Not classified"
+      },
+      {
+        "name": "Fumes, silica",
+        "cas_no": "69012-64-2",
+        "percentage": "<10",
+        "classification": "Not classified"
+      },
+      {
+        "name": "Quartz",
+        "cas_no": "14808-60-7",
+        "percentage": "<10",
+        "classification": [
+          "Carc. 1A, H350",
+          "STOT SE 3, H335",
+          "STOT RE 1, H372"
+        ]
+      },
+      {
+        "name": "Flue dust, portland cement",
+        "cas_no": "68475-76-3",
+        "percentage": "<10",
+        "classification": [
+          "Skin Irrit. 2, H315",
+          "Eye Dam. 1, H318",
+          "Skin Sens. 1, H317",
+          "STOT SE 3, H335"
+        ]
+      }
+    ],
+    "first_aid_measures": {
+      "general": "Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where possible).",
+      "inhalation": "When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty persists.",
+      "skin_contact": "Remove contaminated clothing. Drench affected area with soap and water for at least 15 minutes. Obtain medical attention if irritation/rash develops or persists. If exposed or concerned: Get medical advice/attention.",
+      "eye_contact": "Immediately rinse with water for at least 30 minutes. Remove contact lenses, if present and easy to do. Continue rinsing. Get immediate medical advice/attention.",
+      "ingestion": "Rinse mouth. Do NOT induce vomiting. Obtain emergency medical attention. Obtain medical attention."
+    },
+    "fire_fighting_measures": {
+      "suitable_extinguishing_media": "Water spray, dry chemical, foam, carbon dioxide.",
+      "unsuitable_extinguishing_media": "Do not use a heavy water stream. Use of heavy stream of water may spread fire.",
+      "special_hazards": {
+        "fire_hazard": "Not considered flammable but may burn at high temperatures.",
+        "explosion_hazard": "Product is not explosive.",
+        "reactivity": "Hazardous reactions will not occur under normal conditions."
+      },
+      "advice_for_firefighters": {
+        "precautionary_measures": "Exercise caution when fighting any chemical fire.",
+        "firefighting_instructions": "Use water spray or fog for cooling exposed containers.",
+        "protection_during_firefighting": "Do not enter fire area without proper protective equipment, including respiratory protection.",
+        "hazardous_combustion_products": "Calcium oxides. Iron oxides. Silicon oxides. Sulfur oxides."
+      }
+    },
+    "accidental_release_measures": {
+      "personal_precautions": "Do not handle until all safety precautions have been read and understood. Do not breathe dust. Do not get in eyes, on skin, or on clothing.",
+      "environmental_precautions": "Prevent entry to sewers and public waters.",
+      "methods_and_materials_for_containment_and_cleaning_up": "Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams. Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling or sweeping. Vacuum clean-up is preferred. If sweeping is required use a dust suppressant. Transfer spilled material to a suitable container for disposal. Contact competent authorities after a spill."
+    },
+    "handling_and_storage": {
+      "precautions_for_safe_handling": "Obtain special instructions before use. Do not handle until all safety precautions have been read and understood. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving work. Do not get in eyes, on skin, or on clothing. Do not breathe dust.",
+      "conditions_for_safe_storage": "Keep bulk and bagged cement dry until used. Stack bagged material in a secure manner to prevent falling. Bagged cement is heavy and poses risks such as sprains and strains to the back, arms, shoulders and legs during lifting and mixing. Handle with care and use appropriate control measures. Engulfment hazard. To prevent burial or suffocation, do not enter a confined space, such as a silo, bin, bulk truck, or other storage container or vessel that stores or contains cement. Cement can buildup or adhere to the walls of a confined space. The cement can release, collapse or fall unexpectedly. Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight, extremely high or low temperatures and incompatible materials. Store locked up/in a secure area.",
+      "incompatible_materials": "Acids, ammonium salts and aluminum metal. Cement dissolves in hydrofluoric acid, producing corrosive silicon tetrafluoride gas. Cement reacts with water to form silicates and calcium hydroxide. Silicates react with powerful oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride."
+    },
+    "exposure_controls": {
+      "control_parameters": {
+        "cement_portland_chemicals": {
+          "usa_acgih_oel_twa": "1 mg/m³ (particulate matter containing no asbestos and <1% crystalline silica, respirable particulate matter)",
+          "usa_osha_pel_twa": "15 mg/m³ (total dust), 5 mg/m³ (respirable fraction)",
+          "usa_niosh_rel_twa": "10 mg/m³ (total dust), 5 mg/m³ (respirable dust)"
+        },
+        "limestone": {
+          "usa_osha_pel_twa": "15 mg/m³ (total dust), 5 mg/m³ (respirable fraction)",
+          "usa_niosh_rel_twa": "10 mg/m³ (total dust), 5 mg/m³ (respirable dust)"
+        },
+        "kaolin": {
+          "usa_acgih_oel_twa": "2 mg/m³ (particulate matter containing no asbestos and <1% crystalline silica, respirable particulate matter)",
+          "usa_osha_pel_twa": "15 mg/m³ (total dust), 5 mg/m³ (respirable fraction)",
+          "usa_niosh_rel_twa": "10 mg/m³ (total dust), 5 mg/m³ (respirable dust)"
+        },
+        "gypsum": {
+          "usa_acgih_oel_twa": "10 mg/m³ (inhalable particulate matter (Calcium sulfate))",
+          "usa_osha_pel_twa": "15 mg/m³ (total dust), 5 mg/m³ (respirable fraction)",
+          "usa_niosh_rel_twa": "10 mg/m³ (total dust), 5 mg/m³ (respirable dust)"
+        },
+        "fumes_silica": {
+          "british_columbia_oel_twa": "4 mg/m³ (total), 1.5 mg/m³ (respirable)"
+        },
+        "quartz": {
+          "usa_acgih_oel_twa": "0.025 mg/m³ (respirable particulate matter)",
+          "usa_osha_pel_twa": "50 µg/m³ (Respirable crystalline silica)"
+        }
+      },
+      "exposure_controls": {
+        "appropriate_engineering_controls": "Emergency eye wash fountains and safety showers should be available in the immediate vicinity of any potential exposure. Ensure adequate ventilation, especially in confined areas. Ensure all national/local regulations are observed.",
+        "personal_protective_equipment": "Gloves. Protective clothing. Protective goggles. Face shield. Insufficient ventilation: wear respiratory protection."
+      }
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "Gray or white powder",
+      "odor": "Odorless",
+      "ph": "12-13",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "specific_gravity": "3.0-3.2 (Water =1)",
+      "solubility": "Water: 0.1 —-1 % (slightly soluble)"
+    },
+    "stability_and_reactivity": {
+      "reactivity": "Hazardous reactions will not occur under normal conditions.",
+      "chemical_stability": "Stable under recommended handling and storage conditions.",
+      "possibility_of_hazardous_reactions": "Hazardous polymerization will not occur.",
+      "conditions_to_avoid": "Direct sunlight, extremely high or low temperatures, and incompatible materials.",
+      "incompatible_materials": "Acids, ammonium salts and aluminum metal. Cement dissolves in hydrofluoric acid, producing corrosive silicon tetrafluoride gas. Cement reacts with water to form silicates and calcium hydroxide. Silicates react with powerful oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.",
+      "hazardous_decomposition_products": "Thermal decomposition may produce: Calcium oxides. Silicon oxides. sulfur oxides."
+    },
+    "toxicological_information": {
+      "acute_toxicity": "Not classified",
+      "skin_corrosion_irritation": "Causes skin irritation.",
+      "eye_damage_irritation": "Causes serious eye damage.",
+      "respiratory_or_skin_sensitization": "May cause an allergic skin reaction.",
+      "carcinogenicity": "May cause cancer (Inhalation).",
+      "specific_target_organ_toxicity_repeated_exposure": "Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation).",
+      "specific_target_organ_toxicity_single_exposure": "May cause respiratory irritation."
+    },
+    "ecological_information": {
+      "toxicity": "Not classified.",
+      "persistence_and_degradability": "Not established.",
+      "bioaccumulative_potential": "Not established.",
+      "other_adverse_effects": "Avoid release to the environment."
+    },
+    "disposal_considerations": {
+      "waste_treatment_methods": "Dispose of contents/container in accordance with local, regional, national, and international regulations",
+      "additional_information": "Container may remain hazardous when empty. Continue to observe all precautions."
+    },
+    "regulatory_information": {
+      "us_federal_regulations": {
+        "sara_section_311_312_hazard_classes": [
+          "Health hazard - Serious eye damage or eye irritation",
+          "Health hazard - Specific target organ toxicity (single or repeated exposure)",
+          "Health hazard - Skin corrosion or Irritation",
+          "Health hazard - Carcinogenicity",
+          "Health hazard - Respiratory or skin sensitization"
+        ]
+      },
+      "us_state_regulations": {
+        "california_proposition_65": "WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer. For more information go to www.P65Warnings.ca.gov."
+      },
+      "canadian_regulations": {
+        "listed_on_canadian_dsl": [
+          "Cement, portland, chemicals",
+          "Slags, ferrous metal, blast furnace",
+          "Ashes, residues",
+          "Kaolin",
+          "Gypsum",
+          "Fumes, silica",
+          "Quartz",
+          "Flue dust, portland cement"
+        ]
+      }
+    }
+  }
+}

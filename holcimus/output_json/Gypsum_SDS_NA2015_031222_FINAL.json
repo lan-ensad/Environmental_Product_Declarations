@@ -1,0 +1,123 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "12/16/2014",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Gypsum",
+    "synonyms": [
+      "Alabaster",
+      "Calcium Sulfate Dihydrate",
+      "Gypsum Stone",
+      "Land Plaster",
+      "Lafarge Gypsum",
+      "Native Calcium Sulfate",
+      "Terra Alba"
+    ],
+    "intended_use": "Gypsum is used in the manufacturing of drywall, drywall compounds, and cement, concrete and concrete products.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us",
+      "emergency_phone": "1-800-255-3924"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Carc. 1A H350",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      },
+      "other_hazards": "Repeated or prolonged exposure to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Gypsum",
+          "cas_no": "13397-24-5",
+          "percentage": "90-99",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Limestone",
+          "cas_no": "1317-65-3",
+          "percentage": "< 10",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Quartz",
+          "cas_no": "14808-60-7",
+          "percentage": "<2",
+          "classification": [
+            "Carc. 1A, H350",
+            "STOT SE 3, H335",
+            "STOT RE 1, H372"
+          ]
+        }
+      ]
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "White or off-white",
+      "odor": "Odorless",
+      "pH": "5-8",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "relative_density": "2.3 (water=1)",
+      "solubility": "Negligible"
+    },
+    "regulatory_information": {
+      "us_federal_regulations": {
+        "sara_section_311_312": [
+          "Health hazard - Carcinogenicity",
+          "Health hazard - Specific target organ toxicity (single or repeated exposure)"
+        ]
+      },
+      "us_state_regulations": {
+        "california_proposition_65": "This product can expose you to Quartz, which is known to the State of California to cause cancer."
+      },
+      "canadian_regulations": {
+        "quartz": "Listed on the Canadian DSL (Domestic Substances List)",
+        "limestone": "Listed on the Canadian NDSL (Non-Domestic Substances List)",
+        "gypsum": "Listed on the Canadian DSL (Domestic Substances List)"
+      }
+    }
+  }
+}

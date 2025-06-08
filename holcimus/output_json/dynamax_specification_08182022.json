@@ -1,0 +1,54 @@
+{
+  "epd_metadata": {
+    "document_title": "MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)",
+    "document_date": "2022-08-9",
+    "manufacturer": "Holcim (US) Inc.",
+    "product_name": "DYNAMax",
+    "document_url": "https://www.holcim.us/dynamax"
+  },
+  "product_description": {
+    "product_type": "High Performance Concrete (HPC)",
+    "applications": "Various structural applications",
+    "features": [
+      "Alternative to conventional concrete",
+      "Efficient and sustainable design",
+      "Resource reduction",
+      "Prolonged life cycles"
+    ]
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "installation_guidelines": [
+      "Protect freshly placed concrete from premature drying and excessive cold or hot temperatures.",
+      "Comply with ACI301 (ACI301M) and ACI306.1 for cold weather protection during curing.",
+      "Comply with ACI 301 (ACI 301M) and ACI 305.1 (ACI 305.1M) for hot-weather protection during curing."
+    ]
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "quality_assurance": {
+      "manufacturer_qualifications": "Experienced in production of high-performance concrete materials.",
+      "testing_agency": "Independent third-party testing agency qualified in accordance with ASTM C1077 and ASTM E329."
+    },
+    "concrete_properties": {
+      "compressive_strength": "8,000-17,000 psi",
+      "permeability": "<750 Coulombs",
+      "modulus_of_elasticity": "25,800 ksi"
+    },
+    "admixtures": [
+      "Water-Reducing Admixture: ASTM C494/C494M, Type A",
+      "Retarding Admixture: ASTM C494/C494M, Type B",
+      "High-Range, Water-Reducing Admixture: ASTM C494/C494M, Type F"
+    ],
+    "cement_and_supplementary_materials": [
+      "Portland Cement: ASTM C150/C150M",
+      "Blended Cement: ASTM C595/C595M",
+      "Slag Cement: ASTM C989/C989M",
+      "Fly Ash: ASTM C618",
+      "Silica Fume: ASTM C1240"
+    ],
+    "aggregate": "ASTM C33/C33M, coarse aggregate or better, graded"
+  }
+}

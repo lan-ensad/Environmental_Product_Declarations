@@ -1,0 +1,775 @@
+Deicing Agent
+
+Cu H O LC | MI Safety Data Sheet
+OV According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 12/16/2014 Supersedes Date: 05/12/2021 Version: 3.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+
+Product Form: Mixture
+
+Product Name: Deicing Agent
+
+Synonyms: Calcium Sand, Calcium Sand M1000
+
+1.2. intended Use of the Product
+
+Calcium sand products are used for deicing and traction. DO NOT use this product for abrasive blasting. This material safety data
+sheet and the information contained herein were not developed for abrasive blasting.
+1.3. Name, Address, and Telephone of the Responsible Party
+
+Company
+
+Holcim US
+
+8700 West Bryn Mawr Avenue, Suite 300
+
+Chicago, IL 60631
+
+Information: (888) 646-5246 (9am to 5pm CST)
+
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number  : ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+
+Eye Irrit. 2 H319
+Carc. 1A H350
+STOT SE 3 H335
+STOTRE 1 H372
+
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+
+GHS-US/CA Labeling
+
+Hazard Pictograms (GHS-US/CA)
+
+GHSO7 GHSO8
+Signal Word (GHS-US/CA) : Danger
+Hazard Statements (GHS-US/CA) : H319 - Causes serious eyeirritation.
+H335 - May cause respiratory irritation.
+H350 - May cause cancer (Inhalation).
+H372 - Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+P260 - Do not breathe dust.
+P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.
+P270 - Do not eat, drink or smoke when using this product.
+P271 - Use only outdoors or in a well-ventilated area.
+P280 - Wear protective gloves, protective clothing, and eye protection.
+P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for
+
+03/12/2022 EN (English US) 1/9
+Deicing Agent
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+breathing.
+
+P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+
+P312 - Call a POISON CENTER or doctor if you feel unwell.
+
+P314 - Get medical advice/attention if you feel unwell.
+
+P337+P313 - If eyeirritation persists: Get medical advice/attention.
+
+P403+P233 - Store in a well-ventilated place. Keep container tightly closed.
+
+P405 - Store locked up.
+
+P501 - Dispose of contents/container in accordance with local, regional, national,
+territorial, provincial, and international regulations.
+
+2.3. Other Hazards
+
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne)
+crystalline silica dust will cause lung damage in the form of silicosis. Sÿymptoms will include progressively more difficult breathing,
+cough, fever, and weight loss.
+
+2.4. Unknown Acute Toxicity (GHS-US/CA)
+
+No data available
+
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+3.1. Substance
+Not applicable
+
+3.2. Mixture
+
+Name Synonyms Product Identifier % * GHS Ingredient Classification
+Quartz Quartz (SiO2) / Silica, crystalline, quartz / | (CAS-No.) 14808-60-7 | 80-99 | Carc. 1A, H350
+
+Crystalline silica, quartz / .alpha.-Quartz / STOT SE 3, H335
+
+Silica, crystalline, .alpha.-quartz / ’
+
+Crystalline silica in the form of quartz / STOT RE 1, H372
+
+Quartz, silica / Quartz (respirable fraction)
+/ Silica dust / Silica, crystalline-
+.alpha.quartz / Silica, quartz / Silica,
+.alpha.-quartz / Silicon dioxide / Silica,
+crystalline / Quartz (crystalline silica) /
+Silica dust, crystalline / QUARTZ POWDER
+/ Silica, crystalline (quartz)
+
+Calcium chloride Calcium chloride (CaCl2) / Calcium (CAS-No.) 10043-52-4 | 10-15 | Acute Tox. 4 (Oral), H302
+chloride, anhydrous / Calcium dichloride / Eve Irrit. 2A, H319
+Calcium chloride anhydrous y FT?
+
+Magnesium hydroxide Magnesium dihydroxide / Magnesium (CAS-No.) 1309-42-8 | 10-15 | Not classified
+hydroxide (Mg(OH)2) / Milk of magnesia
+
+Sodium chloride Sea salt / Sodium chloride (NaCl) / Salt / (CAS-No.) 7647-14-5 1-5 Not classified
+Sodium salt of hydrochloric acid
+
+Potassium chloride Potassium chloride (KCI) / Hydrochloric (CAS-No.) 7447-40-7 | 1-5 Not classified
+acid, potassium salt
+
+Magnesium chloride Magnesium chloride (MgCI2) / (CAS-No.) 7786-30-3 | 1-5 Not classified
+
+Magnesium chloride, anhydrous /
+Magnesium dichloride / Magnesium
+chloride anhydrous
+
+Full text of H-phrases: see section 16
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+by volume percentage (v/v%).
+
+SECTION 4: FIRST AID MEASURES
+
+4.1. Description of First-aid Measures
+
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+possible).
+
+Inhalation: When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty
+persists.
+
+Skin Contact: Immediately drench affected area with water for at least 15 minutes. Remove contaminated clothing. If exposed or
+concerned: Get medical advice/attention.
+
+03/12/2022 EN (English US) 2/9
+
+Deicing Agent
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Eye Contact: Immediately rinse with water for at least 15 minutes. Remove contact lenses, if present and easy to do. Continue
+rinsing. Obtain medical attention if irritation develops or persists.
+
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain medical attention.
+
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+
+General: Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation). May cause
+cancer by inhalation. . May cause respiratoryirritation. Causes serious eyeirritation.
+
+Inhalation: Irritation of the respiratory tract and the other mucous membranes. Repeated or prolonged exposure to respirable
+(airborne) crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include progressively more difficult
+breathing, cough, fever, and weight loss.
+
+Skin Contact: Prolonged exposure may cause skin irritation.
+
+Eye Contact: Contact causes severeirritation with redness and swelling of the conjunctiva.
+
+Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other
+non-malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+
+Suitable Extinguishing Media: Water spray, dry chemical, foam, carbon dioxide.
+
+Unsuitable Extinguishing Media: Do not use a heavy water stream. Use of heavy stream of water may spread fire.
+
+5.2. Special Hazards Arising From the Substance or Mixture
+
+Fire Hazard: Not considered flammable but may burn at high temperatures.
+
+Explosion Hazard: Product is not explosive.
+
+Reactivity: Hazardous reactions will not occur under normal conditions.
+
+5.3. Advice for Firefighters
+
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+
+Firefighting Instructions: Use water spray or fog for cooling exposed containers.
+
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Calcium oxides. Chlorides. Magnesium oxides. Potassium oxides. Silicon oxides. Sodium oxides.
+5.4. Reference to Other Sections
+
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+
+General Measures: Do not handle until all safety precautions have been read and understood. Do not breathe dust. Do not get in
+eyes, on skin, or on clothing.
+
+6.1.1. For Non-Emergency Personnel
+
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+
+Emergency Procedures: Evacuate unnecessary personnel.
+
+6.1.2. For Emergency Personnel
+
+Protective Equipment: Equip cleanup crew with proper protection.
+
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+
+For Containment: Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams.
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling or
+sweeping. Transfer spilled material to a suitable container for disposal. Contact competent authorities after a spill.
+
+6.4. Reference to Other Sections
+
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+03/12/2022 EN (English US) 3/9
+Deicing Agent
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+
+Additional Hazards When Processed: Cutting, crushing or grinding crystalline silica-bearing materials may release respirable
+crystalline silica, a known carcinogen. Use all appropriate measures of dust control or suppression and Personal Protective.
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Avoid contact with skin, eyes and clothing. Do not breathe dust. Wash hands and other exposed areas with mild soap
+and water before eating, drinking or smoking and when leaving work.
+
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+
+Technical Measures: Comply with applicable regulations.
+
+Storage Conditions: Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight,
+extremely high or low temperatures and incompatible materials. Store locked up/in a secure area.
+
+Incompatible Materials: Aggregate dissolves in hydrofluoric acid, producing corrosive silicon tetrafluoride gas. Silicates react with
+powerful oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+
+7.3. Specific End Use(s)
+
+Calcium sand products are used for deicing and traction. DO NOT use this product for abrasive blasting. This material safety data
+sheet and the information contained herein were not developed for abrasive blasting.
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+8.1. Control Parameters
+
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+Quartz (14808-60-7)
+
+USA ACGIH ACGIH OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | A2 - Suspected Human Carcinogen
+
+USA OSHA OSHA PEL (TWA) [1] 50 ug/m* (Respirable crystalline silica)
+
+USA OSHA OSHA PEL (TWA) [2] (250)/(%Si02+5) mppcf TWA (respirable fraction)
+(10)/(%Si02+2) mg/m° TWA (respirable fraction)
+(For any operations or sectors for which the respirable crystalline silica
+standard, 1910.1053, is stayed or otherwise not in effect, See 20 CFR
+1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL (TWA) 0.05 mg/m* (respirable dust)
+
+USA IDLH IDLH 50 mg/m* (respirable dust)
+
+Alberta OEL TWA 0.025 mg/m' (respirable particulate)
+
+British Columbia OEL TWA 0.025 mg/m' (respirable)
+
+Manitoba OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+New Brunswick OEL TWA 0.1 mg/mi (respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nova Scotia OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nunavut OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Northwest Territories OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Ontario OEL TWA 0.1 mg/m$ (designated substances regulation-respirable fraction (Silica,
+crystalline)
+
+Prince Edward Island OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Québec VEMP (OEL TWA) 0.1 mg/mi (respirable dust)
+
+Saskatchewan OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline (Trydimite removed))
+
+Yukon OEL TWA 300 particle/mL (Silica - Quartz, crystalline)
+
+Calcium chloride (10043-52-4)
+
+Ontario OEL TWA 5 mg/m°
+
+03/12/2022 EN (English US) 4/9
+Deicing Agent
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+8.2. Exposure Controls
+
+Appropriate Engineering Controls: Emergency eye wash fountains and safety showers should be available in the immediate vicinity
+of any potential exposure. Ensure adequate ventilation, especially in confined areas. Ensure all national/local regulations are
+observed.
+
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Insufficient ventilation: wear respiratory protection.
+
+Materials for Protective Clothing: Chemically resistant materials and fabrics.
+
+Hand Protection: Wear protective gloves.
+
+Eye and Face Protection: Chemical safety goggles.
+
+Skin and Body Protection: Wear suitable protective clothing.
+
+Respiratory Protection: |f exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+protection.
+
+Other Information: When using, do not eat, drink or smoke.
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+9.1. Information on Basic Physical and Chemical Properties
+
+Physical State : Solid
+Appearance : _ White or Light Gray/Brown Sand
+Odor :  Odorless
+
+Odor Threshold : Not available
+pH : 7 (in water)
+Evaporation Rate : Not available
+Melting Point : Not available
+Freezing Point : Not available
+Boiling Point : > 1000 °C (1832 °F)
+Flash Point : Not available
+Auto-ignition Temperature : Not available
+Decomposition Temperature : Not available
+Flammability (solid, gas) : Not available
+Lower Flammable Limit : Not available
+Upper Flammable Limit : Not available
+Vapor Pressure : Not available
+Relative Vapor Density at 20°C : Not available
+Relative Density : Not available
+Specific Gravity : 2.7 (water=1)
+Solubility : _ Partially soluble.
+Partition Coefficient: N-Octanol/Water : Not available
+Viscosity : Not available
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:  Hazardous reactions will not occur under normal conditions.
+
+10.2. Chemical Stability: Stable under recommended handling and storage conditions (see section 7).
+
+10.3. Possibility of Hazardous Reactions:  Hazardous polymerization will not occur.
+
+10.4. Conditions to Avoid: Direct sunlight, extremely high or low temperatures, and incompatible materials.
+
+10.5. Incompatible Materials:  Aggregate dissolves in hydrofluoric acid, producing corrosive silicon tetrafluoride gas. Silicates
+react with powerful oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+10.6. Hazardous Decomposition Products: Thermal decomposition may produce: Calcium oxides. Chrloride fumes. Oxides of
+magnesium. Potassium oxides. Silicon oxides. Sodium oxides.
+
+03/12/2022 EN (English US) 5/9
+
+Deicing Agent
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+11.1. Information on Toxicological Effects - Product
+Acute Toxicity (Oral): Not classified
+
+Acute Toxicity (Dermal): Not classified
+
+Acute Toxicity (Inhalation): Not classified
+
+LD50 and LC50 Data: Not available
+
+Skin Corrosion/irritation: Not classified
+
+pH: 7 (in water)
+
+Eye Damage/irritation: Causes serious eyeirritation.
+
+pH: 7 (in water)
+
+Respiratory or Skin Sensitization: Not classified
+
+Germ Cell Mutagenicity: Not classified
+
+Carcinogenicity: May cause cancer (Inhalation).
+
+Specific Target Organ Toxicity (Repeated Exposure): Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+
+Reproductive Toxicity: Not classified
+
+Specific Target Organ Toxicity (Single Exposure): May cause respiratoryirritation.
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Irritation of the respiratory tract and the other mucous membranes. Repeated or prolonged
+exposure to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include
+progressively more difficult breathing, cough, fever, and weight loss.
+
+Symptoms/Injuries After Skin Contact: Prolonged exposure may cause skin irritation.
+
+Symptoms/Injuries After Eye Contact: Contact causes severe irritation with redness and swelling of the conjunctiva.
+Symptoms/Injuries After Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other non-
+malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+11.2. Information on Toxicological Effects - Ingredient(s)
+LD50 and LC50 Data:
+
+Quartz (14808-60-7)
+
+LD50 Oral Rat > 5000 mg/kg
+
+LD50 Dermal Rat > 5000 mg/kg
+
+Calcium chloride (10043-52-4)
+
+LD50 Oral Rat 1000 mg/kg
+
+LD50 Dermal Rabbit > 5000 mg/kg
+
+Magnesium hydroxide (1309-42-8)
+
+LD50 Oral Rat 8500 mg/kg
+
+Magnesium chloride (7786-30-3)
+
+LD50 Oral Rat 2800 mg/kg
+
+LD50 Dermal Rat > 2000 mg/kg (No deaths)
+Potassium chloride (7447-40-7)
+
+LD50 Oral Rat 3020 mg/kg (Species: Wistar)
+Sodium chloride (7647-14-5)
+
+LD50 Oral Rat 3550 mg/kg (Species: Wistar)
+LD50 Dermal Rabbit > 10000 mg/kg (Species: New Zealand White)
+LC50 Inhalation Rat > 42 g/m$ (Exposure time:1h)
+Quartz (14808-60-7)
+
+IARC Group 1
+
+National Toxicology Program (NTP) Status Known Human Carcinogens.
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+
+03/12/2022 EN (English US) 6/9
+Deicing Agent
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+12.1. Toxicity
+Ecology - General: Not classified.
+
+Calcium chloride (10043-52-4)
+
+LC50 Fish 1
+
+10650 mg/l (Exposure time: 96 h - Species: Lepomis macrochirus [static])
+
+EC50 - Crustacea [1]
+
+2280000 — 3948000 ug/I (Exposure time: 48 h - Species: Daphnia magna)
+
+Magnesium hydroxide (1309-42-8)
+LC50 Fish 1
+
+511.31 mg/l (Exposure time: 96 h - Species: Pimephales promelas [static])
+
+Magnesium chloride (7786-30-3)
+
+LC50 Fish 1
+
+1970 — 3880 mg/l (Exposure time: 96 h - Species: Pimephales promelas [static])
+
+EC50 - Crustacea [1]
+
+140 mg/l (Exposure time: 48 h - Species: Daphnia magna [Static])
+
+Potassium chloride (7447-40-7)
+LC50 Fish 1
+
+1060 mg/l (Exposure time: 96 h - Species: Lepomis macrochirus [static])
+
+EC50 - Crustacea [1]
+
+825 mg/l (Exposure time: 48 h - Species: Daphnia magna)
+
+LC50 Fish 2 750 (750 — 1020) mg/l (Exposure time: 96 h - Species: Pimephales promelas [static])
+Sodium chloride (7647-14-5)
+LC50 Fish 1 5560 (5560 — 6080) mg/l (Exposure time: 96 h - Species: Lepomis macrochirus [flow-
+
+through])
+
+EC50 - Crustacea [1]
+
+1000 mg/l (Exposure time: 48 h - Species: Daphnia magna)
+
+LC50 Fish 2
+
+12946 mg/l (Exposure time: 96 h - Species: Lepomis macrochirus [static])
+
+EC50 - Crustacea [2]
+
+340.7 (340.7 — 469.2) mg/l (Exposure time: 48 h - Species: Daphnia magna [Static])
+
+NOEC Chronic Fish
+
+252 mg/l (Species: Pimephales promelas)
+
+12.2. Persistence and Degradabili
+Deicing Agent
+
+ty
+
+Persistence and Degradability
+
+Not established.
+
+12.3. Bioaccumulative Potential
+Deicing Agent
+
+Bioaccumulative Potential
+
+Not established.
+
+Calcium chloride (10043-52-4)
+
+BCF Fish 1 (no bioaccumulation)
+Sodium chloride (7647-14-5)
+
+BCF Fish 1 (no bioaccumulation)
+12.4. Mobility in Soil Not available
+
+12.5. Other Adverse Effects
+
+Other Information: Avoid release to the environment.
+
+SECTION 13: DISPOSAL CONSIDERATIONS
+
+13.1. Waste treatment methods
+
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, territorial, provincial,
+
+and international regulations.
+
+Ecology - Waste Materials: Avoid release to the environment.
+
+SECTION 14: TRANSPORT INFORMATION
+
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+
+14.1. In Accordance with DOT Not regulated for transport
+14.2. In Accordance with IMDG Not regulated for transport
+14.3. In Accordance with IATA Not regulated for transport
+14.4. In Accordance with TDG Not regulated for transport
+03/12/2022 EN (English US) 7/9
+Deicing Agent
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 15: REGULATORY INFORMATION
+
+15.1. US Federal Regulations
+
+Deicing Agent
+
+SARA Section 311/312 Hazard Classes Health hazard - Specific target organ toxicity (single or repeated exposure)
+Health hazard - Carcinogenicity
+Health hazard - Serious eye damage or eyeirritation
+
+Quartz (14808-60-7)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Calcium chloride (10043-52-4)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Magnesium hydroxide (1309-42-8)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Magnesium chloride (7786-30-3)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Potassium chloride (7447-40-7)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Sodium chloride (7647-14-5)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+15.2. US State Regulations
+California Proposition 65
+
+AN WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer. For more
+
+information go to www.P65Warnings.ca.gov.
+
+Chemical Name (CAS No.) Carcinogenicity Developmental Female Reproductive Male Reproductive
+Toxicity Toxicity Toxicity
+
+Quartz (14808-60-7) X
+Quartz (14808-60-7)
+
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+
+US. - Massachusetts - Right To Know List
+
+15.3. Canadian Regulations
+
+Quartz (14808-60-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+Calcium chloride (10043-52-4)
+
+Listed on the Canadian DSL (Domestic Substances List)
+Magnesium hydroxide (1309-42-8)
+
+Listed on the Canadian DSL (Domestic Substances List)
+Magnesium chloride (7786-30-3)
+
+Listed on the Canadian DSL (Domestic Substances List)
+Potassium chloride (7447-40-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+Sodium chloride (7647-14-5)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+Date of Preparation or Latest : 03/12/2022
+Revision
+Other Information : This document has been prepared in accordance with the SDS requirements of the OSHA
+
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+
+03/12/2022 EN (English US) 8/9
+Deicing Agent
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+GHS Full Text Phrases:
+
+Acute Tox. 4 (Oral) Acute toxicity (oral) Category 4
+
+Carc. 1A Carcinogenicity Category 1A
+
+Eye Irrit. 2 Serious eye damage/eye irritation Category 2
+
+Eye Irrit. 2A Serious eye damage/eye irritation Category 2A
+
+STOTRE 1 Specific target organ toxicity (repeated exposure) Category 1
+STOTSE 3 Specific target organ toxicity — Single exposure, Category 3, Respiratory tract irritation
+H302 Harmful if swallowed
+
+H319 Causes serious eye irritation
+
+H335 May cause respiratory irritation
+
+H350 May cause cancer
+
+H372 Causes damage to organs through prolonged or repeated exposure
+
+Indication of Changes
+
+Section
+
+Change
+
+Date Changed
+
+Version
+
+1
+
+Modified responsible
+party information, logo
+& emergency telephone
+number
+
+03/12/2022
+
+3.1
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+accuracy and assumes no liability in connection with the use of the information contained herein which is not intended to be and
+
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+
+this product should review all such laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+
+Provincial and State regulations.
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR OTHERWISE.
+
+NA GHS SDS 2015 (Can, US)
+
+03/12/2022
+
+EN (English US)
+
+9/9
+

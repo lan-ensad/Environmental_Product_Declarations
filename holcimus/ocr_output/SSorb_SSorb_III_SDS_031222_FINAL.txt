@@ -1,0 +1,785 @@
+S-Sorb, S-Sorb III
+
+Cu H O LC | MI Safety Data Sheet
+OV According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 04/14/2015 Supersedes Date: 06/14/2021 Version: 3.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+
+Product Form: Mixture
+
+Product Name: S-Sorb, S-Sorb III
+
+Note: This SDS covers many types of S-Sorb and S-Sorb III. Individual composition of hazardous constituents will vary between types
+of S-Sorb.
+
+1.2. intended Use of the Product
+
+S-Sorb and S-Sorb Ill are used as a component of an emission reduction system for coal burning power plants.
+1.3. Name, Address, and Telephone of the Responsible Party
+
+Company
+
+Holcim US
+
+8700 West Bryn Mawr Avenue, Suite 300
+
+Chicago, IL 60631
+
+Information: (888) 646-5246 (9am to 5pm CST)
+
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number  : ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+
+Skin Irrit. 2 H315
+Eye Dam. 1 H318
+Carc. 1A H350
+
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+
+GHS-US/CA Labeling
+
+Hazard Pictograms (GHS-US/CA)
+
+GHSO5 GHSO8
+Signal Word (GHS-US/CA) : Danger
+Hazard Statements (GHS-US/CA) : H315 - Causes skinirritation.
+H318 - Causes serious eye damage.
+H350 - May cause cancer (Inhalation).
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+P260 - Do not breathe dust.
+P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.
+P280 - Wear protective gloves, protective clothing, and eye protection.
+P302+P352 - IF ON SKIN: Wash with plenty of water.
+P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+P310 - Immediately call a POISON CENTER or doctor.
+P321 - Specific treatment (see section 4 on this SDS).
+P332+P313 - If skinirritation occurs: Get medical advice/attention.
+03/12/2022 EN (English US) 1/10
+
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+P362+P364 - Take off contaminated clothing and wash it before reuse.
+P405 - Store locked up.
+P501 - Dispose of contents/container in accordance with local, regional, national, and
+international regulations.
+2.3. Other Hazards
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne)
+crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include progressively more difficult breathing,
+cough, fever, and weight loss.
+2.4. Unknown Acute Toxicity (GHS-US/CA)
+No data available
+3.1. Substance
+Not applicable
+3.2. Mixture
+
+Name Synonyms Product Identifier % * GHS Ingredient Classification
+Gypsum Gypsum (CAS-No.) 13397-24-5 | 2-10 | Not classified
+(Ca(SO4).2H20)
+
+Limestone Chalk / Limestone (A noncombustible solid (CAS-No.) 1317-65-3 | <5 Not classified
+
+characteristic of sedimentary rock. It consists primarily
+of calcium carbonate.) / Natural calcium carbonate /
+Marble / Calcium carbonate / Limestone (sedimentary
+rock) / Calcite / Limestone ground / Acetate, 4-methyl-
+2-propyl-2H-tetrahydropyran-4-yl / Ground limestone
+Calcium oxide Lime / Quicklime / Quicklime (CaO) / Calcium oxide (CAS-No.) 1305-78-8 | <5 Skin Irrit. 2, H315
+(CaO) / Lime (calcium oxide) Eye Dam. 1, H318
+
+STOT SE 3, H335
+Aquatic Acute 3, H402
+Aquatic Chronic 3, H412
+
+Magnesium oxide | Calcined magnesite / Magnesium oxide / Magnesia (CAS-No.) 1309-48-4 | <4 Not classified
+
+(MgO)
+
+Quartz Quartz (SiO2) / Silica, crystalline, quartz / Crystalline (CAS-No.) 14808-60-7 | < 0.2 Carc. 1A, H350
+silica, quartz / .alpha.-Quartz / Silica, crystalline, .alpha.- STOT SE 3, H335
+
+quartz / Crystalline silica in the form of quartz / Quartz,
+silica / Quartz (respirable fraction) / Silica dust / Silica,
+crystalline-.alpha.quartz / Silica, quartz / Silica, .alpha.-
+quartz / Silicon dioxide / Silica, crystalline / Quartz
+(crystalline silica) / Silica dust, crystalline / QUARTZ
+POWDER / Silica, crystalline (quartz)
+
+Full text of H-phrases: see section 16
+
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+by volume percentage (v/v%).
+
+4.1. Description of First-aid Measures
+
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+possible).
+
+Inhalation: When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty
+persists.
+
+Skin Contact: Remove contaminated clothing. Immediately drench affected area with water for at least 15 minutes. If exposed or
+concerned: Get medical advice/attention.
+
+Eye Contact: Immediately rinse with water for at least 30 minutes. Remove contact lenses, if present and easy to do. Continue
+rinsing. Get immediate medical advice/attention.
+
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain medical attention.
+
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+
+General: Causes skin irritation. Causes serious eye damage. May cause cancer by inhalation.
+
+STOT RE 1, H372
+
+03/12/2022 EN (English US) 2/10
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Inhalation: Prolonged exposure may causeirritation. Some studies show that exposure to respirable crystalline silica (without
+silicosis) or that the disease silicosis may be associated with the increased incidence of several autoimmune disorders such as
+scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis and diseases affecting the kidneys. Silicosis
+increases the risk of tuberculosis. Some studies show an increased incidence of chronic kidney disease and end-stage renal disease
+in workers exposed to respirable crystalline silica.
+
+Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. May cause skin to become dry or cracked.
+
+Eye Contact: Causes permanent damage to the cornea, iris, or conjunctiva.
+
+Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other
+non-malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+
+Suitable Extinguishing Media: Water spray, dry chemical, foam, carbon dioxide.
+
+Unsuitable Extinguishing Media: Do not use a heavy water stream. Use of heavy stream of water may spread fire.
+
+5.2. Special Hazards Arising From the Substance or Mixture
+
+Fire Hazard: Not considered flammable but may burn at high temperatures.
+
+Explosion Hazard: Product is not explosive.
+
+Reactivity: Hazardous reactions will not occur under normal conditions.
+
+5.3. Advice for Firefighters
+
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+
+Firefighting Instructions: Use water spray or fog for cooling exposed containers.
+
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Silicon oxides. Sulfur oxides. Limestone decomposes at 825 °C (1517 °F) producing calcium and
+magnesium oxide.
+
+5.4. Reference to Other Sections
+
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+
+General Measures: Do not handle until all safety precautions have been read and understood. Do not breathe dust. Do not get in
+eyes, on skin, or on clothing.
+
+6.1.1. For Non-Emergency Personnel
+
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+
+Emergency Procedures: Evacuate unnecessary personnel.
+
+6.1.2. For Emergency Personnel
+
+Protective Equipment: Equip cleanup crew with proper protection.
+
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+
+For Containment: Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams. As an
+immediate precautionary measure, isolate spill or leak area in all directions.
+
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling or
+sweeping. Transfer spilled material to a suitable container for disposal. Contact competent authorities after a spill.
+
+6.4. Reference to Other Sections
+
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+03/12/2022 EN (English US) 3/10
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+Additional Hazards When Processed: Cutting, crushing or grinding wet or dry lime or other crystalline silica-bearing materials will
+release respirable crystalline silica. Use all appropriate measures of dust control or suppression, and Personal Protective Equipment
+(PPE) described in Section 8 below.
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving
+work. Do not get in eyes, on skin, or on clothing. Do not breathe dust.
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+Technical Measures: Comply with applicable regulations.
+Storage Conditions: Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight,
+extremely high or low temperatures and incompatible materials. Store locked up/in a secure area.
+Incompatible Materials: Acids, ammonium salts and aluminum metal. Cement dissolves in hydrofluoric acid, producing corrosive
+silicon tetrafluoride gas. Cement reacts with water to form silicates and calcium hydroxide. Silicates react with powerful oxidizers
+such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+7.3. Specific End Use(s)
+S-Sorb and S-Sorb Ill are used as a component of an emission reduction system for coal burning power plants.
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+8.1. Control Parameters
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+Quartz (14808-60-7)
+
+USA ACGIH ACGIH OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | A2 - Suspected Human Carcinogen
+
+USA OSHA OSHA PEL TWA 50 ug/m* (Respirable crystalline silica)
+
+USA OSHA OSHA PEL TWA (250)/(%Si02+5) mppcf TWA (respirable fraction)
+(10)/(%SiO2+2) mg/m$ TWA (respirable fraction)
+(For any operations or sectors for which the respirable crystalline silica
+standard, 1910.1053, is stayed or otherwise not in effect, See 20 CFR
+1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL TWA 0.05 mg/m* (respirable dust)
+
+USA IDLH IDLH 50 mg/m* (respirable dust)
+
+Alberta OEL TWA 0.025 mg/m' (respirable particulate)
+
+British Columbia OEL TWA 0.025 mg/m' (respirable)
+
+Manitoba OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+New Brunswick OEL TWA 0.1 mg/mi (respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nova Scotia OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nunavut OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Northwest Territories OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Ontario OEL TWA 0.1 mg/m$ (designated substances regulation-respirable fraction (Silica,
+crystalline)
+
+Prince Edward Island OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Québec VEMP OEL TWA 0.1 mg/mi (respirable dust)
+
+Saskatchewan OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline (Trydimite removed))
+
+Yukon OEL TWA 300 particle/mL (Silica - Quartz, crystalline)
+
+Limestone (1317-65-3)
+
+USA OSHA OSHA PEL TWA 15 mg/m* (total dust)
+5 mg/m* (respirable fraction)
+
+USA NIOSH NIOSH REL TWA 10 mg/m* (total dust)
+
+03/12/2022 EN (English US) 4/10
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+5 mg/m* (respirable dust)
+
+Alberta OEL TWA 10 mg/m°
+British Columbia OEL STEL 20 mg/m* (total)
+British Columbia OEL TWA 10 mg/m* (total dust)
+3 mg/mi (respirable fraction)
+New Brunswick OEL TWA 10 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+silica)
+Nunavut OEL STEL 20 mg/m°
+Nunavut OEL TWA 10 mg/m°
+Northwest Territories OEL STEL 20 mg/m°
+Northwest Territories OEL TWA 10 mg/m°
+Québec VEMP OEL TWA 10 mg/m* (Limestone, containing no Asbestos and <1% Crystalline silica-
+total dust)
+Saskatchewan OEL STEL 20 mg/m°
+Saskatchewan OEL TWA 10 mg/m°
+Yukon OEL STEL 20 mg/m°
+Yukon OEL TWA 30 mppcf
+10 mg/m°
+Gypsum (Ca(SO4).2H20) (13397-24-5)
+USA ACGIH ACGIH OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+USA OSHA OSHA PEL TWA 15 mg/m* (total dust)
+5 mg/m* (respirable fraction)
+USA NIOSH NIOSH REL TWA 10 mg/m* (total dust)
+5 mg/m* (respirable dust)
+Alberta OEL TWA 10 mg/m* (Calcium sulphate)
+British Columbia OEL STEL 20 mg/m* (total)
+British Columbia OEL TWA 10 mg/m* (total dust)
+
+3 mg/m* (respirable fraction)
+10 mg/m* (regulated under Calcium sulfate-inhalable)
+
+Manitoba OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Newfoundland & Labrador | OELTWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Nova Scotia OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Ontario OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Prince Edward Island OEL TWA 10 mg/m* (inhalable particulate matter (Calcium sulfate)
+Québec VEMP OEL TWA 10 mg/m* (containing no Asbestos and <1% Crystalline silica-inhalable
+dust)
+Saskatchewan OEL STEL 20 mg/m°
+Saskatchewan OEL TWA 10 mg/m°
+Yukon OEL STEL 20 mg/m°
+Yukon OEL TWA 30 mppcf
+10 mg/m°
+Calcium oxide (1305-78-8)
+USA ACGIH ACGIH OEL TWA 2 mg/m°
+USA OSHA OSHA PEL TWA 5 mg/m°
+USA NIOSH NIOSH REL TWA 2 mg/m°
+USA IDLH IDLH 25 mg/m°
+Alberta OEL TWA 2 mg/m°
+British Columbia OEL TWA 2 mg/m°
+Manitoba OEL TWA 2 mg/m°
+New Brunswick OEL TWA 2 mg/m°
+Newfoundland & Labrador | OEL TWA 2 mg/m°
+Nova Scotia OEL TWA 2 mg/m°
+
+03/12/2022 EN (English US) 5/10
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Nunavut OEL STEL 4 mg/m°
+Nunavut OEL TWA 2 mg/m°
+Northwest Territories OEL STEL 4 mg/m°
+Northwest Territories OEL TWA 2 mg/m°
+Ontario OEL TWA 2 mg/m°
+Prince Edward Island OEL TWA 2 mg/m°
+Québec VEMP OEL TWA 2 mg/m°
+Saskatchewan OELSTEL 4 mg/m°
+Saskatchewan OEL TWA 2 mg/m°
+Yukon OEL STEL 4 mg/m*
+Yukon OEL TWA 2 mg/m°
+Magnesium oxide (MgO) (1309-48-4)
+USA ACGIH ACGIH OEL TWA 10 mg/m* (inhalable particulate matter)
+USA ACGIH ACGIH chemical category | Not Classifiable as a Human Carcinogen
+USA OSHA OSHA PEL TWA 15 mg/m* (fume, total particulate)
+USA IDLH IDLH 750 mg/m* (fume)
+Alberta OEL TWA 10 mg/m* (fume)
+British Columbia OEL STEL 10 mg/m* (respirable dust and fume)
+British Columbia OEL TWA 10 mg/m* (fume, inhalable)
+
+3 mg/m* (respirable dust and fume)
+Manitoba OEL TWA 10 mg/m* (inhalable particulate matter)
+New Brunswick OEL TWA 10 mg/m* (fume)
+Newfoundland & Labrador | OEL TWA 10 mg/m* (inhalable particulate matter)
+Nova Scotia OEL TWA 10 mg/m* (inhalable particulate matter)
+Nunavut OEL STEL 20 mg/m* (inhalable fraction)
+Nunavut OEL TWA 10 mg/m* (inhalable fraction)
+Northwest Territories OEL STEL 20 mg/m° (inhalable fraction)
+Northwest Territories OEL TWA 10 mg/mé (inhalable fraction)
+Ontario OEL TWA 10 mg/m* (inhalable particulate matter)
+Prince Edward Island OEL TWA 10 mg/m* (inhalable particulate matter)
+Québec VEMP OEL TWA 10 mg/m* (inhalable dust)
+Saskatchewan OEL STEL 20 mg/m* (inhalable fraction)
+Saskatchewan OEL TWA 10 mg/m* (inhalable fraction)
+Yukon OEL STEL 10 mg/m* (fume)
+Yukon OEL TWA 10 mg/m* (fume)
+
+8.2. Exposure Controls
+
+Appropriate Engineering Controls: Emergency eye wash fountains and safety showers should be available in the immediate vicinity
+of any potential exposure. Ensure adequate ventilation, especially in confined areas. Ensure all national/local regulations are
+observed.
+
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Insufficient ventilation: wear respiratory protection.
+
+Materials for Protective Clothing: Chemically resistant materials and fabrics.
+
+Hand Protection: Wear protective gloves.
+
+Eye and Face Protection: Chemical safety goggles.
+
+Skin and Body Protection: Wear suitable protective clothing.
+
+Respiratory Protection: |f exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+protection.
+
+Other Information: When using, do not eat, drink or smoke.
+
+03/12/2022 EN (English US) 6/10
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+
+9.1. Information on Basic Physical and Chemical Properties
+Physical State : Solid
+
+Appearance :__ Gray, off white or white powder
+Odor : None
+
+Odor Threshold : Not available
+
+pH : 12-13 (in water)
+Evaporation Rate : Not available
+Melting Point : Not available
+Freezing Point : None, solid
+
+Boiling Point : > 1000 °C (1832 °F)
+Flash Point : Not available
+Auto-ignition Temperature : Not available
+Decomposition Temperature : Not available
+Flammability (solid, gas) : Not available
+Lower Flammable Limit : Not available
+Upper Flammable Limit : Not available
+Vapor Pressure : Not available
+Relative Vapor Density at 20°C : Not available
+Relative Density : Not available
+Specific Gravity : 3.15 (water =1)
+Solubility : Water: 0.1 —1 % (slightly soluble)
+Partition Coefficient: N-Octanol/Water : Not available
+Viscosity : None, solid
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:  Hazardous reactions will not occur under normal conditions.
+
+10.2. Chemical Stability: Stable under recommended handling and storage conditions (see section 7).
+
+10.3. Possibility of Hazardous Reactions:  Hazardous polymerization will not occur.
+
+10.4. Conditions to Avoid: Direct sunlight, extremely high or low temperatures, and incompatible materials.
+
+10.5. Incompatible Materials:  Acids, ammonium salts and aluminum metal. Cement dissolves in hydrofluoric acid, producing
+corrosive silicon tetrafluoride gas. Cement reacts with water to form silicates and calcium hydroxide. Silicates react with powerful
+oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+
+10.6. Hazardous Decomposition Products: Thermal decomposition may produce: Calcium oxides. Carbon oxides (CO, CO).
+Oxides of magnesium. Silicon oxides. Sulfur oxides.
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+11.1. Information on Toxicological Effects - Product
+
+Acute Toxicity (Oral): Not classified
+
+Acute Toxicity (Dermal): Not classified
+
+Acute Toxicity (Inhalation): Not classified
+
+LD50 and LC50 Data: Not available
+
+Skin Corrosion/irritation: Causes skin irritation.
+
+pH: 12 — 13 (in water)
+
+Eye Damage/irritation: Causes serious eye damage.
+
+pH: 12 — 13 (in water)
+
+Respiratory or Skin Sensitization: Not classified
+
+Germ Cell Mutagenicity: Not classified
+
+Carcinogenicity: May cause cancer (Inhalation).
+
+Specific Target Organ Toxicity (Repeated Exposure): Not classified
+
+Reproductive Toxicity: Not classified
+
+Specific Target Organ Toxicity (Single Exposure): Not classified
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Prolonged exposure may cause irritation. Some studies show that exposure to respirable
+crystalline silica (without silicosis) or that the disease silicosis may be associated with the increased incidence of several autoimmune
+
+03/12/2022 EN (English US) 7/10
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis and diseases affecting the
+kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased incidence of chronic kidney disease and end-stage
+renal disease in workers exposed to respirable crystalline silica.
+
+Symptoms/Injuries After Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. May cause skin to become
+dry or cracked.
+
+Symptoms/Injuries After Eye Contact: Causes permanent damage to the cornea, iris, or conjunctiva.
+
+Symptoms/Injuries After Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other non-
+malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+11.2. Information on Toxicological Effects - Ingredient(s)
+
+LD50 and LC50 Data:
+
+Quartz (14808-60-7)
+
+LD50 Oral Rat > 5000 mg/kg
+
+LD50 Dermal Rat > 5000 mg/kg
+
+Calcium oxide (1305-78-8)
+
+LD50 Oral Rat > 2000 mg/kg
+
+LD50 Dermal Rabbit > 2500 mg/kg
+
+Magnesium oxide (MgO) (1309-48-4)
+
+LD50 Oral Rat 3870 mg/kg
+
+Quartz (14808-60-7)
+
+IARC Group 1
+
+National Toxicology Program (NTP) Status Known Human Carcinogens.
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+12.1. Toxicity
+Ecology - General: Not classified.
+
+Calcium oxide (1305-78-8)
+
+LC50 Fish 50.6 mg/l
+
+12.2. Persistence and Degradability
+
+S-Sorb III
+
+Persistence and Degradability Not established.
+12.3. Bioaccumulative Potential
+
+S-Sorb III
+
+Bioaccumulative Potential Not established.
+Calcium oxide (1305-78-8)
+
+BCF Fish (no bioaccumulation)
+12.4. Mobility in Soil Not available
+
+12.5. Other Adverse Effects
+Other Information: Avoid release to the environment.
+
+SECTION 13: DISPOSAL CONSIDERATIONS
+
+13.1. Waste treatment methods
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, territorial, provincial,
+and international regulations.
+Ecology - Waste Materials: Avoid release to the environment.
+
+SECTION 14: TRANSPORT INFORMATION
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+
+14.1. In Accordance with DOT Not regulated for transport
+14.2. In Accordance with IMDG Not regulated for transport
+14.3. In Accordance with IATA Not regulated for transport
+
+03/12/2022 EN (English US) 8/10
+S-Sorb II
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+14.4. In Accordance with TDG Not regulated for transport
+15.1. US Federal Regulations
+S-Sorb III
+SARA Section 311/312 Hazard Classes Health hazard - Serious eye damage or eyeirritation
+
+Health hazard - Carcinogenicity
+Health hazard - Skin corrosion or Irritation
+
+Quartz (14808-60-7)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Limestone (1317-65-3)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Calcium oxide (1305-78-8)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+Magnesium oxide (MgO) (1309-48-4)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+15.2. US State Regulations
+
+California Proposition 65
+WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer. For more
+information go to www.P65Warnings.ca.gov.
+
+Chemical Name (CAS No.) Carcinogenicity Developmental Female Reproductive Male Reproductive
+
+Toxicity Toxicity Toxicity
+
+Quartz (14808-60-7) X
+Quartz (14808-60-7)
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+US. - Massachusetts - Right To Know List
+Limestone (1317-65-3)
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+US. - Massachusetts - Right To Know List
+Gypsum (Ca(SO4).2H20) (13397-24-5)
+US. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+Calcium oxide (1305-78-8)
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+US. - Massachusetts - Right To Know List
+Magnesium oxide (MgO) (1309-48-4)
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+US. - Massachusetts - Right To Know List
+15.3. Canadian Regulations
+Quartz (14808-60-7)
+Listed on the Canadian DSL (Domestic Substances List)
+Limestone (1317-65-3)
+Listed on the Canadian NDSL (Non-Domestic Substances List)
+Gypsum (Ca(SO4).2H20) (13397-24-5)
+Listed on the Canadian DSL (Domestic Substances List)
+Calcium oxide (1305-78-8)
+Listed on the Canadian DSL (Domestic Substances List)
+
+03/12/2022 EN (English US) 9/10
+S-Sorb II
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Magnesium oxide (MgO) (1309-48-4)
+Listed on the Canadian DSL (Domestic Substances List)
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+: 03/12/2022
+
+Date of Preparation or Latest Revision
+
+Other Information
+
+GHS Full Text Phrases:
+
+: This document has been prepared in accordance with the SDS requirements of the OSHA
+
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+
+Aquatic Acute 3 Hazardous to the aquatic environment - Acute Hazard Category 3
+Aquatic Chronic 3 Hazardous to the aquatic environment - Chronic Hazard Category 3
+Carc. 1A Carcinogenicity Category 1A
+
+Eye Dam. 1 Serious eye damage/eye irritation Category 1
+
+Skin Irrit. 2 Skin corrosion/irritation Category 2
+
+STOTRE 1 Specific target organ toxicity (repeated exposure) Category 1
+STOTSE 3 Specific target organ toxicity — Single exposure, Category 3, Respiratory tract irritation
+H315 Causes skin irritation
+
+H318 Causes serious eye damage
+
+H335 May cause respiratory irritation
+
+H350 May cause cancer
+
+H372 Causes damage to organs through prolonged or repeated exposure
+H402 Harmful to aquatic life
+
+H412 Harmful to aquatic life with long lasting effects
+
+Indication of Changes
+
+Section
+
+Change
+
+Date Changed Version
+
+1
+
+Modified responsible
+
+03/12/2022
+
+3.1
+
+party information, logo
+& emergency telephone
+number
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+accuracy and assumes no liability in connection with the use of the information contained herein which is not intended to be and
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+this product should review all such laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+Provincial and State regulations.
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR OTHERWISE.
+
+NA GHS SDS 2015 (Can, US)
+
+03/12/2022 EN (English US) 10/10

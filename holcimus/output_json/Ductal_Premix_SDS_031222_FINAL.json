@@ -1,0 +1,116 @@
+{
+  "epd_metadata": {
+    "product_name": "Ductal® Premix",
+    "revision_date": "03/12/2022",
+    "version": "3.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "ChemTel LLC 1-800-255-3924 (US and Canada)"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "intended_use": "Ultra-high performance material used to produce specialized concrete used in construction."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Eye Dam. 1 H318",
+        "Skin Sens. 1 H317",
+        "Carc. 1A H350",
+        "STOT SE 3 H335",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H315 - Causes skin irritation.",
+          "H317 - May cause an allergic skin reaction.",
+          "H318 - Causes serious eye damage.",
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P272 - Contaminated work clothing should not be allowed out of the workplace.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P302+P352 - IF ON SKIN: Wash with plenty of water.",
+          "P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+          "P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P310 - Immediately call a POISON CENTER or doctor.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P321 - Specific treatment (see section 4 on this SDS).",
+          "P333+P313 - If skin irritation or rash occurs: Get medical advice/attention.",
+          "P362+P364 - Take off contaminated clothing and wash it before reuse.",
+          "P403+P233 - Store in a well-ventilated place. Keep container tightly closed.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      }
+    },
+    "composition_information": {
+      "ingredients": [
+        {
+          "name": "Quartz",
+          "cas_no": "14808-60-7",
+          "percentage": "30-75",
+          "classification": [
+            "Carc. 1A, H350",
+            "STOT SE 3, H335",
+            "STOT RE 1, H372"
+          ]
+        },
+        {
+          "name": "Cement, portland, chemicals",
+          "cas_no": "65997-15-1",
+          "percentage": "30-40",
+          "classification": [
+            "Skin Irrit. 2, H315",
+            "Eye Dam. 1, H318",
+            "Skin Sens. 1, H317",
+            "STOT SE 3, H335"
+          ]
+        },
+        {
+          "name": "Fumes, silica",
+          "cas_no": "69012-64-2",
+          "percentage": "<15",
+          "classification": "Not classified"
+        }
+      ]
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "Gray or White Powder",
+      "odor": "None",
+      "pH": "12-13 (in water)",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "specific_gravity": "3.0-3.2 (water =1)",
+      "solubility": "Water: 0.1 - 1.0% (slightly soluble)"
+    }
+  }
+}

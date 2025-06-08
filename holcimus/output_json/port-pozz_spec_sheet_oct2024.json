@@ -1,0 +1,57 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim (US) Inc.",
+    "address": "8700 Bryn Mawr Avenue, Chicago, IL 60631",
+    "phone": "(888) 646-5246",
+    "email": "ask@holcim.com",
+    "website": "www.holcim.us",
+    "updated": "10.2024"
+  },
+  "product_description": {
+    "product_name": "ASTM C595 Type IP portland-pozzolan cement",
+    "usage": "Building material for concrete construction, including commercial and architectural applications.",
+    "applications": [
+      "Bridges",
+      "Precast",
+      "Cast-in-place",
+      "Pre-stress or post-tension",
+      "Concrete Masonry Units",
+      "Ready-mix",
+      "Roads",
+      "Drains",
+      "Soil Stabilization",
+      "Grout",
+      "Tilt-Up",
+      "Masonry",
+      "Watertanks",
+      "Pipe"
+    ],
+    "packaging": "Regionally available in bulk quantities.",
+    "composition": "Calcium silicate based clinker, gypsum, limestone, and pozzolan.",
+    "benefits": "Versatile building material suitable for various concrete construction applications.",
+    "limitations": "Requires good concreting practices and evaluation of mix proportions for acceptable performance."
+  },
+  "lca_information": {
+    "applicable_standards": [
+      "ASTM C595 Standard Specification for Blended Cement",
+      "AASHTO M 240 Standard Specification for Blended Hydraulic Cement"
+    ],
+    "physical_chemical_properties": "Conforms to all applicable requirements for ASTM C595 and AASHTO M 240."
+  },
+  "transport_and_installation": {
+    "requirements": "Consult specific project requirements or applicable specifications and guides.",
+    "preparatory_work": "Deliver in original, unopened containers. Store protected from harmful conditions.",
+    "methods": "Proper proportioning, batching, mixing, placing, consolidating, finishing, and curing are critical.",
+    "safety_precautions": "Refer to Safety Data Sheet (SDS). Avoid direct contact with skin and eyes."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "availability": "Regionally available. Contact nearest sales office for availability.",
+    "cost": "Pricing information available from nearest sales office.",
+    "warranty": "Material Certification Reports available upon request. No guarantee on finish work.",
+    "technical_services": "Available by contacting nearest sales office or Technical Services Engineer.",
+    "filing_systems": "Additional product information available from the manufacturer."
+  }
+}

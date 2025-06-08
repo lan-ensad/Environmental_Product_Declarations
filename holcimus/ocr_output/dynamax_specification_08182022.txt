@@ -1,0 +1,589 @@
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 1
+
+SPEC NOTE: DYNAMax HPC is an alternative to conventional concrete in challenging structural
+projects making the overall design of structures more efficient and sustainable in reducing their
+
+carbon footprint. DYNAMax HPC is also a value adding substitution of conventional concrete,
+making the overall design of structures more efficient and sustainable through resource reduction
+and prolonged life cycles
+
+Part 1 GENERAL
+1.1 SUMMARY
+1 Section includes:
+1 DYNAMax — The Ultimate Performance Concrete (HPC) for use in various
+
+structural applications.
+
+SPEC NOTE: Edit the following to suit project. For text in red color, select the relevant option from
+
+the square bracket list, or edit the requirements.
+
+1.2 RELATED REQUIREMENTS
+
+1 Section 01 45 00 — Quality Control: Testing
+
+.2 Section 03 10 00 — Concrete Falsework, Formwork and Accessories
+
+8 Section 03 20 00 — Concrete Reinforcing
+
+4 Section 03 21 23 — Stainless Steel Reinforcing
+
+5 Section 03 24 13 — Glass Fibre Reinforced Polymer Reinforcing
+
+6 Section 03 31 00 — Structural Concrete
+
+7 Section 03 33 00 — Architectural Concrete
+
+.8 Section 03 35 00 — Concrete Finishing
+
+9 Section 03 38 00 — Post Tensioned Concrete
+
+.10 Section 03 40 00 — Precast Structural Concrete
+
+11 Section 03 45 00 — Precast Architectural Concrete
+
+.12 Section 05 50 00 — Metal Fabrications
+
+1.3 DEFINITIONS
+
+1 Compressive Strength: The measure of the concrete's ability to resist loads which
+tend to compress it. It is measured by crushing cylindrical concrete specimens in
+compression testing machine.
+
+.2 Durability: The ability of concrete to resist weathering action, chemical attack, and
+abrasion while maintaining its desired engineering properties.
+
+8 Rigidity: Modulus of elasticity (MOE) is defined as the measurement of resistance a
+
+concrete structure has to deform or sway.
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 2
+4 Quality Assurance Services: Activities, actions, and procedures performed before
+
+and during execution by third party of the Work by the Contractor to guard against
+defects and deficiencies and ensure proposed construction complies with
+requirements of the owner.
+
+5 Quality Control: Quality control plan designed by the concrete supplier to
+demonstrate achievement of the specified concrete properties.
+
+6 Testing Agency: Entity engaged to perform specific tests, inspections, or both.
+Testing laboratory to mean same as testing agency.
+
+7 Pumpability: The capacity of a concrete under pressure to be moved by a concrete
+pump while maintaining its initial properties.
+
+1.4 REFERENCES
+1 American Concrete Institute (ACI):
+
+1 ACI 301: Specifications for Structural Concrete for Buildings.
+ACI 305: Guide to Hot Weather Concreting.
+
+ACI 306: Guide to Cold Weather Concreting.
+
+ACI 308: Guide to External Curing of Concrete
+
+ACI 318: Building Code Requirements for Structural Concrete and
+Commentary.
+
+ü1 BR &w D
+
+.2 American Society of Concrete Contractors (ASCC):
+1 Guide for Surface Finish of Formed Concrete.
+8 American Society for Testing and Materials (ASTM):
+1 ASTM C39/C39M-05e1, Standard Test Method for Compressive Strength
+of Cylindrical Concrete Specimens.
+.2 ASTM C78: Standard Test Method for Flexural Strength of Concrete (Using
+Simple Beam with Third-Point Loading)
+3 ASTM C171: Waterproof paper, polyethylene film or burlap.
+4 ASTM C231/C231M, Standard Test Method for Air Content of Freshly
+Mixed Concrete by the Pressure Method.
+5 ASTM C309: Standard Specifications for Liquid Membrane Forming Curing
+Compounds and Curing and Sealing Compounds.
+6 ASTM C469/ ASTM C469M-14ei, Standard Test Method for Static
+Modulus of Elasticity and Poisson's Ratio of Concrete in Compression.
+7 ASTM C494: Standard Specification for Chemical Admixtures for Concrete.
+.8 ASTM C1202: Standard Test Method for Electrical Indication of Concrete’s
+Ability to Resist Chloride lon Penetration
+
+9 ASTM C1074-19e1: Standard Practice for Estimating Concrete Strength by
+the Maturity Method.
+
+1.5 SUBMITTALS
+1 Comply with Section 01 30 00, unless otherwise indicated.
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 3
+
+2 Product Data:
+
+1 Manufacturer's specifications and technical data including:
+
+1 Test reports from producer indicating compliance with performance
+requirements specified.
+
+2 Laboratory reports: 3 copies of tests and reports specified.
+
+.3 Shop Drawings: Indicate dimensions, general construction, specific modifications, plus
+following specific requirements.
+
+4 Concrete Design Mix: Submit performance parameters for each concrete type for
+review and return prior to placing concrete.
+1 Include available supporting backup data.
+2 Include manufacturer's data sheets.
+
+5 Delivery Tickets: 1 copy indicating quantity, mix identification, design strength, design
+slump-flow, and time of batching for each load delivered.
+
+6 Submit final DYNAMax mix verification 2 weeks prior to placing concrete.. Include
+following information for each concrete mix design:
+1 Type of fine and coarse aggregates.
+.2 Slump and Slump-Flow of Concrete: to ASTM C143 / C143M
+
+.3 Air content: to ASTM C231/C231M, Air content of Plastic Concrete by
+Pressure Method or Air Content of Plastic Concrete by Volumetric Method
+to ASTM C173/C173M.
+
+4 Density and Yield of concrete: to ASTM C138/138M.
+
+5 Compressive Strength of Cylindrical Concrete Specimens: to ASTM
+C39/C39M-05e1.
+
+6 Modulus of elasticity and Poisson's ratio to ASTM C469/ ASTM C469M-
+
+14el.
+7 Rapid Chloride Permeability to ASTM C1202-19.
+7 Submit proposed curing techniques of test specimens for acceptance prior to
+
+beginning concrete work.
+
+SPEC NOTE: Specifier to add desired LEED points and the required submittals for high
+
+performance concrete (HPC) under each of the LEED points to applicable for the project.
+
+.8 Sustainable Design Submittals: Coordinate project sustainable design requirements
+with [Section 01 35 63 — Sustainability Project Requirements] [; in addition, provide
+information for following specific requirements of this Section:]:
+
+SPEC NOTE: In challenging pumping situations, specifier to add mix pumpability verification
+
+requirements.
+
+9 Mix Pumpability Submittals: Validate concrete mix compatibility with pump model and
+pumping pressure, to ensure the pumpability to desired height and length.
+
+a. Basis-of-Design Solution: Subject to compliance with requirements, use
+Holcim (US); iICONCrete Smartflow; pumpability testing and simulation tool,
+or equivalent
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 4
+
+b. Submit proposed pump model and proposed pumping pressure for each
+concrete product
+
+c. Submit ICONCrete Smartflow trials and simulation results, to validate
+pumping feasibility to required height and length
+
+1.6 QUALITY ASSURANCE
+1 Qualifications:
+
+1 Manufacturer: experienced in production of high-performance concrete
+materials and has production facilities, raw materials, know how and
+equipment necessary to produce specified materials for this project.
+
+.2 Testing Agency: Independent third-party testing agency qualified in
+accordance with ASTM C1077 and ASTM E329 and acceptable to the
+Structural Engineer or the Consultant to perform source quality control
+testing. Must be capable to end grind all cylinder specimens for
+compressive strength testing of DYNAMax HPC.
+
+2 Hold pre-job conference at jobsite to discuss site-related points in this Section. Include
+Holcim ready mix, the contractor, the engineer, the Consultant, and the Testing
+Agency. No concrete placements of the DYNAMax high-performance concrete (HPC)
+allowed prior to meeting.
+
+.3 Field Testing Agency Qualifications: A certified testing agency, acceptable to
+authorities having jurisdiction and Consultant, qualified according to ASTM C1077 and
+ASTM E329 to conduct the testing indicated
+
+4 All compressive strength cylinder tests are to be conducted on end grinded specimens.
+Part 2 PRODUCTS
+2.1 MANUFACTURERS
+
+1 Subject to compliance with requirements, manufacturers offering products that may be
+
+incorporated into the Work include, but are not limited to, the following:
+-__ Holcim — ACM Management, Inc. and its subsidiaries
+
+2.2 HIGH PERFORMANCE CONCRETE MATERIALS
+
+SPEC NOTE: Select reinforcing materials for the project.
+
+1 DYNAMax High Performance Concrete: Proprietary formulation with [glass fibre
+reinforced polymer] [[stainless] [galvanized] steel] reinforcing and as follows:
+
+SPEC NOTE: Select products required for the project.
+
+1 DYNAMax
+
+1 Strength: 8,000-17,000 psi in accordance with ASTM C39/C39M-
+05el.
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 5
+
+.2 DYNAMax*
+
+1 Strength: 8,000-17,000 psi in accordance with ASTM C39/C39M-
+05el.
+
+.2 Permeability: <750 Coulombs in accordance with ASTM C1202.
+8 DYNAMax*R
+
+1 Strength: 8,000-17,000 psi in accordance with ASTM C39/C39M-
+05el.
+
+.2 Modulus of Elasticity: 25,800 ksi in accordance with ASTM C469/
+ASTM C469M-14e1.
+
+4 DYNAMax*RD
+
+1 Strength: 8,000-17,000 psi in accordance with ASTM C39/C39M-
+05el.
+
+.2 Permeability: <750 Coulombs in accordance with ASTM C1202.
+
+.3 Modulus of Elasticity: 25,800 ksi in accordance with ASTM C469/
+ASTM C469M-14e1.
+
+2 Chemical Admixtures: Certified by manufacturer to be compatible with other
+admixtures that do not contribute water-soluble chloride ions exceeding those
+permitted in hardened concrete. Do not use calcium chloride or admixtures containing
+calcium chloride in steel-reinforced concrete].
+
+SPEC NOTE: Retain one or more chemical admixtures from “"Water-Reducing Admixture,"
+"Retarding Admixture," "Water-Reducing and -Retarding Admixture," "High-Range, Water-
+
+Reducing Admixture," "High-Range, Water-Reducing and -Retarding Admixture," and
+"Plasticizing and Retarding Admixture" subparagraphs below.
+
+1.
+2.
+3.
+4.
+5.
+
+Water-Reducing Admixture: ASTM C494/C494M, Type A.
+
+Retarding Admixture: ASTM C494/C494M, Type B.
+
+Water-Reducing and -Retarding Admixture: ASTM C494/C494M, Type D.
+High-Range, Water-Reducing Admixture: ASTM C494/C494M, Type F.
+High-Range, Water-Reducing and -Retarding Admixture: ASTM C494/C494M,
+Type G.
+
+6. Plasticizing and Retarding Admixture: ASTM C1017/C1017M, Type Il.
+
+SPEC NOTE: Retain "Set-Accelerating Corrosion-Inhibiting Admixture" Subparagraph below if
+
+set-accelerating corrosion inhibitors are required. Set-accelerating products are usually calcium
+nitrite-based admixtures and comply with ASTM C494/C494M, Type C.
+
+7.  Set-Accelerating Corrosion-Inhibiting Admixture: Commercially formulated, anodic
+inhibitor or mixed cathodic and anodic inhibitor; capable of forming a protective
+barrier and minimizing chloride reactions with steel reinforcement in concrete and
+complying with ASTM C494/C494M, Type C.
+
+SPEC NOTE: Retain "Non-Set-Accelerating Corrosion-Inhibiting Admixture" Subparagraph below
+
+if corrosion inhibitors that do not affect concrete setting time are required.
+
+8. Non-Set-Accelerating Corrosion-Inhibiting Admixture: Commercially formulated,
+non-set-accelerating, anodic inhibitor or mixed cathodic and anodic inhibitor;
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 6
+
+capable of forming a protective barrier and minimizing chloride reactions with steel
+reinforcement in concrete.
+
+SPEC NOTE: Retain "Permeability-Reducing Admixture" Subparagraph below if required.
+Consider actual need, budget, and expected results. If retained, insert specific requirement for
+
+permeability-reducing admixture in applicable paragraph under "Concrete Mixtures" Article. See
+the Evaluations.
+
+9. Permeability-Reducing Admixture: ASTM C494/C494M, Type S, hydrophilic,
+permeability-reducing crystalline admixture, capable of reducing water absorption
+of concrete exposed to hydrostatic pressure (PRAH).
+
+a.  Permeability: No leakage when tested in accordance with U.S. Army Corps
+of Engineers CRC C48 at a hydraulic pressure of 200 psi (1.28 MPa) for 14
+days.
+
+.3 Cement and Supplementary Cementing Materials:
+
+1. Basis-of-Design Product: Subject to compliance with requirements, provide Holcim
+US ccementitious materials or comparable product.
+
+2. Portland Cement: ASTM C150/C150M, [Type] [Type I] [Type |] [Type Hi]
+[Type V], [gray] [white].
+
+3. Blended Cement: ASTM C595/C595M, [Type IS, portland blast-furnace slag]
+[Type IP, portland-pozzolan] [Type IL, portland-limestone] [Type IT, ternary
+blended] cements.
+
+a. Basis-of-Design Product: Subject to compliance with requirements, provide
+Holcim (US) [FortiCem] [MaxCem] [OneCem] [TerCem] blended cement or
+comparable product.
+
+4. Performance Cement ASTM C1157/1157M, [Type GU, general use] [Type HE,
+high early strength] [Type MS, moderate sulfate resistance] [Type HS, high sulfate
+resistance] [Type MH, moderate heat of hydration] [Type LH, low heat of
+hydration].
+
+5.  Slag Cement: ASTM C989/C989M, Grade 100 or 120.
+a. Basis-of-Design Product: Subject to compliance with requirements, provide
+Holcim (US) NewCem slag cement or comparable product.
+6. Fly Ash: ASTM C618, Class C orF.
+
+7.  Silica Fume: ASTM C1240 amorphous silica.
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 7
+
+4 Water: ASTM C94/C94M, potable [or] [complying with ASTM C1602/C1602M,
+including all limits listed in Table 2 and the requirements of paragraph 5.4]
+
+5 Aggregate: ASTM C33/C33M, [Class 3S] [Class 3M] [Class 1N] <Insert class> coarse
+aggregate or better, graded. Provide aggregates from a single source.
+
+SPEC NOTE: Retain "Alkali-Silica Reaction" Subparagraph below if damage caused by concrete
+
+expansion from alkali silica or alkali carbonate reactions is anticipatea.
+
+1.  Alkali-Silica Reaction: Comply with one of the following:
+
+1. Expansion result of aggregate: Not more than 0.04 percent at one year when
+tested in accordance with ASTM C1298.
+
+2. Expansion results of aggregate and cementitious materials in combination: Not
+more than 0.10 percent at an age of 16 days when tested in accordance with
+ASTM C1567.
+
+3. Alkali content in concrete: Not more than 4 lb/cu. yd. (2.37 kg/cu. m) for
+moderately reactive aggregate or 3 Ib/cu. yd. (1.78 kg/cu. m) for highly
+reactive aggregate, when tested in accordance with ASTM C1293 and
+categorized in accordance with ASTM C1778, based on alkali content being
+calculated in accordance with ACI 301 (ACI 301M).
+
+2. Maximum Coarse-Aggregate Size: [1-1/2 inches (38 mm)] [1 inch (25 mm)] [3/4
+inch (19 mm)] <Insert dimension> nominal.
+
+3. Fine Aggregate: Free of materials with deleterious reactivity to alkali in cement.
+6 Moisture-Retaining Cover/Curing Compound:
+
+1. Moisture-retaining covers complying with ASTM C171.
+
+2. Liquid-type membrane-forming curing compound complying with ASTM C309
+
+7 Forming Materials: In accordance with Section 03 10 00.
+2.3 SUPPLIER QUALITY CONTROL
+1 Concrete supplier to submit a quality control plan designed to demonstrate
+
+achievement of the specified DYNAMax properties.
+
+2 Maturity Calibration: Determine relationship between maturity and strength for mix.
+Maturity calibration can be used to determine in-place strength of concrete and
+replaces the need for field-cured cylinders. Perform maturity calibration in accordance
+with ASTM C1074.
+
+a. Basis-of-Design Solution: Subject to compliance with requirements, use
+Holcim (US) iICONCrete Smartcast maturity sensors and calibration, or
+equivalent
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 8
+2.4 CONCRETE MIXTURES
+
+1 DESIGN & TESTING
+
+1. Basis-of-Design Product: Subject to compliance with requirements, provide
+Holcim (US) [Dynamax] [DYNAMax*®] [DYNAMax®] [DYNAMax*] or
+comparable product.
+
+2. Prepare design mixtures for each type and strength of concrete, proportioned on
+the basis of laboratory trial mixture or field test data, or both, according to ACI 301.
+
+.2 CONCRETE MIXES
+
+1. [Class À ie. pile caps, ground slab, etc.]: Basis of design product: Subject to
+compliance with requirements, provide Holcim (US) DYNAMax or comparable
+product. Proportion normal-weight concrete mixture as follows:
+
+e Minimum Compressive Strength (fc): /8,000-17,000] psi at /xx] days.
+
+e  Exposure class: /xx xx xx] - in accordance with ACI 318-14
+
+e Maximum Aggregate Size: /xxx] inch
+
+e Slump limit: to be selected by Contractor based on ASTM C143, as
+permitted under ACI 301
+
+2. [Class B ï.e. pile caps, ground slab, etc.]: Basis of design product: Subject to
+compliance with requirements, provide Holcim (US); DYNAMax* or comparable
+product. Proportion normal-weight concrete mixture as follows:
+
+e Minimum Compressive Strength (fc): /8,000-17,000] psi at /xx] days.
+
+Permeability: /750 or less] Coulombs
+
+Exposure class: /xx xx xx] - in accordance with ACI 318-14
+
+Maximum Aggregate Size: /xxx] inch
+
+Slump limit: to be selected by Contractor based on ASTM C143, as
+
+permitted under ACI 301
+
+SPEC NOTE: Specify modulus of elasticity with a number of days needed to achieve it. Up to 91
+
+days might be needed for very high modulus of elasticity requirements.
+
+3. [Class C i.e. pile caps, ground slab, etc.]: Basis of design product: Subject to
+compliance with requirements, provide Holcim (US); DYNAMax*® or comparable
+product. Proportion normal-weight concrete mixture as follows:
+
+e Minimum Compressive Strength (fc): /8,000-17,000] psi at /xx] days.
+e Modulus of Elasticity: /5800 or more] ksi at /28] [56] [91] days.
+e  Exposure class: /xx xx xx] - in accordance with ACI 318-14
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 9
+
+e Maximum Aggregate Size: /xxx] inch
+e Slump limit: to be selected by Contractor based on ASTM C143, as
+permitted under ACI 301
+
+4. [Class D i.e. pile caps, ground slab, etc.]: Basis of design product: Subject to
+compliance with requirements, provide Holcim (US); DYNAMax*FP or comparable
+product. Proportion normal-weight concrete mixture as follows:
+
+e Minimum Compressive Strength (fc): /8,000-17,000] psi at /xx] days.
+
+Modulus of Elasticity: /5800 or more] ksi at /28] [56] [91] days.
+
+Permeability: /750 or less] Coulombs
+
+Exposure class: /xx xx xx] - in accordance with ACI 318-14
+
+Maximum Aggregate Size: /xxx] inch
+
+Slump limit: to be selected by Contractor based on ASTM C143, as
+
+permitted under ACI 301
+
+Part 3 EXECUTION
+
+3.1 EXAMINATION
+
+4 Verification of Conditions: Examine areas and conditions under which Work is to be
+performed and identify conditions detrimental to proper or timely completion.
+
+1 Do not proceed until unsatisfactory conditions corrected.
+
+3.2 PREPARATION
+
+1 Coordination: Notify others involved, allowing installation and completion of their work
+prior to concrete placement.
+
+.2 Surface Preparation: Immediately before concrete placement, thoroughly wet
+moisture-absorbing material that will be in contact with concrete, without developing
+standing water.
+
+3.3 INSTALLATION
+
+1 Protect freshly placed concrete from premature drying and excessive cold or hot
+temperatures.
+
+1 Comply with ACI301 (ACI301M) and ACI306.1 for cold weather
+protection during curing.
+
+.2 Comply with ACI 301 (ACI 301M) and ACI 305.1 (ACI 305.1M) for hot-
+weather protection during curing.
+
+8 Maintain moisture loss no more than 0.2 Ib/sq,. ft. x h (1 kg/sq. m x h),
+calculated in accordance with ACI 305.1, before and during finishing
+operations.
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax
+2022-08-9 SECTION 03 30 00
+MASTER SPECIFICATION HIGH PERFORMANCE CONCRETE (HPC)
+Holcim (US) Inc.- HPC DYNAMax Page 10
+
+3.4 CONCRETE PLACEMENT AND CONSOLIDATION
+
+1 Before placing concrete, verify that installation of formwork, reinforcement, and
+embedded items is complete and that required inspections have been performed prior
+to placing concrete.
+
+2 Place concrete within 1-1/2 hours after mix water has been added unless the Holcim
+representative makes adjustments to mix.
+
+.3 Do not add water to concrete during delivery, at Project site, or during placement
+unless approved by Architect in writing, but not to exceed the amount indicated on the
+concrete delivery ticket.
+
+4 Before test sampling and placing concrete, water may be added at Project site, subject
+to limitations of ACI 301 (ACI 301M), but not to exceed the amount indicated on the
+concrete delivery ticket.
+
+3.5 FINISHING
+1 In accordance with Section 03 35 00.
+3.6 CONCRETE CURING AND PROTECTION
+1 Start initial curing as soon as concrete finished. Keep continuously moist or sealed for
+
+minimum 5 days.
+
+.2 Begin final curing procedures immediately after initial curing and before concrete has
+dried. Continue final curing for minimum 5 days in accordance with ACI 301
+procedures. Avoid rapid drying at end of final curing period.
+
+3.7 FIELD QUALITY CONTROL
+1 In accordance with Section 01 45 00.
+
+END OF SECTION
+
+DYNAMax The Ultimate Performance Concrete — Holcim US
+https://www.holcim.us/dynamax

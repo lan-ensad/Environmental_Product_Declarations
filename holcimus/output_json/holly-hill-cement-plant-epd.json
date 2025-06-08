@@ -1,0 +1,137 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US), Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact_person": "Sonia Gagnon",
+    "contact_email": "sonia.gagnon@holcim.com",
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "date_of_issue": "02/26/2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 177",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "verification": "External",
+    "lca_prepared_by": "Athena Sustainable Materials Institute",
+    "lca_verification": "ASTM International"
+  },
+  "product_description": {
+    "facility_name": "Holcim (US), Holly Hill Plant",
+    "facility_address": "2173 Gardner Boulevard, Holly Hill, SC 2905",
+    "product_types": [
+      "Portland Cement Type I/II",
+      "Portland Cement Type III",
+      "Blended Cement Type IL",
+      "Masonry Cement Type S",
+      "Masonry Cement Type N"
+    ],
+    "product_standards": [
+      "ASTM C150",
+      "ASTM C595",
+      "ASTM C91"
+    ],
+    "product_composition": {
+      "Portland Type I/II": {
+        "Clinker": "92%",
+        "Gypsum": "5%",
+        "Limestone": "3%",
+        "Other": "<1%"
+      },
+      "Portland Type III": {
+        "Clinker": "92%",
+        "Gypsum": "5%",
+        "Limestone": "3%",
+        "Other": "<1%"
+      },
+      "Blended Type IL": {
+        "Clinker": "89%",
+        "Gypsum": "3%",
+        "Limestone": "7%",
+        "Other": "1%"
+      },
+      "Masonry Type S": {
+        "Clinker": "64%",
+        "Gypsum": "3%",
+        "Limestone": "33%",
+        "Other": "<1%"
+      },
+      "Masonry Type N": {
+        "Clinker": "54%",
+        "Gypsum": "3%",
+        "Limestone": "43%",
+        "Other": "<1%"
+      }
+    }
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "modules_covered": "A1-A3",
+    "data_collection_year": "2019",
+    "allocation_rules": "ISO 14044 Clause 4.3.4, NSF PCR, ISO 21930 section 7.2",
+    "data_quality": {
+      "technology": "Dry with preheater and precalciner kiln technology",
+      "geographic_coverage": "U.S.",
+      "time_coverage": "2019",
+      "completeness": "High",
+      "consistency": "High",
+      "reproducibility": "Internal only",
+      "transparency": "High",
+      "uncertainty": "Assessed"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II": "889 kg CO2 eq",
+      "Portland Type III": "902 kg CO2 eq",
+      "Blended Type IL": "881 kg CO2 eq",
+      "Masonry Type S": "661 kg CO2 eq",
+      "Masonry Type N": "566 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type I/II": "537 kg CO2 eq",
+      "Portland Type III": "537 kg CO2 eq",
+      "Blended Type IL": "521 kg CO2 eq",
+      "Masonry Type S": "374 kg CO2 eq",
+      "Masonry Type N": "316 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycling_and_recycled_content": "Modeled using the cut-off rule",
+    "recovered_materials": [
+      "fly ash",
+      "furnace bottom ash",
+      "bypass dust",
+      "mill scale",
+      "polluted soils",
+      "spent catalyst",
+      "aluminum oxide waste",
+      "silica fume",
+      "granulated blast furnace slag",
+      "iron rich waste",
+      "cement kiln dust (CKD)",
+      "flue gas desulfurization (FGD) gypsum",
+      "calcium fluoride rich waste"
+    ],
+    "secondary_fuels": [
+      "used tires",
+      "plastics",
+      "solvents",
+      "used oil",
+      "oily waste",
+      "coal/carbon waste",
+      "roofing asphalt",
+      "household refuse-derived waste",
+      "non-hazardous liquid waste"
+    ]
+  },
+  "additional_info": {
+    "sustainability_commitment": "Co-processes waste by recovering energy from recovered solvents, household refuse, coal wastes and used oil",
+    "environmental_protection": "Complies with U.S. EPA regulations, monitors and reports emissions",
+    "air_pollution_abatement": "High and low temperature baghouses, and cartridge filters"
+  }
+}

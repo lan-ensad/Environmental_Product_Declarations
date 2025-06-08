@@ -1,0 +1,88 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US) Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 171",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "02.26.2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement"
+  },
+  "product_description": {
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_definition": "Portland cement is defined as a hydraulic cement produced by pulverizing clinker, consisting essentially of crystalline hydraulic calcium silicates, and usually containing one or more of the following: water, calcium sulfate, up to 5% limestone, and processing additions.",
+    "product_applicability": "Portland cement is the basic ingredient of concrete.",
+    "facility_name": "Holcim Ravena Cement Plant",
+    "facility_address": "1916 US Route 9W, Ravena, NY 12143",
+    "cement_types": {
+      "Type I/II": {
+        "clinker": "92%",
+        "gypsum": "6%",
+        "limestone": "1%",
+        "other": "<1%"
+      }
+    },
+    "applicable_standards": [
+      "ASTM C150 / C150M - 20",
+      "ASTM C1157 / C1157M - 20",
+      "AASHTO M 85-20"
+    ]
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "life_cycle_stages": {
+      "A1": "Extraction and upstream production",
+      "A2": "Transport to factory",
+      "A3": "Manufacturing"
+    },
+    "cut_off_criteria": "All input/output data required were collected and included in the LCI modelling.",
+    "data_collection": "Gate-to-gate input/output flow data were collected for the reference year 2019.",
+    "allocation_rules": "Recycling and recycled content are modeled using the cut-off rule.",
+    "data_quality_requirements": {
+      "technology_coverage": "High",
+      "geographic_coverage": "U.S.",
+      "time_coverage": "2019",
+      "completeness": "All relevant processes were considered.",
+      "consistency": "High level of consistency maintained.",
+      "reproducibility": "Internal reproducibility is possible.",
+      "transparency": "Activity and LCI datasets are disclosed.",
+      "uncertainty": "A sensitivity check was conducted."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "901 kg CO2 eq",
+    "emissions_from_calcination": "485 kg CO2 eq"
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": "24 kg",
+    "renewable_secondary_fuels": "0 MJ LHV",
+    "non_renewable_secondary_fuels": "0 MJ LHV"
+  },
+  "additional_info": {
+    "environmental_protection_and_equipment": "Holcim manufacturing facilities comply with the U.S. EPA regulations, monitor and report emissions to air during the manufacturing process.",
+    "references": [
+      "ASTM C1157 / C1157M — 20",
+      "NSF International, Product Category Rule Environmental Product Declarations, PCR for Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements, V3.1, September 2020.",
+      "ISO 21930:2017",
+      "ISO 14040:2006/Amd1:2020",
+      "ISO 14044:2006/Amd1:2017/Amd2:2020",
+      "NSF International, Product Category Rule Environmental Product Declarations, PCR for Concrete, February 2020.",
+      "ISO 14025:2006",
+      "ISO 14021:2016",
+      "ASTM Program Operator Rules, v.8.0, 04/29/2020.",
+      "PRé 2019.SimaPro LCA Software v9.1.1.1, September 2020.",
+      "ACLCA 2019, Guidance to Calculating Non-LCIA Inventory Metrics in Accordance with ISO 21930:2017.",
+      "LEED vd, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and Optimization — Environmental Product Declarations.",
+      "LEED v4.1, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and Optimization — Environmental Product Declarations.",
+      "US. EPA, Emissions & Generation Resource Integrated Database (eGRID).",
+      "WBCSD CSI 2013: CO2 and Energy Protocol Version 3.1 of 9 December 2013."
+    ]
+  }
+}

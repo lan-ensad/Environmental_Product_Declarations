@@ -1,0 +1,558 @@
+Windguard
+
+Cu H O LC | MI Safety Data Sheet
+OV According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 05/29/2015 Supersedes Date: 06/14/2021 Version: 3.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+
+Product Form: Mixture
+
+Product Name: Windguard
+
+1.2. intended Use of the Product
+
+Windguard is an evaporation reducer for concrete flatwork and it helps reduce surface moisture evaporation.
+1.3. Name, Address, and Telephone of the Responsible Party
+Company
+
+Holcim US
+
+8700 West Bryn Mawr Avenue, Suite 300
+
+Chicago, IL 60631
+
+Information: (888) 646-5246 (9am to 5pm CST)
+
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number  : ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+
+Muta. 1B H340
+Carc. 1B H350
+Repr. 2 H361
+
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+
+GHS-US/CA Labeling
+
+Hazard Pictograms (GHS-US/CA)
+
+GHSO8
+Signal Word (GHS-US/CA) : Danger
+Hazard Statements (GHS-US/CA) : H340 - May cause genetic defects.
+H350 - May cause cancer.
+H361 - Suspected of damaging fertility or the unborn child.
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+P280 - Wear protective gloves, protective clothing, and eye protection.
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+P405 - Store locked up.
+P501 - Dispose of contents/container in accordance with local, regional, national,
+territorial, provincial, and international regulations.
+
+2.3. Other Hazards
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions.
+
+2.4. Unknown Acute Toxicity (GHS-US/CA)
+No data available
+
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+
+03/12/2022 EN (English US) 1/7
+Windguard
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+3.1. Substance
+
+Not applicable
+
+3.2. Mixture
+
+Name Synonyms Product Identifier % * GHS Ingredient
+Classification
+
+Water AQUA (CAS-No.) 7732-18-5 | >99 | Not classified
+
+Solvent naphtha, Solvent naphtha (petroleum), light aromatic / Light (CAS-No.) 64742-95-6 | <1 Flam. Liq. 1, H224
+
+petroleum, light
+aromatic
+
+aromatic solvent naphtha / Aromatic 100 / Solvent
+naphtha, petroleum, light aromatic- low boiling point
+hydrogen treated naphtha / Light aromatic solvent
+naphtha (petroleum) (C8-10) / Solvent naphtha,
+petroleum, light aromatic (A complex combination of
+hydrocarbons obtained from distillation of aromatic
+streams. It consists predominantly of aromatic
+hydrocarbons having carbon numbers predominantly in
+the range of C8-10 and boiling in the range of
+approximately 135-210°C.) / Aromatic naphtha, type I /
+
+Skin Irrit. 2, H315
+
+Muta. 1B, H340
+
+Carc. 1B, H350
+
+Repr. 2, H361
+
+STOT SE 3, H336
+
+Asp. Tox. 1, H304
+Aquatic Acute 2, H401
+Aquatic Chronic 2, H411
+
+Solvent naphtha (petroleum), light aromatic, hydrotreated
+/ Hydrocarbons, C9, aromatics / Solvent naphtha
+(petroleum), light aromatic; Low boiling point naphtha -
+unspecified [A complex combination of hydrocarbons
+obtained from distillation of aromatic streams. It consists
+predominantly of aromatic hydrocarbons having carbon
+numbers predominantly in the range of C8 through C10
+and boiling in the range of approximately 135°C to 210°C
+(275°F to 410°F).]
+
+Full text of H-phrases: see section 16
+
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+by volume percentage (v/v%).
+
+4.1. Description of First-aid Measures
+
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+possible).
+
+Inhalation: When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty
+persists.
+
+Skin Contact: Remove contaminated clothing. Gently wash with plenty of soap and water. If exposed or concerned: Get medical
+advice/attention.
+
+Eye Contact: Rinse cautiously with water for at least 5 minutes. Remove contact lenses, if present and easy to do. Continue rinsing.
+Obtain medical attention if irritation develops or persists.
+
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain medical attention.
+
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+
+General: May cause genetic defects. Suspected of damaging fertility or the unborn child. May cause cancer.
+
+Inhalation: Prolonged exposure may cause irritation.
+
+Skin Contact: Prolonged exposure may cause skin irritation.
+
+Eye Contact: May cause slight irritation to eyes.
+
+Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: May cause genetic defects. May cause cancer. Suspected of damaging fertility or the unborn child.
+
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+
+Suitable Extinguishing Media: Water spray, dry chemical, foam, carbon dioxide.
+
+Unsuitable Extinguishing Media: Do not use a heavy water stream. Use of heavy stream of water may spread fire.
+
+5.2. Special Hazards Arising From the Substance or Mixture
+
+Fire Hazard: Not considered flammable but may burn at high temperatures.
+
+Explosion Hazard: Product is not explosive.
+
+Reactivity: Hazardous reactions will not occur under normal conditions.
+
+03/12/2022 EN (English US) 2/7
+
+Windguard
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+5.3. Advice for Firefighters
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+Firefighting Instructions: Use water spray or fog for cooling exposed containers.
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Carbon oxides (CO, CO2). Hydrocarbons.
+5.4. Reference to Other Sections
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+
+General Measures: Do not get in eyes, on skin, or on clothing. Do not breathe vapor, mist or spray.
+
+6.1.1. For Non-Emergency Personnel
+
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+
+Emergency Procedures: Evacuate unnecessary personnel.
+
+6.1.2. For Emergency Personnel
+
+Protective Equipment: Equip cleanup crew with proper protection.
+
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+
+For Containment: Contain any spills with dikes or absorbents to prevent migration and entry into sewers or streams.
+
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Transfer spilled material to a suitable container
+for disposal. Contact competent authorities after a spill.
+
+6.4. Reference to Other Sections
+
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+
+Additional Hazards When Processed: Handle in accordance with standard industrial practices, and ensure appropriate ventilation.
+Avoid all contact with skin, eyes, clothing. Do not release into the environment.
+
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving
+work. Do not breathe fume/gas/mist/vapors/spray. Do not get in eyes, on skin, or on clothing.
+
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+
+Technical Measures: Comply with applicable regulations.
+
+Storage Conditions: Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight,
+extremely high or low temperatures and incompatible materials. Store locked up/in a secure area.
+
+Incompatible Materials: Strong acids, strong bases, strong oxidizers.
+
+7.3. Specific End Use(s)
+
+Windguard is an evaporation reducer for concrete flatwork and it helps reduce surface moisture evaporation.
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+8.1. Control Parameters
+
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+8.2. Exposure Controls
+
+Appropriate Engineering Controls: Ensure adequate ventilation, especially in confined areas. Suitable eye/body wash equipment
+should be available in the vicinity of any potential exposure. Ensure all national/local regulations are observed.
+
+03/12/2022 EN (English US) 3/7
+Windguard
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Insufficient ventilation: wear respiratory protection.
+
+Materials for Protective Clothing: Chemically resistant materials and fabrics.
+
+Hand Protection: Wear protective gloves.
+
+Eye and Face Protection: Chemical safety goggles.
+
+Skin and Body Protection: Wear suitable protective clothing.
+
+Respiratory Protection: If exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+protection.
+
+Other Information: When using, do not eat, drink or smoke.
+
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+9.1. Information on Basic Physical and Chemical Properties
+
+Physical State Liquid
+Appearance Opaque, yellowish
+Odor Mild
+
+Odor Threshold Not available
+
+pH Not available
+Evaporation Rate Not available
+Melting Point Not available
+Freezing Point 0 °C (32 °F)
+Boiling Point 100 °C (212 °F)
+Flash Point Non-combustible
+
+Auto-ignition Temperature
+Decomposition Temperature
+Flammability (solid, gas)
+Lower Flammable Limit
+
+Upper Flammable Limit
+
+Vapor Pressure
+
+Relative Vapor Density at 20°C
+Relative Density
+
+Specific Gravity
+
+Solubility
+
+Partition Coefficient: N-Octanol/Water
+Viscosity
+
+VOC content
+
+Not available
+Not available
+Not applicable
+Not available
+Not available
+Not available
+Not available
+1.01 (water =1)
+Not available
+Not available
+Not available
+Not available
+<1%
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:  Hazardous reactions will not occur under normal conditions.
+10.2. Chemical Stability: Stable under recommended handling and storage conditions (see section 7).
+
+10.3. Possibility of Hazardous Reactions:
+
+Hazardous polymerization will not occur.
+
+10.4. Conditions to Avoid: Direct sunlight, extremely high or low temperatures, and incompatible materials.
+10.5. Incompatible Materials: Strong acids, strong bases, strong oxidizers.
+
+10.6. Hazardous Decomposition Products:
+
+Thermal decomposition may produce: Carbon oxides (CO, CO2). Hydrocarbons.
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+11.1. Information on Toxicological Effects - Product
+
+Acute Toxicity (Oral): Not classified
+Acute Toxicity (Dermal): Not classified
+
+Acute Toxicity (Inhalation): Not classified
+
+LD50 and LC50 Data: Not available
+
+03/12/2022
+
+EN (English US) 4/7
+Windguard
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Skin Corrosion/irritation: Not classified
+
+Eye Damage/irritation: Not classified
+
+Respiratory or Skin Sensitization: Not classified
+
+Germ Cell Mutagenicity: May cause genetic defects.
+
+Carcinogenicity: May cause cancer.
+
+Specific Target Organ Toxicity (Repeated Exposure): Not classified
+
+Reproductive Toxicity: Suspected of damaging fertility or the unborn child.
+
+Specific Target Organ Toxicity (Single Exposure): Not classified
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Prolonged exposure may causeirritation.
+Symptoms/Injuries After Skin Contact: Prolonged exposure may cause skin irritation.
+Symptoms/Injuries After Eye Contact: May cause slight irritation to eyes.
+Symptoms/Injuries After Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: May cause genetic defects. May cause cancer. Suspected of damaging fertility or the unborn child.
+11.2. Information on Toxicological Effects - Ingredient(s)
+
+LD50 and LC50 Data:
+
+Solvent naphtha, petroleum, light aromatic (64742-95-6)
+
+LD50 Oral Rat 8400 mg/kg
+LD50 Dermal Rabbit > 2000 mg/kg
+LC50 Inhalation Rat 3400 ppm/4h
+
+SECTION 12: ECOLOGICAL INFORMATION
+12.1. Toxicity
+Ecology - General: Not classified.
+
+Solvent naphtha, petroleum, light aromatic (64742-95-6)
+
+LC50 Fish 9.22 mg/l (Exposure time: 96 h - Species: Oncorhynchus mykiss)
+EC50 Crustacea 6.14 mg/| (Exposure time: 48 h - Species: Daphnia magna)
+12.2. Persistence and Degradability
+
+Windguard
+
+Persistence and Degradability Not established.
+
+12.3. Bioaccumulative Potential
+
+Windguard
+
+Bioaccumulative Potential Not established.
+
+12.4. Mobility in Soil Not available
+
+12.5. Other Adverse Effects
+Other Information: Avoid release to the environment.
+SECTION 13: DISPOSAL CONSIDERATIONS
+13.1. Waste treatment methods
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, territorial, provincial,
+and international regulations.
+Ecology - Waste Materials: Avoid release to the environment.
+SECTION 14: TRANSPORT INFORMATION
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+
+14.1. In Accordance with DOT Not regulated for transport
+14.2. In Accordance with IMDG Not regulated for transport
+14.3. In Accordance with IATA Not regulated for transport
+14.4. In Accordance with TDG Not regulated for transport
+
+SECTION 15: REGULATORY INFORMATION
+15.1. US Federal Regulations
+Windguard
+SARA Section 311/312 Hazard Classes Health hazard - Carcinogenicity
+
+03/12/2022 EN (English US) 5/7
+Windguard
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Health hazard - Germ cell mutagenicity
+Health hazard - Reproductive toxicity
+
+Solvent naphtha, petroleum, light aromatic (64742-95-6)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Water (7732-18-5)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+15.2. US State Regulations
+
+Neither this product nor its chemical components appear on any US state lists, or its chemical components are not required to be
+disclosed
+
+15.3. Canadian Regulations
+
+Solvent naphtha, petroleum, light aromatic (64742-95-6)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Water (7732-18-5)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+Date of Preparation or Latest : 03/12/2022
+Revision
+Other Information : This document has been prepared in accordance with the SDS requirements of the OSHA
+
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+GHS Full Text Phrases:
+
+Aquatic Acute 2 Hazardous to the aquatic environment - Acute Hazard Category 2
+Aquatic Chronic 2 Hazardous to the aquatic environment - Chronic Hazard Category 2
+Asp. Tox. 1 Aspiration hazard Category 1
+
+Carc. 1B Carcinogenicity Category 1B
+
+Flam. Liq. 1 Flammable liquids Category 1
+
+Muta. 1B Germ cell mutagenicity Category 1B
+
+Repr. 2 Reproductive toxicity Category 2
+
+Skin Irrit. 2 Skin corrosion/irritation Category 2
+
+STOTSE 3 Specific target organ toxicity — Single exposure, Category 3, Narcosis
+H224 Extremely flammable liquid and vapor
+
+H304 May be fatal if swallowed and enters airways
+
+H315 Causes skin irritation
+
+H336 May cause drowsiness or dizziness
+
+H340 May cause genetic defects
+
+H350 May cause cancer
+
+H361 Suspected of damaging fertility or the unborn child
+
+H401 Toxic to aquatic life
+
+H411 Toxic to aquatic life with long lasting effects
+
+Indication of Changes
+Section Change Date Changed Version
+1 Modified responsible 03/12/2022 3.1
+
+party information, logo
+& emergency telephone
+number
+
+03/12/2022 EN (English US) 6/7
+Windguard
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+accuracy and assumes no liability in connection with the use of the information contained herein which is not intended to be and
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+this product should review all such laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+Provincial and State regulations.
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR À PARTICULAR PURPOSE, OR OTHERWISE.
+
+NA GHS SDS 2015 (Can, US)
+
+03/12/2022 EN (English US) 7/7

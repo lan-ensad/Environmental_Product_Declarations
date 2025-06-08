@@ -1,0 +1,83 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US), Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "date_of_issue": "02/26/2021",
+    "validity_period": "5 years",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 181",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "facility_name": "Holcim (US), Devils Slide Plant",
+    "facility_address": "6055 East Croydon Road, Morgan, UT 84050"
+  },
+  "product_description": {
+    "product_definition": "Portland cement is a hydraulic cement produced by pulverizing clinker, consisting essentially of crystalline hydraulic calcium silicates, and usually containing water, calcium sulfate, up to 5% limestone, and processing additions.",
+    "blended_cement": "A hydraulic cement consisting of two or more inorganic constituents which contribute to the strength gaining properties of the cement.",
+    "types": {
+      "Type IL": "Portland-limestone cement with limestone content more than 5% but less than or equal to 15% by mass.",
+      "Type IP": "Portland-pozzolan cement with pozzolan constituent up to 40% by mass."
+    },
+    "declared_unit": "1 metric ton of cement",
+    "products_and_standards": {
+      "Blended Type IL": {
+        "Clinker": "85%",
+        "Gypsum": "5%",
+        "Limestone": "10%",
+        "Nat. Pozzolans": "0%",
+        "Other": "<1%",
+        "Total": "100%",
+        "Applicable Standards": "ASTM C595"
+      },
+      "Blended Type IP": {
+        "Clinker": "70%",
+        "Gypsum": "5%",
+        "Limestone": "0%",
+        "Nat. Pozzolans": "25%",
+        "Other": "<1%",
+        "Total": "100%",
+        "Applicable Standards": "ASTM C595"
+      }
+    }
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate covering production stage (A1-A3)",
+    "cut_off_criteria": "All input/output data required were collected and included in the LCI modelling.",
+    "data_collection": "Gate-to-gate input/output flow data collected for limestone quarry, clinker production, and cement manufacture for 2019.",
+    "allocation_rules": "Recycling and recycled content are modeled using the cut-off rule.",
+    "data_quality_requirements": {
+      "technology_coverage": "High",
+      "geographic_coverage": "High",
+      "time_coverage": "High",
+      "completeness": "All relevant processes considered and modeled.",
+      "consistency": "High level of consistency maintained.",
+      "reproducibility": "Internal reproducibility possible; external not possible.",
+      "transparency": "Activity and LCI datasets disclosed in the project report."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Type IL": "942 kg CO2 eq",
+      "Type IP": "781 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Type IL": "446 kg CO2 eq",
+      "Type IP": "367 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recovered_materials": "Fly ash, furnace bottom ash, bypass dust, mill scale, polluted soils, spent catalyst, aluminum oxide waste, silica fume, granulated blast furnace slag, iron rich waste, cement kiln dust (CKD), flue gas desulfurization (FGD) gypsum, and calcium fluoride rich waste.",
+    "secondary_fuels": "Used tires, plastics, solvents, used oil and oily waste, coal/carbon waste, roofing asphalt, household refuse-derived waste and non-hazardous liquid waste."
+  },
+  "additional_info": {
+    "sustainability_commitment": "The Devil’s Slide plant co-processes waste by recovering energy from recovered plastics and tires.",
+    "environmental_protection": "Holcim (US) manufacturing facilities comply with the U.S. EPA regulations, monitor and report emissions to air during the manufacturing process.",
+    "air_pollution_abatement_equipment": "High and low temperature baghouses, dry filters, cartridge filters and bin vents."
+  }
+}

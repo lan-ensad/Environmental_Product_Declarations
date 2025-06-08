@@ -1,0 +1,90 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US), Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 179",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "02/26/2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement"
+  },
+  "product_description": {
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_definition": "Portland cement is defined as a hydraulic cement produced by pulverizing clinker, consisting essentially of crystalline hydraulic calcium silicates, and usually containing one or more of the following: water, calcium sulfate, up to 5% limestone, and processing additions.",
+    "types": [
+      {
+        "type": "Portland Cement Type I",
+        "description": "For use when the special properties specified for any other type are not required."
+      },
+      {
+        "type": "Portland Cement Type II",
+        "description": "For general use, more especially when moderate sulfate resistance is desired."
+      },
+      {
+        "type": "Blended Cement Type IL",
+        "description": "A Portland-limestone cement with limestone content more than 5% but less than or equal to 15% by mass."
+      },
+      {
+        "type": "Blended Cement Type IP",
+        "description": "A Portland-pozzolan cement with pozzolan constituent up to 40% by mass."
+      }
+    ],
+    "facility_name": "Holcim (US), Portland Plant",
+    "facility_address": "3500 State Hwy 120, Florence, CO 81226"
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "modules_covered": "A1-A3",
+    "cut_off_criteria": "All input/output data required were collected and included in the LCI modelling. No substances with hazardous and toxic properties that pose a concern for human health and/or the environment were identified.",
+    "data_collection": "Gate-to-gate input/output flow data were collected for limestone quarry, clinker production and cement manufacture for the reference year 2019.",
+    "allocation_rules": "Recycling and recycled content are modeled using the cut-off rule.",
+    "data_quality_requirements": {
+      "technology_coverage": "High",
+      "geographic_coverage": "US",
+      "time_coverage": "2019",
+      "completeness": "All relevant, specific processes were considered and modeled.",
+      "consistency": "High level of consistency maintained.",
+      "reproducibility": "Internal reproducibility is possible.",
+      "transparency": "Activity and LCI datasets are disclosed in the project report."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type II": "863 kg CO2 eq",
+      "Blended Type IL": "809 kg CO2 eq",
+      "Blended Type IP": "687 kg CO2 eq",
+      "Masonry Type N": "488 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type II": "473 kg CO2 eq",
+      "Blended Type IL": "440 kg CO2 eq",
+      "Blended Type IP": "371 kg CO2 eq",
+      "Masonry Type N": "253 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": {
+      "Portland Type II": "26 kg",
+      "Blended Type IL": "24 kg",
+      "Blended Type IP": "20 kg",
+      "Masonry Type N": "14 kg"
+    },
+    "non_renewable_secondary_fuels": {
+      "Portland Type II": "813 MJ LHV",
+      "Blended Type IL": "756 MJ LHV",
+      "Blended Type IP": "638 MJ LHV",
+      "Masonry Type N": "435 MJ LHV"
+    }
+  },
+  "additional_info": {
+    "sustainability_commitment": "The Portland plant co-processes waste by recovering energy from scrap tires to replace some of the fossil fuels and mineral resources used in cement processing.",
+    "environmental_protection": "Holcim (US) manufacturing facilities comply with the U.S. environmental protection agency (EPA) regulations, monitor and report the emissions to air during the manufacturing process."
+  }
+}

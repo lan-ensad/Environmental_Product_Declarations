@@ -1,0 +1,621 @@
+DEVIL'S SLIDE CEMENT PLANT
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+nn  HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd H O LC Ï M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+About this EPD
+
+This is a cradle-to-gate environmental product declaration for two blended cements (Type IL and Type IP) as
+produced at Holcim’s Devils Slide, UT plant. The life cycle assessment was prepared according to ISO 14025:2006,
+ISO 21930:2017 (the core PCR) and the NSF product category rules for Portland, Blended, Masonry, Mortar and
+Plastic (Stucco) Cements (subcategory PCR). This environmental product declaration (EPD) is intended for
+business-to-business audiences.
+
+General Summary
+
+EPD Commissioner and Owner Holcim (US), Inc.
+8700 W Bryn Mawr Ave
+Chicago, IL 60631
+Phone: 626-852-6200
+www.holcim.us
+
+0 H O LC | M Holcim provided both LCI and meta-data for limestone quarrying, clinker
+{3 production and cement manufacture for reference year 2019. The owner of the
+declaration is liable for the underlying information and evidence.
+
+For any explanatory material, regarding this EPD, please contact Sonia
+
+Gagnon (sonia.gagnon@holcim.com).
+Product Group and Name Cement, UN CPC 3744.
+
+Product Definition Portland cement is defined as a hydraulic cement produced by pulverizing
+clinker, consisting essentially of crystalline hydraulic calcium silicates, and
+usually containing one or more of the following: water, calcium sulfate, up to
+5% limestone, and processing additions (NSF PCR 2020, ASTM C150, ASTM
+C219).
+
+Blended cement is a hydraulic cement consisting of two or more inorganic
+constituents (at least one of which is not Portland cement or Portland cement
+clinker) which separately or in combination contribute to the strength gaining
+properties of the cement, (made with or without other constituents, processing
+additions and functional additions, by intergrinding or other blending).
+
+e Type IL (ASTM C595) — is a Portland-limestone cement and is a
+hydraulic cement in which the limestone content is more than 5 % but
+less than or equal to 15 % by mass of the blended cement.
+
+e Type IP (ASTM C595) —Portland-pozzolan cement shall be a
+hydraulic cement in which the pozzolan constituent is up to 40 % by
+mass of the blended cement.
+
+| ) HOLCIM
+A HOLCIM
+
+Product Category Rules (PCR)
+
+Date of Issue & Validity Period
+
+Declared Unit
+
+Environmental Product Declaration (EPD)
+
+In accordance with ISO 14025 and 21930 4
+
+u11/
+
+NSF International, Product Category Rules for Preparing an Environmental
+Product Declaration for Portland, Blended Hydraulic, Masonry, Mortar, and
+Plastic (Stucco) Cements, V3.1, September 2020 [2].
+
+02/26/2021 — 5 years
+
+1 metric ton of cement
+
+EPD and Project Report Information
+
+Program Operator
+
+Declaration Number
+Declaration Type
+Applicable Countries
+
+Product Applicability
+
+Content of the Declaration
+
+This EPD was independently
+verified by ASTM in accordance
+With ISO 14025 and the reference
+PCR:
+
+Internal External X
+
+The Project Report
+
+LCA report and EPD Prepared by:
+
+Athena
+2) Sustainable Materials
+Institute
+
+This EPD project report is
+independently verified by in
+accordance with ISO 14025, ISO
+
+14040/44, and the reference PCR:
+
+ASTM International
+
+EPD 181
+Cradle-to-gate (modules A1 to A3). Facility and product-specific.
+United States
+
+Portland cement is the basic ingredient of concrete. Concrete, one of the most
+widely used construction materials in the world, is formed when Portland
+cement creates a paste with water that binds with sand and rock to harden.
+
+This declaration follows Section 9; Content of an EPD, NSF International,
+Product Category Rules for Preparing an Environmental Product Declaration
+for Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco)
+Cements, V3.1, September 2020 [21].
+
+Tim Brooke
+
+ASTM International
+100 Barr Harbor Drive
+PO Box C700
+
+West Conshohocken
+PA 19428-2959, USA
+
+cert@astm.org
+
+Cradle-to-Gate Life Cycle Assessment of Holcim US Cement Plants, Prepared
+for Holcim US, February 2021 (Revised May 2022).
+
+Lindita Bushi, PhD, Jamie Meil & Grant Finlayson
+Athena Sustainable Materials Institute
+
+280 Albert Street, Suite 404
+
+Ottawa, Ontario, Canada K1P 5G8
+info@athenasmi.org
+
+www.athenasmi.org
+
+Thomas P. Gloria, Ph. D.
+Industrial Ecology Consultants
+35 Bracebridge Rd.
+
+Newton, MA
+
+ne
+
+G’ HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd H O LC Ï M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+PCR Information
+
+Program Operator NSF International
+
+Reference PCR Product Category Rules for Preparing an Environmental Product Declaration
+for Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco)
+Cements, V3.1, September 2020 [21].
+
+PCR review was conducted by: Thomas P. Gloria, PhD (Chair), Industrial Ecology Consultants,
+t.gloria@industrial-ecology.com
+Mr. Jack Geibig, EcoForm
+Mr. Bill Stough, Sustainable Research Group
+
+Holcim (US) Cement & Production Facility
+
+Holcim (US) is the global leader in building materials and solutions. As the largest cement manufacturer in the United
+States, Holcim’s ambition is to lead the industry in reducing carbon emissions and shifting towards low-carbon
+construction.
+
+In the United States, Holcim companies include close to 350 sites in 43 states and employ 7,000 people. Our
+customers rely on us to help them design and build better communities with innovative solutions that deliver structural
+integrity and eco-efficiency.
+
+Facility Name: Holcim (US), Devils Slide Plant
+6055 East Croydon Road, Morgan, UT 84050
+
+Product Description
+
+This EPD reports environmental transparency information for five cement types produced by Holcim at its Devil's
+Slide, UT plant. Cements are hydraulic binders and are manufactured by grinding cement clinker and other main or
+minor constituents into a finely ground, usually grey colored mineral powder. When mixed with water, cement acts as
+a glue to bind together the sand, gravel or crushed stone to form concrete, one of the most durable, resilient and
+widely used construction materials in the world. The Table below sets out each cement type constituents and
+applicable standards. All Devils Slide cements are sold in bulk.
+
+Products and Standards
+
+Inputs Blended Type IL Blended Type IP Applicable Standards:
+ASTM C595 ASTM C595 ASTM C150 / C150M -— 20 Standard Specification for
+Clinker 85% 70% Portland Cement
+© Gypsum À 5 5% ASTM C5985 / C595M — 20 Standard Specification for
+Limestone 10% 0% Blended Hydraulic Cement
+ASTM C1157 / C1157M -— 20 Standard Performance
+Nat. Pozzolans 0% 25% Specification for Hydraulic Cement
+Other <1% <1% AASHTO M 85-20 Standard Specification for Portland
+Total À 100% 100%  Cement (ASTM Designation: C150 / C150M - 20)
+
+Declared Unit
+
+The declared unit is one metric tonne of cement.
+
+EN
+
+S HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd H O LC Ï M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+System Boundary
+
+This EPD is a cradle-to-gate EPD covering the production stage (A1-A3) as depicted in the figure below. The
+production stage includes extraction of raw materials (cradle) through the manufacture of cements ready for shipment
+(gate). The Devils Slide, UT cement plant sources its limestone supply from an adjacent quarry.
+
+PRODUCTION CONSTRUCTION USE END OF LIFE Optional
+Stage Stage Stage Stage supplementary
+information
+C1
+De-construction beyond the
+
+Demolition system boundary
+
+A1
+. A4 B1
+Extraction and :
+. Transport to site Use
+upstream production
+
+A2 A5 B2
+Transport to factory Installation Maintenance Transport
+
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+|
+| Manufacturing Repair Waste Processing
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+]
+
+D
+Potential net
+benefits from
+
+C2
+
+reuse,
+recycling, and/or
+energy recovery
+beyond the system
+boundary
+
+B4
+Replacement
+
+Ca
+Disposal of waste
+
+B5
+Refurbishment
+
+B6
+Operational Energy
+Use
+B7
+
+Operational Water
+Use
+
+Life Cycle Information within the System Boundary
+
+Items excluded from the system boundary include:
+e Production, manufacture, and construction of manufacturing capital goods and infrastructure
+e Production and manufacture of production equipment, delivery vehicles, and laboratory equipment
+e  Personnel-related activities (travel, furniture, and office supplies)
+e Energy and water use related to company management and sales activities that may be located either within
+the factory site or at another location
+
+Cut-off Criteria
+
+The cut-off criteria as per NSF PCR, Section 7.1.8 [2] and ISO 21930, 7.1.8 [3] were followed. Per ISO 21930, 7.1.8
+[3], all input/output data required were collected and included in the LCI modelling. No substances with hazardous
+and toxic properties that pose a concern for human health and/or the environment were identified in the framework of
+this EPD. Any plant specific data gaps for the reference year 2019 e.g., amounts of lubricants and refractory were
+filled in with industry data (secondary data).
+
+| ) HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd H O LC | M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+Data Collection
+Gate-to-gate input/output flow data were collected for the following processes for the reference year 2019:
+e _Limestone quarry, clinker production and cement manufacture — Devils Slide, UT.
+
+Allocation Rules
+
+Allocation follows the requirements and guidance of ISO 14044 Clause 4.3.4 [5], NSF PCR [2], and ISO 21930
+section 7.2 [3]. Recycling and recycled content are modeled using the cut-off rule. The sub-category PCR recognizes
+fly ash, furnace bottom ash, bypass dust, mill scale, polluted soils, spent catalyst, aluminum oxide waste, silica fume,
+granulated blast furnace slag, iron rich waste, cement kiln dust (CKD), flue gas desulfurization (FGD) gypsum, and
+calcium fluoride rich waste as recovered materials and thus the environmental impacts allocated to these materials
+are limited to the treatment and transportation required to use as a cement material input. Further, used tires,
+plastics, solvents, used oil and oily waste, coal/carbon waste, roofing asphalt, household refuse-derived waste and
+non-hazardous liquid waste are considered non-renewable and/or renewable secondary fuels. Only the materials,
+water, energy, emissions, and other elemental flows associated with reprocessing, handling, sorting and
+transportation from the point of the generating industrial process to their use in the production process are
+considered. All emissions from combustion at the point of use are considered.
+
+Data Quality Requirements and Assessment
+
+Data Quality
+
+Requirements DEEE EXEN
+
+Data represents the prevailing technology in use at the Devil's Slide, UT facility. Whenever available, for all
+upstream and core material and processes, North American typical or average industry LCI datasets were
+Technology utilized.
+
+Coverage
+: The Devils Slide, UT plant utilizes a dry with preheater and precalciner kiln technology.
+Technological representativeness is characterized as “high”.
+Geographic The geographic region considered is U.S.
+Coverage Geographical representativeness is characterized as "high".
+
+Activity (primary) data are representative of 2019 calendar year (12 months).
+- Devils Slide limestone extraction,
+- Devils Slide clinker production,
+- Devil's Slide cement manufacturing,
+- In-bound/out-bound transportation data - primary data collected for Devil’s Slide quarry site and cement
+manufacturing plant.
+
+Time Coverage - Generic data: the most appropriate LCI datasets were used as found in the ecoinvent v3.6 database for
+US and global, December 2019 and US LCI Database.
+Electricity resource mix for WECC region includes (eGRID 2018): 29.8% natural gas, 23.9% hydro, 21.3%
+coal, 7.9% nuclear, 7.3% wind, 5.7% solar, 2.1% geothermal, 1.4% wood chips, 0.3% other fossil, 0.2%
+biogas, and 0.1% oil [14], [10].
+
+Temporal representativeness is characterized as “high”.
+
+| ) HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd H O LC Ï M In accordance with ISO 14025 and 21930
+
+tui1/
+
+All relevant, specific processes, including inputs (raw materials, energy and ancillary materials) and outputs
+(emissions and production volume) were considered and modeled to complete production profile for cement
+products.
+
+Completeness The relevant background materials and processes were taken from the US LCI Database (adjusted for
+
+known data placeholders), ecoinvent V3.6 LCI database for US, and modeled in SimaPro software v.9.1.1.1,
+September 2020. The completeness of the cradle-to-gate process chain in terms of process steps is
+rigorously assessed for all cement product systems
+
+To ensure consistency, the LCI modeling of the production input and output LCI data for the cement products
+of interest used the same LCI modeling structure, which consisted of input material and intermediate
+products, ancillary and packaging materials (if applicable), energy flows, water resource inputs, product
+
+Consistency outputs, co-products, by-products, emissions to air, water and soil, and solid and liquid waste disposal.
+Crosschecks concerning the plausibility of mass and energy flows were continuously conducted. The LCA
+team conducted mass and energy balances at the facility level and selected process levels to maintain a
+high level of consistency.
+
+Internal reproducibility is possible since the data and the models are stored and available in LH Devils Slide
+Athena LCI database developed in SimaPro, 2020. A high level of transparency is provided throughout the
+Reproducibility report as the LCI profile is presented for each of the declared products as well as major upstream inputs.
+Key primary (manufacturer specific) and secondary (generic) LCI data sources are also summarized in the
+background report. External reproducibility is not possible as the background report is confidential.
+
+Transparency Activity and LCI datasets are disclosed in the project report, including all data sources.
+
+A sensitivity check was conducted to assess the reliability of the EPD results and conclusions by determining
+Uncertainty how they are affected by uncertainties in the data or assumptions on calculation of LCIA and energy indicator
+results.
+
+Life Cycle Impact Assessment Results: Devil’s Slide, UT Cements
+
+This section summarizes the production stage life cycle impact assessment (LCIA) results including resource use and
+waste generated metrics based on the cradle-to-gate life cycle inventory inputs and outputs analysis. The results are
+calculated based on 1 metric ton of each cement type as produced at the Devils Slide, UT plant. /t should be noted
+that LCIA results are relative expressions and do not predict impacts on category endpoints, the exceeding of
+thresholds, safety margins or risks [4], [5]. Further, a number of LCA impact categories and inventory items are still
+emerging or under development and can have high levels of uncertainty that preclude international acceptance
+pending further development. Use caution when interpreting results for these categories — identified with an “*” [2].
+
+Only EPDSs prepared from cradle-to-grave life-cycle results and based on the same function, quantified by the same
+functional unit, and taking account of replacement based on the product reference service life (RSL) relative to an
+assumed building service life, can be used to assist purchasers and users in making informed comparisons between
+products [2]. Environmental declarations from different programs may not be comparable [7]. EPDs are comparable
+only if they comply with ISO 21930, use the same, sub-category PCR where applicable, include all relevant
+information modules and are based on equivalent scenarios with respect to the context of construction works [3].
+
+| ) HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd H O LC | M In accordance with ISO 14025 and 21930 17
+
+Production stage EPD Result: Devil’s Slide, UT — per Metric Tonne
+
+Blended Blended
+Impact category and
+
+: ner Unit Type IL Type IP
+inventory indicators ASTM ASTM
+C595 C595
+Global warming potential, GWP 1001), AR5 kg CO eq 942 781
+Ozone depletion potential, ODP2) kg CFC-11eq 9.3E-06 8.2E-06
+Smog formation potential, SFP2) kg O3 eq 62.3 51.3
+Acidification potential, AP2) kg SO2 eq 2.2 1.8
+Eutrophication potential, EP?) kg N eq 1.35 115
+
+Abiotic depletion potential for non-fossil
+
+mineral resources, ADP elements) * KglSb.eq STE 3.0E-04
+
+Abiotic depletion potential for
+
+fossil resources, ADP fossil$) My EHV 3,163 2,669
+Renewable primary resources used as an My LHV 214 192
+energy carrier (fuel), RPRE
+
+Renewable primary resources with energy
+
+content used as material, RPRu)° MJ LHV 0 0
+Non-renewable primary resources used as an My LHV 3,320 2,810
+energy carrier (fuel), NRPRE
+
+Non-renewable primary resources with energy
+
+content used as material, NRPRaf)* MJ LHV 0 0
+Secondary materials, SM)” kg 55 45
+Renewable secondary fuels, RSF*)" MJ LHV 0 0
+Non-renewable secondary fuels, NRSF4" MJ LHV 1,291 1,063
+Recovered energy, RE” MJ LHV 0 0
+Consumption of freshwater, FW) m° 0.3 0.2
+Hazardous waste disposed, HWD)° kg 6.5E-02 5.1E-02
+Non-hazardous waste disposed, NHWD)” kg 0.3 0.2
+High-level radioactive waste, conditioned, to 3
+
+final repository, HLRW4° m 8.2E-08 TAË-08
+Intermediate- and low-level radioactive waste, 3
+
+conditioned, to final repository, ILLRW4)* m BAIE 226
+Components for re-use, CRU“" kg 0 0
+
+| ) HOLCIM
+EL"
+
+Environmental Product Declaration (EPD) 4h
+a O LC | M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+Materials for recycling, MR4" kg 0 0
+
+Materials for energy recovery, MER" kg 0 0
+
+Recovered energy exported from the product
+
+cystem, EE9° MJ LHV 0 0
+
+Emissions from calcination’) kg CO; eq 446 367
+
+Biogenic CO, reporting the removals and
+emissions associated with biogenic carbon kg CO, eq 0 0
+content contained within biobased products
+
+Table Notes:
+
+1) Calculated as per U.S EPA TRACI v2.1, with IPCC 2013 (AR 5), SimaPro v 9.1.1.1 [10].
+
+GWP 100, excludes biogenic CO2 removals and emissions associated with biobased products; 100-year time horizon GWP
+factors are provided by the IPCC 2013 Fifth Assessment Report (AR5), TRACI v2.1 with AR5, v1.05 [10].
+
+2) Calculated as per U.S EPA TRACI v2.1, SimaPro v 9.1.1.1 [10].
+
+3) ADP elements: Clay, bentonite, limestone, gravel, silica, sand added to model per Table A4 in the 2019 NSF PCR for Concrete
+[6]. ADP fossil is calculated as per CML-IA Baseline v3.05, SimaPro v 9.1.1.1 [10]. ADP LHV, CMLis required in LEED V4.1 MR
+Credit: Building Product Disclosure and Optimization — Environmental Product Declarations [13].
+
+4) Calculated as per ACLCA ISO 21930 Guidance [11].
+
+5) Total CO: facility combustion emissions are measured data from CO: Continuous Emission Monitoring System (CEMS) as
+reported in 2019 GHG Report submitted to US EPA. Calcination emissions are based on the Cement CO: and Energy Protocol
+detailed output method (B1) published by the World Business Council for Sustainable Development (WBCSD) Cement
+Sustainability Initiative (CSI) [15].
+
+LCA Interpretation
+
+The Manufacturing module (A3) drives most of the potential environmental impacts. Manufacturing impacts are
+primarily driven by energy use (electricity and thermal fuels) used during the pyroprocessing of limestone in the
+production of clinker. Clinker content in cement similarly defines the relative environmental profile of the final cement
+product. Raw material extraction (A1) is the second largest contributor to the Production stage EPD results, followed
+by the transportation (A2).
+
+Additional Environmental Information
+
+Committed to sustainability, the Devil’s Slide plant co-processes waste by recovering energy from recovered plastics
+and tires to replace some of the fossil fuels and mineral resources used in cement processing.
+
+Environmental Protection and Equipment
+
+Holcim (US) manufacturing facilities comply with the U.S. environmental protection agency (EPA) regulations,
+monitor and report the emissions to air during the manufacturing process as per the following:
+
+- EPCRA Section 313 Toxic Release Inventory reporting (U.S) https://www.epa.gov/toxics-release-inventory-tri-
+program, accessed 12-2020.
+
+Air pollution abatement equipment used at Holcim’s Devils Slide plant consist of high and low temperature
+baghouses, dry filters, cartridge filters and bin vents.
+
+References
+
+| ) HOLCIM
+
+_
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Environmental Product Declaration (EPD) 4h
+H O LC | M In accordance with ISO 14025 and 21930
+
+tui1/
+
+ASTM C1157 / C1157M - 20 Standard Performance Specification for Hydraulic Cement.
+
+NSF International, Product Category Rule Environmental Product Declarations, PCR for Portland, Blended,
+Masonry, Mortar, and Plastic (Stucco) Cements, V3.1, September 2020.
+
+ISO 21930:2017 Sustainability in buildings and civil engineering works - Core rules for environmental product
+declarations of construction products and services.
+
+ISO 14040:2006/Amd1:2020 Environmental management - Life cycle assessment - Principles and
+framework.
+
+ISO 14044:2006/Amd1:2017/Amd2:2020 Environmental management - Life cycle assessment -
+Requirements and guidelines.
+
+NSF International, Product Category Rule Environmental Product Declarations, PCR for Concrete, February
+2020.
+
+ISO 14025:2006 Environmental labeling and declarations - Type III environmental declarations - Principles
+and procedures.
+
+ISO 14021:2016 Environmental labels and declarations -- Self-declared environmental claims (Type Il
+environmental labelling).
+
+ASTM Program Operator Rules, v 8.0, 04/29/2020.
+
+. PRé 2019.SimaPro LCA Software v9.1.1.1, September 2020.
+
+https://simapro.com/, accessed 08-2020.
+
+ACLCA 2019, Guidance to Calculating Non-LCIA Inventory Metrics in Accordance with ISO 21930:2017. The
+American Centre for Life Cycle Assessment. May, 2019.
+
+https://aclca.org/aclca-iso-21930-quidance/, https://aclca.org/wp-content/uploads/1S0-21930-Final.pdf,
+accessed 08-2020.
+
+LEED vd, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and
+Optimization — Environmental Product Declarations.
+https://www.usqgbc.org/node/2616376?return=/credits/new-construction/v4/material-%26amp%3B-resources,
+accessed 08-2020.
+
+LEED v4.1, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and
+Optimization — Environmental Product Declarations.
+
+https://leeduser.buildinggreen.com/credit/NC-v4.1/MRc2#tab-credit-language, accessed 08-2020.
+US. EPA, Emissions & Generation Resource Integrated Database (eGRID)
+
+https://www.epa.gov/egrid, accessed 10-2020.
+WBCSD CSI 2013: CO2 and Energy Protocol Version 3.1 of 9 December 2013.
+
+https://www.cement-co2-protocol.org/en/, accessed 08-2020.
+
+) HOLCIM

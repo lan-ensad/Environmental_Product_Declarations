@@ -1,0 +1,172 @@
+{
+  "epd_metadata": {
+    "product_name": "Clarion Sandstone (Shale)",
+    "revision_date": "03/12/2022",
+    "date_of_issue": "11/10/2021",
+    "version": "1.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "ChemTel LLC 1-800-255-3924"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "synonyms": [
+      "Mud rock",
+      "Rock shale"
+    ],
+    "intended_use": "Shale is used as a component of cement manufacture. It may also be used as a building material or an admixture for clay or other building products."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": {
+        "proper_shipping_name": "CORROSIVE SOLIDS, N.O.S. (Potassium monoxide, Sodium monoxide)",
+        "hazard_class": "8",
+        "identification_number": "UN1759",
+        "label_codes": "8",
+        "packing_group": "II",
+        "erg_number": "154"
+      },
+      "IMDG": {
+        "proper_shipping_name": "CORROSIVE SOLID, N.O.S. (Potassium monoxide, Sodium monoxide)",
+        "hazard_class": "8",
+        "identification_number": "UN1759",
+        "label_codes": "8",
+        "packing_group": "II",
+        "ems_no_fire": "F-A",
+        "ems_no_spillage": "S-B"
+      },
+      "IATA": {
+        "proper_shipping_name": "CORROSIVE SOLID, N.O.S. (Potassium monoxide, Sodium monoxide)",
+        "hazard_class": "8",
+        "identification_number": "UN1759",
+        "label_codes": "8",
+        "packing_group": "II",
+        "erg_code": "8L"
+      },
+      "TDG": {
+        "proper_shipping_name": "CORROSIVE SOLID, N.O.S. (Potassium monoxide, Sodium monoxide)",
+        "hazard_class": "8",
+        "identification_number": "UN1759",
+        "label_codes": "8",
+        "packing_group": "II"
+      }
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Corr. 1A H314",
+        "Eye Dam. 1 H318",
+        "Carc. 1A H350",
+        "STOT SE 3 H335",
+        "STOT RE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H314 - Causes severe skin burns and eye damage.",
+          "H318 - Causes serious eye damage.",
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Quartz",
+          "product_identifier": "CAS-No. 14808-60-7",
+          "percentage": "< 60",
+          "classification": [
+            "Carc. 1A, H350",
+            "STOT SE 3, H335",
+            "STOT RE 1, H372"
+          ]
+        },
+        {
+          "name": "Silica, amorphous",
+          "product_identifier": "CAS-No. 7631-86-9",
+          "percentage": "< 60",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Aluminum oxide",
+          "product_identifier": "CAS-No. 1344-28-1",
+          "percentage": "10 - 15",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Potassium oxide",
+          "product_identifier": "CAS-No. 12136-45-7",
+          "percentage": "2-6",
+          "classification": [
+            "PHNOC 1",
+            "Skin Corr. 1A, H314",
+            "Eye Dam. 1, H318"
+          ]
+        },
+        {
+          "name": "Magnesium oxide",
+          "product_identifier": "CAS-No. 1309-48-4",
+          "percentage": "2-6",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Calcium oxide",
+          "product_identifier": "CAS-No. 1305-78-8",
+          "percentage": "2-6",
+          "classification": [
+            "Skin Irrit. 2, H315",
+            "Eye Dam. 1, H318",
+            "STOT SE 3, H335",
+            "Aquatic Acute 3, H402",
+            "Aquatic Chronic 3, H412"
+          ]
+        },
+        {
+          "name": "Iron oxide",
+          "product_identifier": "CAS-No. 1345-25-1",
+          "percentage": "2-6",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Sodium oxide",
+          "product_identifier": "CAS-No. 1313-59-3",
+          "percentage": "<1",
+          "classification": [
+            "PHNOC 1",
+            "Skin Corr. 1B, H314",
+            "Eye Dam. 1, H318"
+          ]
+        },
+        {
+          "name": "Phosphorus oxide",
+          "product_identifier": "CAS-No. 1314-56-3",
+          "percentage": "<1",
+          "classification": [
+            "Skin Corr. 1A, H314",
+            "Eye Dam. 1, H318"
+          ]
+        }
+      ]
+    }
+  }
+}

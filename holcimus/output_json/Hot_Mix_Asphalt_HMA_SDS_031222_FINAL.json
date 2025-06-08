@@ -1,0 +1,154 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "04/24/2015",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Hot Mix Asphalt (HMA)",
+    "synonyms": [
+      "Asphaltic Concrete",
+      "Bitumen",
+      "Bituminous Concrete",
+      "Blacktop",
+      "Dense Friction Course (DFC)",
+      "DuraClime",
+      "DuraCycle",
+      "DuraPhalt",
+      "DuraPhalt HM",
+      "DuraPlay",
+      "DuraTint",
+      "DuraTough",
+      "DuraWay",
+      "DuraWhisper",
+      "Gap Graded",
+      "Heavy Duty Binder Course (HDBC)",
+      "Hot Laid Asphaltic Cement",
+      "Hot Mix Asphalt Concrete (HMAC)",
+      "Hot Mix Paving Material",
+      "Lafarge Hot Mix Asphalt",
+      "Medium Duty Binder Course (MDBC)",
+      "Open Friction Course (OFC)",
+      "Open Graded Friction Course",
+      "Stone Matrix Asphalt (SMA)",
+      "SuperPave Mix",
+      "Tarmac",
+      "Ultra Thin Bonded Overlay",
+      "Warm Mix Asphalt"
+    ],
+    "intended_use": "Construction material for paving base, intermediate and surface course pavements, roads, highways, airports, parking lots and other Hot Mix Asphalt applications.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us",
+      "emergency_phone": "1-800-255-3924"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "dot": {
+        "proper_shipping_name": "ELEVATED TEMPERATURE LIQUID, N.O.S. (Asphalt)",
+        "hazard_class": "9",
+        "identification_number": "UN3257",
+        "label_codes": "9",
+        "packing_group": "III",
+        "erg_number": "128"
+      },
+      "imdg": {
+        "proper_shipping_name": "ELEVATED TEMPERATURE LIQUID, N.O.S. (Asphalt)",
+        "hazard_class": "9",
+        "identification_number": "UN3257",
+        "label_codes": "9",
+        "ems_no_fire": "F-A",
+        "ems_no_spillage": "S-P"
+      },
+      "iata": {
+        "proper_shipping_name": "ELEVATED TEMPERATURE LIQUID, N.O.S. (Asphalt)",
+        "hazard_class": "9",
+        "identification_number": "UN3257",
+        "label_codes": "9",
+        "erg_code": "9L"
+      },
+      "tdg": {
+        "proper_shipping_name": "ELEVATED TEMPERATURE LIQUID, N.O.S. (Asphalt)",
+        "hazard_class": "9",
+        "identification_number": "UN3257",
+        "label_codes": "9",
+        "packing_group": "III"
+      }
+    }
+  },
+  "end_of_life": {
+    "disposal_considerations": {
+      "waste_disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations.",
+      "additional_information": "Container may remain hazardous when empty. Continue to observe all precautions.",
+      "ecology_waste_materials": "Avoid release to the environment."
+    }
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": {
+        "carcinogenicity": "Carc. 1A H350",
+        "specific_target_organ_toxicity_repeated_exposure": "STOTRE 1 H372"
+      },
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H350 - May cause cancer.",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe vapors, mist, or spray.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, and international regulations."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate individuals with pre-existing skin, kidney, liver, and pulmonary disorders. Asphalt may contain trace quantities of benzene (<0.1%). Elevated temperature conditions may emit hydrogen sulfide, an asphalt decomposition product."
+    },
+    "composition_information": {
+      "mixture": [
+        {
+          "name": "Aggregates",
+          "synonyms": "Crushed stone / Sand / Gravel / Slag",
+          "cas_no": "Not applicable",
+          "percentage": "50-100",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Quartz",
+          "synonyms": "Quartz (SiO2) / Silica, crystalline, quartz",
+          "cas_no": "14808-60-7",
+          "percentage": "<15",
+          "classification": "Carc. 1A, H350; STOT SE 3, H335"
+        },
+        {
+          "name": "Asphalt",
+          "synonyms": "Asphalt (petroleum) / Bitumens / Bitumen",
+          "cas_no": "8052-42-4",
+          "percentage": "<10",
+          "classification": "Carc. 2, H351"
+        },
+        {
+          "name": "Hydrogen sulfide",
+          "synonyms": "Hydrogen sulfide (H2S) / Hydrogen sulphide",
+          "cas_no": "7783-06-4",
+          "classification": "Flam. Gas 1, H220; Press. Gas (Liq.), H280; Acute Tox. 2 (Inhalation:gas), H330; Eye Irrit. 2A, H319; STOT SE 3, H335; STOT SE 1, H370; Aquatic Acute 1, H400; Aquatic Chronic 1, H410; STOT RE 1, H372"
+        }
+      ]
+    }
+  }
+}

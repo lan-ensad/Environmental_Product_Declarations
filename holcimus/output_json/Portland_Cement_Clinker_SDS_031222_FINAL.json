@@ -1,0 +1,110 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "12/15/2014",
+    "supersedes_date": "06/14/2021",
+    "version": "4.1"
+  },
+  "product_description": {
+    "product_form": "Substance",
+    "product_name": "Portland Cement Clinker",
+    "synonyms": [
+      "Clinker",
+      "Lafarge Cement Clinker"
+    ],
+    "intended_use": "Produced by heating a mixture of substances such as limestone, sand, and shale. When ground with gypsum, it produces Portland cement; with gypsum and pozzolanic materials, it produces blended hydraulic cements."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_considerations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations. Avoid release to the environment."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us"
+    },
+    "emergency_contact": {
+      "name": "ChemTel LLC",
+      "phone": "1-800-255-3924"
+    },
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Eye Dam. 1 H318",
+        "Skin Sens. 1 H317",
+        "Carc. 1A H350",
+        "STOT SE 3 H335"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H315 - Causes skin irritation.",
+          "H317 - May cause an allergic skin reaction.",
+          "H318 - Causes serious eye damage.",
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P261 - Avoid breathing dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P272 - Contaminated work clothing should not be allowed out of the workplace.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition_information": {
+      "substance": {
+        "name": "Cement, portland, chemicals",
+        "cas_number": "65997-15-1",
+        "percentage": "100%",
+        "classification": [
+          "Skin Irrit. 2, H315",
+          "Eye Dam. 1, H318",
+          "Skin Sens. 1, H317",
+          "STOT SE 3, H335"
+        ]
+      },
+      "contains": [
+        {
+          "name": "Limestone",
+          "cas_number": "1317-65-3",
+          "percentage": "<5%",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Magnesium oxide",
+          "cas_number": "1309-48-4",
+          "percentage": "<4%",
+          "classification": "Not classified"
+        },
+        {
+          "name": "Quartz",
+          "cas_number": "14808-60-7",
+          "percentage": "<0.2%",
+          "classification": [
+            "Carc. 1A, H350",
+            "STOT SE 3, H335",
+            "STOT RE 1, H372"
+          ]
+        }
+      ]
+    }
+  }
+}

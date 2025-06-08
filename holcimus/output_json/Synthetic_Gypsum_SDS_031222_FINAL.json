@@ -1,0 +1,110 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "12/15/2014",
+    "supersedes_date": "06/14/2021",
+    "version": "3.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "1-800-255-3924"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Synthetic Gypsum",
+    "synonyms": [
+      "Calcium Sulfate Dihydrate",
+      "FGD",
+      "FGD Gypsum",
+      "Flue Gas Desulfurization Gypsum"
+    ],
+    "intended_use": "Used in the manufacturing of drywall, drywall compounds, cement, concrete and concrete products."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of waste material in accordance with all local, regional, national, provincial, territorial and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Eye Dam. 1 H318",
+        "Carc. 1A H350",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H318 - Causes serious eye damage.",
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P310 - Immediately call a POISON CENTER or doctor.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      }
+    },
+    "composition": [
+      {
+        "name": "Gypsum",
+        "cas_no": "13397-24-5",
+        "percentage": "90-99"
+      },
+      {
+        "name": "Limestone",
+        "cas_no": "1317-65-3",
+        "percentage": "<2"
+      },
+      {
+        "name": "Quartz",
+        "cas_no": "14808-60-7",
+        "percentage": "<2"
+      },
+      {
+        "name": "Magnesium oxide",
+        "cas_no": "1309-48-4",
+        "percentage": "<2"
+      },
+      {
+        "name": "Calcium hydroxide",
+        "cas_no": "1305-62-0",
+        "percentage": "<2"
+      },
+      {
+        "name": "Calcium oxide",
+        "cas_no": "1305-78-8",
+        "percentage": "<2"
+      }
+    ],
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "White to off-white",
+      "odor": "None",
+      "pH": "5-8",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "relative_density": "2.3 (water=1)"
+    }
+  }
+}

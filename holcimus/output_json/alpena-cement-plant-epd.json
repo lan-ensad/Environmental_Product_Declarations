@@ -1,0 +1,116 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US) Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 173",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "02.26.2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement"
+  },
+  "product_description": {
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_definition": "Portland cement is defined as a hydraulic cement produced by pulverizing clinker, consisting essentially of crystalline hydraulic calcium silicates, and usually containing one or more of the following: water, calcium sulfate, up to 5% limestone, and processing additions.",
+    "product_types": [
+      "Portland Cement Type I",
+      "Portland Cement Type II",
+      "Portland Cement Type III",
+      "Blended Type IL",
+      "Masonry Type S"
+    ],
+    "facility_name": "Holcim Alpena Cement Plant",
+    "facility_address": "1435 Ford Avenue, Alpena, MI 49707",
+    "products_and_standards": {
+      "Portland Type I/II Low Alkali": "ASTM C150",
+      "Portland Type III": "ASTM C150",
+      "Blended Type IL": "ASTM C595",
+      "Masonry Type S": "ASTM C91"
+    },
+    "inputs": {
+      "Portland Type I/II Low Alkali": {
+        "Clinker": "91%",
+        "Gypsum": "5%",
+        "Limestone": "3%",
+        "Other": "<1%"
+      },
+      "Portland Type III": {
+        "Clinker": "94%",
+        "Gypsum": "5%",
+        "Limestone": "<1%",
+        "Other": "<1%"
+      },
+      "Blended Type IL": {
+        "Clinker": "85%",
+        "Gypsum": "6%",
+        "Limestone": "9%",
+        "Other": "<1%"
+      },
+      "Masonry Type S": {
+        "Clinker": "58%",
+        "Gypsum": "5%",
+        "Limestone": "37%",
+        "Other": "<1%"
+      }
+    }
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "excluded_items": [
+      "Production, manufacture, and construction of manufacturing capital goods and infrastructure",
+      "Production and manufacture of production equipment, delivery vehicles, and laboratory equipment",
+      "Personnel-related activities (travel, furniture, and office supplies)",
+      "Energy and water use related to company management and sales activities"
+    ],
+    "cut_off_criteria": "All input/output data required were collected and included in the LCI modelling. No substances with hazardous and toxic properties that pose a concern for human health and/or the environment were identified.",
+    "data_collection": "Gate-to-gate input/output flow data were collected for limestone quarry, clinker production and cement manufacture for the reference year 2019.",
+    "allocation_rules": "Recycling and recycled content are modeled using the cut-off rule.",
+    "data_quality_requirements": {
+      "technology_coverage": "The Alpena, MI plant utilizes a long dry kiln technology.",
+      "geographic_coverage": "U.S.",
+      "time_coverage": "2019 calendar year",
+      "completeness": "All relevant, specific processes were considered and modeled.",
+      "consistency": "Crosschecks concerning the plausibility of mass and energy flows were continuously conducted.",
+      "reproducibility": "Internal reproducibility is possible since the data and the models are stored and available in LH Alpena Athena LCI database.",
+      "transparency": "Activity and LCI datasets are disclosed in the project report."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II Low Alkali": "1,056 kg CO2 eq",
+      "Portland Type III": "1,095 kg CO2 eq",
+      "Blended Type IL": "984 kg CO2 eq",
+      "Masonry Type S": "692 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type I/II Low Alkali": "480 kg CO2 eq",
+      "Portland Type III": "492 kg CO2 eq",
+      "Blended Type IL": "447 kg CO2 eq",
+      "Masonry Type S": "306 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": {
+      "Portland Type I/II Low Alkali": "95 kg",
+      "Portland Type III": "83 kg",
+      "Blended Type IL": "91 kg",
+      "Masonry Type S": "51 kg"
+    },
+    "non_renewable_secondary_fuels": {
+      "Portland Type I/II Low Alkali": "5 MJ LHV",
+      "Portland Type III": "5 MJ LHV",
+      "Blended Type IL": "5 MJ LHV",
+      "Masonry Type S": "3 MJ LHV"
+    }
+  },
+  "additional_info": {
+    "environmental_protection_and_equipment": "Holcim manufacturing facilities comply with the U.S. environmental protection agency (EPA) regulations, monitor and report the emissions to air during the manufacturing process.",
+    "air_pollution_abatement_equipment": "High and low temperature baghouses, cartridge filters, drum filters, dry filters, bin vents, selective non-catalytic reduction (SNCR), wet scrubbers and dry scrubber (dry sorbent injection, DS)."
+  }
+}

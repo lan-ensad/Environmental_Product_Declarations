@@ -1,0 +1,122 @@
+{
+  "epd_metadata": {
+    "epd_commissioner": "Holcim (US) Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "program_operator": "NSF International",
+    "declaration_number": "EPD 174",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "02.26.2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement"
+  },
+  "product_description": {
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_definition": "Portland cement is defined as a hydraulic cement produced by pulverizing clinker, consisting essentially of crystalline hydraulic calcium silicates, and usually containing one or more of the following: water, calcium sulfate, up to 5% limestone, and processing additions.",
+    "product_applicability": "Cement is the basic ingredient of concrete. Concrete is formed when Portland cement creates a paste with water that binds with sand and rock to harden.",
+    "facility_name": "Holcim Joppa Cement Plant",
+    "facility_address": "2500 Portland Road, Grand Chain, IL 62941",
+    "products_and_standards": {
+      "Portland Type I/II Low Alkali": {
+        "clinker": "94%",
+        "anhydrites_and_gypsum": "5%",
+        "limestone": "<1%",
+        "other": "<1%",
+        "applicable_standards": "ASTM C150"
+      },
+      "Blended Type IL": {
+        "clinker": "85%",
+        "anhydrites_and_gypsum": "5%",
+        "limestone": "10%",
+        "other": "<1%",
+        "applicable_standards": "ASTM C595"
+      },
+      "Class H Oil-well HSR": {
+        "clinker": "97%",
+        "anhydrites_and_gypsum": "3%",
+        "limestone": "0%",
+        "other": "<1%",
+        "applicable_standards": "API 10a"
+      },
+      "Class A Oil-well (O)": {
+        "clinker": "96%",
+        "anhydrites_and_gypsum": "41%",
+        "limestone": "0%",
+        "other": "<1%",
+        "applicable_standards": "API 10a"
+      },
+      "Class L Oil-well": {
+        "clinker": "73%",
+        "anhydrites_and_gypsum": "3%",
+        "limestone": "-",
+        "other": "24%",
+        "applicable_standards": "API 10a"
+      }
+    }
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "modules_covered": "A1-A3",
+    "cut_off_criteria": "All input/output data required were collected and included in the LCI modelling.",
+    "data_collection": "Gate-to-gate input/output flow data were collected for the following processes for the reference year 2019: Limestone quarry, clinker production and cement manufacture — Joppa, IL.",
+    "allocation_rules": "Recycling and recycled content are modeled using the cut-off rule.",
+    "data_quality_requirements": {
+      "technology_coverage": "Data represents the prevailing technology in use at the Joppa, IL facility.",
+      "geographic_coverage": "U.S.",
+      "time_coverage": "2019 calendar year",
+      "completeness": "All relevant, specific processes, including inputs and outputs were considered.",
+      "consistency": "The LCI modeling of the production input and output LCI data for the Joppa cement products of interest used the same LCI modeling structure.",
+      "reproducibility": "Internal reproducibility is possible since the data and the models are stored and available in LH Joppa Athena LCI database developed in SimaPro, 2020."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II Low Alkali": "1,185 kg CO2 eq",
+      "Blended Type IL": "1,083 kg CO2 eq",
+      "Class H Oil-well HSR": "1,209 kg CO2 eq",
+      "Class A Oil-well (O)": "1,196 kg CO2 eq",
+      "Class L Oil-well": "918 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type I/II Low Alkali": "496 kg CO2 eq",
+      "Blended Type IL": "449 kg CO2 eq",
+      "Class H Oil-well HSR": "509 kg CO2 eq",
+      "Class A Oil-well (O)": "504 kg CO2 eq",
+      "Class L Oil-well": "383 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": {
+      "Portland Type I/II Low Alkali": "138 kg",
+      "Blended Type IL": "173 kg",
+      "Class H Oil-well HSR": "142 kg",
+      "Class A Oil-well (O)": "140 kg",
+      "Class L Oil-well": "137 kg"
+    }
+  },
+  "additional_info": {
+    "environmental_protection_and_equipment": "The Holcim Joppa plant operates a Selective Catalytic Reducer (SCR) to help control NOx emissions and Dry Sorbent Injection (DS) for SO2 emissions.",
+    "references": [
+      "ASTM C1157 / C1157M — 20 Standard Performance Specification for Hydraulic Cement.",
+      "NSF International, Product Category Rule Environmental Product Declarations, PCR for Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements, V3.1, September 2020.",
+      "ISO 21930:2017 Sustainability in buildings and civil engineering works - Core rules for environmental product declarations of construction products and services.",
+      "ISO 14040:2006/Amd1:2020 Environmental management - Life cycle assessment - Principles and framework.",
+      "ISO 14044:2006/Amd1:2017/Amd2:2020 Environmental management - Life cycle assessment - Requirements and guidelines.",
+      "NSF International, Product Category Rule Environmental Product Declarations, PCR for Concrete, February 2020.",
+      "ISO 14025:2006 Environmental labeling and declarations - Type III environmental declarations - Principles and procedures.",
+      "ISO 14021:2016 Environmental labels and declarations -- Self-declared environmental claims (Type II environmental labelling).",
+      "ASTM Program Operator Rules, v.8.0, 04/29/2020.",
+      "PRé 2019.SimaPro LCA Software v9.1.1.1, September 2020.",
+      "ACLCA 2019, Guidance to Calculating Non-LCIA Inventory Metrics in Accordance with ISO 21930:2017.",
+      "LEED v4, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and Optimization — Environmental Product Declarations.",
+      "LEED v4.1, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and Optimization — Environmental Product Declarations.",
+      "US. EPA, Emissions & Generation Resource Integrated Database (eGRID).",
+      "WBCSD CSI 2013: CO2 and Energy Protocol Version 3.1 of 9 December 2013."
+    ]
+  }
+}

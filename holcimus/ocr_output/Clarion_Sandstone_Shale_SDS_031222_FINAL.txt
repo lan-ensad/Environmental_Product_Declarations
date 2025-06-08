@@ -1,0 +1,1048 @@
+Clarion Sandstone (Shale)
+
+Ca H O LC I M Safety Data Sheet
+QG According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 11/10/2021 Version: 1.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+Product Form: Mixture
+Product Name: Clarion Sandstone (Shale)
+Synonyms: Mud rock, Rock shale
+1.2. intended Use of the Product
+Shale is used as a component of cement manufacture. It may also be used as a building material or an admixture for clay or other
+building products.
+1.3. Name, Address, and Telephone of the Responsible Party
+Company
+Holcim US
+8700 West Bryn Mawr Avenue, Suite 300
+Chicago, IL 60631
+Information: (888) 646-5246 (9am to 5pm CST)
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number  : ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+
+Skin Corr. 1A H314
+Eye Dam. 1 H318
+Carc. 1A H350
+STOT SE 3 H335
+STOT RE 1 H372
+
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+GHS-US/CA Labeling
+
+Hazard Pictograms (GHS-US/CA)
+
+GHSO5 GHSO7 GHSO8
+Signal Word (GHS-US/CA) : Danger
+Hazard Statements (GHS-US/CA) : H314 - Causes severe skin burns and eye damage.
+H318 - Causes serious eye damage.
+H335 - May cause respiratoryirritation.
+H350 - May cause cancer (inhalation).
+H372 - Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+P260 - Do not breathe dust.
+P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.
+P270 - Do not eat, drink or smoke when using this product.
+P271 - Use only outdoors or in a well-ventilated area.
+P280 - Wear protective gloves, protective clothing, and eye protection.
+
+03/12/2022 EN (English US) 1/12
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+P301+P330+P331 - IF SWALLOWED: Rinse mouth. Do NOT induce vomiting.
+P303+P361+P353 - IF ON SKIN (or hair): Take off immediately all contaminated clothing.
+Rinse skin with water.
+P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for
+breathing.
+P305+P351+P338 - IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+P310 - Immediately call a POISON CENTER or doctor.
+P314 - Get medical advice/attention if you feel unwell.
+P321 - Specific treatment (see section 4 on this SDS).
+P363 - Wash contaminated clothing before reuse.
+P403+P233 - Store in a well-ventilated place. Keep container tightly closed.
+P405 - Store locked up.
+P501 - Dispose of contents/container in accordance with local, regional, national, and
+international regulations.
+
+2.3. Other Hazards
+
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne)
+crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include progressively more difficult breathing,
+cough, fever, and weight loss.
+
+2.4. Unknown Acute Toxicity (GHS-US/CA)
+
+No additional information available
+
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+
+3.1. Substance
+Not applicable
+3.2. Mixture
+Name Synonyms Product Identifier % * GHS Ingredient
+Classification
+Quartz Quartz (SiO2) / Silica, crystalline, quartz / Crystalline (CAS-No.) 14808-60- | < 60 Carc. 1A, H350
+silica, quartz / .alpha.-Quartz / Silica, crystalline, 7 STOT SE 3, H335
+.alpha.-quartz / Crystalline silica in the form of quartz / ’
+Quartz, silica / Quartz (respirable fraction) / Silica dust STOT RE 1, H372
+/ Silica, .alpha.-quartz / Silicon dioxide / Silica, quartz /
+Silica, crystalline / Silica dust, crystalline
+Silica, amorphous | Amorphous silica / Silica / Silica, amorphous, fumed / | (CAS-No.) 7631-86-9 | < 60 Not classified
+Silica, colloidal / Silicon dioxide / Silicon dioxide,
+amorphous / Silicon(IV) oxide / Un-crystalline silica /
+Pigment White 27 / Silicon dioxide (amorphous) /
+Silicon dioxide amorphous / Silicon(IV)oxide / Silica
+amorphous / Fumed silica
+Aluminum oxide | Aluminum oxide / .alpha.-Alumina / Alumina / (CAS-No.) 1344-28-1 | 10 - Not classified
+Aluminium oxide / Aluminium oxide (AI203) / .alpha.-
+(A1203) / / 15
+Aluminum oxide / Alundum / Dialuminium trioxide /
+Dialuminum trioxide
+Potassium oxide Potassium oxide / Dipotassium oxide / Potassium (CAS-No.) 12136-45- 2-6 PHNOC 1
+(K20) monoxide 7 Skin Corr. 1A, H314
+Eye Dam. 1, H318
+Magnesium oxide | Calcined magnesite / Magnesium oxide / Magnesia (CAS-No.) 1309-48-4 | 2-6 Not classified
+(MgO)
+Calcium oxide Lime / Quicklime / Quicklime (CaO) / Calcium oxide (CAS-No.) 1305-78-8 | 2-6 Skin Irrit. 2, H315
+(CaO) / Lime (calcium oxide) Eye Dam. 1, H318
+STOT SE 3, H335
+Aquatic Acute 3, H402
+Aquatic Chronic 3, H412
+Iron oxide (FeO) Ferrous oxide / Iron(ll) oxide / C.I. 77489 / Ferrous (CAS-No.) 1345-25-1 | 2-6 Not classified
+monoxide / Iron oxide
+
+03/12/2022
+
+EN (English US)
+
+2/12
+Clarion Sandstone (Shale)
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+Sodium oxide Disodium oxide / Sodium oxide / Sodium monoxide (CAS-No.) 1313-59-3 | <1 PHNOC 1
+(Na20) Skin Corr. 1B, H314
+Eye Dam. 1, H318
+Phosphorus oxide | Phosphorus pentoxide / Diphosphorus pentaoxide / (CAS-No.) 1314-56-3 | <1 Skin Corr. 1A, H314
+Diphosphorus pentoxide / Phosphoric anhydride /
+P205 Eye Dam. 1, H318
+Phosphorus pentaoxide / Phosphorus(V) oxide / y ’
+Phosphoric acid anhydride / Phosphoric pentoxide /
+Phosphorus pentoxide (P205)
+
+Full text of H-statements: see section 16
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+by volume percentage (v/v%).
+
+SECTION 4: FIRST AID MEASURES
+
+4.1. Description of First-aid Measures
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+possible).
+Inhalation: Remove to fresh air and keep at rest in a position comfortable for breathing. Encourage exposed person to cough, spit
+out, and blow nose to remove dust. Immediately call a poison center or doctor/physician.
+Skin Contact: Immediately remove contaminated clothing. Brush off loose particles from skin. Immediately flush skin with plenty of
+water for at least 30 minutes. Get immediate medical advice/attention.
+Eye Contact: Immediately rinse with water for at least 30 minutes. Remove contact lenses, if present and easy to do. Continue
+rinsing. Get immediate medical advice/attention.
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain emergency medical attention.
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+General: May cause respiratory irritation. Causes damage to organs (lung/respiratory system) through prolonged or repeated
+exposure (Inhalation). May cause cancer by inhalation. Causes severe skin burns and eye damage.
+Inhalation: irritation of the respiratory tract and the other mucous membranes. May be corrosive to the respiratory tract. Some
+studies show that exposure to respirable crystalline silica (without silicosis) or that the disease silicosis may be associated with the
+increased incidence of several autoimmune disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus,
+rheumatoid arthritis and diseases affecting the kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased
+incidence of chronic kidney disease and end-stage renal disease in workers exposed to respirable crystalline silica.
+Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. Causes severe irritation which will progress to
+chemical burns.
+Eye Contact: Causes permanent damage to the cornea, iris, or conjunctiva.
+Ingestion: May cause burns orirritation of the linings of the mouth, throat, and gastrointestinal tract.
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other
+non-malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+Suitable Extinguishing Media: Use extinguishing media appropriate for surrounding fire.
+Unsuitable Extinguishing Media: None known.
+5.2. Special Hazards Arising From the Substance or Mixture
+Fire Hazard: Not flammable.
+Explosion Hazard: Product is not explosive.
+Reactivity: Reacts slowly with water forming hydrated compounds, releasing heat and producing a strong alkaline
+solution until reaction is substantially complete.
+5.3. Advice for Firefighters
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+Firefighting Instructions: Use firefighting measures appropriate for the surrounding fire.
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Corrosive vapors. Calcium oxide. Carbon oxides (CO, CO). Oxides of aluminum. Oxides of iron.
+Oxides of magnesium. Potassium oxides. Silicon oxides. Sulfur oxides.
+
+03/12/2022 EN (English US) 3/12
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+5.4. Reference to Other Sections
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+General Measures: Do not handle until all safety precautions have been read and understood. Do not breathe dust. Do not get in
+eyes, on skin, or on clothing.
+
+6.1.1. For Non-Emergency Personnel
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+Emergency Procedures: Evacuate unnecessaryÿ personnel.
+
+6.1.2. For Emergency Personnel
+Protective Equipment: Equip cleanup crew with proper protection.
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+For Containment: Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams. As an
+immediate precautionary measure, isolate spill or leak area in all directions.
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling or
+sweeping. Transfer spilled material to a suitable container for disposal. Contact competent authorities after a spill.
+
+6.4. Reference to Other Sections
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+Additional Hazards When Processed: Cutting, crushing, sanding or grinding of crystalline silica-bearing materials will release
+respirable crystalline silica. Use all appropriate measures of dust control or suppression, and Personal Protective Equipment (PPE)
+described in Section 8 below. Heavy material - proper lifting methods or equipment. May release corrosive vapors.
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving
+work. Do not get in eyes, on skin, or on clothing. Do not breathe dust. Handle empty containers with care because they may still
+present a hazard.
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+Technical Measures: Comply with applicable regulations.
+Storage Conditions: Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight,
+extremely high or low temperatures and incompatible materials. Store locked up/in a secure area. Store in original container or
+corrosive resistant and/or lined container.
+Incompatible Materials: Strong acids. Strong oxidizers.
+
+7.3. Specific End Use(s)
+Shale is used as a component of cement manufacture. It may also be used as a building material or an admixture for clay or other
+building products.
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+8.1. Control Parameters
+
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+Calcium oxide (1305-78-8)
+
+USA ACGIH ACGIH OEL TWA 2 mg/m°
+USA OSHA OSHA PEL TWA 5 mg/m°
+USA NIOSH NIOSH REL TWA 2 mg/m°
+USA IDLH IDLH 25 mg/m°
+
+03/12/2022 EN (English US) 4/12
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Alberta OEL TWA 2 mg/m°
+
+British Columbia OEL TWA 2 mg/m°
+
+Manitoba OEL TWA 2 mg/m°
+
+New Brunswick OEL TWA 2 mg/m°
+
+Newfoundland & Labrador | OEL TWA 2 mg/m°
+
+Nova Scotia OEL TWA 2 mg/m°
+
+Nunavut OEL STEL 4 mg/m°
+
+Nunavut OEL TWA 2 mg/m°
+
+Northwest Territories OEL STEL 4 mg/m°
+
+Northwest Territories OEL TWA 2 mg/m°
+
+Ontario OEL TWA 2 mg/m°
+
+Prince Edward Island OEL TWA 2 mg/m°
+
+Québec VEMP OEL TWA 2 mg/m°
+
+Saskatchewan OEL STEL 4 mg/m*
+
+Saskatchewan OEL TWA 2 mg/m°
+
+Yukon OEL STEL 4 mg/m*
+
+Yukon OEL TWA 2 mg/m°
+
+Magnesium oxide (MgO) (1309-48-4)
+
+USA ACGIH ACGIH OEL TWA 10 mg/m* (inhalable particulate matter)
+
+USA ACGIH ACGIH chemical category | Not Classifiable as a Human Carcinogen
+
+USA OSHA OSHA PEL TWA 15 mg/m$ (fume, total particulate)
+
+USA IDLH IDLH 750 mg/m* (fume)
+
+Alberta OEL TWA 10 mg/m* (fume)
+
+British Columbia OELSTEL 10 mg/mi (respirable dust and fume)
+
+British Columbia OEL TWA 10 mg/m (fume, inhalable)
+3 mg/m* (respirable dust and fume)
+
+Manitoba OEL TWA 10 mg/m* (inhalable particulate matter)
+
+New Brunswick OEL TWA 10 mg/m* (fume)
+
+Newfoundland & Labrador | OEL TWA 10 mg/m* (inhalable particulate matter)
+
+Nova Scotia OEL TWA 10 mg/m* (inhalable particulate matter)
+
+Nunavut OELSTEL 20 mg/m* (inhalable fraction)
+
+Nunavut OEL TWA 10 mg/m* (inhalable fraction)
+
+Northwest Territories OELSTEL 20 mg/m* (inhalable fraction)
+
+Northwest Territories OEL TWA 10 mg/m* (inhalable fraction)
+
+Ontario OEL TWA 10 mg/m* (inhalable particulate matter)
+
+Prince Edward Island OEL TWA 10 mg/m* (inhalable particulate matter)
+
+Québec VEMP (OEL TWA) 10 mg/m* (inhalable dust)
+
+Saskatchewan OELSTEL 20 mg/m* (inhalable fraction)
+
+Saskatchewan OEL TWA 10 mg/m* (inhalable fraction)
+
+Yukon OEL STEL 10 mg/m* (fume)
+
+Yukon OEL TWA 10 mg/m* (fume)
+
+Quartz (14808-60-7)
+
+USA ACGIH ACGIH OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | A2 - Suspected Human Carcinogen
+
+USA OSHA OSHA PEL TWA 50 Ug/mi (Respirable crystalline silica)
+
+USA OSHA OSHA PEL TWA (250)/(%SiO02+5) mppcf TWA (respirable fraction)
+(10)/(%SiO2+2) mg/m°$ TWA (respirable fraction)
+(For any operations or sectors for which the respirable crystalline silica
+standard, 1910.1053, is stayed or otherwise not in effect, See 20 CFR
+1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL TWA 0.05 mg/m* (respirable dust)
+
+USA IDLH IDLH 50 mg/m* (respirable dust)
+
+03/12/2022 EN (English US) 5/12
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Alberta OEL TWA 0.025 mg/m* (respirable particulate)
+
+British Columbia OEL TWA 0.025 mg/m* (respirable)
+
+Manitoba OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+New Brunswick OEL TWA 0.1 mg/mé (respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nova Scotia OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nunavut OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Northwest Territories OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Ontario OEL TWA 0.1 mg/mf (designated substances regulation-respirable fraction (Silica,
+crystalline)
+
+Prince Edward Island OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Québec VEMP OEL TWA 0.1 mg/mi (respirable dust)
+
+Saskatchewan OEL TWA 0.05 mg/mÿ (Trydimite removed-respirable fraction (Silica - crystalline
+(Trydimite removed))
+
+Yukon OEL TWA 300 particle/mL (Silica - Quartz, crystalline)
+
+Silica, amorphous (7631-86-9)
+
+USA OSHA OSHA PEL TWA 6 mg/m°
+
+USA OSHA OSHA PEL TWA 20 mppcf (80mg/m°/%SiO2)
+
+USA NIOSH NIOSH REL TWA 6 mg/m°
+
+USA IDLH IDLH 3000 mg/m°
+
+Yukon OEL TWA 300 particle/mL (as measured by Konimeter instrumentation (Silica)
+
+20 mppcf (as measured by Impinger instrumentation (Silica)
+2 mg/mi (respirable mass (Silica)
+
+Aluminum oxide (A1203) (1344-28-1)
+
+USA ACGIH ACGIH OEL TWA 10 mg/m°
+
+USA OSHA OSHA PEL TWA 15 mg/m (total dust)
+5 mg/mi (respirable fraction)
+
+Alberta OEL TWA 10 mg/m°
+
+New Brunswick OEL TWA 10 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+silica)
+
+Nunavut OEL STEL 20 mg/m°
+
+Nunavut OEL TWA 10 mg/m°
+
+Northwest Territories OEL STEL 20 mg/m*
+
+Northwest Territories OEL TWA 10 mg/m°
+
+Québec VEMP OELTWA 10 mg/m* (containing no Asbestos and <1% Crystalline silica-total dust)
+
+Saskatchewan OEL STEL 20 mg/m°
+
+Saskatchewan OEL TWA 10 mg/m°
+
+Yukon OEL STEL 20 mg/m* (AI203)
+
+Yukon OEL TWA 30 mppcf (AI203)
+
+10 mg/m* (AI203)
+
+8.2. Exposure Controls
+Appropriate Engineering Controls: Emergency eye wash fountains and safety showers should be available in the immediate vicinity
+of any potential exposure. Ensure adequate ventilation, especially in confined areas. Ensure all national/local regulations are
+observed.
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Insufficient ventilation: wear respiratory protection.
+
+Materials for Protective Clothing: Corrosion-proof clothing.
+Hand Protection: Wear protective gloves.
+Eye and Face Protection: Chemical goggles or safety glasses.
+
+03/12/2022 EN (English US) 6/12
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Skin and Body Protection: Wear suitable protective clothing.
+
+Respiratory Protection: If exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+protection.
+
+Other Information: When using, do not eat, drink or smoke.
+
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+
+9.1. Information on Basic Physical and Chemical Properties
+Physical State : Solid
+Appearance : Black, gray or white particles
+Odor :  Odorless
+Odor Threshold : No data available
+pH : 6-8
+Evaporation Rate : No data available
+Melting Point : No data available
+Freezing Point : No data available
+Boiling Point : No data available
+Flash Point : No data available
+Auto-ignition Temperature : No data available
+Decomposition Temperature : No data available
+Flammability (solid, gas) : No data available
+Lower Flammable Limit : No data available
+Upper Flammable Limit : No data available
+Vapor Pressure : No data available
+Relative Vapor Density at 20°C : No data available
+Relative Density : No data available
+Specific Gravity : 1.3-1.4(water=1)
+Solubility : Water: <1 % (negligible)
+Partition Coefficient: N-Octanol/Water : No data available
+Viscosity : No data available
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:
+
+Reacts slowly with water forming hydrated compounds, releasing heat and producing a strong alkaline
+
+solution until reaction is substantially complete.
+
+10.2. Chemical Stability:
+
+Stable under recommended handling and storage conditions (see section 7).
+
+10.3. Possibility of Hazardous Reactions:
+
+Hazardous polymerization will not occur.
+
+10.4. Conditions to Avoid:
+
+Direct sunlight, extremely high or low temperatures, and incompatible materials.
+
+10.5. Incompatible Materials:
+
+Strong acids. Strong oxidizers.
+
+10.6. Hazardous Decomposition Products:
+
+Adding water produces (caustic) calcium, potassium and sodium hydroxide. Quartz (silica) will dissolve in hydroflouric acid producing
+a corrosive gas, silicon tetrafluoride. Crystalline silica exists in several forms, the most common of which is quartz. If crystalline silica
+(quartz) is heated to more than 870 °C (1598 °F), it can change to a form of crystalline silica known as trydimite, and if crystalline silica
+(quartz) is heated to more than 1470 °C (2678 °F), it can change to a form of crystalline silica known as cristobalite. The OSHA PEL for
+crystalline silica as trydimite and cristobalite is one-half of the OSHA PEL for crystalline silica (quartz). Thermal decomposition may
+produce: Corrosive vapors. Calcium oxides. Carbon oxides (CO, COz2). Oxides of magnesium. Potassium oxides. Silicon oxides. Sulfur
+oxides.
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+11.1. Information on Toxicological Effects - Product
+
+Acute Toxicity (Oral): Not classified
+Acute Toxicity (Dermal): Not classified
+
+03/12/2022 EN (English US) 7/12
+Clarion Sandstone (Shale)
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Acute Toxicity (Inhalation): Not classified
+LD50 and LC50 Data: No additional information available
+Skin Corrosion/irritation: Causes severe skin burns.
+Eye Damage/irritation: Causes serious eye damage.
+Respiratory or Skin Sensitization: Not classified.
+Germ Cell Mutagenicity: Not classified
+Carcinogenicity: May cause cancer (Inhalation).
+
+Specific Target Organ Toxicity (Repeated Exposure): Causes damage to organs (lung/respiratory system) through prolonged or
+
+repeated exposure (Inhalation).
+Reproductive Toxicity: Not classified
+
+Specific Target Organ Toxicity (Single Exposure): May cause respiratoryirritation.
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Irritation of the respiratory tract and the other mucous membranes. Some studies show that
+exposure to respirable crystalline silica (without silicosis) or that the disease silicosis may be associated with the increased incidence
+of several autoimmune disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis
+and diseases affecting the kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased incidence of chronic
+kidney disease and end-stage renal disease in workers exposed to respirable crystalline silica. May be corrosive to the respiratory
+
+tract.
+
+Symptoms/Injuries After Skin Contact: Redness, pain, swelling, itching, burning, dryness, and dermatitis. Causes severe irritation
+
+which will progress to chemical burns.
+
+Symptoms/Injuries After Eye Contact: Causes permanent damage to the cornea, iris, or conjunctiva.
+
+Symptoms/Injuries After Ingestion: May cause burns orirritation of the linings of the mouth, throat, and gastrointestinal tract.
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other non-
+malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+11.2. Information on Toxicological Effects - Ingredient(s)
+
+LD50 and LC50 Data:
+
+Calcium oxide (1305-78-8)
+LD50 Oral Rat
+
+> 2000 mg/kg
+
+LD50 Dermal Rabbit
+
+> 2500 mg/kg
+
+LC50 Inhalation Rat
+
+> 6.04 mg/I/4h
+
+Magnesium oxide (MgO) (1309-48-4)
+LD50 Oral Rat
+
+3870 mg/kg
+
+Quartz (14808-60-7)
+
+LD50 Oral Rat
+
+> 5000 mg/kg
+
+LD50 Dermal Rat
+
+> 5000 mg/kg
+
+Silica, amorphous (7631-86-9)
+LD50 Oral Rat
+
+7900 mg/kg
+
+LD50 Dermal Rabbit
+
+> 2000 mg/kg (No deaths)
+
+Aluminum oxide (AI203) (1344-28-1)
+
+LD50 Oral Rat
+
+> 15900 mg/kg
+
+Iron oxide (FeO) (1345-25-1)
+LD50 Oral Rat
+
+> 15 g/kg
+
+Phosphorus oxide (P205) (1314-56-3)
+
+LC50 Inhalation Rat
+
+1217 mg/m$ (Exposure time: 1h)
+
+Quartz (14808-60-7)
+
+IARC Group
+
+1
+
+National Toxicology Program (NTP) Status
+
+Known Human Carcinogens.
+
+OSHA Hazard Communication Carcinogen List
+
+In OSHA Hazard Communication Carcinogen list.
+
+Silica, amorphous (7631-86-9)
+
+IARC Group
+
+03/12/2022 EN (English US)
+
+8/12
+
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+12.1. Toxicity
+No additional information available
+
+Calcium oxide (1305-78-8)
+
+LC50 Fish 50.6 mg/l
+
+Silica, amorphous (7631-86-9)
+
+LC50 Fish 5000 mg/l (Exposure time: 96 h - Species: Brachydanio rerio [static])
+EC50 Crustacea 7600 mg/l (Exposure time: 48 h - Species: Ceriodaphnia dubia)
+Aluminum oxide (AI203) (1344-28-1)
+
+LC50 Fish > 100 mg/l
+
+EC50 Crustacea > 100 mg/l
+
+ErC50 Algae > 100 mg/l
+
+NOEC (Acute) > 50 mg/I
+
+12.2. Persistence and Degradability
+No additional information available
+12.3. Bioaccumulative Potential
+
+Clarion Sandstone (Shale)
+
+Bioaccumulative Potential Not established.
+
+Calcium oxide (1305-78-8)
+
+BCF Fish No bioaccumulation.
+
+Silica, amorphous (7631-86-9)
+
+BCF Fish No bioaccumulation expected.
+
+12.4. Mobility in Soil
+No additional information available
+12.5. Other Adverse Effects
+Other Information: Avoid unnecessary release into the environment.
+SECTION 13: DISPOSAL CONSIDERATIONS
+13.1. Waste treatment methods
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, territorial, provincial,
+and international regulations.
+SECTION 14: TRANSPORT INFORMATION
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+14.1. In Accordance with DOT
+
+Proper Shipping Name : CORROSIVE SOLIDS, N.O.S. (Potassium monoxide, Sodium monoxide)
+Hazard Class : 8
+Identification Number : UN1759 TE
+Label Codes : 8 8
+Packing Group sl
+ERG Number : 154
+14.2. In Accordance with IMDG
+Proper Shipping Name : CORROSIVE SOLID, N.O.S. (Potassium monoxide, Sodium monoxide)
+Hazard Class : AN
+Identification Number : UN1759
+Label Codes : 8
+
+Packing Group sl
+
+EmS-No. (Fire) : F-A
+EmS-No. (Spillage) : S-B
+14.3. In Accordance with IATA
+Proper Shipping Name : CORROSIVE SOLID, N.O.S. (Potassium monoxide, Sodium monoxide)
+
+03/12/2022 EN (English US) 9/12
+Clarion Sandstone (Shale)
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Hazard Class : 8 >
+Identification Number : UN1759
+
+Label Codes : 8 8
+Packing Group sl
+ERG Code (IATA) : 8L
+
+14.4. In Accordance with TDG
+
+Proper Shipping Name : CORROSIVE SOLID, N.O.S. (Potassium monoxide, Sodium monoxide)
+Hazard Class : 8 *
+
+Identification Number : UN1759
+
+Label Codes : 8 8
+
+Packing Group Il
+
+SECTION 15: REGULATORY INFORMATION
+15.1. US Federal Regulations
+
+Clarion Sandstone (Shale)
+
+Health hazard - Carcinogenicity
+
+SARA Section 311/312 Hazard Classes Health hazard - Serious eye damage or eyeirritation
+Health hazard - Specific target organ toxicity (single or repeated exposure)
+Health hazard - Skin corrosion or Irritation
+
+Calcium oxide (1305-78-8)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+Magnesium oxide (MgO) (1309-48-4)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+Quartz (14808-60-7)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+Silica, amorphous (7631-86-9)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+Aluminum oxide (AI203) (1344-28-1)
+
+Subject to reporting requirements of United States SARA Section 313
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+SARA Section 313 - Emission Reporting 1% (fibrous forms)
+
+Iron oxide (FeO) (1345-25-1)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+Potassium oxide (K20) (12136-45-7)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+Sodium oxide (Na20) (1313-59-3)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory - Status:
+
+Active
+
+Phosphorus oxide (P205) (1314-56-3)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+15.2. US State Regulations
+California Proposition 65
+
+AN WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer. For more
+
+information go to www.P65Warnings.ca.gov.
+
+Chemical Name (CAS No.) Carcinogenicity Developmental
+Toxicity
+
+Female Reproductive
+Toxicity
+
+Male Reproductive
+Toxicity
+
+Quartz (14808-60-7) x
+
+Calcium oxide (1305-78-8)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Magnesium oxide (MgO) (1309-48-4)
+
+03/12/2022 EN (English US)
+
+10/12
+
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Quartz (14808-60-7)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Silica, amorphous (7631-86-9)
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Aluminum oxide (AI203) (1344-28-1)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+U.S. - Pennsylvania - RTK (Right to Know) - Environmental Hazard List
+
+Potassium oxide (K20) (12136-45-7)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+Phosphorus oxide (P205) (1314-56-3)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+U.S. - Pennsylvania - RTK (Right to Know) - Environmental Hazard List
+15.3. Canadian Regulations
+
+Calcium oxide (1305-78-8)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Magnesium oxide (MgO) (1309-48-4)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Quartz (14808-60-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Silica, amorphous (7631-86-9)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Aluminum oxide (AI203) (1344-28-1)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Iron oxide (FeO) (1345-25-1)
+Listed on the Canadian DSL (Domestic Substances List)
+
+Potassium oxide (K20) (12136-45-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Sodium oxide (Na20) (1313-59-3)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Phosphorus oxide (P205) (1314-56-3)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+Date of Preparation or Latest : 03/12/2022
+Revision
+Other Information : This document has been prepared in accordance with the SDS requirements of the OSHA
+
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+GHS Full Text Phrases:
+
+Aquatic Acute 3 Hazardous to the aquatic environment - Acute Hazard Category 3
+
+Aquatic Chronic 3 Hazardous to the aquatic environment - Chronic Hazard Category 3
+
+03/12/2022 EN (English US) 11/12
+Clarion Sandstone (Shale)
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Carc. 1A Carcinogenicity Category 1A
+
+Eye Dam. 1 Serious eye damage/eyeirritation Category 1
+
+PHNOC 1 Physical hazard not otherwise classified, category 1
+
+Skin Corr. 1A Skin corrosion/irritation Category 1A
+
+Skin Corr. 1B Skin corrosion/irritation Category 1B
+
+Skin Irrit. 2 Skin corrosion/irritation Category 2
+
+STOTRE 1 Specific target organ toxicity (repeated exposure) Category 1
+
+STOT SE 3 Specific target organ toxicity — Single exposure, Category 3, Respiratory tract irritation
+H314 Causes severe skin burns and eye damage
+
+H315 Causes skin irritation
+
+H318 Causes serious eye damage
+
+H335 May cause respiratoryirritation
+
+H350 May cause cancer
+
+H372 Causes damage to organs through prolonged or repeated exposure
+H402 Harmful to aquatic life
+
+H412 Harmful to aquatic life with long lasting effects
+
+Indication of Changes
+
+Section
+
+Change
+
+Date Changed
+
+Version
+
+1
+
+Modified responsible
+party information, logo
+& emergency telephone
+number
+
+03/12/2022
+
+1.1
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+accuracy and assumes no liability in connection with the use of the information contained herein which is not intended to be and
+
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+
+this product should review all such laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+
+Provincial and State regulations.
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR OTHERWISE.
+
+NA GHS SDS 2015 (Can, US)
+
+03/12/2022
+
+EN (English US)
+
+12/12
+

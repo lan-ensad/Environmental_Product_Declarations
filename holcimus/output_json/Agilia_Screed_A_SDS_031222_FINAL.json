@@ -1,0 +1,76 @@
+{
+  "epd_metadata": {
+    "product_name": "Agilia® Screed A",
+    "revision_date": "03/12/2022",
+    "version": "3.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "1-800-255-3924 (US and Canada)"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "intended_use": "Ready mix, pump-applied, free-flowing, self-consolidating floor topping."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "handling_precautions": "Obtain special instructions before use. Do not handle until all safety precautions have been read and understood. Avoid contact with eyes, skin and clothing. Do not breathe dust, fume, spray.",
+    "storage_conditions": "Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight, extremely high or low temperatures and incompatible materials. Store locked up/in a secure area."
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards": {
+      "classification": "Carc. 1A H350, STOTSE 3 H335, STOTRE 1 H372",
+      "signal_word": "Danger",
+      "hazard_statements": [
+        "H335 - May cause respiratory irritation.",
+        "H350 - May cause cancer (Inhalation).",
+        "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+      ],
+      "precautionary_statements": [
+        "P201 - Obtain special instructions before use.",
+        "P202 - Do not handle until all safety precautions have been read and understood.",
+        "P260 - Do not breathe dust, fume, mist, spray.",
+        "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+        "P270 - Do not eat, drink or smoke when using this product.",
+        "P271 - Use only outdoors or in a well-ventilated area.",
+        "P280 - Wear protective gloves, protective clothing, and eye protection.",
+        "P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+        "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+        "P312 - Call a POISON CENTER or doctor if you feel unwell.",
+        "P314 - Get medical advice/attention if you feel unwell.",
+        "P403+P233 - Store in a well-ventilated place. Keep container tightly closed.",
+        "P405 - Store locked up.",
+        "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+      ]
+    },
+    "composition": [
+      {
+        "name": "Quartz",
+        "cas_number": "14808-60-7",
+        "percentage": "50-75",
+        "classification": "Carc. 1A, H350; STOT SE 3, H335"
+      },
+      {
+        "name": "Sulfuric acid, calcium salt (1:1)",
+        "cas_number": "7778-18-9",
+        "percentage": "15-30",
+        "classification": "Not classified"
+      }
+    ],
+    "physical_properties": {
+      "state": "Liquid",
+      "appearance": "Semi-fluid, Flowable, Granular Paste. Variety of Color (Usually Gray)",
+      "pH": "12-13",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "specific_gravity": "1.9-2.4 (Water = 1)",
+      "solubility": "Water: Slight (0.1 - 10%)"
+    }
+  }
+}

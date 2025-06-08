@@ -1,0 +1,57 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim (US) Inc.",
+    "address": "8700 Bryn Mawr Avenue, Chicago, IL 60631",
+    "phone": "(888) 646-5246",
+    "email": "ask@holcim.com",
+    "web": "www.holcim.us",
+    "updated": "10.2024"
+  },
+  "product_description": {
+    "product_name": "NewCem® Slag Cement",
+    "usage": "NewCem® slag cement is a pre-consumer recycled material used in concrete mixtures as a partial replacement for portland or portland limestone cement. It is suitable for providing light color, sulfate and alkali-silica reaction (ASR) resistance, low permeability, and low heat for mass-concrete applications.",
+    "applications": [
+      "Bridges",
+      "Precast",
+      "Cast-in-place",
+      "Pre-stress or post-tension",
+      "Concrete Masonry Units",
+      "Ready-mix",
+      "Roads",
+      "Drains",
+      "Soil Stabilization",
+      "Grout",
+      "Tilt-Up",
+      "Masonry",
+      "Watertanks",
+      "Pipe"
+    ],
+    "packaging": "Regionally available in bulk quantities.",
+    "composition": "The primary ingredient is granulated blast-furnace slag (GBFS) ground to a fine powder.",
+    "benefits": "Versatile building material suitable for a variety of concrete construction applications.",
+    "limitations": "Good concreting practices are required to achieve desired results. Variables affecting performance are beyond the control of the manufacturer."
+  },
+  "lca_information": {
+    "applicable_standards": [
+      "ASTM C989 Standard Specification for Slag Cement for Use in Concrete and Mortars",
+      "AASHTO M 302 Standard Specification for Slag Cement for Use in Concrete and Mortars"
+    ]
+  },
+  "transport_and_installation": {
+    "requirements": "Consult specific project requirements or applicable specifications and guides.",
+    "preparatory_work": "Deliver products in original, unopened containers. Store materials protected from harmful environmental conditions.",
+    "methods": "Proper proportioning, batching, mixing, placing, consolidating, finishing, and curing are critical. Water-cement ratio is especially critical."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": {
+    "recycled_content": "Pre-consumer recycled material."
+  },
+  "additional_info": {
+    "safety_precautions": "Refer to the applicable Safety Data Sheet (SDS). Avoid direct contact with skin. Use proper PPE.",
+    "availability_and_cost": "Regionally available. Contact the nearest sales office for pricing.",
+    "warranty": "Material Certification Reports available upon request. No guarantee on finish work.",
+    "technical_services": "Technical service available by contacting the nearest sales office.",
+    "filing_systems": "Additional product information available from the manufacturer."
+  }
+}

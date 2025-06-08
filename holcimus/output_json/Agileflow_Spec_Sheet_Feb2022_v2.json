@@ -1,0 +1,90 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim",
+    "product_name": "Agileflow",
+    "document_type": "Specification Sheet"
+  },
+  "product_description": {
+    "product_type": "Self-placing, self-consolidating concrete",
+    "applications": [
+      "Agileflow applications"
+    ],
+    "characteristics": {
+      "maximum_water_cementitious_ratio": "Specified by Design Project Engineer",
+      "air_content": "Insert air entrainment if required",
+      "flow": "22in to 30in",
+      "compressive_strength": "3500 psi to 14,000 psi"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "site_preparation": {
+      "coordination": "Notify others involved prior to concrete placement",
+      "formwork_surface_preparation": "Specific types of release agents recommended"
+    },
+    "installation_references": {
+      "concrete_mixing": "ACI 301",
+      "hot_weather_concrete": "ACI 305R",
+      "cold_weather_concrete": "ACI 306R"
+    },
+    "concrete_placement_and_consolidation": {
+      "placement_time": "Within 120 minutes of adding mix water",
+      "placing_method": "Bucket or pumped",
+      "pouring_points": "Positioned to limit flow to 23 ft from each side"
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "green_rating_systems": {
+      "LEED": {
+        "sustainable_site_selection": "SSc7.2 Heat Island Effect, Roof",
+        "energy_and_atmosphere": "EAp2 Minimum Energy Performance",
+        "materials_and_resources": "MRGCS Local Materials",
+        "innovation_in_design": "RPc1 Durable Building"
+      },
+      "BREEAM": {
+        "wst2": "Recycled Aggregates"
+      },
+      "HQE": {
+        "targets": [
+          "Harmonious relationship between buildings and their immediate environment",
+          "Integrated choice of products, systems and construction processes",
+          "Low nuisance construction site",
+          "Minimizing energy use",
+          "Minimizing building maintenance and repair",
+          "Visual comfort",
+          "Measures to control smells",
+          "Air quality"
+        ],
+        "ene1": "Reduction of CO2 emissions"
+      }
+    }
+  },
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "quality_assurance": "Pre-job conference required",
+    "concrete_mixture_verifications": "Submit final mix verification 2 weeks prior",
+    "material_specification": {
+      "cement": "ASTM C150, ASTM C150M-12 Type 1, 1/2",
+      "blended_hydraulic_cements": "ASTM C595",
+      "supplementary_cementing_materials": "ASTM C989, ASTM C618, ASTM C1240",
+      "coarse_aggregate": "ASTM C33-0",
+      "fine_aggregate": "ASTM C33-81",
+      "admixtures": "ASTM C494-92",
+      "water": "ASTM C94"
+    },
+    "demolding_agents": {
+      "quality_of_finish": "Influenced by oil used and method of application",
+      "indicative_selection_table": "Provided for different materials"
+    },
+    "curing_compound": {
+      "selection_criteria": "Curing efficiency and type of finish",
+      "efficiency_index": "Wax-based products most efficient"
+    },
+    "field_quality_control": {
+      "fresh_concrete_testing": "ASTM C138, C143, C231",
+      "sampling_frequency": "ASTM C172",
+      "strength_tests": "ASTM C39"
+    }
+  }
+}

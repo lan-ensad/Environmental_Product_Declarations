@@ -1,0 +1,119 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "04/14/2015",
+    "supersedes_date": "06/14/2021",
+    "version": "3.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "ChemTel LLC 1-800-255-3924 (US and Canada)"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Sandstone",
+    "synonyms": [
+      "Aggregates",
+      "Asphalt Sand",
+      "Base Material",
+      "Concrete Sand",
+      "Crushed Rock",
+      "Crushed Stone",
+      "Crushed Run",
+      "Dense Graded Aggregate",
+      "Fill Sand",
+      "Golf Course Sand",
+      "Gravel",
+      "Manufactured Sand",
+      "Mason Sand"
+    ],
+    "intended_use": "Sandstone is used in the manufacture of bricks, cement, concrete, mortar, paving materials, plasters, and other construction applications."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "dot": "Not regulated for transport",
+      "imdg": "Not regulated for transport",
+      "iata": "Not regulated for transport",
+      "tdg": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Carc. 1A H350",
+        "STOT SE 3 H335",
+        "STOTRE 1 H372"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H335 - May cause respiratory irritation.",
+          "H350 - May cause cancer (inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P271 - Use only outdoors or in a well-ventilated area.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P312 - Call a POISON CENTER or doctor if you feel unwell.",
+          "P403+P233 - Store in a well-ventilated place. Keep container tightly closed.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne) crystalline silica dust will cause lung damage in the form of silicosis."
+    },
+    "composition": {
+      "quartz": {
+        "cas_no": "14808-60-7",
+        "percentage": "85 — 100",
+        "classification": [
+          "Carc. 1A, H350",
+          "STOT SE 3, H335",
+          "STOT RE 1, H372"
+        ]
+      },
+      "mica": {
+        "cas_no": "12001-26-2",
+        "percentage": "<5",
+        "classification": "Not classified"
+      }
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "Variety of colors",
+      "odor": "None",
+      "pH": "Neutral",
+      "melting_point": "> 1000 °C (1832 °F)",
+      "relative_density": "2.5 - 2.7 (water=1)",
+      "solubility": "Insoluble in water"
+    },
+    "regulatory_information": {
+      "us_federal_regulations": {
+        "sara_section_311_312": [
+          "Health hazard - Specific target organ toxicity (single or repeated exposure)",
+          "Health hazard - Carcinogenicity"
+        ],
+        "california_proposition_65": "WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer."
+      },
+      "canadian_regulations": {
+        "quartz": "Listed on the Canadian DSL (Domestic Substances List)",
+        "mica": "Listed on the Canadian DSL (Domestic Substances List)"
+      }
+    }
+  }
+}

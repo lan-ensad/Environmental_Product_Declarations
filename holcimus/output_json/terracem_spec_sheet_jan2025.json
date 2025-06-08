@@ -1,0 +1,40 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim (US) Inc.",
+    "address": "8700 Bryn Mawr Avenue, Chicago, IL 60631",
+    "phone": "(888) 646-5246",
+    "email": "ask@holcim.com",
+    "web": "www.holcim.us",
+    "updated": "10.2024"
+  },
+  "product_description": {
+    "product_name": "TerraCemTM Hydraulic Cement",
+    "usage": "Engineered primarily for use in soil stabilization, drying, and remediation work.",
+    "standards": "ASTM C1157 for Type GU cement",
+    "packaging": "Regionally available and can be supplied in bulk quantities.",
+    "composition": "Calcium silicate based clinker, limestone, gypsum and other mineral constituents.",
+    "types": "Type GU hydraulic cement for general construction",
+    "benefits": "Engineered for soil stabilization, drying, and remediation work.",
+    "limitations": "Performance affected by variables beyond manufacturer control."
+  },
+  "lca_information": {
+    "applicable_standards": "ASTM C1157 Performance Specification for Hydraulic Cement"
+  },
+  "transport_and_installation": {
+    "requirements": "Consult specific project requirements or applicable specifications and guides.",
+    "preparatory_work": "Deliver in original containers, store protected from harmful conditions.",
+    "safety_precautions": "Refer to Safety Data Sheet (SDS), avoid direct contact with skin, use PPE."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "impact": "Lower carbon impact than ASTM C150 Type I cement."
+  },
+  "recycled_materials_handling": {},
+  "additional_info": {
+    "availability": "Regionally available, contact nearest sales office.",
+    "cost": "Pricing information available from nearest sales office.",
+    "warranty": "Material Certification Reports available upon request, no guarantee on finish work.",
+    "technical_services": "Available by contacting nearest sales office.",
+    "filing_systems": "Additional product information available from the manufacturer."
+  }
+}

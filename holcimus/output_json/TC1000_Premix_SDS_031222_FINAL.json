@@ -1,0 +1,99 @@
+{
+  "epd_metadata": {
+    "product_name": "TC1000 Premix",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "contact_information": {
+      "phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us"
+    },
+    "emergency_contact": "ChemTel LLC 1-800-255-3924 (US and Canada)",
+    "revision_date": "03/12/2022",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "intended_use": "Ultra-high performance material used to produce a specialized concrete used in construction."
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": [
+        "Skin Irrit. 2 H315",
+        "Eye Dam. 1 H318",
+        "Skin Sens. 1 H317",
+        "Carc. 1A H350",
+        "STOT SE 3 H335",
+        "STOTRE 1 H372",
+        "Comb. Dust"
+      ],
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "May form combustible dust concentrations in air.",
+          "Causes skin irritation.",
+          "May cause an allergic skin reaction.",
+          "Causes serious eye damage.",
+          "May cause respiratory irritation.",
+          "May cause cancer (Inhalation).",
+          "Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "Obtain special instructions before use.",
+          "Do not handle until all safety precautions have been read and understood.",
+          "Do not breathe vapors, mist, or spray.",
+          "Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "Do not eat, drink or smoke when using this product."
+        ]
+      }
+    },
+    "composition": [
+      {
+        "name": "Cement, portland, chemicals",
+        "cas_no": "65997-15-1",
+        "percentage": "15-40"
+      },
+      {
+        "name": "Quartz",
+        "cas_no": "14808-60-7",
+        "percentage": "15-40"
+      },
+      {
+        "name": "Silicon carbide",
+        "cas_no": "409-21-2",
+        "percentage": "15-40"
+      },
+      {
+        "name": "Limestone",
+        "cas_no": "1317-65-3",
+        "percentage": "<15"
+      },
+      {
+        "name": "Fumes, silica",
+        "cas_no": "69012-64-2",
+        "percentage": "<15"
+      }
+    ],
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "Gray or white powder",
+      "odor": "Odorless",
+      "pH": "12-13 (in water)",
+      "boiling_point": "> 1000 °C (1832 °F)",
+      "specific_gravity": "3.0—3.2 (water = 1)",
+      "solubility": "Water: 0.1 -1% (slightly soluble)"
+    }
+  }
+}

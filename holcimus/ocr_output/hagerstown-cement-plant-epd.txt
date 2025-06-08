@@ -1,0 +1,809 @@
+HAGERSTOWN CEMENT PLANT
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+=
+
+—
+
+LL ER
+
+LEE
+
+www.holcim.us L HI O LC | M
+EL"
+
+About this EPD
+
+Environmental Product Declaration (EPD) 4h
+a O LC | M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+This cradle-to-gate environmental product declaration for Portland (Type [/Il and II!) and Blended Type IL cements as
+produced at Holcim’s Hagerstown, MD plant. The life cycle assessment was prepared according to ISO 14025:2006,
+ISO 21930:2017 (the core PCR) and the NSF product category rules for Portland, Blended, Masonry, Mortar and
+Plastic (Stucco) Cements (subcategory PCR). This environmental product declaration (EPD) is intended for
+
+business-to-business audiences.
+
+General Summary
+
+EPD Commissioner and Owner
+
+S HOLCIM
+
+Product Group and Name
+
+Product Definition
+
+Holcim (US), Inc.
+
+8700 W Bryn Mawr Ave
+Chicago, IL 60631
+Phone: 626-852-6200
+www.holcim.us
+
+Holcim provided both LCI and meta-data for limestone quarrying, clinker
+production and cement manufacture for reference year 2019. The owner of the
+declaration is liable for the underlying information and evidence.
+
+For any explanatory material, regarding this EPD, please contact Sonia Gagnon
+
+(Sonia.gagnon@holcim.com).
+Cement, UN CPC 3744.
+
+Portland cement is defined as a hydraulic cement produced by pulverizing
+clinker, consisting essentially of crystalline hydraulic calcium silicates, and
+usually containing one or more of the following: water, calcium sulfate, up to 5%
+limestone, and processing additions (NSF PCR 2020, ASTM C150, ASTM
+C219).
+
+Portland Cement Type |-—For use when the special properties specified for any
+other type are not required.
+
+Portland Cement Type /I—For general use, more especially when moderate
+sulfate resistance is desired.
+
+Portland Cement Type III—For use when high early strength is desired.
+
+Some cements are designated with a combined type classification, such as
+Type [/Il, indicating that the cement meets the requirements of the indicated
+types and is being offered as suitable for use when either type is desired.
+
+Blended cement is a hydraulic cement consisting of two or more inorganic
+constituents (at least one of which is not Portland cement or Portland cement
+clinker) which separately or in combination contribute to the strength gaining
+properties of the cement, (made with or without other constituents, processing
+additions and functional additions, by intergrinding or other blending).
+
+) HOLCIM
+9
+
+y’ HOLCIM
+
+Product Category Rules (PCR)
+
+Date of Issue & Validity Period
+
+Declared Unit
+
+Environmental Product Declaration (EPD)
+
+In accordance with ISO 14025 and 21930 4
+
+u11/
+
+e Type IL (ASTM C595) — is a Portland-limestone cement and is a
+hydraulic cement in which the limestone content is more than 5 % but
+less than or equal to 15 % by mass of the blended cement.
+
+NSF International, Product Category Rules for Preparing an Environmental
+Product Declaration for Portland, Blended Hydraulic, Masonry, Mortar, and
+Plastic (Stucco) Cements, V3.1, September 2020 [2].
+
+11/02/2020 -— 5 years
+
+1 metric ton of cement
+
+EPD and Project Report Information
+
+Program Operator
+Declaration Number
+Declaration Type
+Applicable Countries
+
+Product Applicability
+
+Content of the Declaration
+
+This EPD was independently
+verified by ASTM in accordance
+With ISO 14025 and the reference
+PCR:
+
+Internal External X
+
+The Project Report
+
+LCA report and EPD Prepared by:
+
+Athena
+Sustainable Materials
+Institute
+
+=
+
+ASTM International
+
+EPD 159
+
+Cradle-to-gate (modules A1 to A3). Facility and product-specific.
+United States
+
+Portland cement is the basic ingredient of concrete. Concrete, one of the most
+widely used construction materials in the world, is formed when Portland cement
+creates a paste with water that binds with sand and rock to harden.
+
+This declaration follows Section 9; Content of an EPD, NSF International,
+Product Category Rules for Preparing an Environmental Product Declaration for
+Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco) Cements,
+V3.1, September 2020 [2].
+
+Tim Brooke
+
+ASTM International
+100 Barr Harbor Drive
+PO Box C700
+
+West Conshohocken
+PA 19428-2959, USA
+
+cert@astm.org
+
+Cradle-to-Gate Life Cycle Assessment of Holcim Hagerstown MD Portland
+Cement (Type l/Il and Ill), Prepared for Holcim, September 2020 (Revised May
+2022).
+
+Lindita Bushi, PhD, Jamie Meil & Grant Finlayson
+Athena Sustainable Materials Institute
+
+280 Albert Street, Suite 404
+
+Ottawa, Ontario, Canada K1P 5G8
+info@athenasmi.org
+
+www.athenasmi.org
+
+ne
+
+G’ HOLCIM
+EL"
+
+Environmental Product Declaration (EPD) 4h
+a O LC | M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+This EPD project report is Thomas P. Gloria, Ph. D.
+independently verified by in Industrial Ecology Consultants
+accordance with ISO 14025, ISO 35 Bracebridge Rd.
+
+14040/44, and the reference PCR: Newton, MA
+
+PCR Information
+
+Program Operator NSF International
+
+Reference PCR Product Category Rules for Preparing an Environmental Product Declaration for
+Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco) Cements,
+V3.1, September 2020 [2].
+
+PCR review was conducted by: Thomas P. Gloria, PhD (Chair), Industrial Ecology Consultants,
+Mr. Jack Geibig, EcoForm
+Mr. Bill Stough, Sustainable Research Group
+
+Holcim (US) Cement & Production Facility
+
+Holcim (US) is the global leader in building materials and solutions. As the largest cement manufacturer in the United
+States, Holcim’s ambition is to lead the industry in reducing carbon emissions and shifting towards low-carbon
+construction.
+
+In the United States, Holcim companies include close to 350 sites in 43 states and employ 7,000 people. Our
+customers rely on us to help them design and build better communities with innovative solutions that deliver structural
+integrity and eco-efficiency.
+
+Facility Name: Holcim (US), Hagerstown Plant
+
+1260 Security Rd.
+Hagerstown, MD 21742.
+
+Product Description
+
+This EPD reports environmental transparency information for three cement types produced by Holcim at its
+Hagerstown MD plant. Cements are hydraulic binders and are manufactured by grinding cement clinker and other
+main or minor constituents into a finely ground, usually grey colored mineral powder. When mixed with water, cement
+acts as a glue to bind together the sand, gravel or crushed stone to form concrete, one of the most durable, resilient
+and widely used construction materials in the world. The Table below sets out each cement type constituents and
+applicable standards.
+
+Products and Standards
+
+Inputs Portland Type [/II Portland Type III Blended Type IL
+ASTM C150 ASTM C150 ASTM C595
+
+Clinker 92% 95% 85%
+
+Gypsum 7% 5% 1%
+
+Limestone 1% <1% 8%
+
+Total 100% 100% 100%
+
+| ) HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd a O LC | M In accordance with ISO 14025 and 21930 17
+
+‘ul
+
+Applicable Standards:
+
+ASTM C150 / C150M -— 20 Standard Specification for Portland Cement
+
+ASTM C595 / C595M — 20 Standard Specification for Blended Hydraulic Cement
+
+ASTM C1157 / C1157M -— 20 Standard Performance Specification for Hydraulic Cements
+
+AASHTO M 85-20 Standard Specification for Portland Cement (ASTM Designation: C150 / C150M - 20).
+
+Declared Unit
+
+The declared unit is one metric tonne of cement.
+
+System Boundary
+
+This EPD is a cradle-to-gate EPD covering the production stage (A1-A3) as depicted in the figure below. The
+production stage includes extraction of raw materials (cradle) through the manufacture of cements ready for shipment
+(gate). The Hagerstown, MD cement plant sources its limestone supply from an adjacent quarry.
+
+PRODUCTION CONSTRUCTION USE END OF LIFE Optional
+Stage Stage Stage Stage supplementary
+information
+beyond the
+
+A1
+. A4 B1 c1 .
+Extraction and : De-construction
+. Transport to site Use Lu
+upstream production Demolition
+A2 A5 C2
+Transport to factory Installation Transport
+
+A3 B3 C3
+Manufacturing Repair Waste Processing
+
+system boundary
+
+D
+Potential net
+benefits from
+
+reuse,
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+L | recycling, and/or
+I energy recovery
+l | beyondthe system
+I boundary
+B4 Ca I
+Replacement Disposal of waste (
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+B5
+Refurbishment
+
+B6
+Operational Energy
+Use
+
+B7
+Operational Water
+Use
+
+Life Cycle Information within the System Boundary
+
+Items excluded from the system boundary include:
+
+Production, manufacture, and construction of manufacturing capital goods and infrastructure
+
+Production and manufacture of production equipment, delivery vehicles, and laboratory equipment
+Personnel-related activities (travel, furniture, and office supplies)
+
+Energy and water use related to company management and sales activities that may be located either within
+the factory site or at another location
+
+HOLCIM
+
+EL"
+Environmental Product Declaration (EPD) 4h
+Hd a O LC | M In accordance with ISO 14025 and 21930
+
+tui1/
+
+Cut-off Criteria
+
+The cut-off criteria as per NSF PCR, Section 7.1.8 [2] and ISO 21930, 7.1.8 [3] were followed. Per ISO 21930, 7.1.8
+[3], all input/output data required were collected and included in the LCI modelling. No substances with hazardous
+and toxic properties that pose a concern for human health and/or the environment were identified in the framework of
+this EPD. Any plant specific data gaps for the reference year 2019 e.g. amount of lubricants and refractory were filled
+in with industry data (secondary data).
+
+Data Collection
+
+Gate-to-gate input/output flow data were collected for the following processes for the reference year 2019:
+e _Limestone quarry, clinker production and cement manufacture — Hagerstown, MD.
+
+Allocation Rules
+
+Allocation follows the requirements and guidance of ISO 14044 Clause 4.3.4 [5], NSF PCR [2], and ISO 21930
+section 7.2 [3]. Recycling and recycled content are modeled using the cut-off rule. The sub-category PCR recognizes
+fly ash, silica fume, granulated blast furnace slag, iron rich material, cement kiln dust, flue gas desulfurization (FGD)
+gypsum, and post-consumer gypsum as recovered materials and thus the environmental impacts allocated to these
+materials are limited to the treatment and transportation required to use as a cement material input. Further, scrap
+tires and construction waste/demolition are considered non-renewable and/or renewable secondary fuels. Only the
+materials, water, energy, emissions, and other elemental flows associated with reprocessing, handling, sorting and
+transportation from the point of the generating industrial process to their use in the production process are
+considered. All emissions from combustion at the point of use are considered.
+
+Data Quality Requirements and Assessment
+
+Data Quality
+
+Requirements DEA UC
+
+Data represents the prevailing technology in use at the Hagerstown, MD facility. Whenever available, for all
+upstream and core material and processes, North American typical or average industry LCI datasets were
+
+Technology utilized.
+
+Coverage The Hagerstown, MD plant utilizes a dry with preheater and precalciner kiln technology. Plant was
+modernized in 2016 with a new kiln line system
+
+Technological representativeness is characterized as “high”.
+
+Geographic The geographic region considered is U.S.
+
+Coverage . . . . -
+9 Geographical representativeness is characterized as "high".
+
+Activity (primary) data are representative of 2019 calendar year (12 months).
+
+- Hagerstown limestone extraction,
+
+- Hagerstown clinker production,
+
+- Hagerstown cement manufacturing,
+
+- In-bound/ out-bound transportation data- primary data collected for Hagerstown quarry site and cement
+manufacturing plant.
+
+- Generic data: the most appropriate LCI datasets were used as found in the ecoinvent V3.6 database for
+US and global, December 2019 and US LCI Database. US LCI database (empty/missing LCI datasets) are
+substituted with ecoinvent v3.6 LCI datasets.
+
+Electricity resource mix for RFC region includes (eGRID 2018): 35.1% coal, 29.8% nuclear, 28.5% natural
+gas, 3.0% wind, 1.1% hydro, 1.1% biomass, 0.5% oil, 0.2% solar, and 0.6% other fossils [14], [10].
+Temporal representativeness is characterized as “high”.
+
+Time Coverage
+
+| ) HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd a O LC | M In accordance with ISO 14025 and 21930
+
+tui1/
+
+All relevant, specific processes, including inputs (raw materials, energy and ancillary materials) and outputs
+(emissions and production volume) were considered and modeled to complete production profile for
+Hagerstown cement products.
+
+Completeness The relevant background materials and processes were taken from the US LCI Database (adjusted for
+
+known data placeholders), ecoinvent v3.6 LCI database for US, and modeled in SimaPro software v.9.1.1.1,
+September 2020. The completeness of the cradle-to-gate process chain in terms of process steps is
+rigorously assessed for all cement product systems
+
+To ensure consistency, the LCI modeling of the production input and output LCI data for the Hagerstown
+cement products of interest used the same LCI modeling structure, which consisted of input material and
+intermediate products, ancillary and packaging materials (if applicable), energy flows, water resource inputs,
+
+Consistency product outputs, co-products, by-products, emissions to air, water and soil, and solid and liquid waste
+disposal. Crosschecks concerning the plausibility of mass and energy flows were continuously conducted.
+The LCA team conducted mass and energy balances at the facility level and selected process levels to
+maintain a high level of consistency.
+
+Internal reproducibility is possible since the data and the models are stored and available in LH Hagerstown
+Athena LCI database developed in SimaPro, 2020. A high level of transparency is provided throughout the
+Reproducibility report as the LCI profile is presented for each of the declared products as well as major upstream inputs.
+Key primary (manufacturer specific) and secondary (generic) LCI data sources are also summarized in the
+background report. External reproducibility is not possible as the background report is confidential.
+
+Transparency Activity and LCI datasets are disclosed in the project report, including all data sources.
+
+A sensitivity check was conducted to assess the reliability of the EPD results and conclusions by determining
+Uncertainty how they are affected by uncertainties in the data or assumptions on calculation of LCIA and energy indicator
+results.
+
+Life Cycle Impact Assessment Results: Hagerstown, MD Type [II & III Cements
+
+This section summarizes the production stage life cycle impact assessment (LCIA) results including resource use and
+waste generated metrics based on the cradle-to-gate life cycle inventory inputs and outputs analysis. The results are
+calculated based on 1 metric ton of each cement type as produced at the Hagerstown, MD plant. /f should be noted
+that LCIA results are relative expressions and do not predict impacts on category endpoints, the exceeding of
+thresholds, safety margins or risks [4], [5]. Further, a number of LCA impact categories and inventory items are still
+emerging or under development and can have high levels of uncertainty that preclude international acceptance
+pending further development. Use caution when interpreting results for these categories — identified with an “*” [2].
+
+Only EPDSs prepared from cradle-to-grave life-cycle results and based on the same function, quantified by the same
+functional unit, and taking account of replacement based on the product reference service life (RSL) relative to an
+assumed building service life, can be used to assist purchasers and users in making informed comparisons between
+products [2]. Environmental declarations from different programs may not be comparable [7]. EPDs are comparable
+only if they comply with ISO 21930, use the same, sub-category PCR where applicable, include all relevant
+information modules and are based on equivalent scenarios with respect to the context of construction works [3].
+
+| ) HOLCIM
+qi
+
+Production stage EPD Results: Hagerstown, MD -— per Metric Tonne
+
+Impact category and
+
+inventory indicators
+
+Global warming potential, GWP 1001), AR5
+Ozone depletion potential, ODP2)
+
+Smog formation potential, SFP2)
+Acidification potential, AP2)
+
+Eutrophication potential, EP?)
+
+Abiotic depletion potential for non-fossil
+mineral resources, ADP elements®”*
+
+Abiotic depletion potential for
+fossil resources, ADP fossil$)
+
+Renewable primary resources used as an
+energy carrier (fuel), RPRE'
+
+Renewable primary resources with energy
+content used as material, RPRu)°
+
+Non-renewable primary resources used as an
+energy carrier (fuel), NRPRE
+
+Non-renewable primary resources with energy
+content used as material, NRPRaf)*
+
+Secondary materials, SM4)°
+
+Renewable secondary fuels, RSF*)"
+Non-renewable secondary fuels, NRSF4"
+Recovered energy, RE”
+
+Consumption of freshwater, FW)
+Hazardous waste disposed, HWD4)°
+
+Non-hazardous waste disposed, NHWD)”
+
+High-level radioactive waste, conditioned, to
+final repository, HLRW4°
+
+Intermediate- and low-level radioactive waste,
+conditioned, to final repository, ILLRW4)°
+
+Unit
+
+kg CO2 eq
+kg CFC-11 eq
+
+kg O3 eq
+
+kg SO eq
+
+kg N eq
+
+kg Sb eq
+
+MJ LHV
+
+MJ LHV
+
+MJ LHV
+
+MJ LHV
+
+MJ LHV
+
+kg
+MJ LHV
+MJ LHV
+MJ LHV
+mi
+kg
+kg
+
+m$
+
+m
+
+Portland
+Type [/Il
+ASTM
+150
+
+937
+1.5E-05
+21.1
+1.3
+
+1.58
+
+1.5E-04
+
+4,334
+
+63
+
+4,963
+
+31
+
+69
+
+2.5
+0.002
+
+0.2
+
+3.3E-07
+
+4.2E-06
+
+ne
+
+Environmental Product Declaration (EPD
+9 HOLCIM (EPD)
+
+In accordance with ISO 14025 and 21930
+
+Portland
+Type III
+ASTM
+150
+
+959
+1.6E-05
+21.5
+1.4
+1.62
+
+1.5E-04
+
+4,427
+
+64
+
+5,066
+
+32
+
+71
+
+2.5
+0.002
+
+0.3
+
+3.3E-07
+
+4.3E-06
+
+Blended
+Type IL
+ASTM
+C595
+
+865
+1.5E-05
+19.7
+1.3
+
+1.48
+
+1.5E-04
+
+4,063
+
+63
+
+4,691
+
+28
+
+131
+
+2.3
+0.002
+
+0.2
+
+3.3E-07
+
+6.3E-06
+
+HOLCIM
+Environmental Product Declaration (EPD) 4h
+Hd a O LC | M In accordance with ISO 14025 and 21930 17
+
+‘ul
+Components for re-use, CRU“)" kg 0 0 0
+Materials for recycling, MR*)" kg 5.5 5.7 5.1
+Materials for energy recovery, MER4" Kg 0 0 0
+
+Recovered energy exported from the product
+
+system, EE” MJ LHV 0 0 0
+
+Additional Inventory Parameters for Transparency
+Emissions from calcination kg CO, eq 485 497 443
+
+Biogenic CO, reporting the removals and
+emissions associated with biogenic carbon kg CO, eq 0 0 0
+content contained within biobased products
+
+Table Notes:
+
+1) Calculated as per U.S EPA TRACI v2.1, with IPCC 2013 (AR 5), SimaPro v 9.1.1.1 [10].
+
+GWP 100, excludes biogenic CO; removals and emissions associated with biobased products; 100-year time horizon GWP
+factors are provided by the IPCC 2013 Fifth Assessment Report (AR5), TRACI v2.1 with AR5, v1.05 [10].
+
+2) Calculated as per U.S EPA TRACI v2.1, SimaPro v 9.1.1.1 [10].
+
+3] ADP elements: Clay, bentonite, limestone, gravel, silica, sand added to model per Table A4 in the 2019 NSF PCR for Concrete
+[6]. ADP fossil is calculated as per CML-IA Baseline v3.05, SimaPro v 9.1.1.1 [10]. ADP LHV, CMLis required in LEED V4.1 MR
+Credit: Building Product Disclosure and Optimization — Environmental Product Declarations [13].
+
+4) Calculated as per ACLCA ISO 21930 Guidance [11].
+
+5) Total CO2 facility combustion emissions are measured data from CO2 Continuous Emission Monitoring System (CEMS) as
+reported in 2019 GHG Report submitted to US EPA. Calcination emissions are based on the Cement CO2 and Energy Protocol
+detailed output method (B1) published by the World Business Council for Sustainable Development (WBCSD) Cement
+Sustainability Initiative (CSI) [15].
+
+CA Interpretation
+
+The Manufacturing module (A3) drives most of the potential environmental impacts. Manufacturing impacts are
+primarily driven by energy use (electricity and thermal fuels) used during the pyroprocessing of limestone in the
+production of clinker. Clinker content in cement similarly defines the relative environmental profile of the final cement
+product. Raw material extraction (A1) is the second largest contributor to the Production stage EPD results, followed
+by the transportation (A2).
+
+Additional Environmental Information
+
+In the reference year 2019, 24,758 KWh of Renewable Energy Credits (RECSs) were purchased by the Hagerstown,
+MD plant. In total, 29% of 2019 load was covered by renewable energy, 4690 RECSs SOLAR, 17936 MD Tier I, 2132
+Tier Il. In accordance with NSF PCR, 7.1.9 [2], no credit is applied in the LCA baseline results reported herein.
+
+Environmental Protection Manufacture and Equipment
+
+Holcim manufacturing facilities comply with the U.S. environmental protection agency (EPA) regulations, monitor and
+report the emissions to air during the manufacturing process as per the following:
+
+- EPCRA Section 313 Toxic Release Inventory reporting (U.S) https://www.epa.gov/toxics-release-inventory-tri-
+program, accessed 08-2020.
+
+| ) HOLCIM
+Hs
+
+Environmental Product Declaration (EPD) 4h
+H O LC | M In accordance with ISO 14025 and 21930
+
+tui1/
+
+Air pollution abatement equipment used at Holcim’s Hagerstown plant consist of high temperature baghouses,
+cartridge filters, and bin vents.
+
+References
+
+1.
+2.
+
+3.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+10
+
+ASTM C150 / C150M -— 20 Standard Specification for Portland Cement.
+
+NSF International, Product Category Rule Environmental Product Declarations, PCR for Portland, Blended,
+Masonry, Mortar, and Plastic (Stucco) Cements, V3.1, September 2020.
+
+ISO 21930:2017 Sustainability in buildings and civil engineering works - Core rules for environmental product
+declarations of construction products and services.
+
+ISO 14040:2006/Amd1:2020 Environmental management - Life cycle assessment - Principles and
+framework.
+
+ISO 14044:2006/Amd1:2017/Amd2:2020 Environmental management - Life cycle assessment -
+Requirements and guidelines.
+
+NSF International, Product Category Rule Environmental Product Declarations, PCR for Concrete, February
+2020.
+
+ISO 14025:2006 Environmental labeling and declarations - Type III environmental declarations - Principles
+and procedures.
+
+ISO 14021:2016 Environmental labels and declarations -- Self-declared environmental claims (Type Il
+environmental labelling).
+
+ASTM Program Operator Rules, v 8.0, 04/29/2020.
+
+. PRé 2019.SimaPro LCA Software v9.1.1.1, September 2020.
+
+https://simapro.com/, accessed 08-2020.
+
+ACLCA 2019, Guidance to Calculating Non-LCIA Inventory Metrics in Accordance with ISO 21930:2017. The
+American Centre for Life Cycle Assessment. May, 2019.
+
+https://aclca.org/aclca-iso-21930-quidance/, https://aclca.org/wp-content/uploads/ISO-21930-Final.pdf,
+accessed 08-2020.
+
+LEED vd, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and
+Optimization — Environmental Product Declarations.
+https://www.usqgbc.org/node/2616376?return=/credits/new-construction/v4/material-%26amp%3B-resources,
+accessed 08-2020.
+
+LEED v4.1, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and
+Optimization — Environmental Product Declarations.
+https://leeduser.buildinggreen.com/credit/NC-v4.1/MRc2#tab-credit-language, accessed 08-2020.
+
+U.S. EPA, Emissions & Generation Resource Integrated Database (eGRID)
+
+https://www.epa.gov/egrid, accessed 10-2020.
+WBCSD CSI 2013: CO2 and Energy Protocol Version 3.1 of 9 December 2013.
+
+https://www.cement-co2-protocol.org/en/, accessed 08-2020.
+
+) HOLCIM

@@ -1,0 +1,104 @@
+{
+  "epd_metadata": {
+    "epd_commissioner": "Holcim (US), Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "program_operator": "NSF International",
+    "declaration_number": "EPD 176",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "02/26/2021",
+    "validity_period": "5 years",
+    "declared_unit": "1 metric ton of cement",
+    "verification": "ASTM International",
+    "reference_pcr": "Product Category Rules for Preparing an Environmental Product Declaration for Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco) Cements, V3.2, September 2021"
+  },
+  "product_description": {
+    "facility_name": "Holcim (US), Theodore Plant",
+    "facility_address": "3051 Hamilton Boulevard, Theodore, AL 36582",
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_types": [
+      "Portland Cement Type I/II",
+      "Portland Cement Type III",
+      "Blended Cement Type IL",
+      "Masonry Cement Type N",
+      "Masonry Cement Type S",
+      "Blended Cement Type IS(22)"
+    ],
+    "product_applicability": "Portland cement is the basic ingredient of concrete.",
+    "product_standards": [
+      "ASTM C150 / C150M - 20",
+      "ASTM C595 / C595M - 20",
+      "ASTM C91 / C91M - 18",
+      "ASTM C1157 / C1157M - 20",
+      "AASHTO M 85-20"
+    ]
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "cut_off_criteria": "NSF PCR, Section 7.1.8 and ISO 21930, 7.1.8",
+    "data_collection": "Gate-to-gate input/output flow data for 2019",
+    "allocation_rules": "ISO 14044 Clause 4.3.4, NSF PCR, ISO 21930 section 7.2",
+    "data_quality": {
+      "technology_coverage": "High",
+      "geographic_coverage": "High",
+      "time_coverage": "2019",
+      "completeness": "All relevant processes considered",
+      "consistency": "High",
+      "reproducibility": "Internal reproducibility possible",
+      "transparency": "High",
+      "uncertainty": "Sensitivity check conducted"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II": 875,
+      "Portland Type III": 891,
+      "Blended Type IL": 818,
+      "Masonry Type N": 516,
+      "Masonry Type S": 675,
+      "Blended Type IS(22)": 712
+    },
+    "emissions_from_calcination": {
+      "Blended Type IS(22)": 373
+    }
+  },
+  "recycled_materials_handling": {
+    "recycling_and_recycled_content": "Modeled using the cut-off rule",
+    "recovered_materials": [
+      "fly ash",
+      "furnace bottom ash",
+      "bypass dust",
+      "mill scale",
+      "polluted soils",
+      "spent catalyst",
+      "aluminum oxide waste",
+      "silica fume",
+      "granulated blast furnace slag",
+      "iron rich waste",
+      "cement kiln dust (CKD)",
+      "flue gas desulfurization (FGD) gypsum",
+      "calcium fluoride rich waste"
+    ],
+    "secondary_fuels": [
+      "used tires",
+      "plastics",
+      "solvents",
+      "used oil",
+      "oily waste",
+      "coal/carbon waste",
+      "roofing asphalt",
+      "household refuse-derived waste",
+      "non-hazardous liquid waste"
+    ]
+  },
+  "additional_info": {
+    "sustainability_commitment": "Theodore plant co-processes waste by recovering energy from recovered plastics, used tires and used oil.",
+    "environmental_protection": "Complies with U.S. EPA regulations, monitors and reports emissions.",
+    "pollution_abatement_equipment": "High and low temperature baghouses, cartridge filters, and bin vents."
+  }
+}

@@ -1,0 +1,254 @@
+ENVIRONMENTAL PRODUCT DECLARATION (EPD)
+
+This Environmental Product Declaration (EPD) reports the
+impacts for 1 m* of ready mixed concrete mix, meeting the
+following specifications:
+
++ __ ASTM C94: Ready-Mixed Concrete
+
++ _UNSPSC Code 30111505: Ready Mix Concrete
+
++ __ CSA A23.1/A23.2: Concrete Materials and Methods
+of Concrete Construction
+
++ __ CSI Division 03-30-00: Cast-in-Place Concrete
+
+COMPANY
+
+Holcim
+8700 Bryn Mawr Ave Suite #300
+Chicago, IL 60631-3512
+
+PLANT
+
+Fort Totten (DC) Plant
+5001 Fort Totten Dr. NE
+Washington, DC 20011
+
+EPD PROGRAM OPERATOR
+ASTM International
+1 100 Barr Harbor Drive
+QT I ( West Conshohocken, PA 19428
+
+DATE OF ISSUE
+07/16/2021 (valid for 5 years until 07/16/2026)
+
+ECOPact
+
+The Green Concrete
+
+ENVIRONMENTAL IMPACTS
+
+Declared Product:
+
+Mix ECOS80504 - Fort Totten (DC) Plant
+Description: 8000,ECOPACT, STANDARD PST NAËE
+HRWR
+
+Compressive strength: 8000 PSI at 28 days
+
+Declared Unit: 1 m° of concrete
+
+Global Warming Potential (kg CO, -eq) 320
+Ozone Depletion Potential (kg CFC-11-eq) 9.81E-6
+Acidification Potential (kg SO, -eq) 1.27
+Eutrophication Potential (kg N-eq) 0.59
+Photochemical Ozone Creation Potential (kg O,-eq) 22.1
+Abiotic Depletion, non-fossil (kg Sb-eq) 4.49E-5
+Abiotic Depletion, fossil (MJ) 1,712
+Total Waste Disposed (kg) 4.37
+Consumption of Freshwater (m$) 3.67
+
+Product Components: crushed aggregate (ASTM C33), natural
+aggregate (ASTM C33), Portland cement (ASTM C150), slag
+cement (ASTM C989), admixture (ASTM C494), batch water (ASTM
+C1602)
+
+Additional detail and impacts are reported on page three of this EPD
+
+serves as the core PCR
+
+ISO 21930:2017 Sustainability in Building Construction — Environmental Declaration of Building Products:
+
+PCR for Concrete, NSF International, February 2019 serves as the sub-category PCR
+
+Sub-category PCR review was conducted by Thomas P. Gloria - Industrial Ecology Consultants
+
+Independent verification of the declaration, according to ISO 14025:2006: internal Ylexternal
+
+Third party verifier Thomas P. Gloria (t.gloria@industrial-ecology.com) - Industrial Ecology Consultants
+
+For additional explanatory material
+
+Manufacture Representative: Zachary Lovett (zachary.lovett@holcim.com)
+Software Tool: CarbonCLARITY Suite, EPD Generator - Verification
+LCA & EPD Developer: Climate Earth (support@climateearth.com)
+
+Holcim
+
+8700 Bryn Mawr Ave Suite #300
+Chicago, IL 60631-3512
+773-372-1000
+
+ HOLCIM
+LIFE CYCLE ASSESSMENT
+
+SYSTEM BOUNDARY
+
+ECOPact
+
+The Green Concrete
+
+This EPD is a cradle-to-gate EPD covering the product stages (A1-A3) only
+
+Production Stage Construction Use Stage End-of-Life Stage
+(Mandatory) Stage
+d
+> 8
+ÿ 5 o > 02 D 2
+5 Ÿ S o) ë E S ST a 8
+£ © £ © a œ £ ë 5 5 a 3
+SGc £ 5 £ c 2 o £ 3 c £5 0 5
+SES È 5 È $ $ Ë £ 52 ££ © 2
+FFE à Ê à £ Ë à Ë £ 53 BÈ e ë
+ÆE $ 8 É É 8 £ à à E SÉ 28 É 8
+3e Ê = Ë Ê 3 > & ee œ A3 Ê à. z a
+AL A2 A3 A4 A5 B1 B2 B3 B4 B5 c1 c2 c3 C4
+CUT-OFF PRIMARY SOURCES OF LCI DATA
+
+Items excluded from system boundary include: production,
+manufacture, and construction of manufacturing capital
+goods and infrastructure; production and manufacture of
+production equipment, delivery vehicles, and laboratory
+equipment, personnel-related activities (travel, furniture, and
+office supplies); and energy and water use related to company
+management and sales activities that may be located either
+within the factory site or at another location.
+
+ALLOCATION PROCEDURE
+
+Allocation follows the requirements and guidance of ISO
+14044.
+
+The product category rules for this EPD recognize fly ash, silica
+fume and slag as waste products recovered materials and thus
+the environmental impacts allocated to these materials are
+limited to the treatment and transportation required to use as
+a concrete material input.
+
+LIFE CYCLE INVENTORY (LCI)
+
+This EPD was calculated using manufacturer specific cement
+data that represents 100% of the total cement used in this mix.
+
+Admixture (superplasticizing): EFCA EPD, 2015
+
+Aggregate (crushed): US-EI (2016): “Gravel, crushed, at mine/
+US”, 2001
+
+Aggregate (natural): US-EI (2016): “Gravel, round, at mine/
+US”, 2001
+
+Cleaning Chemicals: Ecoinvent 3.4: 50% Citric acid and 50%
+Phosphoric acid, industrial grade, without water, in 70%
+solution state, market for/GLO, 2017
+
+Diesel: USLCI: “Diesel, combusted in industrial equipment/
+NREL/US”, 2007
+
+Electricity (RCC): Ecoinvent 3.4: “Electricity, medium voltage,
+market for, cut-off”, 2015
+
+Municipal Water: US-EI (2016): “Tap water, at user/US”, 2000
+
+Non-Hazardous Solid Waste: US-EI (2016): Disposal,
+municipal solid waste, 2008
+
+Oils, Lubricants and Greases: Ecoinvent 3.4: Lubricating oil,
+GLO, market for, cut-off, 2011
+
+Portland Cement: Supplier specific primary data, 2020
+
+Rail transport: USLCI: “Transport, train, diesel powered NREL/
+US”, 2007
+
+Slag cement: Slag Cement Association, industry average
+EPD, 2014
+
+Truck transport: USLCI:”Transport, combination truck, long-
+haul, diesel powered/tkm/RNA”, 2010
+
+Truck transport: USLCI:”Transport, combination truck, short-
+haul, diesel powered/tkm/RNA”, 2010
+
+Holcim
+
+8700 Bryn Mawr Ave Suite #300
+Chicago, IL 60631-3512
+773-372-1000
+
+1
+
+G’HOLCIM
+DECLARATION OF ENVIRONMENTAL INDICATORS DERIVED FROM LCA ECO Pact
+
+The Green Concrete
+
+Impact Assessment Unit A1 A2 A3 Total
+Global warming potential kg CO,-eq 287 21.2 12.6 320
+Depletion potential of the stratospheric ozone layer (ODP) kg CFC-11-eq  8.84E-6 8.85E-10  4.77E-7 9.31E-6
+Eutrophication potential kg N-eq 0.49 0.02 0.08 0.59
+Acidification potential of soil and water sources (AP) kg SO,-eq 0.92 0.26 0.08 1.27
+Formation potential of tropospheric ozone (POCP) kg O,-eq 12.9 7.05 2.10 22.1
+
+Resource Use
+
+Abiotic depletion potential for non-fossil mineral resources kg Sb-eq 4.20E-5 - 2.94E-6 4.49E-5
+(ADP elements)*
+
+Abiotic depletion potential for fossil resources (ADPfossil) MI 1,291 300 121 1,712
+Renewable primary energy resources as energy (fuel), (RPRE)* MI 44.1 0.00E+0 2.00 46.1
+Renewable primary resources as material, (RPRM)* MI 0.00E+0 - 0.00E+0 0.00E+0
+Non-renewable primary resources as energy (fuel), (NRPRE)* MI 2,090 300 154 2,544
+Non-renewable primary resources as material (NRPRM)* MI 11.6 - 0.00E+0 11.6
+Consumption of fresh water m$ 8.64 - 0.04 8.67
+
+Secondary Material, Fuel and Recovered Energy
+
+Secondary Materials, (SM)* Kg 254 - 0.00E+0 254
+Renewable secondary fuels, (RSF)* MI - - 0.00E+0 0.00E+0
+Non-renewable secondary fuels (NRSF)* MI 17.2 - 0.00E+0 17.2
+Recovered energy, (RE)* MI - - 0.00E+0 0.00E+0
+
+Waste & Output Flows
+
+Hazardous waste disposed* Kg 5.51E-3 - 0.00E+0 5.51E-3
+Non-hazardous waste disposed* Kg 0.19 - 4.18 4.37
+
+High-level radioactive waste* m$ 2.17E-3 - 1.72E-8 2.17E-3
+Intermediate and low-level radioactive waste* m° 1.16E-6 - 1.58E-7 1.31E-6
+Components for reuse* Kg - - 0.00E+0 0.00E+0
+Materials for recycling* Kg 1.37 - 1.63 8.00
+
+Materials for energy recovery* Kg : | 6.58E-3 6.58E-3
+Recovered energy exported from the product system* MI - - 0.00E+0 0.00E+0
+
+* Emerging LCA impact categories and inventory items are still under development and can have high levels of uncertainty that preclude international
+acceptance pending further development. Use caution when interpreting data in these categories.
+
+- Not all LCA datasets for upstream materials include these impact categories and thus results may be incomplete. Use caution when interpreting data in
+these categories
+
+EPDs are comparable only if they comply with ISO 21930 (2017), use the same, sub-category PCR where applicable, include all
+relevant information modules and are based on equivalent scenarios with respect to the context of construction works.
+
+REFERENCES
+
+ISO 21930:2017 Sustainability in Building Construction — Environmental Declaration of Building Products
+ISO 14044:2006/Amd 1:2017/Amd 2:2020 Environmental Management — Life Cycle Assessment —Requirements and Guidelines
+
+Holcim
+8700 Bryn Mawr Ave Suite #300 9
+Chicago, IL 60631-3512 Q [| O LC Ï M
+
+773-372-1000

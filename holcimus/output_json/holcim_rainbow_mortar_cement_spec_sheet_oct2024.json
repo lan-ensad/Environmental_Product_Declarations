@@ -1,0 +1,54 @@
+{
+  "epd_metadata": {
+    "manufacturer": "Holcim (US) Inc.",
+    "contact": {
+      "address": "8700 Bryn Mawr Avenue, Chicago, IL 60631",
+      "phone": "(888) 646-5246",
+      "email": "ask@holcim.com",
+      "website": "www.holcim.us"
+    },
+    "product_name": "Mortamix® Rainbow Custom Color Mortar CementTM",
+    "update_date": "10.2024"
+  },
+  "product_description": {
+    "usage": "Formulated cementitious material for masonry mortars in brick, block, and stone masonry units. Recommended for load bearing walls and stucco applications.",
+    "composition": "Combination of portland cement, plasticizers, ground limestone, air entraining additives, and inorganic color pigments.",
+    "types": "Meets ASTM C1329 for Type S mortar cements.",
+    "sizes": "Available in 34 kilogram (75 pound) bags.",
+    "colors": "Available in many standard colors, including white. Custom colors can be formulated.",
+    "benefits": "Meets ASTM C1329 for Type S mortar cement."
+  },
+  "lca_information": {
+    "applicable_standards": [
+      "ASTM C144",
+      "ASTM C270",
+      "ASTM C1329"
+    ],
+    "physical_chemical_properties": "Conforms to ASTM C1329 Type S and used to produce ASTM C270 Type S mortar."
+  },
+  "transport_and_installation": {
+    "preparatory_work": "Mix in accordance with ASTM C270 proportions. Machine mixing recommended.",
+    "batching_sequence": "Add 3/4 mix water, 1/2 sand, 1 bag mortar cement, then rest of sand and water. Mix 3-5 minutes.",
+    "precautions": [
+      "Do not change sand sources or mixture proportions.",
+      "Avoid other additives or admixtures.",
+      "Tool joints uniformly.",
+      "Avoid excessive re-tempering.",
+      "Protect masonry units from weather.",
+      "Avoid acid-based cleaning solutions.",
+      "Erect a job specific sample panel."
+    ],
+    "safety_precautions": "Consult Safety Data Sheet. Avoid skin contact. Use PPE.",
+    "storage_handling": "Store above ground on pallets, covered with tarps or polyethylene. Allow air circulation."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "availability": "Regionally available. Contact nearest sales office.",
+    "cost": "Pricing information available from nearest sales office.",
+    "warranty": "Material Certification Reports available upon request. No guarantee on finish work.",
+    "technical_services": "Contact nearest sales office or Technical Services Engineer.",
+    "filing_systems": "Additional product information available from the manufacturer."
+  }
+}

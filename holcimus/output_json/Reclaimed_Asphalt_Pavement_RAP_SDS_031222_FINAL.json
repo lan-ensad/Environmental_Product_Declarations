@@ -1,0 +1,87 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "04/24/2015",
+    "supersedes_date": "06/14/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Recycled Asphalt Product",
+    "product_name": "Reclaimed Asphalt Pavement (RAP)",
+    "synonyms": [
+      "RAP",
+      "Reclaimed Asphalt Concrete",
+      "Reclaimed Asphalt Pavement",
+      "Reclaimed Black Top",
+      "Reclaimed Paving Materials",
+      "Millings"
+    ],
+    "intended_use": "Used as an aggregate and asphalt binder substitute in recycled asphalt mixtures, as a construction material as a granular base or subbase, stabilized base aggregate, as embankment or fill material and in other construction materials.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us",
+      "emergency_phone": "1-800-255-3924"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": {
+    "handling_precautions": "Obtain special instructions before use. Do not handle until all safety precautions have been read and understood. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving work. Do not breathe dust. Avoid contact with eyes, skin and clothing.",
+    "storage_conditions": "Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight, extremely high or low temperatures and incompatible materials. Store locked up/in a secure area."
+  },
+  "additional_info": {
+    "hazards_identification": {
+      "classification": "Carc. 1A H350, STOTRE 1 H372",
+      "label_elements": {
+        "signal_word": "Danger",
+        "hazard_statements": [
+          "H350 - May cause cancer (Inhalation).",
+          "H372 - Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation)."
+        ],
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P260 - Do not breathe dust.",
+          "P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.",
+          "P270 - Do not eat, drink or smoke when using this product.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P314 - Get medical advice/attention if you feel unwell.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      }
+    },
+    "composition_information": {
+      "limestone": {
+        "cas_no": "1317-65-3",
+        "percentage": "90-95",
+        "classification": "Not classified"
+      },
+      "quartz": {
+        "cas_no": "14808-60-7",
+        "percentage": "< 10",
+        "classification": "Carc. 1A, H350"
+      },
+      "asphalt": {
+        "cas_no": "8052-42-4",
+        "percentage": "< 10",
+        "classification": "Carc. 2, H351"
+      }
+    }
+  }
+}

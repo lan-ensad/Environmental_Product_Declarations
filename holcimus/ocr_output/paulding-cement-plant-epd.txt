@@ -1,0 +1,727 @@
+PAULDING CEMENT PLANT
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+wuishios cc HOLCIM
+Environmental Product Declaration (EPD) Aly
+g H Oo LC l [il In accordance with ISO 14025 and 21930 j/
+
+‘ul
+
+About this EPD
+
+This is a cradle-to-gate environmental product declaration for Portland Type | Low Alkali (LA) and Blended Type IL
+cements as produced at Holcim’s Paulding, OH plant. The life cycle assessment was prepared according to ISO
+14025:2006, ISO 21930:2017 (the core PCR) and the NSF product category rules for Portland, Blended, Masonry,
+Mortar and Plastic (stucco) Cements (subcategory PCR). This environmental product declaration (EPD) is intended
+for business-to-business audiences.
+
+General Summary
+
+EPD Commissioner and Owner Holcim (US) Inc.
+8700 W Bryn Mawr Ave
+Chicago, IL 60631
+Phone: 626-852-6200
+www.holcim.us
+
+" il] Oo LC | a Holcim provided both LCI and meta-data for limestone quarrying, clinker
+i) production and cement manufacture for reference year 2019. The owner of the
+declaration is liable for the underlying information and evidence.
+
+For any explanatory material, regarding this EPD, please contact Sonia
+
+Gagnon (sonia.gagnon@holcim.com).
+Product Group and Name Cement, UN CPC 3744.
+
+Product Definition Portland cement is defined as a hydraulic cement produced by pulverizing
+clinker, consisting essentially of crystalline hydraulic calcium silicates, and
+usually containing one or more of the following: water, calcium sulfate, up to
+5% limestone, and processing additions (NSF PCR 2020, ASTM C150, ASTM
+C219).
+
+Portland Cement Type —For use when the special properties specified for
+any other type are not required.
+
+Some cements are designated with a combined type classification, such as
+Type I/II, indicating that the cement meets the requirements of the indicated
+types and is being offered as suitable for use when either type is desired.
+
+Blended cement is a hydraulic cement consisting of two or more inorganic
+constituents (at least one of which is not Portland cement or Portland cement
+clinker) which separately or in combination contribute to the strength gaining
+properties of the cement, (made with or without other constituents, processing
+additions and functional additions, by intergrinding or other blending).
+e Type IL (ASTM C595) — is a Portland-limestone cement and is a
+hydraulic cement in which the limestone content is more than 5 % but
+less than or equal to 15 % by mass of the blended cement.
+
+| J HOLCIM
+J? HOLCIM
+
+Product Category Rules (PCR)
+
+Date of Issue & Validity Period
+
+Declared Unit
+
+Environmental Product Declaration (EPD)
+
+In accordance with ISO 14025 and 21930 cy
+
+it?
+
+NSF International, Product Category Rules for Preparing an Environmental
+Product Declaration for Portland, Blended Hydraulic, Masonry, Mortar, and
+Plastic (Stucco) Cements V3.2, September 2021 [2].
+
+02.26.2021 — 5 years
+
+1 metric ton of cement
+
+EPD and Project Report Information
+
+Program Operator
+Declaration Number
+Declaration Type
+Applicable Countries
+
+Product Applicability
+
+Content of the Declaration
+
+This EPD was independently
+verified by ASTM in accordance
+with ISO 14025 and the reference
+PCR:
+
+Internal External X
+
+The Project Report
+
+LCA report and EPD Prepared by:
+
+Athena
+Sustainable Materials
+Institute
+
+This EPD project report was
+independently verified by in
+accordance with ISO 14025, ISO
+
+14040/44, and the reference PCR:
+
+ASTM International
+
+EPD 172
+
+Cradle-to-gate (modules A1 to A3). Facility and product-specific.
+United States
+
+Cement is the basic ingredient of concrete. Concrete, one of the most widely
+used construction materials in the world, is formed when cement creates a
+paste with water that binds with sand and rock to harden.
+
+This declaration follows Section 9; Content of an EPD, NSF International,
+Product Category Rules for Preparing an Environmental Product Declaration
+for Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco)
+Cements, V3.2, September 2021 [2].
+
+Tim Brooke
+
+ASTM International
+100 Barr Harbor Drive
+PO Box C700
+
+West Conshohocken
+PA 19428-2959, USA
+
+cert@astm.org
+
+Cradle-to-Gate Life Cycle Assessment of Holcim USA Cement Plants,
+Prepared for Holcim US, February 2021 (Revised May 2022).
+
+Lindita Bushi, PhD, Jamie Meil & Grant Finlayson
+Athena Sustainable Materials Institute
+
+280 Albert Street, Suite 404
+
+Ottawa, Ontario, Canada K1P 5G8
+info@athenasmi.org
+
+www.athenasmi.org
+
+Thomas P. Gloria, Ph. D.
+Industrial Ecology Consultants
+35 Bracebridge Rd.
+
+Newton, MA
+
+»
+
+4? HOLCIM
+Environmental Product Declaration (EPD) Aly
+Il @) LC | hal In accordance with ISO 14025 and 21930 j/
+
+‘ul
+
+C5
+
+PCR Information
+
+Program Operator NSF International
+
+Reference PCR Product Category Rules for Preparing an Environmental Product Declaration
+for Portland, Blended Hydraulic, Masonry, Mortar, and Plastic (Stucco)
+Cements, V3.2, September 2021.
+
+PCR review was conducted by: Thomas P. Gloria, PhD (Chair), Industrial Ecology Consultants,
+t.gloria@industrial-ecology.com
+Mr. Jack Geibig, EcoForm
+Mr. Bill Stough, Sustainable Research Group
+
+Holcim US Cement & Production Facility
+
+Holcim is the global leader in building materials and solutions. As the largest cement manufacturer in the United
+States, Holcim’s ambition is to lead the industry in reducing carbon emissions and shifting towards low-carbon
+construction.
+
+In the United States, Holcim companies include close to 350 sites in 43 states and employ 7,000 people. Our
+
+customers rely on us to help them design and build better communities with innovative solutions that deliver structural
+integrity and eco-efficiency.
+
+Facility Name: Holcim Paulding Cement Plant,
+11435 Road 176, Paulding, OH 45879
+
+Product Description
+
+This EPD reports environmental transparency information for Portland Type | Low Alkali and Blended Type IL
+cements produced by Holcim at its Paulding OH plant. Cements are hydraulic binders and are manufactured by
+grinding cement clinker and other main or minor constituents into a finely ground, usually grey colored mineral
+powder. When mixed with water, cement acts as a glue to bind together the sand, gravel or crushed stone to form
+concrete, one of the most durable, resilient and widely used construction materials in the world. The Table below sets
+out each cement type constituents and applicable standards. Paulding’s Type | Low Alkali cement is sold in bulk.
+
+Products and Standards
+
+Inputs Portland Type BlendedType Applicable Standards:
+| Low Alkali IL ASTM C150 / C150M — 20 Standard Specification for Portland
+ASTM C150 ASTM C595 Cement
+Clinker 93% 87% ASTM C595 / CS595M — 20 Standard Specification for Blended
+Gypsum 6% 7%, Hydraulic Cement
+Limestone 1% 6% ASTM C1157 / C1157M — 20 Standard Performance Specification
+Other <1% <1% for Hydraulic Cements
+Total 100% 100%
+
+AASHTO M 85-20 Standard Specification for Portland Cement
+(ASTM Designation: C150 / C150M - 20).
+
+J HOLCIM
+9
+
+4? HOLCIM
+
+Environmental Product Declaration (EPD)
+In accordance with ISO 14025 and 21930
+
+ily
+
+‘ul
+
+Declared Unit
+
+The declared unit is one metric tonne of cement.
+
+System Boundary
+
+This EPD is a cradle-to-gate EPD covering the production stage (A1-A3) as depicted in the figure below. The
+production stage includes extraction of raw materials (cradle) through the manufacture of cements ready for shipment
+(gate). The Paulding, OH cement plant sources its limestone supply from an adjacent quarry.
+
+PRODUCTION
+Stage
+
+CONSTRUCTION
+Stage
+
+A1
+Extraction and
+upstream production
+
+A4
+Transport to site
+
+A2 AS
+Transport to factory Installation
+
+A3
+
+Manufacturing
+
+Life Cycle Information within the System Boundary
+
+END OF LIFE
+Stage
+
+c1
+
+De-construction
+Demolition
+
+C2
+
+Maintenance Transport
+
+B3 c3
+Repair Waste Processing
+
+B4
+Replacement
+
+c4
+Disposal of waste
+
+BS
+Refurbishment
+
+B6
+Operational Energy
+Use
+
+B7
+Operational Water
+Use
+
+Items excluded from the system boundary include:
+
+the factory site or at another location
+
+Hy
+
+Optional
+supplementary
+information
+beyond the
+system boundary
+
+D
+Potential net
+benefits from
+
+reuse,
+
+recycling, and/or
+energy recovery
+beyond the system
+boundary
+
+Production, manufacture, and construction of manufacturing capital goods and infrastructure
+
+Production and manufacture of production equipment, delivery vehicles, and laboratory equipment
+Personnel-related activities (travel, furniture, and office supplies)
+Energy and water use related to company management and sales activities that may be located either within
+
+HOLCIM
+Environmental Product Declaration (EPD) Aly
+g H Oo LC l [il In accordance with ISO 14025 and 21930
+
+tris
+
+Cut-off Criteria
+
+The cut-off criteria as per NSF PCR, Section 7.1.8 [2] and ISO 21930, 7.1.8 [3] were followed. Per ISO 21930, 7.1.8
+[3], all input/output data required were collected and included in the LCI modelling. No substances with hazardous
+and toxic properties that pose a concern for human health and/or the environment were identified in the framework of
+this EPD. Any plant specific data gaps for the reference year 2019 e.g. amount of lubricants and refractory were filled
+in with industry data (secondary data).
+
+Data Collection
+
+Gate-to-gate input/output flow data were collected for the following processes for the reference year 2019:
+e Limestone quarry, clinker production and cement manufacture — Paulding, OH.
+
+Allocation Rules
+
+Allocation follows the requirements and guidance of ISO 14044 Clause 4.3.4 [5], NSF PCR [2], and ISO 21930
+section 7.2 [3]. Recycling and recycled content are modeled using the cut-off rule. The sub-category PCR recognizes
+fly ash, furnace bottom ash, bypass dust, mill scale, polluted soils, spent catalyst, aluminum oxide waste, silica fume,
+granulated blast furnace slag, iron rich waste, cement kiln dust (CKD), flue gas desulfurization (FGD) gypsum, and
+calcium fluoride rich waste as recovered materials and thus the environmental impacts allocated to these materials
+are limited to the treatment and transportation required to use as a cement material input. Further, used tires,
+plastics, solvents, used oil and oily waste, coal/carbon waste, roofing asphalt, household refuse-derived waste and
+non-hazardous liquid waste are considered non-renewable and/or renewable secondary fuels. Only the materials,
+water, energy, emissions, and other elemental flows associated with reprocessing, handling, sorting and
+transportation from the point of the generating industrial process to their use in the production process are
+considered. All emissions from combustion at the point of use are considered.
+
+Data Quality Requirements and Assessment
+
+Data Quality
+
+Requirements tse asta
+
+Data represents the prevailing technology in use at the Paulding, OH facility. Whenever available, for all
+upstream and core material and processes, North American typical or average industry LCI datasets were
+Technology utilized.
+
+Coverage
+2 The Paulding, OH plant utilizes a wet kiln technology.
+Technological representativeness is characterized as “high”.
+Geographic The geographic region considered is U.S.
+Coverage
+
+Geographical representativeness is characterized as "high".
+
+J HOLCIM
+Environmental Product Declaration (EPD) Aly
+g H Oo LC l [Ml In accordance with ISO 14025 and 21930 j/
+
+‘ul
+
+Activity (primary) data are representative of 2019 calendar year (12 months).
+
+- Paulding limestone extraction,
+
+- Paulding clinker production,
+
+- Paulding cement manufacturing,
+
+- In-bound/ out-bound transportation data- primary data collected for Paulding quarry site and cement
+manufacturing plant.
+
+- Generic data: the most appropriate LCI datasets were used as found in the ecoinvent v.3.6 database for
+US and global, December 2019 and US LCI Database.
+
+Electricity resource mix for RFC region includes (eGRID 2018): 35.1% coal, 29.8% nuclear, 28.5% natural
+gas, 3.0% wind, 1.1% hydro, 1.1% biomass, 0.5% oil, 0.2% solar, and 0.6% other fossils [14], [10].
+
+Time Coverage
+
+Temporal representativeness is characterized as “high”.
+
+All relevant, specific processes, including inputs (raw materials, energy and ancillary materials) and outputs
+(emissions and production volume) were considered and modeled to complete production profile for cement
+products.
+
+Completeness The relevant background materials and processes were taken from the US LCI Database (adjusted for
+known data placeholders), ecoinvent v 3.6 LCI database for US, and modeled in SimaPro software v.9.1.1.1,
+September 2020. The completeness of the cradle-to-gate process chain in terms of process steps is
+rigorously assessed for all cement product systems.
+
+To ensure consistency, the LCI modeling of the production input and output LCI data for the Paulding cement
+products of interest used the same LCI modeling structure, which consisted of input material and
+intermediate products, ancillary and packaging materials (if applicable), energy flows, water resource inputs,
+
+Consistency product outputs, co-products, by-products, emissions to air, water and soil, and solid and liquid waste
+disposal. Crosschecks concerning the plausibility of mass and energy flows were continuously conducted.
+The LCA team conducted mass and energy balances at the facility level and selected process levels to
+maintain a high level of consistency.
+
+Internal reproducibility is possible since the data and the models are stored and available in LH_Paulding
+Athena LCI database developed in SimaPro, 2020. A high level of transparency is provided throughout the
+Reproducibility report as the LCI profile is presented for each of the declared products as well as major upstream inputs.
+Key primary (manufacturer specific) and secondary (generic) LCI data sources are also summarized in the
+background report. External reproducibility is not possible as the background report is confidential.
+
+Transparency Activity and LCI datasets are disclosed in the project report, including all data sources.
+
+A sensitivity check was conducted to assess the reliability of the EPD results and conclusions by determining
+Uncertainty how they are affected by uncertainties in the data or assumptions on calculation of LCIA and energy indicator
+results.
+
+Life Cycle Impact Assessment Results: Paulding, OH Cement
+
+This section summarizes the production stage life cycle impact assessment (LCIA) results including resource use and
+waste generated metrics based on the cradle-to-gate life cycle inventory inputs and outputs analysis. The results are
+calculated based on 1 metric ton of each cement type as produced at the Paulding, OH plant. /t should be noted that
+LCIA results are relative expressions and do not predict impacts on category endpoints, the exceeding of thresholds,
+
+| J HOLCIM
+yy
+
+Environmental Product Declaration (EPD
+ HOLCIM (ED)
+
+In accordance with ISO 14025 and 21930
+
+fly
+
+tris
+
+safety margins or risks [4], [5]. Further, a number of LCA impact categories and inventory items are still emerging or
+under development and can have high levels of uncertainty that preclude international acceptance pending further
+
+development. Use caution when interpreting results for these categories — identified with an “*” [2].
+
+Only EPDs prepared from cradle-to-grave life-cycle results and based on the same function, quantified by the same
+functional unit, and taking account of replacement based on the product reference service life (RSL) relative to an
+assumed building service life, can be used to assist purchasers and users in making informed comparisons between
+products [2]. Environmental declarations from different programs may not be comparable [7]. EPDs are comparable
+only if they comply with ISO 21930, use the same, sub-category PCR where applicable, include all relevant
+information modules and are based on equivalent scenarios with respect to the context of construction works [3].
+
+Production stage EPD Results: Paulding, OH — per Metric Tonne
+
+Impact category and
+
+inventory indicators Unit
+Global warming potential, GWP 100"), AR5 kg CO2 eq
+Ozone depletion potential, ODP?) kg CFC-11 eq
+Smog formation potential, SFP?) kg O3 eq
+Acidification potential, AP?) kg SO2 eq
+Eutrophication potential, EP?) kg N eq
+Abiotic depletion potential for non-fossil ka Sbe
+mineral resources, ADP elements?) * g q
+Abiotic depletion potential for
+fossil resources, ADP fossil?) MJ LHV
+Renewable primary resources used as an energy carrier (fuel), RPRE MJ LHV
+Renewable primary resources with energy content used as material,
+
+4)* MJ LHV
+RPRm
+Non-renewable primary resources used as an energy carrier (fuel),
+
+3 MJ LHV
+
+NRPRe
+Non-renewable primary resources with energy content used as MJ LHV
+material, NRPRwm?*)*
+Secondary materials, SM4)* kg
+Renewable secondary fuels, RSF*)* MJ LHV
+Non-renewable secondary fuels, NRSF*)* MJ LHV
+Recovered energy, RE*)* MJ LHV
+
+Portland Type |
+
+Low Alkali
+ASTM C150
+
+1,335
+1.4E-05
+80.1
+4.8
+
+0.49
+
+1.1E-04
+
+1,414
+
+50
+
+1,909
+
+44
+
+9,389
+
+Blended Type IL
+ASTM C595
+
+1,251
+1.3E-05
+75.4
+4.5
+
+0.46
+
+1.0E-04
+
+1,332
+
+47
+
+1,789
+
+71
+
+8,802
+
+J HOLCIM
+Y
+
+Consumption of freshwater, FW7)
+Hazardous waste disposed, HWD*)*
+Non-hazardous waste disposed, NHWD?)*
+
+High-level radioactive waste, conditioned, to final repository, HLRW?)*
+
+Intermediate- and low-level radioactive waste, conditioned, to final
+repository, ILLRW4)”
+
+Components for re-use, CRU*)*
+
+Materials for recycling, MR**
+
+Materials for energy recovery, MER*)*
+
+Recovered energy exported from the product system, EE‘) *
+Additional Inventory Parameters for Transparency
+
+Emissions from calcination®
+
+Biogenic COz, reporting the removals and emissions associated with
+biogenic carbon content contained within biobased products
+
+Table Notes:
+
+1) Calculated as per U.S EPA TRACI v2.1, with IPCC 2013 (AR 5), SimaPro v 9.1.1.1 [10].
+
+kg
+kg
+kg
+
+MJ LHV
+
+kg CO, eq
+
+kg CO, eq
+
+Environmental Product Declaration (EPD
+ HOLCIM (ED)
+
+In accordance with ISO 14025 and 21930
+
+1.0
+
+4.0E-04
+
+2.4E-02
+
+2.6E-07
+
+4.9E-06
+
+87.9
+
+489
+
+ily
+
+‘ul
+
+0.9
+0
+2.3E-02
+
+2.4E-07
+
+4.6E-06
+
+82.5
+
+458
+
+GWP 100, excludes biogenic CO2 removals and emissions associated with biobased products; 100-year time horizon GWP
+factors are provided by the IPCC 2013 Fifth Assessment Report (ARS), TRACI v2.1 with ARS, v1.05 [10].
+
+2) Calculated as per U.S EPA TRACI v2.1, SimaPro v 9.1.1.1 [10].
+
+3) ADP elements: Clay, bentonite, limestone, gravel, silica, sand added to model per Table A4 in the 2019 NSF PCR for Concrete
+[6]. ADP fossil is calculated as per CML-IA Baseline v3.05, SimaPro v 9.1.1.1 [10]. ADP LHV, CML is required in LEED V4.1 MR
+Credit: Building Product Disclosure and Optimization — Environmental Product Declarations [13].
+
+4) Calculated as per ACLCA ISO 21930 Guidance [11].
+
+5) Total CO2 facility combustion emissions are measured data from CO2 Continuous Emission Monitoring System (CEMS) as
+reported in 2019 GHG Report submitted to US EPA. Calcination emissions are based on the Cement CO2 and Energy Protocol
+detailed output method (B1) published by the World Business Council for Sustainable Development (WBCSD) Cement
+
+Sustainability Initiative (CSI) [15].
+
+LCA Interpretation
+
+The Manufacturing module (A3) drives most of the potential environmental impacts. Manufacturing impacts are
+primarily driven by energy use (electricity and thermal fuels) used during the pyroprocessing of limestone in the
+production of clinker. Clinker content in cement similarly defines the relative environmental profile of the final cement
+product. Raw material extraction (A1) is the second largest contributor to the Production stage EPD results, followed
+
+by the transportation (A2).
+
+»
+
+HOLCIM
+Environmental Product Declaration (EPD) Aly
+g H oO LC I M In accordance with ISO 14025 and 21930 j/
+
+‘ul
+
+Additional Environmental Information
+
+The Paulding plant operates with the highest level of alternative fuel replacement in the world. Operating in
+compliance with HWC-MACT, more than 95% of the plant’s thermal energy requirements come from Fuel Quality
+Wastes out of other industrial processes, thus virtually eliminating the use of fossil fuels.
+
+Systech, a fully owned subsidiary of Holcim, operating on site provides the Paulding cement plant with fuel quality
+wastes. Paulding has been using fuels that are a blend of waste paint, paint thinners, inks and oils that contain heat
+value similar to fossil fuels successfully since 1978.
+
+Environmental Protection and Equipment
+
+Holcim manufacturing facilities comply with the U.S. environmental protection agency (EPA) regulations, monitor and
+report the emissions to air during the manufacturing process as per the following:
+
+- EPCRA Section 313 Toxic Release Inventory reporting (U.S) https:/www.epa.gov/toxics-release-inventory-tri-
+program, accessed 08-2020.
+
+Air pollution abatement equipment used at Holcim’s Paulding plant consist of high and low temperature baghouses,
+cartridge filters, bin vents, selective catalytic reduction (SCR) and dry scrubber.
+
+References
+
+1. ASTM C1157 / C1157M — 20 Standard Performance Specification for Hydraulic Cement.
+
+2. NSF International, Product Category Rule Environmental Product Declarations, PCR for Portland, Blended,
+Masonry, Mortar, and Plastic (Stucco) Cements, V3.2, September 2021.
+
+3. ISO 21930:2017 Sustainability in buildings and civil engineering works - Core rules for environmental product
+declarations of construction products and services.
+
+4. 1ISO 14040:2006/Amd1:2020 Environmental management - Life cycle assessment - Principles and
+framework.
+
+5. ISO 14044:2006/Amd1:2017/Amd2:2020 Environmental management - Life cycle assessment -
+Requirements and guidelines.
+
+6. NSF International, Product Category Rule Environmental Product Declarations, PCR for Concrete, V2.3,
+November 2023.
+
+7. ISO 14025:2006 Environmental labeling and declarations - Type III environmental declarations - Principles
+and procedures.
+
+8. ISO 14021:2016 Environmental labels and declarations -- Self-declared environmental claims (Type II
+environmental labelling).
+
+9. ASTM Program Operator Rules, v.8.0, 04/29/2020.
+
+10. PRé 2019.SimaPro LCA Software v9.1.1.1, September 2020.
+https://simapro.com/, accessed 08-2020.
+
+11. ACLCA 2019, Guidance to Calculating Non-LCIA Inventory Metrics in Accordance with ISO 21930:2017. The
+American Centre for Life Cycle Assessment. May, 2019.
+httos://aclca.org/acica-iso-21930-quidance/, https://aclca.org/wp-content/uploads/ISO-21930-Final. pdf,
+accessed 08-2020.
+
+12. LEED v4, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and
+Optimization — Environmental Product Declarations.
+httos://Awww.usgbc.org/node/2616376?return=/credits/new-construction/v4/material-%~26amp%3B-resources,
+accessed 08-2020.
+
+J HOLCIM
+Environmental Product Declaration (EPD) Aly
+g H Oo LC l [il In accordance with ISO 14025 and 21930
+
+tris
+
+13. LEED v4.1, Building Design and Construction Guide (BD+C), MR Credit: Building Product Disclosure and
+Optimization — Environmental Product Declarations.
+https://leeduser.buildinggreen.com/credit/NC-v4.1/MRc2#tab-credit-language, accessed 08-2020.
+
+14. U.S. EPA, Emissions & Generation Resource Integrated Database (eGRID).
+
+https://www.epa.gov/egrid, accessed 10-2020.
+15. WBCSD CSI 2013: COz and Energy Protocol Version 3.1 of 9 December 2013.
+
+https://www.cement-co2-protocol.org/en/, accessed 08-2020.
+
+. J HOLCIM

@@ -1,0 +1,56 @@
+{
+  "epd_metadata": {
+    "product_name": "ECOPact",
+    "version": "1. 3/11/2022",
+    "contact_information": {
+      "company": "Holcim US",
+      "address": "8700 West Bryn Mawr Ave., #300, Chicago, IL 60631",
+      "phone": "(888) 646-5246",
+      "website": "www.holcim.us/ecopact",
+      "email": "ask@holcim.com"
+    }
+  },
+  "product_description": {
+    "product_type": "Low-carbon concrete",
+    "applications": [
+      "foundations",
+      "columns",
+      "beams",
+      "walls",
+      "driveways",
+      "walkways"
+    ],
+    "strength_classes": "variety of strength classes",
+    "compliance": "compliant with industry standards"
+  },
+  "lca_information": {
+    "gwp_reduction": "30% to 100% less carbon emissions compared to standard (OPC) concrete",
+    "gwp_calculation": "scientifically calculated and third-party verified",
+    "epd_scope": "cradle-to-gate",
+    "epd_conformance": [
+      "ISO 14025",
+      "EN 15804",
+      "ISO 21930"
+    ]
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_options": [
+      {
+        "option": "GWP reduction compared to NRMCA regional industry averages",
+        "description": "Total GWP of the concrete supplied for the building shall be at least [insert%] % lower on a volume-weighted basis, than the amount of GWP using NRMCA industry averages based on strength and weight class for each mix."
+      },
+      {
+        "option": "Limit the GWP of each mix to a given value",
+        "description": "This value can be derived from a whole-building Life Cycle Analysis depending on the GWP reduction targets of the project, or by comparison with standard mixes with equivalent strength and properties."
+      }
+    ]
+  },
+  "recycled_materials_handling": {
+    "leed_recycled_content": "Submit product data and certification letter from product manufacturers, indicating percentages by weight of postconsumer and preconsumer recycled content for each concrete mix."
+  },
+  "additional_info": {
+    "appendix_a": "Definition of Exposure Classes and Requirements for Concrete in accordance with ACI 318-14"
+  }
+}

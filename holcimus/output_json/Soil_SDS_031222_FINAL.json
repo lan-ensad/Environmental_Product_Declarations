@@ -1,0 +1,94 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "05/29/2015",
+    "supersedes_date": "06/14/2021",
+    "version": "3.1",
+    "company": "Holcim US",
+    "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+    "information_contact": "(888) 646-5246",
+    "email": "us-sds-Inquiries@holcim.com",
+    "website": "holcim.us",
+    "emergency_contact": "ChemTel LLC 1-800-255-3924 (US and Canada)"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Soil",
+    "intended_use": "Landscaping, domestic gardening, reclamation, and other construction applications",
+    "distribution": "Bags, totes, and bulk shipment"
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "transport_information": {
+      "DOT": "Not regulated for transport",
+      "IMDG": "Not regulated for transport",
+      "IATA": "Not regulated for transport",
+      "TDG": "Not regulated for transport"
+    }
+  },
+  "end_of_life": {
+    "disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": "Not classified",
+      "labeling": "No labeling applicable",
+      "other_hazards": "Contains crystalline silica; exposure may cause lung damage, silicosis, lung cancer, or respiratory irritation."
+    },
+    "composition": {
+      "soil": ">99%",
+      "quartz": "<1%"
+    },
+    "first_aid_measures": {
+      "general": "Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice.",
+      "inhalation": "Go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty persists.",
+      "skin_contact": "Remove contaminated clothing. Wash with soap and water. Obtain medical attention if irritation develops.",
+      "eye_contact": "Rinse cautiously with water for at least 5 minutes. Remove contact lenses if present. Obtain medical attention if irritation develops.",
+      "ingestion": "Rinse mouth. Do NOT induce vomiting. Seek medical advice if unwell."
+    },
+    "fire_fighting_measures": {
+      "suitable_extinguishing_media": "Use extinguishing media suitable for surrounding type of fire.",
+      "unsuitable_extinguishing_media": "None.",
+      "special_hazards": "Not flammable. Product is not explosive.",
+      "firefighting_instructions": "Use water spray or fog for cooling exposed containers."
+    },
+    "accidental_release_measures": {
+      "personal_precautions": "Avoid creating dusty conditions. Avoid prolonged contact with eyes, skin, and clothing. Avoid breathing dust.",
+      "methods_for_cleaning_up": "Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling, or sweeping."
+    },
+    "handling_and_storage": {
+      "precautions_for_safe_handling": "Wash hands and other exposed areas with mild soap and water before eating, drinking, or smoking. Avoid prolonged contact with eyes, skin, and clothing. Avoid breathing dust.",
+      "storage_conditions": "Keep container closed when not in use. Store in a dry, cool place."
+    },
+    "exposure_controls": {
+      "control_parameters": {
+        "quartz": {
+          "ACGIH_TWA": "0.025 mg/m3",
+          "OSHA_PEL_TWA": "50 ug/m3",
+          "NIOSH_REL_TWA": "0.05 mg/m3"
+        }
+      },
+      "personal_protective_equipment": "Safety glasses, gloves, dust mask if necessary."
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid"
+    },
+    "stability_and_reactivity": {
+      "reactivity": "Hazardous reactions will not occur under normal conditions.",
+      "chemical_stability": "Stable under recommended handling and storage conditions."
+    },
+    "toxicological_information": {
+      "acute_toxicity": "Not classified",
+      "carcinogenicity": "Not classified"
+    },
+    "ecological_information": {
+      "ecology_general": "Not classified"
+    },
+    "regulatory_information": {
+      "US_federal_regulations": "Listed on the United States TSCA inventory",
+      "California_Proposition_65": "WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer."
+    }
+  }
+}

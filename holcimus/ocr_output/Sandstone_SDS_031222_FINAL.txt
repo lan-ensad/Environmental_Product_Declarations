@@ -1,0 +1,616 @@
+Sandstone
+
+Ca H O LC I M Safety Data Sheet
+QG According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 04/14/2015 Supersedes Date: 06/14/2021 Version: 3.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+Product Form: Mixture
+Product Name: Sandstone
+Synonyms: Aggregates, Asphalt Sand, Base Material, Concrete Sand, Crushed Rock, Crushed Stone, Crushed Run, Dense Graded
+Aggregate, Fill Sand, Golf Course Sand, Gravel, Manufactured Sand, Mason Sand
+Note: This MSDS covers many types of sandstone. Individual composition of hazardous constituents will vary between types of
+sandstone.
+1.2. Intended Use of the Product
+Sandstone is used in the manufacture of bricks, cement, concrete, mortar, paving materials, plasters, and other construction
+applications. Sandstone is distributed in bags, totes and bulk shipment.
+1.3. Name, Address, and Telephone of the Responsible Party
+Company
+Holcim US
+8700 West Bryn Mawr Avenue, Suite 300
+Chicago, IL 60631
+Information: (888) 646-5246 (9am to 5pm CST)
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number _: ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+
+Carc. 1A H350
+STOT SE 3 H335
+STOTRE 1 H372
+
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+GHS-US/CA Labeling
+
+Hazard Pictograms (GHS-US/CA)
+
+GHSO7 GHSO8
+Signal Word (GHS-US/CA) : Danger
+Hazard Statements (GHS-US/CA) : H335 - May cause respiratoryirritation.
+H350 - May cause cancer (inhalation).
+H372 - Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+P260 - Do not breathe dust.
+P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.
+P270 - Do not eat, drink or smoke when using this product.
+P271 - Use only outdoors or in a well-ventilated area.
+P280 - Wear protective gloves, protective clothing, and eye protection.
+
+03/12/2022 EN (English US) 1/8
+Sandstone
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+P304+P340 - IF INHALED: Remove person to fresh air and keep comfortable for
+breathing.
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+P312 - Call a POISON CENTER or doctor if you feel unwell.
+P403+P233 - Store in a well-ventilated place. Keep container tightly closed.
+P405 - Store locked up.
+P501 - Dispose of contents/container in accordance with local, regional, national,
+territorial, provincial, and international regulations.
+
+2.3. Other Hazards
+
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne)
+crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include progressively more difficult breathing,
+cough, fever, and weight loss.
+
+2.4. Unknown Acute Toxicity (GHS-US/CA)
+
+No data available
+
+3.1. Substance
+Not applicable
+3.2. Mixture
+
+Name | Synonyms Product Identifier % * GHS Ingredient
+Classification
+Quartz | Quartz (SiO2) / Silica, crystalline, quartz / Crystalline silica, quartz (CAS-No.) 14808-60- 85 — 100 Carc. 14, H350
+
+/ .alpha.-Quartz / Silica, crystalline, -alpha.-quartz / Crystalline 7 STOT SE 3, H335
+silica in the form of quartz / Quartz, silica / Quartz (respirable
+fraction) / Silica dust / Silica, crystalline-.alpha.quartz / Silica, STOT RE 1, H372
+
+quartz /Silica, .alpha.-quartz / Silicon dioxide / Silica, crystalline /
+Quartz (crystalline silica) / Silica dust, crystalline / QUARTZ
+POWDER / Silica, crystalline (quartz)
+
+Mica Mica dust / Mica group minerals / Mica, respirable / Silicates, (CAS-No.) 12001-26- | <5 Not classified
+mica / C.I. 77019 / Mica-group minerals / C.I. Pigment White 20 2
+
+Full text of H-phrases: see section 16
+
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+by volume percentage (v/v%).
+
+SECTION 4: FIRST AID MEASURES
+
+4.1. Description of First-aid Measures
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+possible).
+Inhalation: When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty
+persists.
+Skin Contact: Remove contaminated clothing. Drench affected area with water for at least 15 minutes. If exposed or concerned: Get
+medical advice/attention.
+Eye Contact: Rinse cautiously with water for at least 5 minutes. Remove contact lenses, if present and easy to do. Continue rinsing.
+Obtain medical attention if irritation develops or persists.
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain medical attention.
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+General: May cause respiratory irritation. Causes damage to organs (lung/respiratory system) (Inhalation). May cause cancer by
+inhalation.
+Inhalation: irritation of the respiratory tract and the other mucous membranes. Some studies show that exposure to respirable
+crystalline silica (without silicosis) or that the disease silicosis may be associated with the increased incidence of several
+autoimmune disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis and
+diseases affecting the kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased incidence of chronic
+kidney disease and end-stage renal disease in workers exposed to respirable crystalline silica.
+Skin Contact: Skin contact with large amounts of dust may cause mechanical irritation.
+
+03/12/2022 EN (English US) 2/8
+Sandstone
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Eye Contact: Eye contact with dust may cause mechanical irritation.
+Ingestion: Ingestion may cause adverse effects.
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other
+non-malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+Suitable Extinguishing Media: Use extinguishing media suitable for surrounding type of fire.
+Unsuitable Extinguishing Media: None known.
+5.2. Special Hazards Arising From the Substance or Mixture
+Fire Hazard: Not flammable.
+Explosion Hazard: Product is not explosive.
+Reactivity: Hazardous reactions will not occur under normal conditions.
+5.3. Advice for Firefighters
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+Firefighting Instructions: Use water spray or fog for cooling exposed containers.
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Silicon oxides.
+5.4. Reference to Other Sections
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+General Measures: Do not handle until all safety precautions have been read and understood. Avoid creating dusty conditions
+whenever feasible. Do not breathe dust. Do not get in eyes, on skin, or on clothing.
+
+6.1.1. For Non-Emergency Personnel
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+Emergency Procedures: Evacuate unnecessaryÿ personnel.
+
+6.1.2. For Emergency Personnel
+Protective Equipment: Equip cleanup crew with proper protection.
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+For Containment: Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams.
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Recover the product by vacuuming, shoveling or
+sweeping. Transfer spilled material to a suitable container for disposal. Contact competent authorities after a spill.
+6.4. Reference to Other Sections
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+Additional Hazards When Processed: Stack bagged material in a secure manner to prevent falling. Bagged aggregate is heavy and
+poses risks such as sprains and strains to the back, arms, shoulders and legs during lifting and mixing. Handle with care and use
+appropriate control measures. Cutting, crushing or grinding crystalline silica-bearing materials may release respirable crystalline
+silica, a known carcinogen. Use all appropriate measures of dust control or suppression and Personal Protective.
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Avoid contact with eyes, skin and clothing. Do not breathe dust. Wash hands and other exposed areas with mild soap
+and water before eating, drinking or smoking and when leaving work.
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+
+03/12/2022 EN (English US) 3/8
+Sandstone
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+Technical Measures: Comply with applicable regulations.
+Storage Conditions: Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from Incompatible
+materials. Store locked up/in a secure area.
+Incompatible Materials: Dissolves in hydrofluoric acid, producing corrosive silicon tetrafluoride gas. Silicates react with powerful
+oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+Storage Temperature: Unlimited
+7.3. Specific End Use(s)
+Sandstone is used in the manufacture of bricks, cement, concrete, mortar, paving materials, plasters, and other construction
+applications. Sandstone is distributed in bags, totes and bulk shipment.
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+8.1. Control Parameters
+
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+Quartz (14808-60-7)
+
+USA ACGIH ACGIH OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+USA ACGIH ACGIH chemical category | A2 - Suspected Human Carcinogen
+
+USA OSHA OSHA PEL TWA 50 Ug/mi (Respirable crystalline silica)
+
+USA OSHA OSHA PEL TWA (250)/(%SiO02+5) mppcf TWA (respirable fraction)
+(10)/(%SiO2+2) mg/m°$ TWA (respirable fraction)
+(For any operations or sectors for which the respirable crystalline silica
+standard, 1910.1053, is stayed or otherwise not in effect, See 20 CFR
+1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL TWA 0.05 mg/m* (respirable dust)
+
+USA IDLH IDLH 50 mg/m* (respirable dust)
+
+Alberta OEL TWA 0.025 mg/m* (respirable particulate)
+
+British Columbia OEL TWA 0.025 mg/m* (respirable)
+
+Manitoba OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+New Brunswick OEL TWA 0.1 mg/mi (respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nova Scotia OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nunavut OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Northwest Territories OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Ontario OEL TWA 0.1 mg/mi (designated substances regulation-respirable fraction (Silica,
+crystalline)
+
+Prince Edward Island OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Québec VEMP OEL TWA 0.1 mg/mé (respirable dust)
+
+Saskatchewan OEL TWA 0.05 mg/m° (respirable fraction (Silica - crystalline (Trydimite removed))
+
+Yukon OEL TWA 300 particle/mL (Silica - Quartz, crystalline)
+
+Mica (12001-26-2)
+
+USA ACGIH ACGIH OEL TWA 3 mg/m (respirable particulate matter)
+
+USA OSHA OSHA PEL TWA 20 mppcf (<1% Crystalline silica)
+(See 20 CFR 1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL TWA 3 mg/m (containing <1% Quartz-respirable dust)
+
+USA IDLH IDLH 1500 mg/mi (containing <1% quartz)
+
+Alberta OEL TWA 3 mg/m* (respirable)
+
+British Columbia OEL TWA 3 mg/mi (respirable)
+
+Manitoba OEL TWA 3 mg/m (respirable particulate matter)
+
+New Brunswick OEL TWA 3 mg/m* (particulate matter containing no Asbestos and <1% Crystalline
+silica, respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 3 mg/mi (respirable particulate matter)
+
+03/12/2022 EN (English US) 4/8
+Sandstone
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Nova Scotia OEL TWA 3 mg/m* (respirable particulate matter)
+
+Nunavut OELSTEL 6 mg/mi (respirable fraction)
+
+Nunavut OEL TWA 3 mg/mi (respirable fraction)
+
+Northwest Territories OEL STEL 6 mg/m* (respirable fraction)
+
+Northwest Territories OEL TWA 3 mg/m* (respirable fraction)
+
+Ontario OEL TWA 3 mg/m (respirable particulate matter)
+
+Prince Edward Island OEL TWA 3 mg/m* (respirable particulate matter)
+
+Québec VEMP OEL TWA 3 mg/m (containing no Asbestos and <1% Crystalline silica-respirable
+dust)
+
+Saskatchewan OELSTEL 6 mg/mi (respirable fraction)
+
+Saskatchewan OEL TWA 3 mg/mi (respirable fraction)
+
+Yukon OEL TWA 20 mppcf
+
+8.2. Exposure Controls
+
+Appropriate Engineering Controls: Ensure adequate ventilation, especially in confined areas. Suitable eye/body wash equipment
+should be available in the vicinity of any potential exposure. Ensure all national/local regulations are observed.
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Insufficient ventilation: wear respiratory protection.
+
+Materials for Protective Clothing: Chemically resistant materials and fabrics.
+Hand Protection: Wear protective gloves.
+Eye and Face Protection: Chemical safety goggles.
+
+Skin and Body Protection: Wear suitable protective clothing.
+Respiratory Protection: If exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+
+protection.
+
+Other Information: When using, do not eat, drink or smoke.
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+9.1. Information on Basic Physical and Chemical Properties
+
+Physical State
+Appearance
+Odor
+
+Odor Threshold
+pH
+
+Evaporation Rate
+Melting Point
+Freezing Point
+Boiling Point
+Flash Point
+Auto-ignition Temperature
+
+Decomposition Temperature
+
+Flammability (solid, gas)
+Lower Flammable Limit
+Upper Flammable Limit
+Vapor Pressure
+
+Relative Vapor Density at 20°C
+
+Relative Density
+Specific Gravity
+Solubility
+
+: Solid
+Variety of colors
+None
+Not available
+Neutral
+Not available
+Not available
+None, solid
+> 1000 °C (1832 °F)
+Not available
+Not available
+Not available
+Not available
+Not available
+Not available
+Not available
+Not available
+Not available
+2.5 - 2.7 (water=1)
+Insoluble in water.
+
+03/12/2022
+
+EN (English US)
+
+5/8
+
+Sandstone
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Partition Coefficient: N-Octanol/Water : Not available
+Viscosity : None, solid
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:  Hazardous reactions will not occur under normal conditions.
+
+10.2. Chemical Stability: Stable under recommended handling and storage conditions (see section 7).
+
+10.3. Possibility of Hazardous Reactions:  Hazardous polymerization will not occur.
+
+10.4. Conditions to Avoid: Incompatible materials.
+
+10.5. Incompatible Materials:  Dissolves in hydrofluoric acid, producing corrosive silicon tetrafluoride gas. Silicates react with
+powerful oxidizers such as fluorine, boron trifluoride, chlorine trifluoride, manganese trifluoride, and oxygen difluoride.
+
+10.6. Hazardous Decomposition Products: Thermal decomposition may produce: Silicon oxides.
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+11.1. Information on Toxicological Effects - Product
+Acute Toxicity (Oral): Not classified
+Acute Toxicity (Dermal): Not classified
+Acute Toxicity (Inhalation): Not classified
+
+LD50 and LC50 Data: Not available
+
+Skin Corrosion/irritation: Not classified
+
+pH: Neutral
+
+Eye Damage/irritation: Not classified
+
+pH: Neutral
+
+Respiratory or Skin Sensitization: Not classified
+
+Germ Cell Mutagenicity: Not classified
+
+Carcinogenicity: May cause cancer (Inhalation).
+
+Specific Target Organ Toxicity (Repeated Exposure): Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+
+Reproductive Toxicity: Not classified
+
+Specific Target Organ Toxicity (Single Exposure): May cause respiratoryirritation.
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Irritation of the respiratory tract and the other mucous membranes. Some studies show that
+exposure to respirable crystalline silica (without silicosis) or that the disease silicosis may be associated with the increased incidence
+of several autoimmune disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis
+and diseases affecting the kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased incidence of chronic
+kidney disease and end-stage renal disease in workers exposed to respirable crystalline silica.
+
+Symptoms/Injuries After Skin Contact: Skin contact with large amounts of dust may cause mechanical irritation.
+Symptoms/Injuries After Eye Contact: Eye contact with dust may cause mechanical irritation.
+
+Symptoms/Injuries After Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other non-
+malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+11.2. Information on Toxicological Effects - Ingredient(s)
+LD50 and LC50 Data:
+
+Quartz (14808-60-7)
+
+LD50 Oral Rat > 5000 mg/kg
+
+LD50 Dermal Rat > 5000 mg/kg
+
+Quartz (14808-60-7)
+
+IARC Group 1
+
+National Toxicology Program (NTP) Status Known Human Carcinogens.
+
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+12.1. Toxicity
+Ecology - General: Not classified.
+
+03/12/2022 EN (English US) 6/8
+Sandstone
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+12.2. Persistence and Degradability
+
+Sandstone
+
+Persistence and Degradability Not established.
+12.3. Bioaccumulative Potential
+
+Sandstone
+
+Bioaccumulative Potential Not established.
+12.4. Mobility in Soil Not available
+
+12.5. Other Adverse Effects
+Other Information: Avoid release to the environment.
+
+SECTION 13: DISPOSAL CONSIDERATIONS
+
+13.1. Waste treatment methods
+
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, territorial, provincial,
+and international regulations.
+
+Ecology - Waste Materials: Avoid release to the environment.
+
+SECTION 14: TRANSPORT INFORMATION
+
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+
+14.1. In Accordance with DOT Not regulated for transport
+14.2. In Accordance with IMDG Not regulated for transport
+14.3. In Accordance with IATA Not regulated for transport
+14.4. In Accordance with TDG Not regulated for transport
+
+SECTION 15: REGULATORY INFORMATION
+
+15.1. US Federal Regulations
+
+Sandstone
+
+SARA Section 311/312 Hazard Classes | Health hazard - Specific target organ toxicity (single or repeated exposure)
+Health hazard - Carcinogenicity
+
+Quartz (14808-60-7)
+
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+
+15.2. US State Regulations
+
+California Proposition 65
+WARNING: This product can expose you to Quartz, which is known to the State of California to cause cancer. For more
+information go to www.P65Warnings.ca.gov.
+Chemical Name (CAS No.) Carcinogenicity Developmental Female Reproductive Male Reproductive
+Toxicity Toxicity Toxicity
+
+Quartz (14808-60-7) X
+Quartz (14808-60-7)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+Mica (12001-26-2)
+
+U.S. - New Jersey - Right to Know Hazardous Substance List
+U.S. - Pennsylvania - RTK (Right to Know) List
+
+U.S. - Massachusetts - Right To Know List
+
+15.3. Canadian Regulations
+Quartz (14808-60-7)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+Mica (12001-26-2)
+
+Listed on the Canadian DSL (Domestic Substances List)
+
+03/12/2022 EN (English US) 7/8
+Sandstone
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+Date of Preparation or Latest Revision : 03/12/2022
+
+Other Information : This document has been prepared in accordance with the SDS requirements of the OSHA
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+
+GHS Full Text Phrases:
+
+Carc. 1A Carcinogenicity Category 1A
+
+STOTRE 1 Specific target organ toxicity (repeated exposure) Category 1
+
+STOT SE 3 Specific target organ toxicity — Single exposure, Category 3, Respiratory tract irritation
+H335 May cause respiratoryirritation
+
+H350 May cause cancer
+
+H372 Causes damage to organs through prolonged or repeated exposure
+
+Indication of Changes
+Section Change Date Changed Version
+1 Modified responsible 03/12/2022 3.1
+
+party information, logo
+& emergency telephone
+number
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+accuracy and assumes no liability in connection with the use of the information contained herein which is not intended to be and
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+this product should review all such laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+Provincial and State regulations.
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR OTHERWISE.
+
+NA GHS SDS 2015 (Can, US)
+
+03/12/2022 EN (English US) 8/8

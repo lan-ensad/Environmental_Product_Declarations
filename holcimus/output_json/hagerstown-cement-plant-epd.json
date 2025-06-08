@@ -1,0 +1,95 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US), Inc.",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 159",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "11/02/2020",
+    "validity_period": "5 years",
+    "reference_year": "2019",
+    "verification": "External",
+    "contact": "Sonia Gagnon (Sonia.gagnon@holcim.com)"
+  },
+  "product_description": {
+    "facility_name": "Holcim (US), Hagerstown Plant",
+    "facility_address": "1260 Security Rd. Hagerstown, MD 21742",
+    "product_group_and_name": "Cement, UN CPC 3744",
+    "product_types": [
+      "Portland Cement Type I/II",
+      "Portland Cement Type III",
+      "Blended Type IL"
+    ],
+    "applicable_standards": [
+      "ASTM C150 / C150M - 20",
+      "ASTM C595 / C595M - 20",
+      "ASTM C1157 / C1157M - 20",
+      "AASHTO M 85-20"
+    ],
+    "declared_unit": "1 metric ton of cement",
+    "inputs": {
+      "Portland Type I/II": {
+        "Clinker": "92%",
+        "Gypsum": "7%",
+        "Limestone": "1%"
+      },
+      "Portland Type III": {
+        "Clinker": "95%",
+        "Gypsum": "5%",
+        "Limestone": "<1%"
+      },
+      "Blended Type IL": {
+        "Clinker": "85%",
+        "Gypsum": "1%",
+        "Limestone": "8%"
+      }
+    }
+  },
+  "lca_information": {
+    "system_boundary": "Cradle-to-gate",
+    "modules_included": [
+      "A1",
+      "A2",
+      "A3"
+    ],
+    "cut_off_criteria": "NSF PCR, Section 7.1.8 and ISO 21930, 7.1.8",
+    "allocation_rules": "ISO 14044 Clause 4.3.4, NSF PCR, ISO 21930 section 7.2",
+    "data_quality": {
+      "technology_coverage": "High",
+      "geographic_coverage": "High",
+      "time_coverage": "2019",
+      "completeness": "Rigorously assessed",
+      "consistency": "High",
+      "reproducibility": "Internal possible, external not possible",
+      "transparency": "High",
+      "uncertainty": "Assessed"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "Portland Type I/II": "937 kg CO2 eq",
+      "Portland Type III": "959 kg CO2 eq",
+      "Blended Type IL": "865 kg CO2 eq"
+    },
+    "emissions_from_calcination": {
+      "Portland Type I/II": "485 kg CO2 eq",
+      "Portland Type III": "497 kg CO2 eq",
+      "Blended Type IL": "443 kg CO2 eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": {
+      "Portland Type I/II": "69 kg",
+      "Portland Type III": "71 kg",
+      "Blended Type IL": "131 kg"
+    },
+    "recovered_energy": "0 MJ LHV"
+  },
+  "additional_info": {
+    "renewable_energy_credits": "24,758 KWh purchased in 2019",
+    "environmental_protection": "Compliance with U.S. EPA regulations",
+    "air_pollution_abatement": "High temperature baghouses, cartridge filters, and bin vents"
+  }
+}

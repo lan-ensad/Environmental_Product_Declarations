@@ -1,0 +1,597 @@
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+GENERAL
+
+The following Technical Specification Sheet has been provided by Holcim for use by the design community.
+Information contained in this document may be used as a reference in detailed drawings or in
+specification documents.
+
+SUMMARY
+
+Includes: Self-placing, self-consolidating concrete for Agileflow” applications.
+
+QUALITY ASSURANCE
+
+A pre-job conference will be held at the jobsite to discuss site related. Those present shall include the
+concrete producer representatives, the contractor, the engineer, the architect, and the testing agency.
+No concrete placements of the Agileflow concrete will be allowed prior to this meeting.
+
+The self-consolidating concrete manufacturer shall make available a qualified individual to monitor
+concrete quality and performance as specified.
+CONCRETE MIXTURE VERIFICATIONS
+
+Submit final concrete mix verification 2 weeks prior to placing concrete. Mixtures shall have over-design
+in accordance with ASTM C94. The self-consolidating manufacturer, prior to submittal, shall review
+mix-design. Include the following information for each concrete mix design:
+
+e Maximum size of coarse aggregates: ASTM C33
+e Flow: ASTM C1611
+
+e Unit weight of concrete: ASTM C138
+
+e Aircontent: ASTM C231
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 1
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+PRODUCTS SPECIFICATION
+
+The following chapter lists the raw materials used to manufacture Agileflow and the product's physical-
+chemical characteristics
+
+MATERIAL SPECIFICATION
+
+Cement: ASTM C150, ASTM C150M-12 Type 1, 1/2
+
+Blended Hydraulic Cements: ASTM C595
+
+Supplementary cementing materials: ASTM C989, ASTM C618, ASTM C1240
+Coarse Aggregate: ASTM C33-0 to comply with durability requirements.
+Fine Aggregate: ASTM C33-81; comply with project durability requirements.
+Admixtures: ASTM C494-92
+
+Water: ASTM C94
+
+AgileFlow VERTICAL &/OR ARCHITECTURAL
+
+Forming Materials: Forming material shall be steel, aluminum (cured), steel framed plywood, resin
+impregnated plywood, plastic or paper faced plywood, or if indicated on the drawings, Plexiglas (of the
+grade, size, and thickness indicated). Formwork used for architectural concrete shall be in excellent
+condition.
+
+Note: The surface texture and condition of the forming system selected will be directly represented in
+the quality of the Agileflow concrete surface.
+
+Recommendations:
+e Use formwork of the same quality, same nature, same number of reuses
+
+e  Avoid surfaces that are too smooth or polished. Mat surfaces are preferable to shiny or polished
+ones because release agents adhere better
+
+e Cleanthe form / form liner thoroughly after every usage
+e  Prevent leakages from formwork and avoid gaps that may open
+e  Ensure formworkis sufficiently rigid to prevent deformation
+e Be aware that:
+- The texture of the formwork may affect the tint of the concrete surface
+
+- New wood forms contain natural sugars that may affect unexpectedly the set time, the tint and
+the texture of the surface. In case of using wooden formworks, aged wooden forms prior to
+initial use and mock up are strongly recommended.
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 2
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+Demolding agents:
+
+Release agents are often mixtures of oils, additives and solvents. The oil permits the creation of a fatty
+film and additives cause a delay of hydration of the concrete surface to create an uncured layer of a few
+microns. This effect is observable on the freshly demolded wall through a slightly dusty appearance.
+
+Quality of finish is strongly influenced by the oil used, its viscosity (the lower the viscosity, the better the
+quality of finish) and the method of application.
+
+Demolding agents suppliers should be asked for advice and technical specifications of their products.
+Below is an indicative selection table (1: least relevant, 5: most relevant).
+
+Slump > 6 in and Agilia
+
+Operating Pr ni- 40°F < Temp < 85°F
+temperature*
+
+Biodegradability
+
+Formwork metal wood polymer metal wood polymer
+n Lo
+min 95% 5 3 > 60%
+vegetable
+vegetable o
+(50%) based 3 > 60%
+vegetable oil 3 > 60%
+emulsion
+pure synthetic 5 2 Not applicable
+synthetic 4 Not applicable
+synthetic oil 2 Not applicable
+emulsion
+mineral oil* 2 Not applicable
+recycled .
+mineral oil Not applicable
+wWax 3 5 Not applicable
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW
+
+3
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+AgileFlow HORIZONTAL
+Curing compound (ASTM C 309):
+
+Selection of a curing compound should be based on 2 criteria: curing efficiency and type of finish to
+be applied on the cured surfaces. Both are directly related to the chemistry of the curing compound.
+As seen on the below graph, wax-based products are the most efficient products in terms of curing.
+
+EFFICIENCY INDEX (%)
+100 90 80 #70 60 50 40 30 20 10 O0
+
+EMULSION
+CHLORINATED Ranging from well
+RUBBER formulated to adulterated
+
+HYDROCARBON
+RESIN
+
+ACRYLIC
+EMULSION
+
+PVA |
+
+EMULSION
+€ > AS 3799 requirements
+@ 90% after 72 hours)
+
+Source: Cement Concrete & Aggregates - Australia
+
+But wax-based products also affect the bond between concrete and any adhesive coming later on.
+They have to be grinded first to ensure proper adhesion. Acrylic-based products are less efficient in
+curing but tend to improve the bond between concrete and adhesive; no grinding required.
+
+The contractor should ask the curing compound supplier for all technical information and requirements.
+
+are rare He H O LC | M
+
+INDUSTRIES
+
+SPECIFICATION SHEET | AGILEFLOW 4
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+CONCRETE MIX DESIGN
+
+Self-consolidating Concrete: Agileflow proprietary ready-mix concrete with the following characteristics:
+
+e Maximum water cementitious ratio: The maximum water cementitious ratio is specified by the Design
+Project Engineer.
+
+e Air content: Insert air entrainment if the concrete element is required to comply with severe exposure
+condition
+
+e Flow: 22into 30in
+e  Compressive Strength at 28 days: 3500 psi to 14,000 psi
+
+The general contractor should proceed with producing a mock up section prior to pouring concrete for
+the final structure at the beginning of a project. Finally, the owner’s representative (testing agency), will
+make cast concrete cylinders or cubic specimens for testing.
+
+EXECUTION
+
+Concrete characteristics are strongly linked to how it is installed. The following chapter describes how to
+properly install Agileflow from the base preparation to the care that shall be taken during finishing and
+curing to assure the quality of the product.
+
+SITE INSPECTION
+
+Verification of Conditions: Examine areas and conditions under which work is to be performed and
+identify conditions detrimental to proper or timely completion.
+
+Do not proceed until unsatisfactory conditions have been corrected.
+
+SITE PREPARATION
+
+Coordination: Notify others involved, allowing installation and completion of their work prior to concrete
+placement.
+
+Agileflow VERTICAL and / or ARCHITECTURAL
+
+Formwork Surface Preparation: Based on the final choice of formwork and ambient temperature, Holcim
+recommends specific types of release agents. These recommendations should be followed. They have for
+objectives to reduce the excessive presence of bubbles on the surface and to help with the homogeneity
+of the texture and tint.
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 5
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+Release agent application:
+e Clean formwork thoroughly before applying the release agent
+
+e _ Apply uniformly and remove the excess. Unevenly sprayed release agent will affect the
+tint homogeneity
+
+e Avoid exposure to sun, rain and dust in order to retain the performance of the release agent
+
+e Respect waiting time recommendations from the release agent manufacturer
+
+Be careful, an excess of demolding agent will generate bug holes, dusty surfaces and colour variations.
+Formwork tightness: Before closing the formwork, make sure that there is no wane or holes bigger than
+
+0.4” in height along the bearing length of the shutters on the support floor. If necessary, fill in the holes
+with a material that will stay in place while pouring (polyurethane foam, sealant, etc.).
+
+Openings along the length of the vertical joints, between two elements of the shutters or between the
+end of the formwork and a wall already cast should not exceed two millimeters. These vertical holes
+should be filled with polyurethane foam.
+
+are rare He H O LC | M
+
+INDUSTRIES
+
+SPECIFICATION SHEET | AGILEFLOW 6
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+EN
+
+AGGREGATE
+
+INDUSTRIES
+
+Pressure on the formwork: Formwork dimensioning should be done by the producer of the shutters. This
+is their complete responsibility. In the absence of information obtained from on-site measurements (load
+sensors), the calculated pressure should not be below the hydrostatic pressure of the Agileflow concrete.
+
+Pressure reductions depend on the pouring length of time when pouring very high walls, even though
+it also depends on the composition and above all on the temperature of the concrete. The Natural
+logarithm function of the length of the pouring time in hours can be used to estimate the pressure.
+
+Reduction coefficient R = In (hour duration) (for a minimum of 2 hours of pouring)
+Reduced pressure lb/ft2 P = 2.3 x Height / R * 186
+
+Example for a 28ft-high wall - 7 hours pouring time:
+
+Pouring time Hydrostatic Reduction Reduced pressure Load per rod (for
+
+in hours pressure coefficient R LN(H) [(L7419) 1 rod per 1.5m°?)
+
+7.0 3753 1.95 1932 31,200 lb
+
+The pressure per ft? of the concrete skin = 1932 lb and on the rods (hypothesis: 1 rod per 16 ft? of surface),
+a force of 31,200 lb. The rods should therefore be in, minimum, otherwise it is necessary to increase the
+number of rods per ft2.
+
+70000
+
+60000
+
+50000
+
+40000
+
+30000
+
+Load on rods (lb)
+
+20000
+
+10000
+
+Time (h)
+
+Lrncn HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 7
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+Agileflow HORIZONTAL
+
+Surface Preparation: Immediately before concrete placement, thoroughly wet moisture-absorbing
+material that will be in contact with concrete, without developing standing water. Ensure that concrete
+steel forms and rebars are not steaming hot prior to pouring Agileflow in the formwork. For flat work/slabs,
+Agileflow Horizontal can be poured directly on the existing surface if the surface is non absorbent and is
+clean (ex: steel deck). In all other case:
+
+Substrate types:
+e  Anystable well compacted substrate free of debris
+
+e Surface must be relatively flat with an unevenness level of Less than 13 mm thick for a 1.8 m cross
+section (rule)
+
+Preparation:
+
+e _Ifthe concreteis to be placed bonded to a sub-layer, steel reinforcement mesh will be required.
+Bonding compounds (such as an SBR type of product) should be applied.
+
+e _Ifthe concreteis to be unbonded, a polyethylene membrane with a minimum thickness of 0.005 in
+must be placed over the sub-base (suggested thickness).
+
+- The membrane should be secured and overlapped to ensure no movement and no concrete
+leakage through the plastic layer.
+
+-_  Atthe walls, the polyethylene membrane should extend above the level of the pour.
+Perimeter isolation:
+
+e  Compressible strips should be fitted around the walls and vertical features such as columns, walls
+and duct pipes.
+
+e Take particular care to isolate re-entrant corners at doorways, windows and corner walls as these
+could become a source of radial cracking
+
+e Ensure the perimeter isolation is placed at right
+
+e _Compressible strips should be prepared to ensure no movement
+
+e  Ethafoam or polystyrene can be used to seal any holes or Leaks in the form
+
+e Double up the isolation may be necessary on exterior angles to ensure the minimum thickness is
+maintained around the angle.
+
+INSTALLATION REFERENCES
+
+Concrete Mixing: ACI 301
+
+Hot Weather Concrete: Comply with ACI 305R when maximum daily temperature exceeds 85°F or rapid
+drying conditions exist.
+
+Cold Weather Concrete: Comply with ACI 306R when freezing conditions or a mean daily temperature
+below 40°F is encountered.
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 8
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+CONCRETE PLACEMENT AND CONSOLIDATION
+Agileflow VERTICAL and / or ARCHITECTURAL
+
+Place concrete within 120 minutes of adding the mix water unless our representative has made adjust-
+ments to the mix. The truck driver should remix concrete for 3 min prior to discharge. During discharge,
+the drum should not remain static more than 2 min; it should be continuously rotated in case of delay.
+
+Placing:
+
+Agileflow is placed via bucket or pumped. In all cases, concrete should not fall from the top ofthe
+formwork; a hose should guide it till 4 in from the bottom or the formwork. Free fall will generate bug
+holes. Flexible hoses can eventually stay in place; important to note holes have to be created at different
+heights to ensure smooth filling and discharge if it stays in place (see picture below). Rigid one have to
+be removed before concrete hardens. The pictures below are giving examples of setups. Install the tremie
+before closing the formwork when there is an important density of reinforcement.
+
+ELLE
+
+EPL
+
+La
+3
+
+Flexible hose Rigid hose to be connected on the bucket
+
+Pouring points should be positioned so that concrete does not have to flow for more than 7m / 23 ft from
+each side of the pouring point. The following diagrams are illustrating different configurations.
+
+The plain wall configuration shown on the first diagram is self-explanatory. With openings, pouring points
+have to be used following a specific sequence starting from R1 up to R£.
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 9
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+EN
+
+AGGREGATE
+
+INDUSTRIES
+
+Tube n°1 Tube n°2
+23 ft maxi* 23 ft maxi 23 ft maxi*
+Tube 1 Tube 2 Tube 3 Tube 4
+
+23 ft maxi 23 ft maxi°
+
+Other aspects:
+
+e Do not vibrate Agileflow Architectural.
+
+e  Avoid long gaps in placing between lifts to prevent pour lines.
+
+e _lfthe concrete is pumped, the hose of the pump should be immersed in the concrete and raised
+with the level of concrete.
+
+°  Ensure pump lines are primed prior to start. Do not allow priming water/grout to be placed in forms.
+Pump off concrete until a consistent product is coming out of the line otherwise segregation
+may occur.
+
+e _Ifusing buckets, avoid saturating the bucket with a release agent as this can cause segregation or
+discoloration. Ensure there is no water in the bucket prior to filling.
+
+e Whatever the placing method used, the flow must be continuous and steady. The speed of pour
+should be determined during the pre job meeting and approved by the contractor’s structural
+engineer. The speed should be maintained to obtain a consistent surface finish. Pour rates too
+slow or too fast may contribute to entrapped air in the concrete.
+
+e  Avoid splashing Agileflow on form walls while placing as these areas could dry quicker and possibly
+cause bug holes. It is recommended to leave the hose immersedl.
+
+e For large walls, moving the point of placement frequently may be required depending on flow,
+temperature and rate of placement to prevent a pour/lift line.
+
+e  Avoid placing Agileflow Architectural when ambient temperatures exceed 90°F.
+
+e For optimal results, it is important to pour in similar conditions. Cold or warm weather conditions,
+
+time to strip the form, sun and wind, will all be factors which can modify the surface appearance.
+
+Lrncr HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 10
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+EN
+
+AGGREGATE
+
+INDUSTRIES
+
+Agileflow HORIZONTAL
+
+For flat work/slabs:
+
+When Agileflow Horizontal has been placed to the correct level, the surface should be finished with
+an Agileflow finishing bar.
+
+The level of the concrete must be verified by the standard equipment and method as it would be for
+regular concrete.
+
+The finishing bar is moved across the surface of the Agileflow concrete, in a motion to generate
+gentle waves in both directions at 90° from each other.
+
+First pass should be deeper than the second pass to a maximum depth reaching 34 of the depth of
+the finishing bar.
+
+Second pass should be a light motion over the surface.
+The minimum thickness recommended will depend on the maximum diameter of the aggregates.
+
+Joints shall be planned following the same rules as for standard concrete. Depth of saw-cut joints
+shall be greater than 1/3rd of the slab thickness.
+
+la Lo DA © 0.02m / 0.8"
+
+x =
+
+0.37m / 14.6”
+
+0.85m / 33.5”
+
+© 0.03m / 1.2",
+
+Lrncn HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW 11
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+FINISHING METHODS
+Agileflow VERTICAL and / or ARCHITECTURAL
+
+Exposed Architectural Vertical Surfaces: Smooth form finish (only where indicated) shall comply with
+ACI 301 and produce a smooth, uniform texture with an orderly pattern of form marks. Finish surface
+quality shall be “P-1” as referenced in the ASCC “Guide for Surface Finish of Formed Concrete”
+
+Concealed Vertical Surfaces and Concrete Walls: Rough form finish shall comply with ACI 301 and
+produce F-2 texture as referenced in the ASCC “Guide for Surface Finish of Formed Concrete/”
+CONCRETE CURING AND PROTECTION
+
+Agileflow HORIZONTAL
+
+Recommendations applicable to Agileflow do not differ from the ones for conventional concrete.
+Contractor should protect freshly placed concrete from premature drying and excessive cold or hot
+temperatures using an evaporation retarder for “flat work/slabs” covered by these specifications.
+
+A wind barrier is also recommended in case surfaces are exposed to wind.
+
+Curing compound is the preferred curing technique as its application can be done at an early stage.
+
+It should be applied right after the concrete is finished. It should be applied uniformly using a spraying
+bottle at the rate specified by the curing compound manufacturer.
+
+FIELD QUALITY CONTROL
+
+Fresh Concrete Testing: ASTM C138, C143, C231
+
+Sampling frequency: ASTM C172
+
+Strength Tests: ASTM C39
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW
+
+12
+SPECIFICATION
+SHEET
+
+Agileflow”
+
+GREEN RATING SYSTEMS
+
+Environmental certifications have become more and more used to assess the quality of buildings. LEED,
+BREEAM and HQE are the most used worldwide and cover a large part of the world. Below are AgileFlow
+contributions to these certifications
+
+Leadership in Energy and Environmental Design - LEED Project Certification:
+Sustainable Site Selection
+SSc7.2 Heat Island Effect, Roof Energy and Atmosphere
+EAp2 Minimum Energy Performance Materials and Resources
+MRGCS Local Materials Innovation in Design
+RPc1 Durable Building
+BRE Environmental Assessment Method - BREEAM
+Wst2 Recycled Aggregates
+Haute Qualité Environnementale - HQE
+SSc7.1 Heat Island Effect, Non-roof
+EAc1 Optimise Energy Performance
+MRc4 Recycled Content
+ICc1 Innovation
+Target 1 Harmonious relationship between buildings and their immediate environment
+Target 2 Integrated choice of products, systems and construction processes
+Target 3 Low nuisance construction site
+Target 4 Minimizing energy use
+Target 7 Minimizing building maintenance and repair
+Target 10 Visual comfort
+Target 11 Measures to control smells
+Target 13 Air quality
+
+Ene1 Reduction of CO? emissions
+
+HOLCIM
+
+SPECIFICATION SHEET | AGILEFLOW
+
+13

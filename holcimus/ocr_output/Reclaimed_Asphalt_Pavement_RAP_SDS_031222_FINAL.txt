@@ -1,0 +1,772 @@
+Reclaimed Asphalt Pavement (RAP)
+
+Cu H O LC | MI Safety Data Sheet
+OV According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous
+
+Products Regulation (February 11, 2015).
+Revision Date: 03/12/2022 Date of Issue: 04/24/2015 Supersedes Date: 06/14/2021 Version: 3.1
+
+SECTION 1: IDENTIFICATION
+
+1.1. Product Identifier
+
+Product Form: Recycled Asphalt Product
+
+Product Name: Reclaimed Asphalt Pavement (RAP)
+
+Synonyms: RAP, Reclaimed Asphalt Concrete, Reclaimed Asphalt Pavement, Reclaimed Black Top, Reclaimed Paving Materials,
+Millings.
+
+1.2. intended Use of the Product
+
+Recycled Asphalt Pavement (RAP) is used as an aggregate and asphalt binder substitute in recycled asphalt mixtures, as a
+construction material as a granular base or subbase, stabilized base aggregate, as embankment or fill material and in other
+construction materials.
+
+1.3. Name, Address, and Telephone of the Responsible Party
+
+Company
+
+Holcim US
+
+8700 West Bryn Mawr Avenue, Suite 300
+
+Chicago, IL 60631
+
+Information: (888) 646-5246 (9am to 5pm CST)
+
+Email: us-sds-Inquiries@holcim.com
+
+Website: holcim.us
+
+1.4. Emergency Telephone Number
+Emergency Number _ : ChemTel LLC
+1-800-255-3924 (US and Canada)
+
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the Substance or Mixture
+GHS-US/CA Classification
+Carc. 1A H350
+STOTRE 1 H372
+Full text of hazard classes and H-statements : see section 16
+2.2. Label Elements
+GHS-US/CA Labeling
+Hazard Pictograms (GHS-US/CA)
+
+GHSO8
+
+Signal Word (GHS-US/CA) : Danger
+
+Hazard Statements (GHS-US/CA) : H350 - May cause cancer (Inhalation).
+H372 - Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+
+Precautionary Statements (GHS-US/CA) : P201 - Obtain special instructions before use.
+P202 - Do not handle until all safety precautions have been read and understood.
+P260 - Do not breathe dust.
+P264 - Wash hands, forearms, and other exposed areas thoroughly after handling.
+P270 - Do not eat, drink or smoke when using this product.
+P280 - Wear protective gloves, protective clothing, and eye protection.
+P308+P313 - If exposed or concerned: Get medical advice/attention.
+P314 - Get medical advice/attention if you feel unwell.
+P405 - Store locked up.
+P501 - Dispose of contents/container in accordance with local, regional, national,
+territorial, provincial, and international regulations.
+
+03/12/2022 EN (English US) 1/9
+Reclaimed Asphalt Pavement (RAP)
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+2.3. Other Hazards
+Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Repeated or prolonged exposure to respirable (airborne)
+crystalline silica dust will cause lung damage in the form of silicosis. Symptoms will include progressively more difficult breathing,
+cough, fever, and weight loss.
+2.4. Unknown Acute Toxicity (GHS-US/CA)
+No data available
+
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+
+3.1. Substance
+
+Not applicable
+
+3.2. Mixture
+
+Name Synonyms Product Identifier % * GHS Ingredient Classification
+
+Limestone | Chalk/Limestone (A noncombustible solid characteristic of (CAS-No.) 1317-65-3 90 —- 95 | Not classified
+sedimentary rock. It consists primarily of calcium carbonate.) /
+Natural calcium carbonate / Marble / Calcium carbonate /
+Limestone (sedimentary rock) / Calcite / Limestone ground /
+Acetate, 4-methyl-2-propyl-2H-tetrahydropyran-4-yl / Ground
+
+limestone
+Quartz Quartz (SiO2) / Silica, crystalline, quartz / Crystalline silica, quartz (CAS-No.) 14808-60-7 | < 10 Carc. 14, H350
+/ .alpha.-Quartz / Silica, crystalline, .alpha.-quartz / Crystalline STOT SE 3, H335
+
+silica in the form of quartz / Quartz, silica / Quartz (respirable
+fraction) / Silica dust / Silica, crystalline-.alpha.quartz / Silica,
+quartz /Silica, .alpha.-quartz / Silicon dioxide / Silica, crystalline /
+Quartz (crystalline silica) / Silica dust, crystalline / QUARTZ
+POWDER / Silica, crystalline (quartz)
+
+Asphalt Asphalt (petroleum) / Bitumens / Bitumen / Bituminous asphalt / | (CAS-No.) 8052-42-4 <10 Carc. 2, H351
+
+Bitumens, asphalt / Hydrocarbon resin / Asphalt (A very complex
+combination of high molecular weight organic compounds
+containing a relatively high proportion of hydrocarbons having
+carbon numbers predominantly greater than C25 with high
+carbon-to-hydrogen ratios. It also contains small amounts of
+various metals such as nickel, iron, or vanadium. It is obtained as
+the non-volatile residue from distillation of crude oil or by
+separation as the raffinate from a residual oil in a deasphalting or
+decarbonization process.)
+
+Full text of H-phrases: see section 16
+
+*Percentages are listed in weight by weight percentage (w/w%) for liquid and solid ingredients. Gas ingredients are listed in volume
+by volume percentage (v/v%).
+
+4.1. Description of First-aid Measures
+
+General: Never give anything by mouth to an unconscious person. If you feel unwell, seek medical advice (show the label where
+possible).
+
+Inhalation: When symptoms occur: go into open air and ventilate suspected area. Obtain medical attention if breathing difficulty
+persists.
+
+Skin Contact: Remove contaminated clothing. Drench affected area with water for at least 15 minutes. If exposed or concerned: Get
+medical advice/attention.
+
+Eye Contact: Rinse cautiously with water for at least 5 minutes. Remove contact lenses, if present and easy to do. Continue rinsing.
+Obtain medical attention if irritation develops or persists.
+
+Ingestion: Rinse mouth. Do NOT induce vomiting. Obtain medical attention.
+
+4.2. Most Important Symptoms and Effects Both Acute and Delayed
+
+General: Dust particles may irritate the skin, eyes and respiratory tract. Dust particles may cause itching, rash, redness and swelling
+to the skin and eyes. Causes damage to organs (lung/respiratory system) through prolonged or repeated exposure (Inhalation). May
+cause cancer by inhalation.
+
+Inhalation: Some studies show that exposure to respirable crystalline silica (without silicosis) or that the disease silicosis may be
+associated with the increased incidence of several autoimmune disorders such as scleroderma (thickening of the skin), systemic
+lupus erythematosus, rheumatoid arthritis and diseases affecting the kidneys. Silicosis increases the risk of tuberculosis. Some
+studies show an increased incidence of chronic kidney disease and end-stage renal disease in workers exposed to respirable
+crystalline silica.
+
+STOT RE 1, H372
+
+03/12/2022 EN (English US) 2/9
+Reclaimed Asphalt Pavement (RAP)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Skin Contact: Skin contact with large amounts of dust may cause mechanical irritation.
+
+Eye Contact: Eye contact with dust may cause mechanical irritation.
+
+Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other
+non-malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+Note: Recycled Asphalt Pavement (RAP) is not sold in a heated state. Asphalt fumes, vapors and emissions are expected to be
+minimal. Potential for exposure increases when the product is heated.
+
+4.3. Indication of Any Immediate Medical Attention and Special Treatment Needed
+
+If exposed or concerned, get medical advice and attention. If medical advice is needed, have product container or label at hand.
+
+SECTION 5: FIRE-FIGHTING MEASURES
+
+5.1.  Extinguishing Media
+
+Suitable Extinguishing Media: Water spray, dry chemical, foam, carbon dioxide.
+
+Unsuitable Extinguishing Media: Do not use a heavy water stream. Use of heavy stream of water may spread fire.
+
+5.2. Special Hazards Arising From the Substance or Mixture
+
+Fire Hazard: Not considered flammable but may burn at high temperatures.
+
+Explosion Hazard: Product is not explosive.
+
+Reactivity: Hazardous reactions will not occur under normal conditions.
+
+5.3. Advice for Firefighters
+
+Precautionary Measures Fire: Exercise caution when fighting any chemical fire.
+
+Firefighting Instructions: Use water spray or fog for cooling exposed containers.
+
+Protection During Firefighting: Do not enter fire area without proper protective equipment, including respiratory protection.
+Hazardous Combustion Products: Carbon dioxide, carbon monoxide, smoke, fumes, unburned hydrocarbons and oxides of sulfur
+and/or nitrogen. Hydrogen sulfide and other sulfur-containing gases can evolve from this product particularly at elevated
+temperatures.
+
+5.4. Reference to Other Sections
+
+Refer to Section 9 for flammability properties.
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+6.1. Personal Precautions, Protective Equipment and Emergency Procedures
+
+General Measures: Do not handle until all safety precautions have been read and understood. Avoid creating dusty conditions
+whenever feasible. Do not breathe dust. Do not get in eyes, on skin, or on clothing.
+
+6.1.1. For Non-Emergency Personnel
+
+Protective Equipment: Use appropriate personal protective equipment (PPE).
+
+Emergency Procedures: Evacuate unnecessary personnel.
+
+6.1.2. For Emergency Personnel
+
+Protective Equipment: Equip cleanup crew with proper protection.
+
+Emergency Procedures: Upon arrival at the scene, a first responder is expected to recognize the presence of dangerous goods,
+protect oneself and the public, secure the area, and call for the assistance of trained personnel as soon as conditions permit.
+Ventilate area.
+
+6.2. Environmental Precautions
+
+Avoid release to the environment. Prevent entry to sewers and public waters.
+
+6.3. Methods and Materials for Containment and Cleaning Up
+
+For Containment: Contain solid spills with appropriate barriers and prevent migration and entry into sewers or streams.
+Methods for Cleaning Up: Clean up spills immediately and dispose of waste safely. Transfer spilled material to a suitable container
+for disposal. Recover the product by vacuuming, shoveling or sweeping. Contact competent authorities after a spill.
+
+6.4. Reference to Other Sections
+
+See Section 8 for exposure controls and personal protection and Section 13 for disposal considerations.
+
+SECTION 7: HANDLING AND STORAGE
+
+7.1. Precautions for Safe Handling
+
+Additional Hazards When Processed: Cutting, crushing, sanding or grinding of crystalline silica-bearing materials will release
+respirable crystalline silica. Use all appropriate measures of dust control or suppression, and Personal Protective Equipment (PPE)
+described in Section 8 below. Heavy material - proper lifting methods or equipment.
+
+03/12/2022 EN (English US) 3/9
+Reclaimed Asphalt Pavement (RAP)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Precautions for Safe Handling: Obtain special instructions before use. Do not handle until all safety precautions have been read and
+understood. Wash hands and other exposed areas with mild soap and water before eating, drinking or smoking and when leaving
+work. Do not breathe dust. Avoid contact with eyes, skin and clothing.
+
+Hygiene Measures: Handle in accordance with good industrial hygiene and safety procedures.
+
+7.2. Conditions for Safe Storage, Including Any Incompatibilities
+
+Technical Measures: Comply with applicable regulations.
+
+Storage Conditions: Keep container closed when not in use. Store in a dry, cool place. Keep/Store away from direct sunlight,
+extremely high or low temperatures and incompatible materials. Store locked up/in a secure area.
+
+Incompatible Materials: Strong acids, strong bases, strong oxidizers. Nitrates. Chlorates. Peroxides. When molten: water.
+Storage Temperature: Unlimited
+
+7.3. Specific End Use(s)
+
+Recycled Asphalt Pavement (RAP) is used as an aggregate and asphalt binder substitute in recycled asphalt mixtures, as a
+construction material as a granular base or subbase, stabilized base aggregate, as embankment or fill material and in other
+construction materials.
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+8.1. Control Parameters
+
+For substances listed in section 3 that are not listed here, there are no established exposure limits from the manufacturer, supplier,
+importer, or the appropriate advisory agency including: ACGIH (TLV), AIHA (WEEL), NIOSH (REL), OSHA (PEL), or Canadian provincial
+governments.
+
+Limestone (1317-65-3)
+
+USA OSHA OSHA PEL TWA 15 mg/m$ (total dust)
+5 mg/mi (respirable fraction)
+
+USA NIOSH NIOSH REL TWA 10 mg/m* (total dust)
+5 mg/m* (respirable dust)
+
+Alberta OEL TWA 10 mg/m°
+
+British Columbia OEL STEL 20 mg/m (total)
+
+British Columbia OEL TWA 10 mg/m* (total dust)
+3 mg/mi (respirable fraction)
+
+New Brunswick OEL TWA 10 mg/m (particulate matter containing no Asbestos and <1%
+Crystalline silica)
+
+Nunavut OEL STEL 20 mg/m°
+
+Nunavut OEL TWA 10 mg/m°
+
+Northwest Territories OEL STEL 20 mg/m°
+
+Northwest Territories OEL TWA 10 mg/m°
+
+Québec VEMP OEL TWA 10 mg/m* (Limestone, containing no Asbestos and <1% Crystalline
+silica-total dust)
+
+Saskatchewan OEL STEL 20 mg/m°
+
+Saskatchewan OEL TWA 10 mg/m°
+
+Yukon OEL STEL 20 mg/m°
+
+Yukon OEL TWA 30 mppcf
+10 mg/m°
+
+Quartz (14808-60-7)
+
+USA ACGIH ACGIH OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+USA ACGIH ACGIH chemical category A2 - Suspected Human Carcinogen
+
+USA OSHA OSHA PEL TWA 50 Ug/mi (Respirable crystalline silica)
+
+USA OSHA OSHA PEL TWA (250)/(%SiO02+5) mppcf TWA (respirable fraction)
+(10)/(%SiO2+2) mg/m°$ TWA (respirable fraction)
+(For any operations or sectors for which the respirable crystalline
+silica standard, 1910.1053, is stayed or otherwise not in effect, See
+20 CFR 1910.1000 TABLE Z-3)
+
+USA NIOSH NIOSH REL TWA 0.05 mg/m* (respirable dust)
+
+USA IDLH IDLH 50 mg/m* (respirable dust)
+
+03/12/2022 EN (English US) 4/9
+Reclaimed Asphalt Pavement (RAP)
+
+Safety Data Sheet
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Alberta OEL TWA 0.025 mg/m' (respirable particulate)
+
+British Columbia OEL TWA 0.025 mg/m* (respirable)
+
+Manitoba OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+New Brunswick OEL TWA 0.1 mg/mi (respirable fraction)
+
+Newfoundland & Labrador | OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nova Scotia OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Nunavut OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Northwest Territories OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline)
+
+Ontario OEL TWA 0.1 mg/mf (designated substances regulation-respirable fraction
+(Silica, crystalline)
+
+Prince Edward Island OEL TWA 0.025 mg/m* (respirable particulate matter)
+
+Québec VEMP OEL TWA 0.1 mg/mi (respirable dust)
+
+Saskatchewan OEL TWA 0.05 mg/m* (respirable fraction (Silica - crystalline (Trydimite
+removed)
+
+Yukon OEL TWA 300 particle/mL (Silica - Quartz, crystalline)
+
+Asphalt (8052-42-4)
+
+USA ACGIH ACGIH OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+USA ACGIH ACGIH chemical category Not Classifiable as a Human Carcinogen fume, coal tar-free
+
+USA ACGIH BEI (BLV) 2.5 ug/l Parameter: 1-Hydroxypyrene with hydrolysis - Medium:
+urine - Sampling time: end of shift at end of workweek
+(background)
+Parameter: 3-Hydroxybenzo(a)pyrene with hydrolysis - Medium:
+urine - Sampling time: end of shift at end of workweek
+(nonquantitative)
+
+USA NIOSH NIOSH REL Ceiling 5 mg/m* (fume)
+
+Alberta OEL TWA 5 mg/mi (Petroleum-fume)
+
+British Columbia OEL TWA 0.5 mg/m* (inhalable fume)
+
+Manitoba OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+New Brunswick OEL TWA 5 mg/mi (petroleum fumes)
+
+Newfoundland & Labrador | OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Nova Scotia OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Nunavut OEL STEL 1.5 mg/m$ (Bitumen-fume)
+
+Nunavut OEL TWA 0.5 mg/m* (Bitumen-fume)
+
+Northwest Territories OEL STEL 1.5 mg/m$ (Bitumen-fume)
+
+Northwest Territories OEL TWA 0.5 mg/m* (Bitumen-fume)
+
+Ontario OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Prince Edward Island OEL TWA 0.5 mg/m* (fume, inhalable particulate matter)
+
+Québec VEMP OEL TWA 5 mg/m* (fume)
+
+Saskatchewan OEL STEL 1.5 mg/m* (fume and inhalable fraction)
+
+Saskatchewan OEL TWA 0.5 mg/mi (fume and inhalable fraction)
+
+Yukon OEL STEL 10 mg/m* (fume)
+
+Yukon OEL TWA 5 mg/m* (fume)
+
+8.2. Exposure Controls
+
+Appropriate Engineering Controls: Suitable eye/body wash equipment should be available in the vicinity of any potential exposure.
+Ensure adequate ventilation, especially in confined areas. Ensure all national/local regulations are observed.
+Personal Protective Equipment: Gloves. Protective clothing. Protective goggles. Insufficient ventilation: wear respiratory protection.
+
+Materials for Protective Clothing: Chemically resistant materials and fabrics.
+Hand Protection: Wear protective gloves.
+
+03/12/2022
+
+EN (English US)
+
+5/9
+
+Reclaimed Asphalt Pavement (RAP)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Eye and Face Protection: Chemical safety goggles.
+
+Skin and Body Protection: Wear suitable protective clothing.
+
+Respiratory Protection: If exposure limits are exceeded orirritation is experienced, approved respiratory protection should be worn.
+In case of inadequate ventilation, oxygen deficient atmosphere, or where exposure levels are not known wear approved respiratory
+protection.
+
+Thermal Hazard Protection: If material is hot, wear thermally resistant protective gloves.
+
+Other Information: When using, do not eat, drink or smoke.
+
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+
+9.1. Information on Basic Physical and Chemical Properties
+Physical State : Solid
+
+Appearance : Black color and various shapes
+Odor :__ Slight petroleum odor
+Odor Threshold : Not available
+
+pH : Not available
+Evaporation Rate : Not available
+Melting Point Not available
+Freezing Point Not available
+Boiling Point : Not available
+
+Flash Point : > 93.3 °C (200 F)
+Auto-ignition Temperature : Not available
+Decomposition Temperature : Not available
+Flammability (solid, gas) : Not available
+Lower Flammable Limit : Not available
+Upper Flammable Limit : Not available
+Vapor Pressure : Not available
+Relative Vapor Density at 20°C : Not available
+Relative Density : Not available
+Specific Gravity : 2.0-2.5 (water =1)
+Solubility : Water: Insoluble
+Partition Coefficient: N-Octanol/Water : Not available
+Viscosity : Not available
+
+SECTION 10: STABILITY AND REACTIVITY
+
+10.1. Reactivity:  Hazardous reactions will not occur under normal conditions.
+
+10.2. Chemical Stability: Stable under recommended handling and storage conditions (see section 7).
+
+10.3. Possibility of Hazardous Reactions:  Hazardous polymerization will not occur.
+
+10.4. Conditions to Avoid: Direct sunlight, extremely high or low temperatures, and incompatible materials.
+
+10.5. Incompatible Materials: Strong acids, strong bases, strong oxidizers. Nitrates. Chlorates. Peroxides. When molten: water.
+10.6. Hazardous Decomposition Products: Thermal decomposition may produce: Calcium oxides. Carbon oxides (CO, CO).
+Hydrocarbons. Hydrogen sulfide. Silicon oxides. Sulfur oxides.
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+11.1. Information on Toxicological Effects - Product
+Acute Toxicity (Oral): Not classified
+
+Acute Toxicity (Dermal): Not classified
+
+Acute Toxicity (Inhalation): Not classified
+
+LD50 and LC50 Data: Not available
+
+Skin Corrosion/irritation: Not classified
+
+Eye Damage/irritation: Not classified
+
+Respiratory or Skin Sensitization: Not classified
+
+Germ Cell Mutagenicity: Not classified
+
+Carcinogenicity: May cause cancer (Inhalation).
+
+Specific Target Organ Toxicity (Repeated Exposure): Causes damage to organs (lung/respiratory system) through prolonged or
+repeated exposure (Inhalation).
+
+Reproductive Toxicity: Not classified
+
+03/12/2022 EN (English US) 6/9
+Reclaimed Asphalt Pavement (RAP)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Specific Target Organ Toxicity (Single Exposure): Not classified
+
+Aspiration Hazard: Not classified
+
+Symptoms/Injuries After Inhalation: Prolonged exposure may cause irritation. Some studies show that exposure to respirable
+crystalline silica (without silicosis) or that the disease silicosis may be associated with the increased incidence of several autoimmune
+disorders such as scleroderma (thickening of the skin), systemic lupus erythematosus, rheumatoid arthritis and diseases affecting the
+kidneys. Silicosis increases the risk of tuberculosis. Some studies show an increased incidence of chronic kidney disease and end-stage
+renal disease in workers exposed to respirable crystalline silica.
+
+Symptoms/Injuries After Skin Contact: Skin contact with large amounts of dust may cause mechanical irritation.
+
+Symptoms/Injuries After Eye Contact: Eye contact with dust may cause mechanical irritation.
+
+Symptoms/Injuries After Ingestion: Ingestion may cause adverse effects.
+
+Chronic Symptoms: Long term exposure to respirable crystalline silica results in a significant risk of developing silicosis and other non-
+malignant respiratory disease, lung cancer, kidney effects, and immune system effects.
+
+11.2. Information on Toxicological Effects - Ingredient(s)
+
+LD50 and LC50 Data:
+
+Quartz (14808-60-7)
+
+LD50 Oral Rat > 5000 mg/kg
+
+LD50 Dermal Rat > 5000 mg/kg
+
+Asphalt (8052-42-4)
+
+LD50 Oral Rat > 5000 mg/kg
+
+LD50 Dermal Rabbit > 2000 mg/kg
+
+LC50 Inhalation Rat > 94.4 mg/m°
+
+Quartz (14808-60-7)
+
+IARC Group 1
+
+National Toxicology Program (NTP) Status Known Human Carcinogens.
+
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+Asphalt (8052-42-4)
+
+IARC Group 2A, 2B
+
+OSHA Hazard Communication Carcinogen List In OSHA Hazard Communication Carcinogen list.
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+12.1. Toxicity
+
+Ecology - General: Not classified.
+12.2. Persistence and Degradability
+
+Reclaimed Asphalt Pavement (RAP)
+
+Persistence and Degradability Not established.
+12.3. Bioaccumulative Potential
+Reclaimed Asphalt Pavement (RAP)
+
+Bioaccumulative Potential Not established.
+
+Asphalt (8052-42-4)
+
+BCF Fish (no bioaccumulation expected)
+Partition coefficient n-octanol/water (Log Pow) | >6
+
+12.4. Mobility in Soil Not available
+
+12.5. Other Adverse Effects
+Other Information: Avoid release to the environment.
+
+SECTION 13: DISPOSAL CONSIDERATIONS
+
+13.1. Waste treatment methods
+
+Waste Disposal Recommendations: Dispose of contents/container in accordance with local, regional, national, territorial, provincial,
+and international regulations.
+
+Ecology - Waste Materials: Avoid release to the environment.
+
+SECTION 14: TRANSPORT INFORMATION
+
+The shipping description(s) stated herein were prepared in accordance with certain assumptions at the time the SDS was authored,
+and can vary based on a number of variables that may or may not have been known at the time the SDS was issued.
+
+03/12/2022 EN (English US) 7/9
+Reclaimed Asphalt Pavement (RAP)
+
+Safety Data Sheet
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+14.1. In Accordance with DOT Not regulated for transport
+14.2. In Accordance with IMDG Not regulated for transport
+14.3. In Accordance with IATA Not regulated for transport
+14.4. In Accordance with TDG Not regulated for transport
+
+SECTION 15: REGULATORY INFORMATION
+
+15.1. US Federal Regulations
+
+Reclaimed Asphalt Pavement (RAP)
+
+SARA Section 311/312 Hazard Classes Health hazard - Carcinogenicity
+
+Health hazard - Specific target organ toxicity (single or repeated exposure)
+
+Limestone (1317-65-3)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Quartz (14808-60-7)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+Asphalt (8052-42-4)
+Listed on the United States TSCA (Toxic Substances Control Act) inventory
+15.2. US State Regulations
+California Proposition 65
+AN WARNING: This product can expose you to Bitumens, extracts of steam-refined and air refined, which is known to the State
+of California to cause cancer. For more information go to www.P65Warnings.ca.gov.
+
+Chemical Name (CAS No.) Carcinogenicity | Developmental | Female Reproductive | Male Reproductive
+Toxicity Toxicity Toxicity
+
+Quartz (14808-60-7) X
+
+Bitumens, extracts of steam-refined and air X
+
+refined
+
+Limestone (1317-65-3)
+
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+
+US. - Massachusetts - Right To Know List
+
+Quartz (14808-60-7)
+
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+
+US. - Massachusetts - Right To Know List
+
+Asphalt (8052-42-4)
+
+US. - New Jersey - Right to Know Hazardous Substance List
+US. - Pennsylvania - RTK (Right to Know) List
+
+US. - Massachusetts - Right To Know List
+
+15.3. Canadian Regulations
+
+Limestone (1317-65-3)
+
+Listed on the Canadian NDSL (Non-Domestic Substances List)
+
+Quartz (14808-60-7)
+Listed on the Canadian DSL (Domestic Substances List)
+Asphalt (8052-42-4)
+Listed on the Canadian DSL (Domestic Substances List)
+
+SECTION 16: OTHER INFORMATION, INCLUDING DATE OF PREPARATION OR LAST REVISION
+
+Date of Preparation or Latest Revision : 03/12/2022
+
+Other Information : This document has been prepared in accordance with the SDS requirements of the OSHA
+Hazard Communication Standard 29 CFR 1910.1200 and Canada’s Hazardous Products
+Regulations (HPR) SOR/2015-17.
+
+GHS Full Text Phrases:
+Carcinogeniety Category 1A
+
+03/12/2022 EN (English US) 8/9
+
+Reclaimed Asphalt P
+
+Safety Data Sheet
+
+avement (RAP)
+
+According To Federal Register / Vol. 77, No. 58 / Monday, March 26, 2012 / Rules And Regulations And According To The Hazardous Products Regulation (February 11, 2015).
+
+Carc. 2 Carcinogenicity Category 2
+
+STOTRE 1 Specific target organ toxicity (repeated exposure) Category 1
+
+STOTSE 3 Specific target organ toxicity — Single exposure, Category 3, Respiratory tract irritation
+H335 May cause respiratory irritation
+
+H350 May cause cancer
+
+H351 Suspected of causing cancer
+
+H372 Causes damage to organs through prolonged or repeated exposure
+
+Indication of Changes
+
+Section
+
+Change Date Changed Version
+
+1
+
+Modified responsible 03/12/2022 3.1
+party information, logo
+& emergency telephone
+number
+
+Holcim US believes the information contained herein is accurate; however, Holcim US makes no guarantees with respect to such
+
+accuracy and assumes no liabilit
+
+y in connection with the use of the information contained herein which is not intended to be and
+
+should not be construed as legal advice or as insuring compliance with any federal, state or local laws or regulations. Any party using
+
+this product should review all su
+Provincial and State regulations.
+
+NA GHS SDS 2015 (Can, US)
+
+ch laws, rules, or regulations prior to use, including but not limited to US and Canada Federal,
+
+NO WARRANTY IS MADE, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR OTHERWISE.
+
+03/12/2022
+
+EN (English US)
+
+9/9
+

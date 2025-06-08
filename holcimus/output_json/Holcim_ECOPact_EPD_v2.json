@@ -1,0 +1,71 @@
+{
+  "epd_metadata": {
+    "company": "Holcim",
+    "address": "8700 Bryn Mawr Ave Suite #300, Chicago, IL 60631-3512",
+    "plant": "Fort Totten (DC) Plant, 5001 Fort Totten Dr. NE, Washington, DC 20011",
+    "epd_program_operator": "ASTM International",
+    "date_of_issue": "07/16/2021",
+    "valid_until": "07/16/2026",
+    "epd_developer": "Climate Earth",
+    "third_party_verifier": "Thomas P. Gloria - Industrial Ecology Consultants"
+  },
+  "product_description": {
+    "declared_product": "Mix ECOS80504 - Fort Totten (DC) Plant",
+    "description": "8000,ECOPACT, STANDARD PST NAËE HRWR",
+    "compressive_strength": "8000 PSI at 28 days",
+    "declared_unit": "1 m³ of concrete",
+    "product_components": [
+      "crushed aggregate (ASTM C33)",
+      "natural aggregate (ASTM C33)",
+      "Portland cement (ASTM C150)",
+      "slag cement (ASTM C989)",
+      "admixture (ASTM C494)",
+      "batch water (ASTM C1602)"
+    ]
+  },
+  "lca_information": {
+    "system_boundary": "cradle-to-gate",
+    "stages_covered": "A1-A3",
+    "allocation_procedure": "ISO 14044",
+    "primary_sources_of_lci_data": [
+      "Admixture (superplasticizing): EFCA EPD, 2015",
+      "Aggregate (crushed): US-EI (2016): “Gravel, crushed, at mine/US”, 2001",
+      "Aggregate (natural): US-EI (2016): “Gravel, round, at mine/US”, 2001",
+      "Cleaning Chemicals: Ecoinvent 3.4: 50% Citric acid and 50% Phosphoric acid, industrial grade, without water, in 70% solution state, market for/GLO, 2017",
+      "Diesel: USLCI: “Diesel, combusted in industrial equipment/NREL/US”, 2007",
+      "Electricity (RCC): Ecoinvent 3.4: “Electricity, medium voltage, market for, cut-off”, 2015",
+      "Municipal Water: US-EI (2016): “Tap water, at user/US”, 2000",
+      "Non-Hazardous Solid Waste: US-EI (2016): Disposal, municipal solid waste, 2008",
+      "Oils, Lubricants and Greases: Ecoinvent 3.4: Lubricating oil, GLO, market for, cut-off, 2011",
+      "Portland Cement: Supplier specific primary data, 2020",
+      "Rail transport: USLCI: “Transport, train, diesel powered NREL/US”, 2007",
+      "Slag cement: Slag Cement Association, industry average EPD, 2014",
+      "Truck transport: USLCI:”Transport, combination truck, long-haul, diesel powered/tkm/RNA”, 2010",
+      "Truck transport: USLCI:”Transport, combination truck, short-haul, diesel powered/tkm/RNA”, 2010"
+    ]
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "320 kg CO2-eq",
+    "ozone_depletion_potential": "9.81E-6 kg CFC-11-eq",
+    "acidification_potential": "1.27 kg SO2-eq",
+    "eutrophication_potential": "0.59 kg N-eq",
+    "photochemical_ozone_creation_potential": "22.1 kg O3-eq",
+    "abiotic_depletion_non_fossil": "4.49E-5 kg Sb-eq",
+    "abiotic_depletion_fossil": "1,712 MJ",
+    "total_waste_disposed": "4.37 kg",
+    "consumption_of_freshwater": "3.67 m³"
+  },
+  "recycled_materials_handling": {
+    "fly_ash_silica_fume_slag": "Recognized as waste products recovered materials with limited environmental impacts allocated"
+  },
+  "additional_info": {
+    "references": [
+      "ISO 21930:2017 Sustainability in Building Construction — Environmental Declaration of Building Products",
+      "ISO 14044:2006/Amd 1:2017/Amd 2:2020 Environmental Management — Life Cycle Assessment —Requirements and Guidelines"
+    ],
+    "contact": "Zachary Lovett (zachary.lovett@holcim.com)",
+    "software_tool": "CarbonCLARITY Suite, EPD Generator - Verification"
+  }
+}

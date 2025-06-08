@@ -1,0 +1,71 @@
+{
+  "epd_metadata": {
+    "epd_commissioner_and_owner": "Holcim (US) Inc.",
+    "address": "8700 W Bryn Mawr Ave, Chicago, IL 60631",
+    "phone": "626-852-6200",
+    "website": "www.holcim.us",
+    "contact": "Sonia Gagnon (sonia.gagnon@holcim.com)",
+    "program_operator": "ASTM International",
+    "declaration_number": "EPD 299",
+    "declaration_type": "Cradle-to-gate (modules A1 to A3)",
+    "applicable_countries": "United States",
+    "date_of_issue": "31.03.2022",
+    "validity_period": "5 years"
+  },
+  "product_description": {
+    "product_group_and_name": "Slag Cement, UNSD CPC 3744, UNSPSC Code 30111601",
+    "product_definition": "Granulated blast-furnace slag that has been ground to cement fineness, with or without additions, and is a hydraulic cement",
+    "facility_name": "Holcim Sparrows Point Plant, 2001 Wharf Road, Sparrows Point, MD 21219",
+    "standards": [
+      "ASTM C989/C989M",
+      "AASHTO M 302",
+      "CSA A3001",
+      "ASTM C125",
+      "ASTM C596/C595M",
+      "AASHTO M 240M/M 240",
+      "ASTM C219"
+    ],
+    "inputs": {
+      "slag_granules": "99.9%",
+      "grinding_aids": "<0.1%"
+    }
+  },
+  "lca_information": {
+    "reference_year": "2019",
+    "system_boundary": "Cradle-to-gate",
+    "modules_included": "A1-A3",
+    "allocation_rules": "Mass was used as the physical parameter for allocating flows",
+    "data_quality_requirements": {
+      "technology_coverage": "High",
+      "geographic_coverage": "U.S.",
+      "time_coverage": "2019",
+      "completeness": "All relevant processes considered",
+      "consistency": "Modeled in SimaPro software V.9.0.0.30, 2020",
+      "reproducibility": "Internal reproducibility possible",
+      "transparency": "High level of transparency provided",
+      "uncertainty": "Sensitivity check conducted"
+    }
+  },
+  "transport_and_installation": {
+    "transport": "Sourced slag granules from Brazil",
+    "installation": null
+  },
+  "end_of_life": {
+    "end_of_life_stage": null
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": "134 kg CO2 eq",
+    "ozone_depletion_potential": "2.1E-05 kg CFC-11 eq",
+    "smog_formation_potential": "22.1 kg O3 eq",
+    "acidification_potential": "1.39 kg SO2 eq",
+    "eutrophication_potential": "0.31 kg N eq"
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": "1,101 kg",
+    "recovered_material": "Iron blast furnace slag"
+  },
+  "additional_info": {
+    "environmental_protection": "Holcim manufacturing facilities comply with U.S. environmental protection requirements",
+    "pollution_abatement_equipment": "High temperature baghouses, bin vents, and water sprinklers"
+  }
+}

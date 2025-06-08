@@ -1,0 +1,142 @@
+{
+  "epd_metadata": {
+    "revision_date": "03/12/2022",
+    "date_of_issue": "05/18/2015",
+    "supersedes_date": "05/12/2021",
+    "version": "3.1"
+  },
+  "product_description": {
+    "product_form": "Mixture",
+    "product_name": "Asphalt Cement (Asphalt)",
+    "synonyms": [
+      "Asphalt Cement",
+      "Petroleum Asphalt",
+      "Unmodified Asphalt Cement",
+      "Polymer Modified Asphalt Cement",
+      "Neat Asphalt Cement",
+      "Bitumen",
+      "40-50",
+      "60-70",
+      "85-100",
+      "120-150",
+      "150-200",
+      "160-180",
+      "200-300",
+      "300-400",
+      "AC-10",
+      "AC-20",
+      "PG 46-34",
+      "PG 52-28",
+      "PG 52-34",
+      "PG 52-34 PMA",
+      "PG 52-40",
+      "PG 52-40 PMA",
+      "PG 58-22",
+      "PG 58-28",
+      "PG 58-34",
+      "PG 58-34 PMA",
+      "PG 58-40",
+      "PG 58-40 PMA",
+      "PG 64-22",
+      "PG 64-22 PMA",
+      "PG 64-28",
+      "PG 64-28 PMA",
+      "PG 64-34",
+      "PG 64-34 PMA",
+      "PG 64-40",
+      "PG 64-40 PMA",
+      "PG 70-22",
+      "PG 70-22 PMA",
+      "PG 70-28",
+      "PG 70-28 PMA",
+      "PG 70-34",
+      "PG 70-34 PMA",
+      "PG 76-22",
+      "PG 76-22 PMA",
+      "PG 76-28",
+      "PG 76-28 PMA"
+    ],
+    "intended_use": "HMA is used for paving roads, driveways, parking lots and other surface, base, or sub-base applications.",
+    "company": {
+      "name": "Holcim US",
+      "address": "8700 West Bryn Mawr Avenue, Suite 300, Chicago, IL 60631",
+      "information_phone": "(888) 646-5246",
+      "email": "us-sds-Inquiries@holcim.com",
+      "website": "holcim.us",
+      "emergency_phone": "1-800-255-3924"
+    }
+  },
+  "lca_information": null,
+  "transport_and_installation": {
+    "proper_shipping_name": "ELEVATED TEMPERATURE SOLID, N.O.S. (Asphalt)",
+    "hazard_class": "9",
+    "identification_number": "UN3258",
+    "label_codes": "9",
+    "packing_group": "III",
+    "erg_number": "128"
+  },
+  "end_of_life": {
+    "waste_disposal_recommendations": "Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations.",
+    "ecology_waste_materials": "Avoid release to the environment."
+  },
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "hazards_identification": {
+      "classification": "Carc. 2 H351",
+      "label_elements": {
+        "signal_word": "Warning",
+        "hazard_statements": "H351 - Suspected of causing cancer.",
+        "precautionary_statements": [
+          "P201 - Obtain special instructions before use.",
+          "P202 - Do not handle until all safety precautions have been read and understood.",
+          "P280 - Wear protective gloves, protective clothing, and eye protection.",
+          "P308+P313 - If exposed or concerned: Get medical advice/attention.",
+          "P405 - Store locked up.",
+          "P501 - Dispose of contents/container in accordance with local, regional, national, territorial, provincial, and international regulations."
+        ]
+      },
+      "other_hazards": "Exposure may aggravate pre-existing eye, skin, or respiratory conditions. Hot asphalt can release toxic Hydrogen Sulfide gas!"
+    },
+    "composition_information": {
+      "asphalt": {
+        "cas_no": "8052-42-4",
+        "percentage": "80-100",
+        "classification": "Carc. 2, H351"
+      },
+      "sulfur": {
+        "cas_no": "7704-34-9",
+        "percentage": "<7",
+        "classification": "Skin Irrit. 2, H315; Aquatic Acute 3, H402; Aquatic Chronic 3, H412; Comb. Dust"
+      },
+      "hydrogen_sulfide": {
+        "cas_no": "7783-06-4",
+        "classification": "Flam. Gas 1, H220; Press. Gas (Liq.), H280; Acute Tox. 2 (Inhalation:gas), H330; Eye Irrit. 2A, H319; STOT SE 3, H335; STOTSE 1, H370; Aquatic Acute 1, H400; Aquatic Chronic 1, H410"
+      }
+    },
+    "physical_and_chemical_properties": {
+      "physical_state": "Solid",
+      "appearance": "Black Granular Solid",
+      "odor": "Slight Petroleum Odor",
+      "flash_point": "> 93.3 °C (199.94 °F)",
+      "specific_gravity": "2.0-2.5",
+      "solubility": "Insoluble in water"
+    },
+    "regulatory_information": {
+      "us_federal_regulations": {
+        "sara_section_311_312_hazard_classes": "Health hazard - Carcinogenicity",
+        "asphalt": "Listed on the United States TSCA (Toxic Substances Control Act) inventory",
+        "sulfur": "Listed on the United States TSCA (Toxic Substances Control Act) inventory",
+        "hydrogen_sulfide": "Listed on the United States TSCA (Toxic Substances Control Act) inventory"
+      },
+      "us_state_regulations": {
+        "california_proposition_65": "WARNING: This product can expose you to Bitumens, extracts of steam-refined and air refined, which is known to the State of California to cause cancer."
+      },
+      "canadian_regulations": {
+        "asphalt": "Listed on the Canadian DSL (Domestic Substances List)",
+        "sulfur": "Listed on the Canadian DSL (Domestic Substances List)",
+        "hydrogen_sulfide": "Listed on the Canadian DSL (Domestic Substances List)"
+      }
+    }
+  }
+}
