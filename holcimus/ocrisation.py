@@ -13,13 +13,17 @@ def ocr_pdf(pdf_path, output_txt_path):
     text = ""
     print(f"OCRing {pdf_path.name} ({len(images)} pages)")
     for img in tqdm(images, desc=f"OCR {pdf_path.stem}", unit="page"):
-        text += pytesseract.image_to_string(img, lang='fra')
+        text += pytesseract.image_to_string(
+            img, 
+            lang='eng',
+            config='--psm 1 -c preserve_interword_spaces=1'
+            )
     with open(output_txt_path, "w", encoding="utf-8") as f:
         f.write(text)
 
 for pdf_file in pdf_dir.glob("*.pdf"):
     output_txt = output_dir / f"{pdf_file.stem}.txt"
-    
+
     if output_txt.exists():
         print(f"Already exist : {pdf_file.name} -> ignore")
         continue
