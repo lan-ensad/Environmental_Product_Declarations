@@ -1,0 +1,2322 @@
+Environmental = EPD
+
+Product
+
+Declaration
+
+In accordance with ISO 14025 and EN 15804:2012+A2:2019 for:
+
+HORMIGONES Y MORTEROS RMX FABRICADOS CON
+CEM Il/B Y ARIDO RECICLADO
+
+H25 (ESTANDAR, AGILIA, ARTEVIA),
+
+H30 (ESTANDAR, AGILIA, ARTEVIA),
+
+H35 (ESTÂNDAR, AGILIA)
+
+from
+
+HOLCIM ESPANA
+S) HOLCIM
+
+Programme: The International EPD® System, www.environdec.com
+
+Programme operator: EPD International AB
+EPD registration number: EPD-IES-0002681
+Publication date: 2021-02-04
+
+Review date: 2024-07-30
+
+Valid until: 2026-02-03
+
+ee shou ape current infori and ma ape update ae d ie ondio cha ange. The stated validity is therefore
+ondec c.c0
+
+subject to the c ued registration and publication atw
+
+PHoucim = EPD:
+
+General information
+Programme information
+
+Programme: The International EPDS System
+EPD International AB
+Box 210 60
+
+Address: SE-100 31 Stockholm
+Sweden
+
+Website: www.environdec.com
+
+E-mail: info@environdec.com
+
+CEN standard EN 15804 serves as the Core Product Category Rules (PCR)
+
+Product category rules (PCR): PCR 2019:14 Construction Products. Version 1.1, c-PCR-003 Concrete
+and concrete elements (EN 16757). Version 2019-12-20
+
+PCR review was conducted by: The Technical Committee of the International EPD® System.
+See www.environdec.com/TC for a list of members.
+
+Review chair: Claudia A Peña. The review panel may be contacted via the
+Secretariat info@environdec.com
+
+Independent third-party verification of the declaration and data, according to ISO 14025:2006:
+
+[1 EPD process certification EH EPD verification
+
+Third party verifier:
+
+TECNALIA R&l Certificaciôn S.L. Auditor: Cristina Gazulla Santos
+Accredited by: ENAC. Accreditation no.125/C-PR283
+
+Procedure for follow-up of data during EPD validity involves third party verifier:
+
+Yes CO No
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD.
+EPDs within the same product category but from different programmes may not be comparable. EPDs
+
+of construction products may not be comparable if they do not comply with EN 15804. For further
+information about comparability, see EN 15804 and ISO 14025.
+
+PAGE 2/40
+
+d’'HoLcim = FPD:
+
+Company information
+Owner of the EPD: HOLCIM SPAIN.
+Avenida de Manoteras, 20. 28050 Madrid (Spain).
+https://www.holcim.es/
+Contact: HOLCIM ESPANA
+Telephone: 34 912 13 31 00
+Email: marketing.spain@holcim.com
+
+Description of the organization: Holcim is one of the world leaders in building materialsand
+solutions with activity in four business segments: cement, aggregate, concrete solutions and
+products in the field of construction. Its ambition is to lead the industry towards reducing carbon
+emissions and moving towards low carbon construction. With the strongest R&D areain the
+industry, the company seeks to promote the development and marketing of high-qualityand
+sustainable building materials and solutions for its customers around the world.
+
+Holcim has five cement factories in Spain with an installed capacity of seven million tons per
+year, 19 concrete plants, a mortar plant, a plant for the preparation of alternative fuelsfrom
+waste, four terminals and two distribution centers, where about 700 employees work. The
+company is distinguished by having the first Laboratory with an exclusive area of alternative
+fuels and the first Research and Development Center for New Concrete and Mortars. Holcim
+contributes to global development by making significant efforts in innovation, which materialize
+in the creation of safe, sustainable and high-performance materials and solutions that respond
+to customer challenges.
+
+Product-related or management system-related certifications:
+Holcim has implemented ISO 9001 and ISO 14001 management systems.
+
+Name and location of production site(s), all placed in Spain:
+e  ALCOBENDAS - Madrid
+e  ALGEMESI - Valencia
+e  ALMENARA-Castellon
+e  BETERA- Valencia
+e  COLMENAR- Madrid
+e  CONSTANTI- Tarragona
+e  FONCALENT- Madrid
+e  FUENCARRAL- Madrid
+e LA ROCA- Barcelona
+e __ MAJADAHONDA- Madrid
+e  MONTCADA- Barcelona
+e  PAPIOL- Barcelona
+e  POLOP- Valencia
+e  TORTOSA- Tarragona
+e  VALENCIA- Valencia
+e _VALLECAS- Madrid
+e __ VILLAVERDE- Madrid
+e  ZARAGOZA- Zaragoza
+e _ZONA FRANCA- Barcelona
+
+PAGE 3/40
+N HOLCIM ElPD
+
+This EPD cover all concrete produced in production site listed above.
+
+Product information
+
+Product name: Hormigones con CEM I/B y ârido reciclado H25 (Eständar, Agilia and
+Artevia), Hormigones con CEM Il/B y érido reciclado H30 (Eständar, Agilia and Artevia),
+Hormigones con CEM II/B y ärido reciclado H35 (Eständar, Agilia).
+
+Product description: Holcim is a leading manufacturer and supplier of high-quality concrete,
+has projects and activities on road and network, collective housing.
+
+Concrete production is a specific process: depending on the nature and quantity of each ofthe
+components (cement, aggregates, water, additives), it will have different characteristics. Once
+manufactured, the ready-mixed concrete is a fresh product, which must be transported and
+used quickly on local markets, and under optimal conditions.
+
+Holcim's concrete offer an outstanding combination of product quality andperformance. All
+manufactured products are high quality concrete, characterized by their extraordinary capacity
+and great finishing. Hormigones H25 (Estândar, Agilia andArtevia), H30 (Eständar, Agilia and
+Artevia) and H35 (Estândar and Agjilia) are concrete manufactured in different factories in
+Spain. Products are a ready-mix concrete, as well as thatthe ranges included are structural
+concretes, except Artevia which is to be used in continuouspavements.
+
+UN CPC code: 375 Articles of concrete, cement and plaster
+
+LCA information
+
+Functional unit: one m3 of ready-mix of concrete with a strength of 25 MPa, 30 MPa or 35 MPa
+which fulfils the requirements of technical behaviour referred to construction (strength and
+other technical characteristics) with a Reference Service Life of 100 years.
+
+Hnes con CEM IB y ärido reciclado H25 Eständar
+
+Hnes con CEM IIB y ärido reciclado H30 Eständar 30 2287
+Hnes con CEM IIB y ärido reciclado H35 Eständar 85 2301
+Hnes con CEM 1l/B y ärido reciclado H25 AGILIA 25 2299
+Hnes con CEM 1l/B y ärido reciclado H30 AGILIA 30 2302
+Hnes con CEM Il/B y ärido reciclado H35 AGILIA 35 2321
+Hnes con CEM Il/B y ârido reciclado H25 Artevia 25 2298
+Hnes con CEM Il/B y ârido reciclado H30 Artevia 30 2276
+
+Reference service life: 100 years (as declared by the manufacturer) and recommended in c-
+PCR for structural concrete.
+d'HoLcim | EPD'
+
+Time representativeness: data from factory (primary data) is from 2019 and residual electricity
+mix from Spain in 2018'. The products are manufactured in the manufacturing plants in Spain
+listed previously. The amount used of raw materials (cement, water, gravel stone), as well as
+energy consumption, waste production, pollutant emissions and transport distance (in A2 and
+A4) have been obtained from the manufacturing plants (primary data). Primary data has been
+obtained through an average of the different plants where each product is manufactured,
+weighted according to % of production of every plant (in m°) over the total production of the
+company in Spain in 2019. The composition of the specific cement used for each product has
+been obtained also directly from the manufacturing plants and therefore correspondés to reality.
+
+Residual electricity mix Spain 2018
+
+# Nuclear
+= Fuel/gas
+# Carbon
+> # CC natural gas
+
+= Others
+= Renewable
+= High efficiency congeneration
+
+= Cogeneration
+
+Database(s) and LCA software used: generic data on the impact per unit of matter or energy
+have been taken to determine emissions per kg of matter, KWh of energy or km transported.
+
+These data have been obtained from the Ecoinvent database version 3.5. (updated in <5
+years) and Simapro 9.1. The impact models used are those indicated in EN
+15804:2012+A2:2019
+
+Description of system boundaries:
+Cradle to grave and Module D (A+B+C+D).
+
+‘https:/www.aib-net.org/sites/default/files/assets/facts/residual-
+mix/2018/AIB_2018 _Residual Mix Results v1_1.pdf
+
+PAGE 5/40
+S'HoLcim EtPD
+
+System diagram:
+
+[_cement_ ] Crushed gravel Additives
+
+Raw A1-A3 (storage of raw materials,
+materials mixing)
+
+Ÿ
+
+A4 Transport
+A5 Installation
+
+C End of life
+
+More information: www.holcim.es
+e Technical support for the implementation of the EPD: Marcel Gémez Consultoria
+Ambiental.
+e The modularity principle, as well as the polluter-payer principle have been followed.
+e  Variability between manufacturing plants has been assessed modelling the impact on
+Global Warming Potential of A1-A3 for every single plant.
+e Cut off rules: according to EN 15804 a minimum of 95% of total inflows (mass and
+energy) per module are included and more than 99% of the inflows are accounted for.
+e Allocation procedure: where necessary (energy and water consumption, waste
+production) an allocation based in volume has been used.
+e The next processes have not been included since its impact is not significant:
+o Environmental impact from infrastructure, construction, production equipment,
+and tools that are not directly consumed in the production process.
+o  Personnel-related impacts, such as transportation to and from work.
+
+PAGE 6/40
+
+PHoucim = EPD'
+
+Modules declared, geographical scope, share of specific data (in GWP-GHG indicator) and
+
+data variation:
+
+Product Construction Resource
+stade rocess stade Use stage End of life stage recovery
+9 P 9 stage
+S a
+[ei © El =
+Le) Cr) ro) re) Sa
+> to 3 a E ©
+eo = > 3 © O
+© S O 5 D D œ
+5 a) © + c <= >
+u o € = € G © FA ©
+sg £ S 2 £ ® | © | = 5 d 3
+ü _ B _ 5 S LES SSL. | el. ®
+œ © o © 5 C O ra 2 O uo © ei œ C œ
+E ea S o 5 O = © le) = = = © © ra) 1
+2 2 a © #8 SIs|S | S)S ou) L£2|és dE
+= S = S C æœ =|oe|oe|>|o œ | ? | © u G 5 ©
+(S g œ g © a G | © © | © | © | © | © | © | © | w 3 à
+œ - = H O3 =zàl m0 0 a H|= Aa Œ à
+Module Aî A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 Ca D
+Modules
+declared X X X X X X X X X X X | X X X X X X
+Geography ES ES ES ES ES ES | ES | ES | ES | ES | ES | ES | ES | ES | ES | ES ES
+Specific More than 99% specific data is used in | | | | | | . . | | . :
+data the EPD.
+Variation — | Less than 10% inside of every group of | | | | | | | . . | | . :
+products products
+Variation — Less than 10%
+sites : : : : : : : : : : : L
+
+e _A1-A3 Product stage
+o A1 Raw materials supply: this module takes into account the extraction and
+processing of raw materials and the energy that is produced prior to the
+manufacturing process under study.
+o A2 Transport: this module includes the transport of the different raw materials
+from the manufacturer to the factory. The distance and type of concrete truck
+for each raw material has been introduced.
+
+o A3 Manufacturing: this module includes the consumption of energy and water
+used during the manufacturing process, as well as the transport and
+management of the factory-produced waste. The manufacture of concreate
+consists mainly of a mixing process of different components.
+
+PAGE 7/40
+
+d’'HoLcim = FPD:
+
+©  A4-A5 Construction process stage
+o A4 Transport
+
+Fuel type and consumption of vehicle Truck of 16- 32 tn. Fuel consumption:
+or vehicle type used for transport e.g. 31,1 L/100 Km
+
+long distance truck, boat, etc
+Distance Truck: 12.16 Km
+
+Capacity utilisation (including empty 100%
+
+returns)
+Bulk density of transported products* Expressed in LCA information section
+Volume capacity utilisation factor 1
+
+o A5 Construction/installation
+
+The product is directly transferred from the truck to the construction site.
+
+Auxiliary materials for installation No auxiliary material used
+Use of water Not used
+Use of other resources No other resource consumption
+
+Quantitative description of the type of | Not used
+energy (regional mix) and the
+consumption during the installation
+process
+
+Wastage of materials on the building Product losses (2%)
+site before waste processing,
+generated by the products installation
+(specified by type)
+
+ee __B Use stage: the products fix CO2 by carbonatation during the use phase (B1), and
+do not require maintenance (B2), repair (B3), replacement (Bd), refurbishment (B5),
+operational energy use (B6) or operational water use (B7) during its Reference
+Service Life. CO2 fixed by carbonatation of cement during the use phase has been
+included as required in c-PCR, following the methodology explained in EN 167572.
+
+Vt
+
+CO2 uptake =k*+ (oo
+
+) x Utcc x C x Dc
+
+2 UNE-EN 16757:2018. Sustainability of construction works - Environmental product declarations -
+Product Category Rules for concrete and concrete elements
+
+PAGE 8/40
+
+'HOLCIM
+
+-—_ EPD
+
+Where:
+
+K:K factor, mm of carbonatation/year°
+
+Utcc: maximum theoretical uptake in g CO2/Kg of
+cementC:cement content in kg/m* of concrete
+Dc: degree of carbonation
+
+À hypothesis is made where only one face of one m* of concrete is in contact with air, being
+the other 3 faces not in contact with air.
+
+e  C End of life stage
+
+o C1 Deconstruction/demoblition: the use of diesel during the demoblition
+process has been included.
+
+o C2 Transport to waste processing: the model use for the transportation
+(see A4, transportation to the building site) is applied.
+
+o C3 Waste processing for reuse, recovery and/or recycling: the product is
+89% recycleds.
+
+o C4 Disposal: the product is 11% landfilled.
+
+Collection process specified by type
+
+The product is collected mixed with
+construction waste
+
+Recovery system specified by type
+
+89% recycled
+
+Disposal specified by type
+
+11% landfill
+
+Assumptions for scenario development
+(e.g. transportation)
+
+16-32 tn truck. Fuel consumption: 25
+1/100 Km
+
+Distance: 50 km
+
+e DReuse-Recovery-Recycling potential
+The product is recycled in 89%
+As a consequence, the module D has been calculated,where the results of recycling
+(avoided product) is crushed gravel..
+
+3https://ec.europa.eu/eurostat/documents/2995521/9629294/8-04032019-BP-EN.pdf/295c2302-
+4ed1-45b9-af86-96d1bbb7acb1
+
+PAGE 9/40
+
+'HOLCIM
+
+Content information
+
+—_ EPD
+
+Hormigones con CEM IlB y ârido reciclado H25 Estandar
+
+Product components
+
+CEM Il/B
+
+Crushed Gravel
+
+Water
+
+Addlitives
+
+TOTAL
+
+Weight, kg
+
+200-350
+
+1800-2100
+
+100-250
+
+0-50
+
+2288
+
+Post-consumer material,
+weight-%
+0
+
+100
+
+4%
+
+82
+
+Hormigones con CEM Il/B y ârido reciclado H30 estandar
+
+Product components
+
+CEM Il/B
+
+Crushed Gravel
+
+Water
+
+Addlitives
+
+Total
+
+Weight,
+kg
+200-350
+1700-2000
+100-250
+
+0-50
+
+2287
+
+Post-consumer material,
+weight-%
+0
+
+100
+
+4*
+
+81
+
+Hormigones con CEM Il/B y àrido reciclado H35 Estandar
+
+Product components
+
+CEM Il/B
+
+Crushed Gravel
+
+Water
+
+Addlitives
+
+TOTAL
+
+*The product contains a significant amount ofcleaning recycled water with origin on harvested rain water and
+
+of the transport trucks.
+
+Weight,
+kg
+200-400
+1600-2000
+100-250
+
+0-50
+
+2301
+
+Post-consumer material,
+weight-%
+0
+
+100
+
+4x
+
+79
+
+PAGE 10/40
+
+Renewable material,
+weight-%
+
+0
+
+100
+
+Renewable material,
+weight-%
+
+0
+
+100
+
+Renewable material,
+weight-%
+
+0
+
+100
+d'HoLcim = PD'
+
+Hormigones con CEM Il/B y àrido reciclado H25 Agjilia
+
+Post-consumer material,
+
+Product components Weight, kg weight-%
+CEM I1/B 300-400 0
+
+Crushed gravel 1600-200 100
+
+Water 100-250 sa
+
+Addlitives 0-50 0
+
+TOTAL 2299 69
+
+Hormigones con CEM Il/B y àrido reciclado H30 Agilia
+
+Post-consumer material,
+
+Product components Weight, kg weight-%
+CEM II/B 200-400 0
+
+Crushed gravel 1400-1800 100
+
+Water 100-200 4
+
+Additives 0-50 0
+
+TOTAL 2302 69
+
+Hormigones con CEM Il/B y ärido reciclado H35 Agilia
+
+Post-consumer material,
+
+Product components Weight, kg weight-%
+CEM I1/B 200-400 0
+
+Crushed gravel 1500-1900 100
+
+Water 100-250 sa
+
+Addlitives 0-50 0
+
+TOTAL 2321 69
+
+PAGE 11/40
+
+Renewable material,
+weight-%
+
+0
+
+100
+
+Renewable material,
+weight-%
+
+0
+
+Renewable material,
+weight-%
+
+0
+
+100
+d'HoLcIM
+
+—_ EPD
+
+Hormigones con CEM Il/B y ârido reciclado H25 Artevia
+
+Product components
+
+CEM II/B
+Crushed gravel
+Water
+Additives
+
+TOTAL
+
+Weight, kg
+
+200-350
+1700-2000
+100-300
+0-50
+
+2298
+
+Post-consumer material,
+weight-%
+0
+
+100
+
+4x
+
+81
+
+Hormigones con CEM I/B y àrido reciclado H30 Artevia
+
+Product components
+
+CEM II/B
+Crushed gravel
+Water
+Additives
+
+TOTAL
+
+Weight, kg
+
+200-400
+1800-2100
+100-300
+0-50
+
+2276
+
+Post-consumer material,
+weight-%
+0
+
+100
+
+4x
+
+80
+
+Renewable material,
+weight-%
+
+0
+
+100
+
+Renewable material,
+weight-%
+
+During the life cycle of the product any hazardous substance listed in the “Candidate List of
+Substances of Very High Concern (SVHC) for authorization” has not been used in a
+percentage higher than 0,1% of the weight of the product.
+
+PAGE 12/40
+d’HoLcIM EPD D
+
+Environmental Information- results are by m° of product
+
+Estimated impact results are only relative statements which do not indicate the end points of
+the impact categories, exceeding threshold values, safety margins or risks.
+
+Hormigones con CEMII/B y àrido reciclado H 25 Estâändar
+
+Potential environmental impact - mandatory indicators according to EN 15804
+Results per Functional Unit
+
+Indicator Unit or A4 A5 Bi B2 B3 B4 B5 B6 B7 Ci c2 x ca D
+189 AA6E 448E+  - 9,27 1,86E+ 9,12E+0  -7,28E+00
+CPS Kg CO:  ,92 +00 00 311 O0 O0 O0 O0 O0  O  E+00 ot 0 0
+fossil eq. E+00
+B9IE- 1,29E- 1,58E-  O 163  5,78E- 7,76E-03 -2,61E-02
+GWP-  kgC® ù
+nait ns 02 03 03 0 O O0 O0 O0  O  E-03 03 0
+195E- 121E- 587E O0 787  543E- 1,48E-03  -1,18E-02
+RS CC 03 04 0 O O0 O0 O0  O  E-04 03 0
+luluc eq.
+189E 416E 448E+  - 9,27 1,86E+ 9,18E40 -7,32E+00
+is kg CO» +02 +00 00 3,11 0 0 0 oO 0 0 E+00 o1 0 0
+total eq. E+00
+kocrc AE OSAE SB6E- 209  4,26E- 452E-06 _-1,71E-07
+ODP ee 06 07 07 0 DO O O0 O0 O0 Oo  E-06 06 0
+mou 49TE 70E 1,36 971  761E- 8,98E-02  -4,11E-02
+AP 2 ot 02 02 0 O0 O O0 O0 ©  o  E:-02 02 0
+" kg  5,46E- 2,20E- 1,60E- 150  Og4e.
+& a ’ = a =
+haie PO; 02 03 03 0 O0 O O0 O0 © Oo  E:-02 “a O 1,29E-02  -3,98E-03
+" 1,76E- G6,16E-  4,52E- 708  2,75E- 1,18E-04  -6,23E-04
+fesnwater KJPeq 03 05 05 0 O0 O O0 O0 © Oo  E-065 04 0
+" kgyn  126E 492E S72E- 421  2,20E- 3,26E-02 -2,96E-03
+Eire ot 03 03 0 O0 O0 O0 0 oo  E-œ 02  o
+" MoN SE ASE 437E- 463  2,45E- 3,64E-01 -6,97E-02
+a +00 02 02 0 O0 O O0 O0 ©  o  E-01 ot 0
+kg  G80E- 1,66E- 1,16E- 1,27  7A4E- 1,03E-01 -1,15E-02
+POCP NMVO ot 02 02 0 DO O O0 O0 © Oo  E-01 02 0
+Ceq.
+ADP- 559E- 1,23E-  2,78E- 3,09 :
+mineralsa K9 SP 05 05 06 0 O0 O O0 O0 oo Eo6 2 O 9756-06 -7,96E-05
+2 eq. 05
+metals
+995E 6,84E  3,31E+ 1,84
+ADP- 2,88E+ 3,02E+0
+Han MJ 402 +01 ot 0 0 0 0 0 o o eo 7 0 à -8,61E+01
+249E ASIE-  5,77E- 7,23
+WDP ms 401 01 01 0 O0 O O0 O0 © Oo  E-01 es 0 LÉ7E 0 1,32E+01
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartiment; EP-marine
+
+Acronyms “ = Eutrophication potential, fraction of nutrients reaching marine end compartiment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 13/40
+
+HOLCIM
+
+-—_ EPD
+
+Potential environmental impact — additional mandatory and voluntary
+
+indicators
+Results per Functional Unit
+Indicator Unit LA A5 B1 B2 À Ba B5 B6 B7 C1 C2 C3 C4 D
+GWP- kg 1,89E 4,16 4,48 - 9,27E+0  1,86E+0 9,12E+ -7,28E+00
+GHGS CO: +02 E+00 E+0 3,11 0 0 0 0 0 0 0 1 0 00
+eq. 0 E+00
+Use of resources
+Results per Functional Unit
+Indicator Unit TA A4 A5 Bi  B2 B3 B4 B5 B6 B7 C1 C2 C3 ca D
+8,17E+ 6,67E- 8,33E- 7,3 -
+PERE M 01 01 01 0 O0 © © © o o 4 %E+ Oo  SSSE#0 : 99
+00 0
+-01 +01
+0 (0)
+PERM MJ 0 0 0 0 0 0 0 0 0 0 0 0 0
+8,17E+ 6,67E- 8,33E- 7,3 -
+PERT M 01 01 01 0 O0 O0 © © o o 4 %E+ oO  SSSE#0 0
+00 0
+-01 +01
+1,05E+  6,73E+  3,51E+ 1,3 :
+PENRE M 03 01 01 0 0 0 0 0 0 0 4E  3,01E+ 0 3,20E+0 9,15E
++0 02 2
+2 +01
+0 (0)
+PENRM MJ. 0 0 0 0 0 0 0 0 0 0 0 0 0
+1,05E+  6,73E+  3,51E+ 1,3 -
+PENRT MJ 03 (0x 01 0 0 0 0 0 0 0 4E  3,01E+ 0 3,20E+0 9,15E
++0 02 2
+2 +01
+0 (0)
+SM kg 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 (0)
+RSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 (0)
+NRSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0
+2,03E+ 1,19E-  5,20E- L4 5 30€- :
+FEW m$ 00 02 02 0 0 0 0 0 0 0 1E L 0 3,40E-01  2,38E
+02 2 +00
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+Acronyms renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use ofsecondary
+material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+water
+
+$ The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and
+emissions and biogenic carbon stored in the product. This indicator is thus equal to the GWP indicator originally defined in
+EN 15804:2012+A1:2013.
+
+PAGE 14/40
+
+P'HoLciM = EPD'
+
+Waste production and output flows
+
+Waste production
+Results per Functional Unit
+
+Indicator Unit TEA A4 A5 Bi B2 B3 B4 B5 BG B7 C1 c2 c3 ca D
+6,52E  4,00E- 1,91
+hezaroous 04 05 E-05 5,98E- 1,79E- 1,03E-  -4,59E-
+waste Kg 0 0 0 0 0 0 0 05 04 0 04 04
+disposed
+Non- 1,39E  2,98E 4,63 1,43E- 1,33E 2,52E =
+hazardous +01 +00 E+01 01 +01 +02 3,97E+
+waste Kg 0 0 0 0 0 0 0 0 00
+disposed
+Radioactive 7,69Ë 4,29E- 2,39 9,31E-  1,92E- 2,06E-  -5,03E-
+waste kg -03 04 E-04 0 0 0 0 0 0 0 04 03 0 03 04
+disposed
+Other output flows
+Results per Functional Unit
+Tot.
+Indicator Unit Aî- A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+A3
+Components kg 0 O0 0  o 0 DO O0 O0  o 0 0 0 0 0 0
+or re-use
+Material for 2,04
+recycling Kg 0 0 0 0 0 0 0 0 0 0 0 0 E+03 0 0
+Materials for
+energy kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+recovery
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 15/40
+
+d'HoLcim "{PD
+
+Environmental Information- results are by m° of product
+
+Hormigones con CEM Il/B y ârido reciclado H30 Eständar
+
+Potential environmental impact - mandatory indicators according to EN 15804
+
+Results per Functional Unit
+Tot.A1
+
+Indicator Unit Fe A4 A5 Bi  B2 B3 B4 B5 B6 B7 C1 c2 x ca D
+249E 4.40E  5,06E+ - 9,27  1.93E+ 1.00E+0  -1,66E+01
+CWPS, | kKgCO 52 +00 00 367 O0 O0 O0 O OO E+00 01 0 1
+fossil eq. E+00
+5,13E- 1.37E-  1,38E- 0 1,63  6.01E- 8.53E-03  -5,96E-02
+GWP- kg CO: ? ? , b
+biogenic a 02 03 03 0 O0 O0 Oo o 0  E-03 03 0
+1,59E- 1.28E-  5,08E- 0 7,87  5.64E- 1.62E-03 -2,59E-02
+Er Kg COz 02 03 04 0 0 0 O0  o 0 E-04 03 0
+luluc eq.
+249E 4.40E  5,06E+ - 9,27  1.93E+ 1.00E+0  -1,67E+01
+EU KgCO 92 +00 00 367 O0 O0 O O0 OO  E+00 ot 0 1
+otal eq. E+00
+kacre 102E- 1OIE- 4,16E- 2,09  4.43E- 497E-06  -3,92E-07
+ODP 4 cd 05 06 07 0 0 O0 O0 0 o 0  E-06 06 0
+mon S47E- 180E-  1,49E- 9,71  791E- 9.87E-02  -9,41E-02
+AP ed 01 02 02 0 0 O0 O0 0 o 0  E-02 02 0
+" kg 6,00E- 2.33E-  1,74E- TON
+PO; 02 03 03 0 0 O0 O0 0 o 0  E-02 O 1.41E-02  -8,98E-03
+freshwater eq. 02
+EP 1,97E- 6.52E-  4,91E- 7,08  2.86E- 1.30E-04 -1,42E-03
+freshwater “JPeq 03 05 05 0 0 O0 O0 0 o 0  E-05 04 0
+EP kon  1%40E- 520E- 4,10E- 4,21  2.28E- 3.58E-02 -6,76E-03
+g 01 03 03 0 0 O0 O0 0 o 0  E-02 02 0
+marine eq.
+" moin  167E 581E- 4,78E- 4,63 2.55E- 4.00E-01 -1,59E-01
+nr eq +00 02 02 0 0 O0 O0 0 o 0  E-01 01 0
+kg 4,30E- 1.76E-  1,28E- 1,27  7.73E- 1.14E-01 -2,63E-02
+POCP NMVO 01 02 02 0 0 O0 O0 0 o 0  E-01 02 0
+C eq.
+ADP- kosb ABSE- 181E- 2,60E- 3,09  5.73E- 1.07E-05  -1,82E-04
+minerals& à 05 05 06 0 0 O0 O0 0 o 0  E-06 05 0
+metals* GE
+ADP: 118€ 6.71E  3,75E+ 1,34  2.94E+ 3.31E+0 -1,97E+02
+. MJ +03 +01 01 0 0 O0 O0 0 o 0  E+02 02 0 2
+fossil
+2,82E  6.52E-  6,44E- 7,23  2.00E+ 1.40E+0 -3,02E+01
+WDP m° +01 05 01 0 0 O0 O0 0 o 0  E-01 00 0 0
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine
+
+Acronyms \ = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 16/40
+
+P'HoLcIM = PD'
+
+Potential environmental impact — additional mandatory and voluntary
+
+indicators
+Results per Functional Unit
+Indicator Unit TEA A4 A5  B1 B2 À Ba B5 B6 B7 C1 C2 C3 C4 D
+GWP- kg 2,19E 440 5,06 - 9,27E+0 1,93E+0 1,00E+ -1,66E+01
+GHGS CO: +02 E+00 E+0 3,67 0 0 0 0 0 0 0 1 0 01
+eq. 0 E+00
+Use of resources
+Results per Functional Unit
+Indicator Unit TA A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 C2 C3 ca D
+2,59E+ 7.06E- 7,16E- -
+PERE M 01 01 01 NON ONG NO NON NON NE TES OICEEOS CS OSEO OTSE
+01 0 0 01
+0 0
+PERM MJ 0 0 0 0 0 0 0 0 0 0 0 0 0
+2,59E+ 7.06E- 7,16E- =
+PERT M 01 01 01 NON ONG NON ON NON NOTES OICEEOS CS OSEO OTSE
+01 0 0 +01
+1,24E+ 7.12E+ 3,98E+ =
+PENRE M 03 01 01 0 O0 0 0 o o o VE S12E40 QG SS2E40 Lo
++02 2 2
++02
+0 0
+PENRM MJ. 0 0 0 0 0 0 0 0 0 0 0 0 0
+1,24E+ 7.12E+ 3,98E+ =
+PENRT M 03 01 01 CANON OMC NON IN ON NON NUE EN OPPOSER OTSE
++02 2 2
++02
+0 0
+SM kg 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0
+RSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0
+NRSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0
+1,50E+ 1.25E-  4,18E- - - -
+FW m° 00 02 02 0 0 0 o o o o VAE SSIE GO 373601 2,38
+02 02 +00
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+Acronyms renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use of
+secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+water
+
+6 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and
+emissions and biogenic carbon stored in the product. This indicator is thus equal to the GWP indicator originally defined in
+EN 15804:2012+A1:2013.
+
+PAGE 17/40
+
+HOLCIM
+
+-—_ EPD
+
+Waste production and output flows
+
+Waste production
+Results per Functional Unit
+
+Indicator Unit TEA A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 c2 c3 ca D
+4,73E 4,23E- 1,64 5,98E-
+Hazardous S ? ? ?
+waste kg -04 05 E-05 0 0 0 0 0 0 0 05 1,86E- 0 1,18E-  -4,58E-
+: 04 04 04
+disposed
+Non- 2,26E 3,15E 4,73 1,43E-  1,38E 2,52E -
+hazardous kg +01 +00 E+01 0 0 0 0 0 0 0 01 +01 0 +02 3,96E+
+waste 00
+disposed
+fadosae| SRE HE 23 TALES FAR
+waste Kg 0 0 0 0 0 0 0 0
+disposed
+Other output flows
+Results per Functional Unit
+Tot.
+Indicator Unit Ai- A4 A5  B1 B2  B3  B4 B5 B6 B7 C1 c2 C3 C4 D
+A3
+Components
+for re-use kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+Material for 2,04
+recycling kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 E+03 0 (0)
+Materials for
+energy kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+recovery
+Exported
+energy, MJ 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 18/40
+d'HoLcim "{PD
+
+Environmental Information- results are by m° of product
+
+Hormigones con CEM Il/B y ârido reciclado H35 Estandar
+
+Potential environmental impact - mandatory indicators according to EN 15804
+
+Results per Functional Unit
+
+Tot.Ai B
+
+B
+Indicator Unit -A3 A4 A5 B1 B2 B3 B4 5 B6 7 C1 C2 3 C4 D
+221E  4,40E G6,88E+  - 9,32 1,93E+ 9,84E+0  -1,67E+01
+cut Kg CO:  ,62 +00 00 416 0 0 O0 O0 O0 O E+00 01 0 0
+ossil eq. E+00
+6,25E- 1,37E- 2,22E- O0 1,64  GJOIE- 8,38E-03  -6,00E-02
+GWP-  kgCO ‘
+Sete ee 02 03 03 0 O0 O0 0 Oo o E:03 03 0
+1,69E- 1,29E- 7,24E-  O 7,92  B,64E- 1,59E-03 -2,60E-02
+SC 0 03 04 0 O0 O0 O0 O0 O E04 03 0
+luluc eq.
+221E 4,40E G,88E+  - 9,32 1,93E+ 9,85E+0  -1,68E+01
+D CCC 02 00 00 416 O0 O0  O O O O E+00 01 0 0
+total eq. E+00
+kacrc B9ZE- 1OÏE- 4,69 211  443E- 4,88E-06  -3,94E-07
+ODP q ce 06 06 07 0 0 O0 O0 0 Oo o E-06 06 0
+moins SSTE- 180E 1,96€ 977  791E- 9,69E-02  -9,47E-02
+AP 2 ot 02 02 0 0 O0 O0 O0 O0 Oo E-02 02 0
+EP: kg  6,03E- 2,33E-  2,25E- 151 00.
+3- » ; » : d
+sata POI 02 03 03 0 0 O0 O0 0 oO o E-02 DO 1,%E-02 -9,04E-03
+EPS 209E- 6,58E-  6,82E- 7,42  281E- 1,28E-04  -1,43E-03
+feshwater “JPeg 03 05 05 0 0 OO O0 © © E:-05 04 0
+EPS kon 138 520 5,20E- 423  2,24E- 3,52E-02 -6,80E-03
+9 ot 03 03 0 0 O0 O0 0 oO o E-02 02 0
+marine eq.
+EPS moin 166E SBiE G,4E- 465  2,50E- 3,98E-01 -1,60E-01
+EL +00 02 02 0 0 O0 O0 O0 oO oO E:-0t ot 0
+kg  414E- 1,76E-  1,59E- 1,28  7,59E- 1,12E-01 -2,64E-02
+POCP NMVO 01 02 02 0 0 O0 O0 O0 oO oO E:-0t 02 0
+C eq.
+ADP- kasb S96E 13IE- 3,4E- 311  5,68E- 1,05E-05  -1,83E-04
+minerals& “2 05 05 06 0 0 O0 O0 0 Oo o E-06 05 0
+metals* gr
+EE 1,06€ 6,71  4,40E+ 1,35  2,89E+ 3,25E+0 -1,98E+02
+. MJ 403 +01 ot 0 0 OO O0 O0 O E#02 O2 0 2
+fossil
+289E 4,57E-  8,79E- 7,27 1,97E+ 1,87E40  -3,04E+01
+WDP me +01 01 ot 0 0 O0 O0 O0 © oO E:-0t 00 0 0
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine
+
+Acronyms \ = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 19/40
+
+HOLCIM
+
+-—_ EPD
+
+Potential environmental impact — additional mandatory and voluntary
+
+B1
+
+4,16
+E+00
+
+A5
+
+1,08E+
+00
+
+0
+1,08E+
+00
+
+4,66E+
+01
+
+4,66E+
+01
+
+6,54E-
+02
+
+B2 B4 B5
+
+3
+
+0 0 0 0
+
+Bi B2 B3 B4
+
+0 0 0 0
+
+Results per Functional Unit
+
+B6 B7 C1
+
+9,32E+0
+0 0
+
+Results per Functional Unit
+
+B5  B6 7 C1
+7,81E-
+0 0 0 01
+0
+0 0 0
+7,81E-
+0 0 0 01
+1,43E
+0 0 O0 +02
+0
+0 0 0
+1,43E
+0 0 O0 +02
+0
+0 0 0
+0
+0 0 0
+0
+0 0 0
+1,42E-
+
+0 0 0 02
+
+C2
+
+1,93E+0
+L
+
+C2
+
+3,04E+
+
+00
+
+3,04E+
+
+3,07E+
+
+02
+
+3,07E+
+02
+
+5,41E-
+02
+
+C3 C4
+9,84E+
+0 00
+c3 ca
+4,27E+0
+u 0
+0 0
+4,27E+0
+u 0
+3,45E+0
+0 2
+0 0
+3,45E+0
+u 2
+0 0
+0 0
+0 0
+0  3,66E-01
+
+D
+
+-1,67E+01
+
+2,10E
++01
+
+2,10E
++01
+
+2,10E
++02
+
+2,10E
++02
+
+(0)
+
+2,39E
++00
+
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+
+renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+
+indicators
+. : Tot.A
+Indicator Unit 1-A3 A5
+: kg  2,21E 4,40 6,88
+nue CO: +02 E+00 E+0
+eq. 0
+Use of resources
+. : Tot.A1-
+Indicator Unit A3 A4
+2,73E+ 7,06E-
+PERE MJ 01 01
+0
+PERM MJ 0
+2,73E+ 7,06E-
+PERT MJ 01 01
+1,12E+ 7,12E+
+PENRE MJ 03 01
+0
+PENRM MJ. 0
+1,12E+ 7,12E+
+PENRT MJ 03 01
+0
+SM kg 0
+0
+RSF MJ 0
+0
+NRSF MJ 0
+1,57E+ 1,26E-
+FW m$ 00 02
+Acronyms
+
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use of
+
+secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+
+water
+
+7 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus equal to
+the GWP indicator originally defined in EN 15804:2012+A1:2018.
+
+PAGE 20/40
+HOLCIM
+
+-—_ EPD
+
+Waste production and output flows
+
+Waste production
+
+Tot.A
+
+Results per Functional Unit
+
+Indicator Unit 1-A3 A4 A5 B1 B2 B3 B4 B5  B6 B7 C1 C2 C3 C4 D
+6,52E 4,23E- 1,91 6,01E-
+Hazardous ? ? ? ?
+waste kg -04 05 -05 0 0 0 0 0 0 0 05 1,82E- 0 1,11E- -4,61E-
+: 04 04 04
+disposed
+Non- 1,39E 3,15E 4,63 1,44E-  1,36E 2,53E -
+hazardous +01 +00 E+01 01 +01 +02 8,99E+
+waste Le] 0 (0) (0) 0 0 0 0 0 00
+disposed
+fadosaie 79 4H 23e FAR AL
+waste kg 0 0 0 0 0 0 0 0
+disposed
+Other output flows
+Results per Functional Unit
+Tot.
+Indicator Unit A1i- A4 A5 Bi B2  B3  B4 B5 B6 B7 C1 C2 C3 C4 D
+A3
+Components
+for re-use kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+Material for 2,04
+recycling kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 E:03 0 (0)
+Materials for
+energy Kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+recovery
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 21/40
+P'HoLcIM D | EPD'
+
+Environmental Information- results are by m° of product
+Hormigones con CEM Il/B y àrido reciclado H25 Agjilia
+
+Potential environmental impact - mandatory indicators according to EN 15804
+
+Results per Functional Unit
+
+Indicator Unit MOT A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 c Sc D
+5,02E - 931E 1,98E+ 9,84E40  -1,67E+01
+cu KgCO Do7E 400 5,87E+ 4,43 O0 O0 O0 O0 OO +00 ot 0 0
+GÉEI Et} +02 00 E+00
+1,56E- 0 1,64E-  G,01E- 8,38E-03 -5,99E-02
+DOUE KgCO Dose. 03  1,91E- 0 O0 O0 O0 0 0 03 03 0
+Iogenic eq. 02 03
+1 A7E- 0 791E-  5,64E- 1,59E-03 -2,60E-02
+CRD UGS 455 (03 7.32 0 O0 O0 O0 0  o «4 03 0
+uluc eq. 02 04
+5,08E - 9,32E  1,98E+ 9,85E40  -1,68E+01
+EU KgCO% 227 400  5,88E+ 413 O0 O0 O0 O OO +00 ot 0 0
+Gigi Et} +02 00 E+00
+kGEC 1,15E- 2,10E-  4,43E- 4,88E-06  -3,94E-07
+ODP g HA1E- 06  460E- O0 O0 O0 O0 O0 O0 oO 6 06 0
+11 ec. 05 07
+mot 2,06E- 9,76E- 7,91E- 9,69E-02  -9,46E-02
+AP 5,77E- 02 1,73 O0 O0 O0 O0 O O0 oo 02 0
+Et} 01 02
+" kg  G,19E- Z2,66E-  1,98E- LSTE- Oo gpe.
+POS 02 03 03 0 O0 O0 O0 O0 O0 oo 0 1,36E-02  -9,03E-03
+freshwater eq. 03
+" 7,45E- ZAIE-  2,75E- 1,25E-04  -1,43E-03
+ireshater M9PE9 Z2H0E 05 SE 0 O0 0 0 0 0 0 06 04 0
+" N 5,94E- 428E-  2,19E- 3,44E-02  -6,80E-03
+9 1H45E- 03  4,68- O0 DO O0 O0 O0 Oo o2 œ 0
+marine eq. 01 03
+EPS moin 6,63E- 4,65E-  2,45E- 3,84E-01  -1,60E-01
+172 O2  5,50Œ- O0 O0 O O0 O0 O0 oo! ot 0
+terrestrial eq. +00 02
+kg 2,01E- 1,28E-  7,48E- 1,09E-01 -2,64E-02
+POCP  NMVO  4,68E- O2  1,50E- O0 O0 O0 O0 © O0 0 ot CT
+C eq. 01 02
+ADP- Lee 1,A9E- S1E- 5,51E- 1,03E-05 -1,83E-04
+minerals&  X© 4,80E- 05 261 O0 O0 O0 O O O0 Oo 06 05 oO
+metals* EI 05 06
+RBE 7,66E 185E  2,83E+ 3,19E40  -1,98E+02
+. MJ 1,52 +401  474E+ O0 O0 O O0 O0 O0 Oo +02 02 0 2
+fossil +03 01
+5,21E- 7,26E-  1,93E+ 1,84E40  -3,04E+01
+WDP mi 3,47E Of 8,37 O0 O0 O0 O O0 O0 © ot 00 0 0
++01 (oh!
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine
+
+Acronyms \ = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 22/40
+
+P'HoLcIM = PD'
+
+Potential environmental impact — additional mandatory and voluntary
+
+indicators
+Results per Functional Unit
+Indicator Unit TEA A4 A5  B1 B2 À Ba B5 B6 B7 C1 c2 C3 C4 D
+GWP- kg 5,02 5,87 = 9,31E+0  1,93E+0 9,84  -1,67E+01
+GHG® CO 2,27E E+00 E+0 4,13 O0 O0 oO 0 0 0 0 1 0 E+00
+eq. +02 0 E+00
+Use of resources
+Results per Functional Unit
+Indicator Unit Les A4 A5 Bi B2 B3 B4 B5 B6 B7 Ci C2 C3 ca D
+PERE MJ 253E+ BO06E- 6E+ O0 O0 0 o o o o V0 PE © +10 o4te
+01 01 00 Lu +00
+0 0
+PERM MJ 0 0 0 0 O0 O0 O0 oo 0 0 0 0 0
+PERT MJ 253E+ 806E- 6E+ O0 O0 O0 O0 0 o o #90 on 0 210 9,11E
+01 01 00 à +00
+PENRE MJ  1,62E+  8,13E+  5,04E+ O0 O0 O0 O0 © © o DE as 0 0  240E
+03 01 01 à +02
+0 0
+PENRM M. 0 0 0 0 O0 O0 O0 oo 0 0 0 0 0
+PENRT MJ  1,62E+  8,13E+ 5,04E+ O0 O0 O0 O © © o DE as CT
+03 01 01 à +02
+0 0
+SM kg 0 0 0 0 O0 O0 O0 oo 0 0 0 0 0
+0 0
+RSF MJ 0 0 0 0 O0 O0 O0 oo 0 0 0 0 0
+0 0
+NRSF MJ 0 0 0 0 O0 O0 O0 oo 0 0 0 0 0
+1,38E+  1,43E-  7,64E- | u
+FW ms 00 02 02 0 0 0 0 o o o  V2E SSSÆE GO  366E0t 2,39
+02 -01 %00
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+Acronyms renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use of
+secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+water
+
+8The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus equal to
+the GWP indicator originally defined in EN 15804:2012+A1:2018.
+
+PAGE 23/40
+
+P'HoLciM = EPD'
+
+Waste production and output flows
+
+Waste production
+Results per Functional Unit
+
+Indicator Unit TEA A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 c2 c3 ca D
+Hazardous
+6,01E-  1,78E- 1,09E-  -4,61E-
+NESLE Kd 54e 483. 193 © 0 0 0 0 0 0 05 04 S 04 04
+disposed 04 05 E-05
+Non- 1,44E- 1,33E 2,52E =
+hazardous 01 +01 +02 8,99E+
+waste KJ 229 360€ 454 9 0 0 0 0 0 0 S 00
+disposed +01 +00 E+01
+Radioactive EE Le 2 SE
+waste Kg 0 0 0 0 0 0 0 0
+: 5,76E 5,18E- 2,30
+disposed 03 04 E-04
+Other output flows
+Results per Functional Unit
+Tot.
+Indicator Unit Ai- A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 Ca D
+A3
+Components
+GT EURE Kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Material for 2,04
+recycling Kg 0 0 0 0 0 0 0 0 0 0 0 0 E+03 0 0
+Materials for
+energy Kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+recovery
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 24/40
+
+P'HoLcIM D | EPD'
+
+Environmental Information- results are by m° of product
+
+Hormigones con CEM Il/B y ârido reciclado H30 Agilia
+
+Potential environmental impact - mandatory indicators according to EN 15804
+
+Results per Functional Unit
+
+Indicator Unit lOtA1 14 A5 Bi  B2 B3 B4 P B6 PB c1 c2 € ca D
+-A3 5 7 3
+253E+ 459 573E+  - 9,33  1,91E+ 9,92E+0  -1,68E+01
+GWP- © kgCO 5» +00 00 398 0 0 OO O O E+00 01 0 0
+fossil eq. E+00
+G16E- 1,43E- 1,55 O0 1,64  5,95E- 8,45E-03  -6,00E-02
+WP. kgC® 03 03 0 0 O0 O0 O oO E-03 03 0
+Iogenic eq.
+1,95E- 1,34E- 561E-  O 792  5,58E- 1,61E-03 -2,60E-02
+CU VKICX 02 ‘08 04 0 O0 O0 O0 O0 O0 E04 03  o
+luluc eq.
+253E+ 460E 5,74E+  - 9,33  1,91E+ 9,98E+0  -1,68E+01
+GWP- kgCo % +00 00 398 0 0 O0 O0 O0 O E+00 01 0 0
+total eq. E+00
+kocrc ‘V23E 105E 4,53- 2,11  4,39E- 492E-06 _-3,94E-07
+ODP î éd 05 06 07 0 0 0 0 O0 O0 O E-06 06 0
+mou Ô4E 188E  1.67E- 977  783E- 9,77E-02 -9,47E-02
+AP 2 01 02 02 0 0 0 0 O0 Oo o E-o®2 02 0
+EPS kg  G9tE- 2,43E-  1,91E- 151 ME.
+POS 02 03 03 0 0 0 O0 O0 © Oo Eœ ? O 1,40E-02  -9,04E-03
+freshwater eq. 02
+EP: 292E- G681E-  5,58E- 7,12  2,8E- 1,29E-04  -1,43E-03
+feshuater 4JPea 03 05 05 0 0 0 O0 O0 O0 oO E-065 04 0
+EP: kon  Z278E S543E 4,52E- 424  2,26E- 3,55E-02 -6,81E-03
+g ot 03 03 0 0 0 0 O0 oO o E-®2 02 0
+marine eq.
+EPS moin  S16E 606E 5,28E- 466  2,52E- 3,96E-01  -1,61E-01
+EE +00 02 02 0 0 0 O0 O0 oO o Et 01 0
+kg  B69E- 1,84E-  1,45E- 1,28  7,65E- 1,12E-01 -2,64E-02
+POCP NMVO 01 02 02 0 0 0 O0 O0 oO o Et 02 0
+C eq.
+ADP- kasb TSBE 136E- 2,64E- 311  5,68E- 1,06E-05  -1,83E-04
+minerals& “© 04 05 06 0 0 0 O0 O0 O0 oO E-06 05 0
+metals* q:
+EE 251E 7,00E  4,65E+ 1,35 2,91E+ 3,28E+0  -1,98E+02
+" MJ +03 +01 ot 0 0 0 O0 O0 O0 O E+#02 0 0 2
+fossil
+ASE  477E-  B,08E- 7,27  1,98E+ 1,88E40 -3,04E+01
+WDP ms +01 ot ot 0 0 0 O0 O0 oO Oo Et 00 0 0
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine
+
+Acronyms \ = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 25/40
+
+U’HOLCIM a 1 2)
+
+Potential environmental impact — additional mandatory and voluntary
+
+indicators
+Results per Functional Unit
+Indicator Unit TEA A4 A5  B1 B2 À Ba B5 B6 B7 C1 C2 C3 C4 D
+ee kg 253 460 574 - 9,38E+0  1,91E+0 9,98E+  -1,68E+01
+QUGe CO +02 E+00 E+#0 398 0 O0 0 O0 0  o 0 1 0 00
+eq. 0 E+00
+
+Use of resources
+Results per Functional Unit
+
+Indicator Unit Les A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 c2 c3 ca D
+331E+ 7,7E-  8,23E- -
+PERE MJ ot 01 ot 0 0 0 0 0 o o PSE SO7E+ ÇG | 480E0 JE
+01 00 0
++01
+PERM M 0 0 0 0 O0 0 O0 0 o o 0 0 0 0 0
+394E+  7,37E-  9,50E- -
+PERT MJ 01 01 ot 0 0 0 0 0 o o PSE SO7E+ ÇG | 480E0 JE
+01 00 0 Ne
+174E+ 7A3E+  4,95E+ ;
+PENRE MJ 03 ot ot D GA TNT À TS TS, MESSE | GRIÈEM ART VS O0, RATE
++02 02 2 TD
+0 0
+PENRM M. 0 0 O0 0 O0 0 o o 0 0 0 0 0
+174E+ 7A3E+  4,95E+ -
+PENRT MJ 03 ot ot 0 0 0 0 0 0 o 1V4E SOE+ Ç 348840 JE
++02 02 2
++02
+0 0
+sM kg 0 0 O0 0 O0 0 o o 0 0 0 0 0
+0 0
+RSF M 0 0 O0 0 O0 0 o o 0 0 0 0 0
+0 0
+NRSF M 0 0 O0 0 O0 0 o o 0 0 0 0 0
+197E+ 1S3IE-  4,81E- _
+FW ms 00 02 02 0 O0 O0 0 o o o ! Lu ds O  3,69E-01  2,39E
+
++00
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use of
+
+secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+
+water
+
+Acronyms
+
+8 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus equal to
+the GWP indicator originally defined in EN 15804:2012+A1:2018.
+
+PAGE 26/40
+
+HOLCIM
+
+-—_ EPD
+
+Waste production and output flows
+
+Waste production
+
+Results per Functional Unit
+
+Indicator Unit TEA A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 c2 c3 ca D
+5,94E 4,42E- 1,87
+Hazardous L : 1 6,01E-
+waste kg -04 05 E-05 0 0 0 0 0 0 0 05 1,84E- 0 1,12E- -4,61E-
+: 04 04 04
+disposed
+Non- 2,35E 3,29E 4,68 1,44E-  1,37E 2,52E -
+hazardous kg +01 +00 E+01 0 0 0 0 0 0 0 01 +01 0 +02 3,99E+
+waste 00
+disposed
+fañoase) SEE (JE La al TA
+waste Kg 0 0 0 0 0 0 0 0
+disposed
+Other output flows
+Results per Functional Unit
+Tot.
+Indicator Unit Ai- A4 A5  B1 B2  B3  B4 B5 B6 B7 C1 c2 C3 C4 D
+A3
+Components
+for re-use kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+Material for 2,04
+recycling kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 E+03 0 (0)
+Materials for
+energy kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+recovery
+Exported
+energy, MJ 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 27/40
+
+P'HoLcIM D | EPD'
+
+Environmental Information- results are by m° of product
+Hormigones con CEM Il/B y àrido reciclado H35 Agilia
+Potential environmental impact - mandatory indicators according to EN 15804
+
+Results per Functional Unit
+Tot.A1
+
+Indicator Unit Ne A4 A5 Bi  B2 B3 B4 B5 B6 B7 C1 œ © ca D
+258E 4,22E 581E+  - 9,40E+  1,87E+ 9,73E+0  -1,69E+01
+CWPS, | KgCO 52 +00 00 411 O0 O0 O0 0 © o 00 ot 0 0
+fossil eq. E+00
+G5IE- 1,31E- 1,61E- O0 1,66E- 5,88E- 8,28E-03 -6,05E-02
+GWP- kg CO» ; ; ; ; ; ; ;
+are e 02 03 03 0 O0 0 0 o o 03 03 0
+207E- 1,23E- 5,79E-  O 7,99E-  5,47E- 1,58E-03 -2,63E-02
+GWP- kg CO» ; ; ; ; ; ; ;
+te e 02 03 04 0 O0 0 0 o o 04 03 0
+258E 4,22E B81E+  - 9,40E+  1,88E+ 9,74E+0  -1,70E+01
+CWES KICO 92 +00 00 411 O0 O0 O0 O 0 o 00 ot 0 0
+total eq. E+00
+kacrc ‘123E- 96BE- 440E- 2,12E-  4,30E- 4,83E-06 _-3,98E-07
+ODP q ce 05 07 07 0 O0 O0 0 © oo 06 06 0
+moine GS5E 173E 1,69€ 9,85E-  7,68E- 9,58E-02 -9,55E-02
+AP 2 ot 02 02 0 O0 O0 0 © oo 02 02 0
+" kg  7,06E- 2,23E-  1,93E- 15-99.
+8. ? = d 4
+eshaier POI 02 03 03 0 O0 O0 0 © oo 02 e O 1,37E-02 -9,12E-03
+EP; 2,36E- 6,25E-  5,66E- 7,18E-  2,78E- 1,26E-04  -1,45E-03
+feshuater KJPEea 03 05 05 0 O0 O0 0 © oo 05 04 0
+EPS kon 66 499E 4,55E- 427E-  2,22E- 3,48E-02 -6,86E-03
+9 ot 03 03 0 O0 O0 0 © oo 02 02 0
+marine eq.
+EPS moin 197E SS7E 5,38 AG9E-  2,47E- 3,88E-01  -1,62E-01
+EE +00 02 02 0 O0 O0 0 © oo ot ot 0
+kg  5,29E- 1,69E- 1,46E- 1,29E- 7,51E- 1,10E-01  -2,67E-02
+POCP NMVO 01 02 02 0 O0 O0 0 © oo ot 02 0
+C eq.
+ADP- kasb 49 125E- 2,57E- 3,14E-  5,57E- 1,04E-05 -1,85E-04
+minerals& “2 05 05 06 0 O0 O0 0 0 o o 06 05 0
+metals* gr
+De 1,66€ 6,43E  4,66E+ 1,86E+  2,86E+ 3,22E+0  -2,00E+02
+.. MJ 103 +01 ot 0 O0 O0 0 © oo 02 02 0 2
+fossil
+374E  4,88E-  8,23E- 7,38E- 1,94E+ 1,86E40 -3,06E+01
+WDP ms +01 ot ot 0 O0 O0 0 © oo ot 00 0 0
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine
+
+Acronyms \ = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 28/40
+
+P'HoLcIM = PD'
+
+Potential environmental impact — additional mandatory and voluntary
+
+indicators
+Results per Functional Unit
+…_ TotA B
+Indicator Unit VE A4 A5 Bi B2 5 B4 B5 B6 B7 C1 c2 C3 ca D
+ave kg  2,58E 4,22 581  - 9,40E+0  1,87E+0 9,73E+ -1,69E+01
+Ge CO: 402 E400 E#0 411 0 O0 O0 O0 0  o 0 1 0 00
+eq. 0 E+00
+Use of resources
+Results per Functional Unit
+Indicator Unit Les A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 c2 c3 ca D
+355E+  6,77E-  8,67E- -
+PERE MJ ot ot 01 ONG SN À À TN M ÇN  AUCASEN M3OTESS MÇSY A 22E50N SE
++02 00 0 ou
+0 0
+PERM MJ 0 0 O0 O0 o o  o o l#E 0 0 0 0
++02
+355E+  6,77E-  8,67E- -
+PERT MJ ot ot 01 0 O0 O0 0 ©  o o 0 GONE, ÇA 22E 0) LOT E
+00 0 101
+1,77E+  6,88E+ 4,96E+ . =
+PENRE MJ 03 ot ot OMG ON MM MON NE CRISE ARNO MNT
+ot 02 2
++02
+0 0
+PENRM M. 0 0 O0 O0 0 ©  o o 0 0 0 0 0
+177E+ 743E+  4,96E+ . -
+PENRT MJ 03 ot ot 0 0 0 0 © oo o 798E- SOSE+ Ç 34880 , dE
+ot 02 2
++02
+0 0
+sM kg 0 0 O0 O0 0 ©  o o 0 0 0 0 0
+0 0
+RSF MJ 0 0 O0 O0 0 ©  o o 0 0 0 0 0
+0 0
+NRSF MJ 0 0 O0 O0 0 ©  o o 0 0 0 0 0
+215E+  1,20E-  5,15E- -
+FW ms 00 02 02 0 O0 0 O0 0  o o Le PE 0 3,62E-01 241E
+
++00
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use of
+
+secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+
+water
+
+Acronyms
+
+10 The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus equal to
+the GWP indicator originally defined in EN 15804:2012+A1:2018.
+
+PAGE 29/40
+
+P'HoLcIM D | EPD'
+
+Waste production and output flows
+
+Waste production
+Results per Functional Unit
+
+Indicator Unit OA A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 c2 c3 ca D
+
+6,52E 4,06E- 1,91
+
+Hazardous
+waste kg -04 05 E-05 0 0 0 0 0 0 0 6,06E- 1,80E- 0 1,10ËE-  -4,65E-
+: 05 04 04 04
+disposed
+Non- 1,39E  8,02E 4,63 1,45E- 1,34E 2,52E =
+hazardous +01 +00 E+01 01 +01 +02 4,02E+
+waste kg 0 (0) (0) 0 0 0 0 0 00
+disposed
+fadosañe 79 AP 23e FAR FALSE
+waste kg 0 0 0 0 0 0 0 0
+disposed
+Other output flows
+Results per Functional Unit
+Tot.
+Indicator Unit Ai- A4 A5 Bi B2  B3  B4 B5 B6 B7 Ci C2 C3 C4 D
+A3
+Components
+for re-use kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+Material for 2,04
+recycling kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 E:03 0 (0)
+Materials for
+energy Kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+recovery
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 30/40
+
+P'HoLcIM D | EPD'
+
+Environmental Information- results are by m° of product
+
+Hormigones con CEM II/B y ârido reciclado H25 Artevia
+
+Potential environmental impact - mandatory indicators according to EN 15804
+Results per Functional Unit
+
+Indicator Unit TA 14 A5 Bi  B2 B3 Ba PB B6 PB c1 cz C ca D
+-A3 5 7 3
+201E  4,68E  4,68E+  - 9,31 1,91E+ 9,98E40  -1,67E+01
+CWPS.\ | kKgCO 52 +00 00 372 O0 0 O0 O0 O0 O0 E+00 01 0 0
+fossil eq. E+00
+3,80E- 1,46E- 1,22E- 1,64 5,96E- 8,46E-03 -5,99E-02
+GWP-  kgC® à
+nait ns 02 03 03 0 0 OO O0 O0 oO E:-03 03 0
+127E- 137E-  481E- 791  5,59E- 1,61E-03 -2,60E-02
+SC 03 04 0 0 O0 O0 O0 O O E04 03  o
+luluc eq.
+201E 4,68  4,68E+  - 9,31 1,91E+ 994E40  -1,68E+01
+is kg CO» +02 +00 00 3,72 0 0 0 0 O0  O E+00 o1 0 0
+total eq. E+00
+kocrc 6BE- TO7E 3.96 210  4,39E- 4,98E-06  -3,94E-07
+ODP g ce 06 06 07 0 0 O0 O0 O0 O0 o E-06 06 0
+mor 49%E- 192E 1,30 976  7,84E- 9,78E-02 -9,45E-02
+AP 2 ot 02 02 0 0 O0 O0 O0 Oo o E-0œ2 02 0
+" kg  5,47E- 248E- 1,63E- 1,51  1,01E-
+3- d < . d
+fieeh ler PO; 02 03 03 0 0 O0 O0 O0 Oo o E-0®2 02 O 1,40E-02  -9,03E-03
+" 1,72E- G694E-  4,40E- 7,11  2,84E- 1,29E-04 -1,43E-03
+feshwater “JPeq 03 05 05 0 0 O0  O O0 O0 © E-065 04 0
+EPS kyN HSE SSE  SB7E- 423  2,26E- 3,55E-02  -6,80E-03
+Eire ot 03 03 0 0 O0 O0 O0 o o E-®2 02 0
+" mon MSA GISE ASIE 465  2,58E- 3,96E-01  -1,60E-0
+a +00 02 02 0 0 O0 O0 O0 Oo o E-1 ot 0
+kg  4,02E- 1,87E- 1,22E- 1,28  7,66E- 1,13E-01 -2,64E-02
+POCP NMVO ot 02 02 0 0 O0 O0 O0 Oo o Et 02 0
+Ceq.
+ADP- koh 342E- 130 2,25E- 3,11  5,68E- 1,06E-05 -1,83E-04
+minerals&  *® 05 05 06 0 0 O0 O0 O0 © oO E-06 05 0
+metals* gr
+ABE! LUE ZISE  3,58E+ 135  2,92E+ 3,28E40 -1,98E+02
+. MJ 103 +01 ot 0 0 OO O0 O0 O0 E+#02 © o 2
+fossil
+254E 486E-  5,89E- 7,26  1,98E+ 1,39E40  -3,03E+01
+WDP m° :01 ot ot 0 0 O0 O0 O0 Oo o Et 00 0 0
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartiment; EP-marine
+
+Acronyms \ = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 31/40
+
+P'HoLcIM = PD'
+
+Potential environmental impact — additional mandatory and voluntary
+
+indicators
+Results per Functional Unit
+Indicator Unit  TOtA 14 A5  B1  B2 P Ba B5 B6 B7 c1 c2 C3 C4 D
+1-A3 3
+GWP- kg 2,01E 4,68 4,68 = 9,31E+0 1,91E+0 9,94E+ -1,68E+01
+GG"! CO +02 E+00 E+0 3,72 O0 O0 oO 0 0 0 0 1 0 00
+eq. 0 E+00
+
+Use of resources
+Results per Functional Unit
+
+Tot.A1-
+
+Indicator Unit re A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 C2  c3 ca D
+213E+ 7,51E-  7,08E- -
+PERE MJ ot 01 ot 0 0 0 0 0 0 oo PS0 SO7E+ QG  480E50  , HE
+01 00 0
++01
+PERM M 0 0 0 0 O0 O0 0 0 oo 0 0 0 0 0
+218E+ 7,51E-  7,08E- . -
+PERT MJ ot 01 ot 0 0 0 0 0 0 oo PS0 SO7E+ QG  480E50  , HE
+01 00 0 ee
+117E+ 7,57E+  3,80E+ -
+PENRE MJ 03 01 01 0 0 0 0 0 0 o VAE SI0E+ Ç 3.4E0  , dE
++02 02 2
++02
+PENRM M. 0 0 0 0 O0 O0 0 0 oo 0 0 0 0 0
+117E+ 7,57E+  3,80E+ -
+PENRT MJ 03 01 01 0 0 0 0 0 0 o V#E SI0E+ Ç 3.4E0  , dE
++02 02 2
++02
+sM kg 0 0 0 0 O0 O0 0 0 oo 0 0 0 0 0
+RSF M 0 0 0 0 O0 O0 0 0 oo 0 0 0 0 0
+NRSF M 0 0 0 0 O0 O0 0 0 oo 0 0 0 0 0
+1,26E+ 1,38E-  4,42E- _
+FW ms 00 02 02 0 O0 O0 0 0 o o ! Lu dre O 370E-01 2,39€
+
++00
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use ofsecondary
+material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+
+water
+
+Acronyms
+
+"The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus equal to
+the GWP indicator originally defined in EN 15804:2012+A1:2018.
+
+PAGE 32/40
+
+P'HoLciM = EPD'
+
+Waste production and output flows
+
+Waste production
+Results per Functional Unit
+
+Tot.A
+
+Indicator Unit 1-A3 A4 A5 B1 B2 B3 B4 B5  B6 B7 C1 C2 C3 C4 D
+4,31E 4,50E- 1,55
+Hazardous . . .
+MERE kg -04 05 E-05 0 0 0 0 0 0 0 SE Le 0 LE Nu
+disposed
+Non- 1,81E  8,35E 4,82 1,43E- 1,37E+ 2,52E =
+hazardous kg +01 +00 E-04 0 0 0 0 0 0 0 01 01 0 +02 8,98E+
+waste 00
+disposed
+CR Fa FA LrE
+waste Kg 0 0 0 0 0 0 0 0
+disposed
+Output flows
+Results per Functional Unit
+Tot.
+Indicator Unit Aîi- A4 A5 Bi B2  B3  B4 B5 B6 B7 C1 C2 C3 C4 D
+A3
+Components
+for re-use kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+Material for 2,04
+recycling kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 E:03 0 (0)
+Materials for
+energy kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+recovery
+Exported
+energy, MJ 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 33/40
+
+P'HoLcIM D | EPD'
+
+Environmental Information- results are by m° of product
+
+Hormigones con CEM I/B y àrido reciclado H30 Artevia
+
+Potential environmental impact - mandatory indicators according to EN 15804
+Results per Functional Unit
+
+Indicator Unit TEA! A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 c Sc D
+225€ 444E 517E4+ - 9,22  1,90E+ 9,86E40  -1,66E+01
+GWP- || KgCO 52 +00 00 499 O0 O0 O0 O0 O0 O0  E+00 ot 0 0
+fossil eq. E+00
+5,32E- 1,38E-  1,36E- 1,62 5,91E- 8,30E-03 -5,93E-02
+GWP- kg CO ; ; ; » ; ; ;
+biogenic ns 02 03 03 0 O0 O O0 O0 O0  O  E-08 03  o
+1,89E- 1,30E-  5,46E- 7,83  5,54E- 1,60E-03 -2,58E-02
+SC 03 04 0 DO O O0 O OO  E04 03 0
+luluc eq.
+225€ 444 517E+ - 9,22  1,90E+ 9,87E40  -1,67E+01
+RU OC: 02 00 00 499 OO O0 O0 O0 OO E+00 01 0 0
+total eq. E+00
+kocrc dOE- O2E 423 208  4,36E- 4,89E-06  -3,90E-07
+ODP De 05 06 07 0 DO O O0 O O0 O0  E0@6 06 o
+morue  S66E 182E 1,52 966  7,78E- 9,71E-02 -9,36E-02
+AP 2 ot 02 02 0 DO O O0 O OO E02  ©2 o
+" kg  6,28E- 2,35E-  1,77E- 1,01E-
+POS 02 03 03 0 O0 O O O 0 Oo 1,50 02  O 1,39E-02  -8,94E-03
+freshwater eq. E-02
+" 193E- 659E-  4,80E- 7,04  2,82E- 1,28E-04 -1,42E-03
+feshwater “JPeq 03 05 05 0 DO O O0 O OO E05 04 0
+" kan 48 525E 421E- 419  2,25E- 3,52E-02 -6,73E-03
+g ot 03 03 0 DO O O0 O OO E02  ©2  o
+marine eq.
+" mon 17SE SB6E 492E- 460  2,51E- 3,98E-01  -1,59E-01
+D +00 02 02 0 DO O O0 O 0 ©  E-01 01 0
+kg  4,55E- 1,78E- 1,32E- 1,26  7,60E- 1,12E-01  -2,61E-02
+POCP NMVO ot 02 02 0 DO O O0 O0 ©  o  E-01 02 0
+Ceq.
+ADP- kogb S6SE 2E 2,33E- 3,08  5,64E- 1,05E-05  -1,81E-04
+minerals& “© 05 05 06 0 O0 O0 O0 O0 OO E06 05 0
+metals* gr
+BE 1,24E  6,77E  3,85E+ 133 289E+ 3,26E40  -1,96E+02
+" MJ 108 +01 ot 0 DO O O0 O OO E+#02 02 0 2
+fossil
+280E 461E-  6,37E- 749  1,97E+ 1,88E+0  -3,01E+01
+WDP ms 401 ot 01 0 DO O O0 O0 ©  o  E:01 00 0 0
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential biogenic; GWP-luluc = Global Warming
+Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartiment; EP-marine
+
+Acronyms \ = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil
+resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted
+water consumption
+
+* Disclaimer: The results of this environmental impact indicator shall be used with care as the uncertainties of these results are
+high or as there is limited experience with the indicator.
+
+PAGE 34/40
+
+P'HoLcIM = PD'
+
+Potential environmental impact — additional mandatory and voluntary
+
+indicators
+Results per Functional Unit
+Indicator Unit TEA A4 A5  B1 B2 À Ba B5 B6 B7 C1 C2 C3 C4 D
+GWP- kg 2,25E 4,44 5,17 = 9,22E+0 1,90E+0 9,87E+ -1,67E+01
+GHG'2 CO: +02 E+00 E+0 4,99 0 0 0 0 0 0 0 1 0 00
+eq. 0 E+00
+Use of resources
+Results per Functional Unit
+Indicator Unit TA A4 A5 Bi B2 B3 B4 B5 B6 © C1 C2 C3 ca D
+3,32E+ 7,18E- 3,32E+ -
+PERE M 01 01 01 0  o MMM M M7 M LCON) MC 25 MM PA M 72700) 7
+E-01 00 0 ot
+PERM MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+3,32E+ 7,18E- 3,32E+ -
+PERT M 01 01 01 0  o MMM M M7 M CCON) MC 2 MM PO M ON 7
+E-01 00 0 01
+1,32E+ 7,19E+ 4,08E+ 1,43 ,
+PENRE M 03 01 01 0  o 0 O0 o o o E+o O7E+ D  S46E40 Loge
+02 2
+2 +02
+PENRM MJ. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1,32E+ 7,19E+ 4,08E+ 1,43 ,
+PENRT M 03 01 01 0  o 0 O0 o o o 40 O7E+ OO  S46E0 58e
+02 2
+2 +02
+SM kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+RSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NRSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2,19E+ 1,27E- 5,26E- : =
+FW m° 00 02 02 0 o 0 0 o o o 40 SE  O  367E01 2,38E
+E-02 02 +00
+PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable
+primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENRE = Use of non-
+Acronyms renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non- renewable
+
+primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use of
+secondary material; RSF = Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use of net fresh
+water
+
+12The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus equal to
+the GWP indicator originally defined in EN 15804:2012+A1:2018.
+
+PAGE 35/40
+
+P'HoLciM = EPD'
+
+Waste production and output flows
+
+Waste production
+Results per Functional Unit
+
+Indicator Unit OA A4 A5 Bi B2 B3 B4 B5 B6 B7 C1 c2 C3 C4 D
+4,95E 4,27E- 1,66
+Hazardous ? ? ?
+waste kg -04 05 E-05 0 0 0 0 0 0 0 6,00E-  1,83E- 0 1,11E-  -4,56E-
+: 05 04 04 04
+disposed
+Non- 1,32E  8,18E 4,63 1,386E+ 2,52E =
+hazardous +01 +00 E+01 1,43E- 01 +02 3,95E+
+waste kg 0 (0) (0) 0 0 0 0 01 0 00
+disposed
+: : 6,27E 4,58E- 2,18 1,96E- 2,03E-  -4,99E-
+Radioactive : ! L ; ; ;
+waste Kg -03 04 E-04 0 o o 0 0 0 0 sn 03 0 03 04
+disposed
+Other output flows
+Results per Functional Unit
+Tot.
+Indicator Unit Ai- A4 A5  B1 B2  B3  B4 B5 B6 B7 ci C2 C3 C4 D
+A3
+Components
+for re-use kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 0 0 (0)
+Material for 2,04
+recycling kg 0 (0) (0) 0 (0) 0 (0) 0 0 0 0 0 E:03 0 (0)
+Materials for
+energy Kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+recovery
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+electricity
+Exported
+energy, MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+thermal
+Information on biogenic carbon content
+Results per Functional Unit
+BIOGENIC CARBON CONTENT Unit QUANTITY
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO.
+
+PAGE 36/40
+
+d'HoLcim EtPD
+
+Additional information
+
+With the aim of achieving a positive contribution to nature and society, we develop our activity
+based on principles of sustainable development, through continuous improvement in our
+environmental behaviour and focused on these four fundamental principles: our Management
+System, control environmental impact, contribution to the circular economy and transparent
+relationship with the environment.
+
+Registry of carbon footprint, compensation and CO2 absorption projects of the
+Ministerio para la Transiciôn Ecolégica y el Reto Demogräfico de España.
+
+Holcim Spain has registered its carbon footprint in section a) of the Carbon footprint and
+commitment to reduce greenhouse gas emissions for the years 2016, 2017, 2018 and 2019.
+The limits of the organization included in the calculation are: cement, concrete and mortar
+manufacturing activity carried out in all its facilities in Spain, central offices in Madrid and 63
+production centers.
+
+Our commitment to the circular economy as the main way to take advantage of the
+waste life cycle.
+
+The transition from a linear economy to a circular economy is one of the environmental
+priorities of our business. Within our activity, our objective is to reuse the value of waste as
+resources, that is, to maximize its life cycle.
+
+At Holcim, we achieve the transition to circularity by complementing the activity of Geocycle, a
+subsidiary of the Group that is dedicated to the pre-treatment of waste to turn it into fuel, and
+the cement factories that use it in their clinker production process (component cement base).
+
+Proactive restoration of our quarries
+
+At Holcim we have been working, for more than 30 years, for the restoration of our quarries
+with the aim of generating a net positive impact on biodiversity. We are committed to a
+participatory model of quarry rehabilitation in which the increase of biodiversity and natural
+capital is favored.
+
+Our restoration model serves as a lever for change on the critical problem of biodiversity loss
+and its potential to reverse its current negative trend. This work, key when it comes to creating
+shared value with the communities in which we operate, has been recognized in 2018 with the
+first second prize in the "Company and Biodiversity" category in the latest edition of the
+European Business Awards for the Environment, promoted by the Biodiversity Foundation.
+
+PAGE 37/40
+PAGE 38/40
+
+d'HoLcim = PD'
+
+References
+
++ General Programme Instruction of the International EPDS System. Version 3.01.
+
+e ISO 14020:2000 Environmental labels and declarations-General principles
+
+e ISO 14025:2010 Environmental labels and declarations-Type III Environmental
+Declarations-Principles and procedures
+
+e ISO 14040:2006 Environmental management-Life Cycle Assessment-Principles and
+framework
+
+e ISO 14044:2006 Environmental management-Life Cycle Assessment-Requirements
+and guidelines
+
+e PCR 2019:14 Construction products (EN 15804:A2) version 1.0
+
+e EN 15804:2012+A2:2019 Sustainability of construction works-Environmental Product
+Declarations-Core rules for the product category of construction products
+
+e _c-PCR-003 Concrete and concrete elements (EN 16757)
+
++ EN 16757 -Sustainability of Construction Works -Environmental Product Declarations
+-Product Category Rules for Concrete and Concrete Elements
+
+Differences versus previous versions
+
+This version of this DAP presents a modification of its initial version dated 04-02-2021 due to
+an editorial change as a result of the change in the name of the company and the change in
+the name of the product, none of the parameters specified therein being affected.
+
+Thus, where LafargeHolcim España previously appeared, Holcim España now appears, and
+
+where ReduzCO2+ previously appeared, RMX Concretes and Mortars with CEM Il/B and
+crushed stone, now appears
+
+PAGE 39/40
+tecnal:a D— ©
+certification EPD
+
+VERIFICATION STATEMENT CERTIFICATE
+CERTIFICADO DE DECLARACIÔN DE VERIFICACION
+
+Certificate No. / Certificado n°2: EPD04603
+
+TECNALIA R&l CERTIFICACION S.L, confirms that independent third-party verification has been conducted of the
+Environmental Product Declaration (EPD) on behalf of:
+
+TECNALIA R&I CERTIFICACION S.L., confirma que\se ha realizado verificaciôén de tercera parte independiente de la Declaraciôn
+Ambiental de Producto (DAP) en nombre de:
+
+HOLCIM ESPANA, S.A.U.
+Avd. Manoteras, 20
+28050 MADRID - SPAIN
+
+for the following product(s):
+para el siguiente(s) producto(s):
+
+RMX CONCRETES AND MORTARS WITH CEM II B AND CRUSHED STONE: H25
+(ESTÂNDAR, AGILIA and ARTEVIA), H30 (ESTÂNDAR, AGILIA and ARTEVIA),
+H35 (ESTÂNDAR and AGILIA)
+
+HORMIGONES Y MORTEROS RMX FABRICADOS CON CEM II B Y ARIDO
+RECICLADO: H25 (ESTANDAR, AGILIA y ARTEVIA), H30 (ESTANDAR, AGILIA y
+ARTEVIA), H35 (ESTÂNDAR y AGILIA)
+
+with registration number EPD-IES-0002681 in the International EPD® System {www.environdec.com)
+con nümero de registro EPD-IES-0002681-en el Sistema International EPD® (www.environdec.com)
+
+it's in conformity with:
+es conforme con:
+
+* General Programme Instructions for the International EPD® System v.3.01.
+
+=" PCR 2019:14 Construction products (EN 15804+A2) v1.1.
+
+“ c-PCR-003 Concrete and concrete elements (EN 16757). /
+
+= UN CPC Code: 375 Carlos Nazabal Alsua
+
+Manager
+
+Issued date / Fecha de emisién: 04/02/2021
+Update date / Fecha de actualizacién: 30/07/2024
+Valid until / Vélido hasta: 03/02/2026
+Serial N° / N£ Serie: EPDO460301-E
+
+This certificate is not valid without its related EPD.
+
+respondiente EPD. CERTIFICACION
+
+ISO 17
+El presente certificado est sujeto a modificaciones, suspensiones temporales y retiradas por TECNALIA R&I CERTIFICACION. N°125 / C-PR283
+is ifications, tempore withdrawals by TECNALIA R&I CERTIFICACION.
+
+El estado de vigencia del certificado puede ci marse mediante consulta en www.tecnaliacertificacion.com.
+The validity of this certificate can be checked through consultation in www.tecnaliacertificacion.com.
+
+TECNALIA R&I CERTIFICACION S.L. Area Anardi, n° 5. 20730 AZPEITIA (Gipuzkoa) SPAIN. Tel.:+34 678 860 822 — www.tecnaliacertificacion.com
+
+—— EPD
+
+www.environdec.com

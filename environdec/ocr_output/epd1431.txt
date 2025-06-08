@@ -1,0 +1,983 @@
+Environmental Product Declaration
+
+In accordance with ISO 14025 and EN 15804+A1 and IS014040
+
+_— os ; /
+- à - /
+
+Fe ue
+
+Non-reinforced EPDM
+membranes for ”
+wWaterproofing
+
+GHOLCIM
+
+Programme: The International EPD® System
+
+Programme operator: EPD International AB a EPD'
+[www.environdec.com]
+
+EPD reg. number: S-P-01431 THE INTERNATIONAL EPD°® SYSTEM
+
+EcoPlatform ref. number: 00000777
+
+Publication date: 2018-12-12
+
+Validity date: 2023-12-12
+
+Geographical scope: Europe EN15804  VERIRED
+
+EPD Holcim
+
+EPD programme
+
+Reference Product category
+rules (PCR)
+
+EPD title
+Independent verification of the
+declaration and data, according
+
+to ISO 14025:2006
+
+LCA performed by
+
+Third party verifier
+
+Third party verifier accredited
+or approved by
+
+Procedure for follow-up of data
+during EPD validity involves
+
+third-party verifier
+
+Data of EPD publication
+
+EPD Validity
+
+EPD valid within the following
+geographical area
+
+The International EPD® System operated by EPD International AB, Box 210 60
+SE-100 31 Stockholm, Sweden
+
+Website: www.environdec.com/
+
+Email: info@environdec.com
+
+2012:01 Construction products and construction services v.2.2 (The
+International EPD System, 2012:01)
+
+Environmental product declaration: Non-reinforced EPDM membranes for
+waterproofing
+
+M EP0 External verification
+
+EPD Process verification
+
+Inèdit Innovacié SL
+
+Gorka Benito Alonso — IK inginieria
+
+The International EPD® System
+
+Mes lo
+
+2018-12-12
+
+2023-12-12
+
+Europe
+
+Results presented in this document do not constitute comparative assertions. However, the results will be
+
+disclosed to the public in EPDs, which architects and builders will be able to use to compare Holcim products with
+
+similar products presented in other EPDs that follow the same PCR. EPDs of other similar products from different
+
+programmers may not be comparable unless they comply with EN15804 and PCR 2012:01; methodology (stages
+
+under study, method, declared or functional unit, etc.) could be different and the results will be not
+1. ABOUT THE COMPANY
+"Hd HOLCIM Holcim Solutions and Products Spain
+
+Production Plant: C/ Libra 17, E-08228 Terrassa
+Manufacturing site and country
+Welding & warehouse: C/Pintor Casas 9, E-08213 Polinyà
+
+Issuer and contact information David Pelejero (david.pelejero@holcim.com)
+
+Holcim Solutions and Products Spain commitment with sustainability is shown by its
+environmental policy and vision which is based in the following principles:
+
+Envisioning a sustainable future
+In harmony with nature
+
+Value natural resources
+
+Reduce CO2 and other emissions
+
+Holcim Solutions and Products Spain (Holcim) plant in Terrassa is also certified with ISO
+14001:2015. Initiating Environmental Product Declaration (EPD) process for its products, non-
+reinforced EPDM membranes for waterproofing (for roofs, lining pondlining, lining agricultural
+and facades), will be able to present the environmental performance most transparently with
+EPD documentation. Thus, Holcim engaged inèdit (Inèdit Innovacié SL) to evaluate the
+environmental profile of its Ethylene Propylene Diene Monomer (EPDM) membrane products,
+manufactured in C/Libra 17, Poligon Industrial Can Parellada, Terrassa, Spain, using Life Cycle
+Assessment (LCA) and to report the results in Environmental Product Declarations (EPD) for
+
+communication to third parties.
+
+2. PRODUCT INFORMATION
+
+The Table 1 shows the products specifications in material content (in % by weight) per 1 m? of
+non-reinforced EPDM flexible membrane for waterproofing.
+
+Table 1. Material composition of non-reinforced EPDM for roofing
+
+Material [% of total mass]
+Base resin (EPDM) 34.0%
+Carbon Black 30.0%
+Plasticizer (paraffinic oil) 20.5%
+White filler (aluminium silicate) 115%
+Activators (zinc stearate) 15%
+Vulcanization system sulphur based crosslinking) 1.5%
+Processing aids (stearic acid) 1.0%
+
+The EPDM membrane does not use Substances of Very High Concern, as stated in REACH
+
+legislation, during the life cycle of the product.
+EPD Holcim
+
+3. LCA INFORMATION
+
+The primary goal of this study is to assess the cradle-to-gate with options of the environmental
+impacts of “non-reinforced EPDM (Ethylene Propylene Diene Monomer) membranes for
+waterproofing” manufactured by Holcim Solutions and Products Spain.
+
+The LCA has been performed following the PCR “2012:01 Construction products and
+construction services” version 2.2 (The International EPD System, 2012:01), ISO 14040 (ISO
+14040, 2006), ISO 14044 (ISO 14044, 2006), ISO 14025 (ISO 14025, 2010) and EN 15804 +A1
+(UNE-EN 15804, 2012). The life cycle impact assessment (LCIA) categories and other indicators
+considered to be of high relevance to the goals of the project are listed in this chapter.
+
+Table 2 presents the product characteristics and the declared unit and references service life
+used in the LCA.
+
+Table 2. Declared unit and specifications for non-reinforced EPDM membranes for waterproof coating
+
+GeoSmart .
+Products Giscolene EPDM - roofing PondEasy EPDM - Giscolene F EPDM -
+EPDM “lining . facade
+agricultural
+2
+1 m? packaged 1m
+EPDM for packaged
+2
+Declared unit 1 m? packaged EPDM for lining es for 1 er paagee ED
+to which the roof waterproofing with pondlining à oral DE 0 75mm 8
+data relates 1,2mm thickness waterproofing 8 .
+with 0. 8mm ponds/lakes thickness
+thickness with 1,2mm
+thickness
+. Agricultural:
+Pond lining: EN
+Description / . EN 13361/EN Facades: EN
+Roofing: EN 13956/EN 1396 13361/EN
+Specification | "°°""8 / a D 13662/ EN 13984/EN 14909
+13492
+Thickness Average Average Average thickness
+Average thickness 1.2 mm thickness 0.8 | thickness 1.2 8
+(mm) 0.75 mm
+mm mm
+Membrane
+weigh 1,23 kg/m? 0,765 kg/m? 1,23 kg/m? 0,71 kg/m?
+(kg/m°)
+Reference
+Service Life 30 years!
+(RSL)
+
+3.1.General System Boundaries
+
+This approach is a “cradle to gate with options” and the stages consider are presented in Table
+3. As there is not a specific sub-PCR for products under the scope of this study, the company has
+chosen to declare the EPD as a “cradle to gate with options” with a Declared Unit.
+
+1 The reference service life used is the one proposed by the PCR Flexible membranes for waterproofing - bitumen,
+plastic or rubber membranes for roof waterproofing (expired 2017-07-10; replaced).
+Table 3. Life Cycle Stages and Modules defined in EN 15804 and consider in this EPD
+
+CONSTRUCTI
+PRODUCT STAGE ON PROCESS USE STAGE END OF LIGE STAGE
+STAGE
+Z > =
+eo Ro co) oo
+S a £ g £ € © # 6 £
+n Et = Et © = ü ë ü 3 ü Et a =
+= © 3 © 5 & = = E 2 _ 5 © ÿ 5
+SG S 5 rs 3 v € co] © < c] a 5 So © 6
+5 a a à D a © a S ra € S ra 2 = a
+[es Cu [es + 2 + [a] Ne le] © € = Q a
+à ro =) ro 2 = FA S res 5 5 6 ro @ a
+8, Ê| £) | $ E 8e 51 $ | &8, 81 | ga
+O = œ © © ss] d a
+z >= œ Q a Q Z
+œ [e] [e]
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4
+X X X X X X MND MND MND MND MND MND MND X X X
+
+UPSTREAM PROCESSES
+A1 Raw material supply: extraction and processing of raw materials.
+CORE PROCESSES
+
+A2-A3 Transportation and manufacturing: transport of raw materials and manufacturing
+of the construction product, packaging materials and treatment of waste generated
+
+from the manufacturing processes.
+DOWNSTREAM
+
+A4-A5 Transport and installation: distribution of the product and installation.
+B1 Use: emissions due to release of substances from the roof covering.
+C1-C4 End of life: Waste transportation, waste processing and disposal.
+
+The life cycle stages and life cycle modules stages to consider are defined and refer to EN 15804
+standard and follows the PCR 2012:01.
+
+3.2.LCIA Impact Categories and other indicators
+
+For the LCIA Impact Categories CML-IA baseline V4.2 / EU25 impact model was used (Oers,
+2015). The specific impact categories under study are listed below and in Figure 1 :
+
+CML-IA baseline:
+
+Abiotic depletion potential, elements (ADPe) [kg Sb eq.]
+
+Abiotic depletion potential, fossil fuels (ADPf) [MJ, net calorific value]
+Acidification potential (AP) [kg SO2 eq.]
+
+Eutrophication potential (EP) [kg (PO4)3-eq.]
+
+Global warming potential (GWP) [kg CO2 eq., 100 years]
+
+Ozone layer depletion potential (ODP) [kg CFC 11 eq.]
+
+Photochemical ozone creation potential (POCP) [kg C2H4 eq.]
+EPD Holcim
+
+Figure 1. LCIA Impact categories analyzed by CML-IA baseline
+
+Acidification
+potential
+0000 4
+000
+
+LCIA results represents impact potentials and do not predict actual impacts, the exceeding of
+thresholds, safety margins, or risks.
+
+Following the PCR and in accordance to EN15084 (European Commission, 2012) the following
+additional indicators are reported. The information about the method and software used for the
+analysis on each parameter is also mentioned below.
+
+EN 15804 Parameters describing resource use
+
+Renewable primary energy as energy carrier (PERE) [MJ]
+
+Renewable primary energy resources as material utilization (PERM) [MJ]
+Total use of renewable primary energy resources (PERT)[MJ]
+Non-renewable primary energy as energy carrier (PENRE) [MJ]
+Non-renewable primary energy as material-utilization (PENRM) [MJ]
+Total use of non-renewable primary energy resources (PENRT) [MJ]
+
+Use of secondary material (SM) [kg]
+
+Use of renewable secondary fuels (RSF) [MJ]
+
+Use of non-renewable secondary fuels (NRSF) [MJ]
+
+Use of fresh water (FW) [m3]
+
+EN 15804 Other environmental information describing waste categories
+
+Hazardous waste disposed (HWD) [kg]
+Non-hazardous waste disposed (NHWD) [kg]
+Radioactive waste disposed (RWD) [kg]
+
+EN 15804 Other output flows
+
+Components for reuse (CRU) [kg]
+Materials for recycling (MFR) [kg]
+Materials for energy recovery (MER) [kg]
+Export energy (EE) [M]J per energy carrier]
+
+3.3.Geographical and time boundaries
+
+This study represents Holcim’s EPDM flexible membrane manufacturing facility in Poligon
+Industrial Can Parellada, Terrassa, Spain. It also considers the plant in Polinyà, Barcelona, where
+part of the process takes part and because part of the distribution leaves from there. The
+geographical coverage for this study is based in the EU. Production of the membranes occurs in
+
+7
+Spain and the installations and end of life are evaluated for Spain and the rest of the EU. Spain
+and European data are used in the first place and if missing global data will be used.
+
+The primary data related with the production is from year 2017. Background data for upstream
+and downstream processes (i.e. raw materials, energy resources, transportation and ancillary
+materials) are to be obtained from primary data or from databases (Ecoinvent v3.2 database)
+and the time boundaries will depend on the process used. Specific data from the real process
+has been used for all raw and ancillary materials, energy consumption, waste production and
+emissions to air, soil and water. The electricity production used for the calculations is from the
+average and renewable mix for 2017 in Spain and is explained in Annex II.
+
+3.4.Cut-off criteria
+
+The cut-off criteria for flows are described in the PCR 2012:01 and in EN 15804. AI inflows from
+the upstream (A1) and core modules (A2-A3) are included and for some of the downstream
+stages (A4-A5; B1 and C1-C4). All available energy and material flow data have been included in
+the model. In cases where no matching life cycle inventories were available to represent a flow,
+proxy data have been applied based on conservative assumptions regarding environmental
+impacts. The assumptions of the key processes used in the life cycle inventory and results are
+described in Annex |.
+
+3.5. Software, allocation rules and data quality
+
+The LCA model was created using an excel calculator, Simapro and Gabi software and Ecoinvent
+V3.2 LCA database.
+
+As several products are manufactured at the same plant (EPDM for roofing, for lining, facades
+or other uses), Holcim used mass allocation to report data. Mass allocation was selected since
+the environmental burden in the industrial process (energy consumption, emissions, etc.) is
+primarily governed by the mass throughput of each sub-process.
+
+Data from the production process by Holcim is measured as primary data. This data is of the
+highest precision, followed by calculated data, literature data, and estimated data. Each input
+and output of the LCA performed has a related description for the origin of the data and
+assumptions on the data used in the excel calculator. More information on data quality and a
+sensitive analysis has been carried on in LCA report.
+
+4. LIFE CYCLE INVENTORY ANALYSIS
+
+Primary data for the manufacturing of non-reinforced EPDM membranes for roofing, lining
+pondiining, lining agricultural and facades were collected from the Terrassa and Polinyà plants.
+Data were provided from Holcim for the 2017 calendar year.
+
+The environmental performance includes any activity within the “cradle to gate” with options
+and is reported separately by the modules of life cycle stages listed below and represented in
+Figure 2.
+EPD Holcim
+
+Figure 2. EPDM overview
+
+Product Stage A1-A3
+
+Construction phase A4-A5 Use phase OutputB1 End of life stage C2-C4
+
+226 eve e
+
+Dutput B10. Emissions
+
+A description of the life cycle of the product related with each stage of the LCA is made below:
+
+(A1) The main material input into the manufacturing process is EPDM mix in form of uncured
+compound and (A2) is provided mainly by two suppliers. (A3) When arrived at Terrassa plant the
+mix is heated, stirred and extruded into a profile. The membrane is then pressed by calendering
+to achieve the specified thickness, cooled, cut and rolled up along with protective polyamide
+sheeting. EPDM scrap generated during the before-mentioned steps can be directly looped back
+as a material input, before the subsequent curing process that alters the rubber material
+irreversibility, making it unfit as a scrap input. Curing entails to roll the membrane and wrapped
+it to create pressure and placed in an oven. Once cured, the membrane maintains its shape and
+size. The finished product is cooled in the rollers and separated from the polyamide. Part of the
+final product need to be in a broader shape to sell (not for facades) and this process is made in
+Polinyà plant. (A3T) For this it is needed a transport between Terrassa and Polinyà plants and
+another step were some membranes are joined with EPDM strips and have a localized
+vulcanization before packaging. (A3P) Part of the personalization is made in Terrassa and some
+in Polinyà. The personalization of the rolls for customers is made by rolling the membranes in a
+cardboard tube and wrapped with raffia. The packaging also requires labels, adhesive tapes,
+straps, rubber separators, film, DM and boxes depending on the final use for the preparation for
+transport. (A30) During the finishing and packaging process the generated waste is treated by
+recycling, energy recovery, incineration or landfill. (A4) EPDM for roofing, lining pondlining,
+lining agricultural and facades is then placed in pallets and distributed to the client from both
+plants. This analysis assumes that the non-reinforced EPDM membrane is installed in roofing
+and facades with synthetic adhesive, and manual installation for the other uses.
+
+The inputs for use stages (B modules) for the EPDM membranes in this study are not included.
+Still outputs of the system have been considered as there are emissions related with the use
+phase and waste from the unpacking (B10).
+
+The product has a Reference Service Life of 30 years and at the end of the membrane’s useful
+life, the membrane is assumed to be sent to energy recovery, material recovery or landfill and
+the other components are recycled, incinerated and landfilled assuming average data for Europe
+related with waste treatments (C2-C4).
+9. ENVIRONMENTAL PERFORMANCE-RELATED INFORMATION
+
+All results are related with the declared unit and represents the potential impacts for 1 m2
+packaged EPDM for waterproofing coating with the specific thickness for each use by Holcim
+Solutions and Products Spain. The results are divided into 3 life cycle stages according the PCR
+2012:01 develop by EPD® System: UPSTREAM (A1); CORE (A2-A3) and DOWNSTREAM (A4-C4).
+
+5.1.Potential impact over the environment for EPDM for roof waterproofing
+
+Table 4 present the life cycle results for 1 m? packaged EPDM for roof waterproofing with
+1,2mm thickness, used in Spain and EU.
+
+Table 4. LCA Results for EPDM for roofing
+
+A1 A2-A3 A4-C4
+
+Parameters Units
+
+GWP [kg CO2eq] 2.31E+00 1.83E+00 8.52E-01
+ODP [kg CFC-11eq] 6.94E-07 3.09E-07 8.08E-08
+AP [kg SOeq] 1.10E-02 7.24E-03 1.49E-03
+EP [kg PO4Ÿ eq] 2.33E-03 1.53E-03 4.39E-03
+POCP [kg C2H4eq] 5.46E-04 3.52E-04 8.91E-05
+ADPE [kg Sb eq] 3.84E-05 1.51E-05 7.78E-07
+ADPF [MI] 3.84E-05 4.05E+01 6.89E+00
+PERE [MI] 2.45E+00 2.93E+00 2.71E-01
+PERM [MI] 2.16E-01 1.09E-01 9.90E-03
+PERT [MI] 2.67E+00 3.04E+00 2.80E-01
+PENRE [MI] 8.52E+01 3.98E+01 6.90E +00
+PENRM [MI] 1.15E-04 2.72E-03 2.08E-05
+PENRT [MI] 8.52E+01 3.98E+01 6.90E +00
+SM [kg] 0.00E+00 8.86E-08 0.00E+00
+FW [m3] 2.13E-02 1.40E-02 1.76E-03
+HWD [kg] 1.69E-01 1.45E-05 3.53E-06
+NHWD [kg] 8.50E-02 9.21E-02 1.89E +00
+RWD [kg] 3.66E+00 1.67E-04 4.56E-05
+MFR [kg] 0.00E+00 6.24E-03 7.99E-01
+MER [kg] 0.00E+00 9.62E-02 8.01E-02
+EE [MI] 0.00E+00 2.72E+00 2.54E +00
+
+10
+EPD Holcim
+
+5.2. Potential impact over the environment for EPDM for lining pondlining
+waterproofing
+
+Table 5 present the life cycle results for 1 m? packaged EPDM PondEasy for lining pondlining
+
+waterproofing with 0,8mm thickness, used in Spain and EU.
+
+Parameters
+
+GWP
+ODP
+AP
+
+EP
+
+POCP
+ADPE
+ADPF
+PERE
+PERM
+PERT
+PENRE
+PENRM
+PENRT
+sM
+FW
+HWD
+NHWD
+RWD
+MER
+MER
+EE
+
+Table 5. LCA Results for EPDM for lining pondlining
+
+Units
+
+[kg CO2eq]
+[kg CFC-11eq]
+[kg SOLeq]
+[kg PO4Ÿ eq]
+[kg C2H4eq]
+[kg Sb eq]
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[kg]
+
+[m3]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[MI]
+
+A1
+
+1.44E +00
+4.32E-07
+6.84E-03
+
+1.45E-03
+
+3.39E-04
+2.39E-05
+2.39E-05
+1.53E+00
+1.34E-01
+1.66E+00
+5.30E+01
+7.14E-05
+5.30E+01
+0.00E+00
+1.32E-02
+1.05E-01
+5.29E-02
+2.28E+00
+0.00E+00
+0.00E+00
+0.00E+00
+
+A2-A3
+
+UPSTREAM CORE
+
+9.74E-01
+1.37E-07
+3.72E-03
+
+8.25E-04
+
+1.85E-04
+6.34E-06
+1.87E+01
+2.50E+00
+5.72E-02
+2.56E+00
+1.81E+01
+1.70E-03
+1.81E+01
+8.86E-08
+8.31E-03
+2.41E-02
+5.31E-02
+5.20E-01
+3.88E-03
+5.99E-02
+1.69E+00
+
+A4-C4
+
+5.33E-01
+5.02E-08
+9.30E-04
+
+2.74E-03
+
+5.59E-05
+4.83E-07
+4.29E+00
+1.69E-01
+6.15E-03
+1.75E-01
+4.29E+00
+1.18E-05
+4.29E+00
+0.00E+00
+1.10E-03
+2.19E-06
+1.19E+00
+2.84E-05
+5.11E-01
+5.12E-02
+1.60E+00
+
+11
+5.3. Potential impact over the environment for EPDM for lining agricultural
+waterproofing
+
+Table 6 present the life cycle results for 1 m? packaged EPDM GeoSmart for lining agricultural
+
+waterproofing with 1,2mm thickness, used in Spain and EU.
+
+Parameters
+
+GWP
+ODP
+AP
+
+EP
+
+POCP
+ADPE
+ADPF
+PERE
+PERM
+PERT
+PENRE
+PENRM
+PENRT
+sM
+FW
+HWD
+NHWD
+RWD
+MER
+MER
+EE
+
+Table 6. LCA Results for EPDM for lining agricultural
+
+Units
+
+[kg CO2eq]
+[kg CFC-11eq]
+[kg SOLeq]
+[kg PO4Ÿ eq]
+[kg C2H4eq]
+[kg Sb eq]
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[kg]
+
+[m3]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[MI]
+
+A1
+
+2.31E+00
+6.94E-07
+1.10E-02
+
+2.33E-03
+
+5.46E-04
+3.84E-05
+3.84E-05
+2.45E+00
+2.16E-01
+2.67E+00
+8.52E+01
+1.15E-04
+8.52E+01
+0.00E+00
+2.13E-02
+1.69E-01
+8.50E-02
+3.66E+00
+0.00E+00
+0.00E+00
+0.00E+00
+
+A2-A3
+
+UPSTREAM CORE
+
+1.86E+00
+
+3.13E-07
+7.36E-03
+
+1.60E-03
+
+3.65E-04
+1.52E-05
+4.10E+01
+3.61E+00
+1.14E-01
+3.72E+00
+4.04E+01
+2.73E-03
+4.04E+01
+9.97E-08
+1.55E-02
+6.22E-02
+9.44E-02
+1.34E+00
+6.24E-03
+9.62E-02
+2.72E+00
+
+A4-C4
+
+8.45E-01
+7.91E-08
+1.46E-03
+
+4.39E-03
+
+8.77E-05
+7.53E-07
+6.75E+00
+2.69E-01
+9.62E-03
+2.79E-01
+6.75E+00
+1.90E-05
+6.75E+00
+0.00E+00
+1.73E-03
+3.45E-06
+1.89E+00
+4.47E-05
+8.07E-01
+8.08E-02
+2.55E+00
+
+12
+EPD Holcim
+
+5.4. Potential impact over the environment for EPDM for facades waterproofing
+
+Table 7 present the life cycle results for 1 m? packaged EPDM for facades waterproofing with
+
+0,75mm thickness, used in Spain and EU.
+
+Parameters
+
+GWP
+ODP
+AP
+
+EP
+
+POCP
+ADPE
+ADPF
+PERE
+PERM
+PERT
+PENRE
+PENRM
+PENRT
+sM
+FW
+HWD
+NHWD
+RWD
+MER
+MER
+EE
+
+Table 7. LCA Results for EPDM for facades
+
+Units
+
+[kg COeq]
+[kg CFC-11eq]
+[kg SOLeq]
+[kg PO4Ÿ eq]
+[kg C2H4eq]
+[kg Sb eq]
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[MI]
+
+[kg]
+
+[m3]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[kg]
+
+[MI]
+
+A1
+
+1.34E+00
+4.01E-07
+6.35E-03
+
+1.34E-03
+
+3.15E-04
+2.22E-05
+2.22E-05
+1.42E+00
+1.24E-01
+1.54E +00
+4.92E+01
+6.63E-05
+4.92E+01
+0.00E+00
+1.23E-02
+9.78E-02
+4.91E-02
+2.11E+00
+0.00E+00
+0.00E+00
+0.00E+00
+
+A2-A3
+
+UPSTREAM CORE
+
+6.08E-01
+3.58E-08
+1.99E-03
+
+5.47E-04
+
+1.07E-04
+1.01E-06
+6.55E+00
+3.82E+00
+1.00E-01
+3.92E+00
+5.58E+00
+1.54E-03
+5.58E+00
+1.62E-02
+5.37E-03
+4.32E-06
+4.19E-02
+1.34E-05
+3.60E-03
+5.56E-02
+1.57E+00
+
+A4-C4
+
+4.43E-01
+4.62E-08
+8.49E-04
+
+1.91E-03
+
+4.94E-05
+4.45E-07
+3.94E+00
+1.27E-01
+5.66E-03
+1.32E-01
+3.94E+00
+1.09E-05
+3.94E+00
+0.00E+00
+9.13E-04
+1.97E-06
+8.68E-01
+2.61E-05
+3.72E-01
+3.71E-02
+1.10E+00
+
+13
+6. REFERENCES
+
+AFNOR. (2016). Contribution of construction works to sustainable development - Environmental
+product declarations - Rules governing categories of construction products - National
+complement to NF EN 15804 + A1.
+
+ASTM. (2013). Product Category Rule for Preparing and Environmental Product Declaration for
+Single Ply Roofing Membranes. West Conshohocken, PA: ASTM International.
+
+European Commission. (2012). EN 15804. Sustainability of construction works - Environmental
+product.
+
+EUROSTAT. (2014). Treatment of waste by waste category, hazardousness and waste operations
+[env_wastrt]. Last update 15/05/18.
+
+ISO 14025. (2010). Environmental labels and declarations Type II! environmental declarations
+Principles and procedures (ISO 14025:2006).
+
+ISO 14040. (2006). UNE-EN ISO 14040:2006 Environmental management Life cycle assessment
+Principles and framework.
+
+ISO 14044. (2006). UNE-EN ISO 14044:2006. Environmental management Life cycle assessment
+Requirements and guideliness.
+
+Oers, L. v. (2015). CML-IA database, characterisation and normalisation factors for midpoint
+impact category indicators.. CML.
+
+The International EPD System. (2012:01). PCR Construction products and construction services.
+EPD.
+
+UNE-EN 15804. (2012). UNE-EN 15804:2012+A1:2014 Sustainability of construction works -
+Environmental product declarations - Core rules for the product category of construction
+products.
+
+ANNEX I. ELECTRICITY MIX
+
+As the electricity in A3 accounts for more than 30% of the total energy in stage A1 to A3 the
+
+energy sources behind are documented in the EPD in Table 8.
+
+Table 8. Characteristics of electricity sources used on this EPD
+
+Imp. Electricity mix 2017 / Other results: Renewable sources electricity 2017
+Categories  Electricity, medium voltage {ES}| market
+for | Alloc Def, S
+
+Functional 1 kWh at user 1 KWh at user
+
+unit
+
+Global 4.88E-01 kg CO2eq. 2.54E-01 kg CO2eq.
+
+warming
+
+(GWP100a)
+
+System Electiricity generation in 2017 for Spain. It incorporates loses during generation,
+
+boundaries transmissions to medium voltage and distribution. For renewable sources only with
+
+and sources renewable energy.
+Electricity mix for Spain 2017 from REE (Red Electrica Española). More detail on types of
+origin in each type of electricity using Ecoinvent process "Electricity high voltage, ES".
+
+14

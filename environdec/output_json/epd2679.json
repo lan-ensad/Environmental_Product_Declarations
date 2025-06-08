@@ -1,0 +1,183 @@
+{
+  "epd_metadata": {
+    "title": "Declaración Ambiental de Producto",
+    "program": "The International EPD® System",
+    "program_administrator": "EPD International AB",
+    "registration_number": "EPD-IES-0002679",
+    "publication_date": "2021-02-04",
+    "revision_date": "2024-07-30",
+    "valid_until": "2026-02-03",
+    "verification": {
+      "third_party_verification": true,
+      "verifier": "TECNALIA R&I Certificación S.L.",
+      "auditor": "Cristina Gazulla Santos",
+      "accreditation": "ENAC, Accreditation no 125 / C-PR283"
+    },
+    "standards": [
+      "ISO 14025",
+      "EN 15804:2012+A2:2019",
+      "PCR 2019:14 Construction products v1.1",
+      "c-PCR-003 Concrete and concrete elements (EN 16757)"
+    ],
+    "disclaimer": "EPDs belonging to the same product category but registered by different programs may not be comparable. EPDs of construction products may not be comparable if they do not comply with EN 15804."
+  },
+  "product_description": {
+    "owner": "HOLCIM ESPANA",
+    "owner_address": "Avenida de Manoteras, 20. 28050 Madrid (España)",
+    "owner_website": "https://www.holcim.es",
+    "owner_contact": {
+      "phone": "+34 912 13 31 00",
+      "email": "marketing.spain@holcim.com"
+    },
+    "organization_description": "HOLCIM ESPANA is a global leader in construction materials and solutions with activities in cement, aggregates, concrete solutions, and construction products. The company aims to reduce carbon emissions and promote sustainable, high-quality construction materials and solutions.",
+    "production_sites": [
+      "ALCOBENDAS - Madrid",
+      "ALGEMESI - Valencia",
+      "ALMENARA - Castellón",
+      "BÉTERA - Valencia",
+      "COLMENAR - Madrid",
+      "CONSTANTI - Tarragona",
+      "FONCALENT - Madrid",
+      "FUENCARRAL - Madrid",
+      "LA ROCA - Barcelona",
+      "MAJADAHONDA - Madrid",
+      "MONTCADA - Barcelona",
+      "PAPIOL - Barcelona",
+      "POLOP - Valencia",
+      "TORTOSA - Tarragona",
+      "VALENCIA - Valencia",
+      "VALLECAS - Madrid",
+      "VILLAVERDE - Madrid",
+      "ZARAGOZA - Zaragoza",
+      "ZONA FRANCA - Barcelona"
+    ],
+    "product_scope": "This EPD covers all concrete produced at the above-mentioned production sites.",
+    "product_name": "Hormigones H25 (Estándar, Agilia y Artevia), Hormigones H30 (Estándar, Agilia y Artevia), Hormigones H35 (Estándar y Agilia)",
+    "product_code": "UN CPC 375 - Manufactures of concrete, cement and plaster",
+    "product_identification": "HOLCIM ESPANA is a leading manufacturer and supplier of high-quality concrete, with projects in roads, networks, and collective housing. The concrete is premixed and must be transported and used quickly in local markets under optimal conditions. The product includes structural concretes and Artevia for continuous pavements."
+  },
+  "lca_information": {
+    "declared_unit": "1 m3 of premixed concrete with strength of 25 MPa, 30 MPa or 35 MPa meeting technical construction requirements with a reference service life of 100 years",
+    "reference_service_life": "100 years",
+    "temporal_representativeness": "Factory data from 2019; residual electricity mix from Spain 2018",
+    "geographical_scope": "Spain",
+    "data_sources": [
+      "Primary data from production plants",
+      "Ecoinvent database version 8.5",
+      "Simapro 9.1",
+      "EN 15804:2012+A2:2019 impact models"
+    ],
+    "system_boundary": "Cradle to grave including modules A, B, C and D",
+    "modules_declared": {
+      "A1": true,
+      "A2": true,
+      "A3": true,
+      "A4": true,
+      "A5": true,
+      "B1": true,
+      "B2": true,
+      "B3": true,
+      "B4": true,
+      "B5": true,
+      "B6": true,
+      "B7": true,
+      "C1": true,
+      "C2": true,
+      "C3": true,
+      "C4": true,
+      "D": true
+    },
+    "cut_off_criteria": "Minimum 95% of total inputs (mass and energy) per module included; more than 99% of inputs accounted for",
+    "allocation_procedure": "Volume-based allocation used where necessary",
+    "excluded_processes": [
+      "Environmental impact of infrastructure, construction, production equipment and tools not directly consumed",
+      "Impacts related to personnel transport to/from work"
+    ],
+    "lca_study_conducted_by": "Marcel Gémez Consultoria Ambiental",
+    "lca_contact": "info@marcelgomez.com"
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "Truck 16-32 tons",
+      "fuel_consumption": "31.1 L/100 km",
+      "distance": "12.16 km",
+      "capacity_utilization": "100%",
+      "product_bulk_density": "See LCA information section",
+      "volume_capacity_factor": null
+    },
+    "installation": {
+      "transfer_method": "Product transferred directly from truck to construction site",
+      "auxiliary_materials": "None used",
+      "water_use": "None used",
+      "other_resources_use": "None used",
+      "energy_use": "None used",
+      "material_waste_before_processing": "2% product loss"
+    }
+  },
+  "end_of_life": {
+    "demolition": {
+      "diesel_use_in_demolition": true
+    },
+    "transport_to_waste_treatment": {
+      "vehicle_type": "Truck 16-32 tons",
+      "fuel_consumption": "25 L/100 km",
+      "distance": "50 km"
+    },
+    "waste_treatment": {
+      "recycling_rate": 0.89,
+      "landfill_rate": 0.11,
+      "waste_collection": "Product collected mixed with other construction waste",
+      "recovery_system": "89% recycling to crushed gravel",
+      "disposal": "11% landfill"
+    },
+    "module_D": "Includes benefits from reuse, recovery and recycling; recycled product considered as avoided product (crushed gravel)"
+  },
+  "carbon_emission_context": {
+    "co2_uptake_by_carbonation": {
+      "included": true,
+      "methodology": "According to c-PCR and EN 16757:2018",
+      "formula": "CO2 uptake = k * sqrt(t) + Utcc * C * Dc / 1000",
+      "parameters": {
+        "k": "Carbonation factor (mm/year^0.5)",
+        "Utcc": "Maximum theoretical absorption in g CO2/kg cement",
+        "C": "Cement content in kg/m3 concrete",
+        "Dc": "Degree of carbonation",
+        "assumption": "Only one face of 1 m3 concrete is in contact with air"
+      }
+    },
+    "biogenic_carbon_content": {
+      "product": "0 kg C",
+      "packaging": "0 kg C",
+      "note": "1 kg biogenic carbon equals 44/12 kg CO2"
+    }
+  },
+  "recycled_materials_handling": {
+    "post_consumer_content": "0% for cement, gravel, water, and additives in all product variants",
+    "renewable_material_content": "0% cement, 100% gravel, approx. 6.5-6.6% water by weight",
+    "water_recycling": "Product contains significant amount of recycled water from rainwater and truck cleaning"
+  },
+  "additional_info": {
+    "company_certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ],
+    "environmental_commitments": {
+      "carbon_footprint_registration": "Registered carbon footprint and emission reduction commitments for 2016-2019 with Spanish Ministry for Ecological Transition",
+      "scope_of_calculation": "Cement, concrete and mortar manufacturing activities in Spain including central offices and 63 production centers",
+      "circular_economy_commitment": "Focus on maximizing waste lifecycle through reuse and recycling; Geocycle subsidiary pre-treats waste for alternative fuels in clinker production",
+      "quarry_restoration": "Over 30 years of proactive quarry restoration to generate net positive biodiversity impact; recognized with European Business Awards for the Environment 2018"
+    },
+    "references": [
+      "General Programme Instructions for the International EPD® System v.3.01",
+      "ISO 14020:2000 Environmental labels and declarations - General principles",
+      "ISO 14025:2010 Environmental labels and declarations - Type III environmental declarations - Principles and procedures",
+      "ISO 14040:2006 Environmental management - Life cycle assessment - Principles and framework",
+      "ISO 14044:2006 Environmental management - Life cycle assessment - Requirements and guidelines",
+      "PCR 2019:14 Construction products (EN 15804: A2) v1.1",
+      "EN 15804:2012 + A2:2019 Sustainability of construction works - Environmental product declarations - Core rules for the product category of construction products",
+      "c-PCR-003 Concrete and concrete elements (EN 16757)",
+      "EN 16757 Sustainability of construction works - Environmental product declarations - Product category rules for concrete and concrete elements"
+    ],
+    "version_changes": "This version updates the initial version dated 04-02-2021 due to editorial changes including company and product name changes; no parameters affected."
+  }
+}

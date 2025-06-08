@@ -1,0 +1,190 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD System",
+    "program_operator": "EPD International AB, EPD MENA",
+    "epd_registration_number": "S-P-08637",
+    "publication_date": "2023-08-11",
+    "valid_until": "2028-08-10",
+    "standards": [
+      "ISO 14025",
+      "EN 15804:2012+A2:2019"
+    ],
+    "third_party_verification": {
+      "verifier": "Barbara M Civit",
+      "approved_by": "The International EPDS® System",
+      "follow_up_procedure": "Yes"
+    },
+    "product_category_rules": {
+      "core_pcr": "CEN standard EN 15804",
+      "pcr_reference": "PCR 2019:14 Construction products version 1.2.5",
+      "pcr_additional": "EN 16908:2017+A:2022",
+      "pcr_review_by": [
+        "The Technical Committee of the International EPD® System",
+        "CEN"
+      ],
+      "pcr_moderator": {
+        "name": "Martin Erlandsson",
+        "organization": "IVL Swedish Environmental Research Institute",
+        "email": "martin.erlandsson@ivl.se"
+      }
+    }
+  },
+  "product_description": {
+    "product_name": "Cement CPJ 55",
+    "product_reference": null,
+    "production_sites": [
+      "Settat plant",
+      "Bouskoura plant"
+    ],
+    "cpc_code": "37440",
+    "geographical_scope": "Morocco",
+    "product_standard": "NM 10.1.004-2019",
+    "product_application": "The cement is used as raw material for the production of concrete and mortar to be used in construction of buildings or public works.",
+    "technical_specifications": {
+      "test_standard": "NM 10.1.005 : Liants hydrauliques : Technique des essais",
+      "RC2": "23 MPa",
+      "RC28J": "50 MPa",
+      "initial_setting_time": {
+        "min": 190,
+        "max": null
+      }
+    },
+    "additional_technical_information_url": "www.lafargeholcim.com",
+    "material_content": [
+      {
+        "material": "clinker",
+        "weight_kg": "650-940",
+        "country_of_origin": "Morocco"
+      },
+      {
+        "material": "gypsum",
+        "weight_kg": "0-50",
+        "country_of_origin": "Morocco"
+      },
+      {
+        "material": "limestone + fly ashes + pozzolana + slag",
+        "weight_kg": "60-350",
+        "country_of_origin": "Morocco"
+      },
+      {
+        "material": "additives",
+        "weight_kg": "<10",
+        "country_of_origin": "Morocco"
+      }
+    ],
+    "substances_reach_svhc": "The product does not contain any REACH SVHC substances in amounts greater than 0.1% (1000 ppm)."
+  },
+  "lca_information": {
+    "data_period": "2021",
+    "software_used": "One Click LCA software",
+    "upstream_databases": "ecoinvent 3.6 database",
+    "declared_unit": "1 ton of cement CPJ 55",
+    "mass_per_declared_unit_kg": 1000,
+    "biogenic_carbon_content": "There is not biogenic carbon in this product",
+    "system_boundaries": {
+      "modules_included": [
+        "A1 (Raw material supply)",
+        "A2 (Transport)",
+        "A3 (Manufacturing)"
+      ],
+      "modules_not_declared": [
+        "A4",
+        "A5",
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "D"
+      ],
+      "geographical_scope": "Morocco"
+    },
+    "cut_off_criteria": "The study does not exclude any modules or processes which are stated mandatory in the EN 15804:2012+A2:2019 and the applied PCR. The study does not exclude any hazardous materials or substances. This is a cradle to gate EPD. The product is exempted of declaring modules C1-C4 and D because it fulfills the 3 conditions stated in EN 15804. End of life scenarios can be found in EPD for concrete and mortar. The study includes all major raw material and energy consumption. All inputs and outputs of the unit processes, for which data is available for, are included in the calculation. There is no neglected unit process more than 1% of total mass or energy flows. The module specific total neglected input and output flows also do not exceed 5% of energy usage or mass.",
+    "allocation_estimates_assumptions": "Allocation is required if some material, energy, and waste data cannot be measured separately for the product under investigation. In this study, as per EN 15804, allocation is conducted in the following order: 1. Allocation should be avoided. 2. Allocation should be based on physical properties (e.g. mass, volume) when the difference in revenue is small. 3. Allocation should be based on economic values. In this study allocation is made by mass. Allocation used in Ecoinvent 3.6 environmental data sources follows the methodology ‘allocation, cut-off by classification’. This methodology is in line with the requirements of the EN 15804 -standard.",
+    "averages_and_variability": "The values are a weighted average of the two production sites. The variability is less than 5%.",
+    "manufacturing_and_packaging": "The environmental impacts considered for the product stage cover the manufacturing of raw materials used in the production. In this stage, raw materials considered are clinker, gypsum, limestone, fly ashes, slag, pozzolana and additive. Packaging material is not considered as dispatch is done by truck. Electricity used is from the national network. Water is used in a closed circuit and is allocated to clinker production. Waste in the cement blending and crushing process are recirculated inside the factory.",
+    "more_information_url": "https://www.lafargeholcim.ma/fr/ciment"
+  },
+  "transport_and_installation": {
+    "modules_evaluated": false,
+    "notes": "Modules not evaluated."
+  },
+  "end_of_life": {
+    "modules_evaluated": false,
+    "notes": "Modules not evaluated. This is a cradle to gate EPD and product is exempted from declaring modules C1-C4 and D as per EN 15804."
+  },
+  "carbon_emission_context": {
+    "core_environmental_impact_indicators_A1_A3": {
+      "GWP_total_kg_CO2e": 685,
+      "GWP_fossil_kg_CO2e": 685,
+      "GWP_biogenic_kg_CO2e": 0.0157,
+      "GWP_LULUC_kg_CO2e": 0.178,
+      "Ozone_depletion_potential_kg_CFC11e": 2.46e-05,
+      "Acidification_potential_mol_H+e": 1.76,
+      "Eutrophication_freshwater_kg_Pe": 0.00753,
+      "Eutrophication_marine_kg_Ne": 0.521,
+      "Eutrophication_terrestrial_mol_Ne": 6.03,
+      "Photochemical_ozone_formation_kg_NMVOCe": 1.51,
+      "Abiotic_depletion_minerals_metals_kg_Sbe": 0.0701,
+      "Abiotic_depletion_fossil_resources_MJ": 2880,
+      "Water_use_m3_depr": 64.1
+    },
+    "additional_optional_environmental_impact_indicators_A1_A3": {
+      "Particulate_matter_incidence": 1.51e-05,
+      "Ionizing_radiation_kBq_U235e": 9.74,
+      "Ecotoxicity_freshwater_CTUe": 10100,
+      "Human_toxicity_cancer_CTUR": 3.45e-07,
+      "Human_toxicity_non_cancer_CTUh": 1.44e-05,
+      "Soil_quality_potential_SOP": 2240
+    },
+    "use_of_natural_resources_A1_A3": {
+      "Renewable_primary_energy_resources_energy_MJ": 265,
+      "Renewable_primary_energy_resources_material_MJ": 0,
+      "Total_renewable_primary_energy_resources_MJ": 265,
+      "Non_renewable_primary_energy_resources_energy_MJ": 2880,
+      "Non_renewable_primary_energy_resources_material_MJ": null,
+      "Total_non_renewable_primary_energy_resources_MJ": 2880,
+      "Secondary_materials_kg": null,
+      "Renewable_secondary_fuels_MJ": null,
+      "Non_renewable_secondary_fuels_MJ": null,
+      "Use_of_net_fresh_water_m3": 2.68
+    },
+    "end_of_life_waste_A1_A3": {
+      "Hazardous_waste_kg": 143,
+      "Non_hazardous_waste_kg": 339,
+      "Radioactive_waste_kg": 0.0119
+    },
+    "end_of_life_output_flows_A1_A3": {
+      "Components_for_reuse_kg": null,
+      "Materials_for_recycling_kg": null,
+      "Materials_for_energy_recovery_kg": null,
+      "Exported_energy_MJ": null
+    },
+    "GWP_GHG_A1_A3_kg_CO2e": 685
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": null,
+    "renewable_secondary_fuels": null,
+    "non_renewable_secondary_fuels": null
+  },
+  "additional_info": {
+    "health_and_safety": "Prolonged physical contact with non-low chromate cements can cause allergic skin reactions. The limit of chromium VI content to be considered as low chromate content is 2 mg/kg.",
+    "sustainability_information_url": "https://www.lafargeholcim.ma/fr/developpement-durable",
+    "references": [
+      "EN 16908:2017+A1:2022 Cement and building lime. Environmental product declaration. Product category rules complementary to EN 15804",
+      "ISO 14025:2010 Environmental labels and declarations — Type III environmental declarations. Principles and procedures.",
+      "ISO 14040:2006 Environmental management. Life cycle assessment. Principles and frameworks.",
+      "ISO 14044:2006 Environmental management. Life cycle assessment. Requirements and guidelines.",
+      "Ecoinvent database v3.6 (2019) and One Click LCA database.",
+      "EN 15804:2012+A2:2019 Sustainability in construction works — Environmental product declarations — Core rules for the product category of construction products.",
+      "Intl EPD System PCR 2019:14 Construction products version 1.2.5",
+      "Cement CLCA 45 APM (PMES) LCA background report."
+    ]
+  }
+}

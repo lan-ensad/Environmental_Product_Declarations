@@ -1,0 +1,63 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "registration_number": "S-P-06546",
+    "publication_date": "2022-08-03",
+    "review_date": "2024-09-10",
+    "valid_until": "2027-08-01",
+    "third_party_verifier": "TECNALIA R&I Certificación S.L.",
+    "auditor": "Cristina Gazulla Santos",
+    "accreditation": "ENAC. Accreditation no.125/C-PR283"
+  },
+  "product_description": {
+    "product_name": "ECOPact Prime: AGILIA SUELO C and ARTEVIA HDOS 275",
+    "description": "High quality concrete and mortar for road and network, collective housing. Ready-mix concrete/mortar for continuous pavements.",
+    "un_cpc_code": "375 Articles of concrete, cement and plaster",
+    "manufacturer": "HOLCIM SPAIN",
+    "production_sites": "All manufacturing plants of Holcim in Spain"
+  },
+  "lca_information": {
+    "functional_unit": "One m3 of ready-mix of concrete/mortar",
+    "reference_service_life": "100 years",
+    "time_representativeness": "Data from 2019 and 2020",
+    "databases_and_software": "Ecoinvent database version 3.8, Simapro 9.3",
+    "system_boundaries": "Cradle to grave and Module D (A+B+C+D)"
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "Truck of 16-32 tn",
+      "fuel_consumption": "43 L/100 Km",
+      "distance": "10.3 km"
+    },
+    "installation": {
+      "auxiliary_materials": "No auxiliary material used",
+      "water_use": "Not used",
+      "energy_consumption": "Not used",
+      "product_losses": "2%"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": "Use of diesel during demolition",
+    "transport_to_waste_processing": {
+      "vehicle_type": "16-32 tn truck",
+      "fuel_consumption": "25 L/100 Km",
+      "distance": "50 km"
+    },
+    "waste_processing": "89% recycled",
+    "disposal": "11% landfilled"
+  },
+  "carbon_emission_context": {
+    "carbon_footprint_registration": "Registered for 2016, 2017, 2018, 2019, 2020",
+    "co2_fixation": "CO2 fixed by carbonation during use phase"
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "70% recycled cement",
+    "reuse_recovery_recycling_potential": "89% recycled, avoided product is crushed gravel"
+  },
+  "additional_info": {
+    "sustainability_principles": "Management System, control environmental impact, contribution to circular economy, transparent relationship with environment",
+    "circular_economy_commitment": "Reuse the value of waste as resources",
+    "quarry_restoration": "Proactive restoration for biodiversity"
+  }
+}

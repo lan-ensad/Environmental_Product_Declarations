@@ -1,0 +1,140 @@
+{
+  "epd_metadata": {
+    "epd_registration_no": "EPD-IES-0013572:001",
+    "version": "1.0",
+    "publication_date": "2024-07-29",
+    "valid_until": "2029-07-29",
+    "geographical_scope": "Australia",
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia",
+    "reference_year_for_data": "2022-01-01 - 2022-12-31",
+    "cen_standard": "EN 15804",
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.3, 2024-03-01",
+    "c_pcr": "c-PCR-003 (to 2019:14) Concrete and concrete elements, version 2023-01-02",
+    "epd_produced_by": "START2SEE",
+    "third_party_verifier": "Jeff Vickers, thinkstep-anz"
+  },
+  "product_description": {
+    "product_name": "Reinforced Concrete Pipes (RCP)",
+    "manufacturer": "Humes",
+    "location": "Pooraka, Australia",
+    "applications": [
+      "Non-pressure stormwater drainage pipelines",
+      "Sewerage and pressure pipe applications",
+      "Jacking and shaft components of access chambers"
+    ],
+    "materials": [
+      "Coarse and fine aggregates",
+      "Cement",
+      "Water",
+      "Hard-drawn deformed steel reinforcement",
+      "Supplementary cementitious materials (SCMs)",
+      "Chemical admixtures"
+    ],
+    "joint_types": [
+      "Flush Joint (FJ)",
+      "Rubber Ring Joint (RRJ)"
+    ],
+    "product_range": "DN300 to DN2100 diameter range",
+    "product_composition": {
+      "general_purpose_cement": "11-18%",
+      "fly_ash": "2-5%",
+      "coarse_and_fine_aggregates": "69-77%",
+      "water": "5-7%",
+      "reinforcement_steel": "1.5-5.8%",
+      "rubber_rings": "<0.1%"
+    },
+    "technical_compliance": "AS/NZS 4058:2007 - Precast concrete pipes (pressure and non-pressure)"
+  },
+  "lca_information": {
+    "scope": "Cradle-to-gate with options (A1-A3, A4, A5), modules C1-C4, and module D",
+    "methodology": "SimaPro software v9.5.0.0",
+    "allocation": "Mass-based for concrete products, economic for fly ash and steel slag",
+    "cut_off_criteria": "1% of renewable and non-renewable primary energy usage, 1% of total mass input",
+    "key_assumptions": [
+      "Concrete compositions from Humes internal systems",
+      "Use of EPDs from cement suppliers",
+      "Reinforcement steel modeled with ecoinvent data"
+    ],
+    "electricity": "Adjusted AusLCI data representing estimated residual electricity grid mix in Australia",
+    "declared_unit": "1 tonne of reinforced concrete pipe (RCP), including rubber rings, installed using the H1 bedding type"
+  },
+  "transport_and_installation": {
+    "transport_to_site": {
+      "average_distribution_distances": "Weighted average delivery scenario for RCP products by site",
+      "return_transport": "Empty"
+    },
+    "installation": {
+      "processes": [
+        "Excavation of the trench",
+        "Placement and compaction of bedding materials",
+        "Placement of RCP",
+        "Filling of the trench"
+      ],
+      "bedding_types": [
+        "H1",
+        "H2",
+        "HS1",
+        "HS2",
+        "HS3",
+        "U"
+      ]
+    }
+  },
+  "end_of_life": {
+    "scenarios": [
+      "Left in the ground, abandoned",
+      "Exhumed and recycled"
+    ],
+    "deconstruction_demolition": "Removal of pipes included",
+    "transport": "Transportation to recycling site or disposal site",
+    "waste_processing": "Crushing of waste pipes into concrete rubble and steel scrap",
+    "disposal": "Emissions from concrete waste disposed to landfill considered"
+  },
+  "carbon_emission_context": {
+    "gwp_total": "2.19E+02 kg CO2-eq",
+    "gwp_fossil": "2.20E+02 kg CO2-eq",
+    "gwp_biogenic": "-1.36E+00 kg CO2-eq",
+    "gwp_luluc": "4.65E-02 kg CO2-eq",
+    "gwp_ghg": "2.20E+02 kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "reuse_recovery_recycling_potential": "Concrete rubble and steel scrap can replace natural coarse aggregates and virgin steel",
+    "module_d": "Relevant when pipes are exhumed and recycled"
+  },
+  "additional_info": {
+    "safety_health_environment": "High environmental standards monitored by Holcim executive committee",
+    "infrastructure_sustainability": "Member of Infrastructure Sustainability Council (ISC)",
+    "references": [
+      "AS 1379",
+      "AS 1478",
+      "AS 1646",
+      "AS 2758.1",
+      "AS/NZS 3725",
+      "AS 3972",
+      "AS/NZS 4058",
+      "AS/NZS 4671",
+      "AusLCI 2023",
+      "ECHA 2023",
+      "EFCA 2021",
+      "EFCA 2023",
+      "Environdec 2021",
+      "EN 15804+A2",
+      "ISO 14025",
+      "ISO 14040",
+      "ISO 14044",
+      "NGA 2023",
+      "NOHSC 2004",
+      "NWR 2022",
+      "PCR 2019:14",
+      "CPAA 2007"
+    ],
+    "contact_information": {
+      "national_sales": "1300 361 601",
+      "paul_adams": "0429790481",
+      "website": "humes.com.au",
+      "email": "info@humes.com.au"
+    }
+  }
+}

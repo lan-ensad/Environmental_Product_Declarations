@@ -1,0 +1,1648 @@
+: , "24
+
+fe
+
+DECLARACIO
+AMBIENTAL D
+
+PRODUCTO
+
+En concordancigäcon ISO 14025 y
+EN 15804# A2:2019 para:
+
+CEMENTO INBESTRLL£
+#a
+
+Programa: The International EPD® System,
+www.environdec.com
+
+Operador del programa: EPD International AB
+
+Nümero de registro EPD: S-P-05006
+
+Fecha de publicacién: 2021-11-02
+
+Fecha de validez: 2026-11-01
+
+EN15804 VERIFIED Alcance Geogräfico: Costa Rica
+
+Una DAP debe proporcionar informacién actualizada y puede actualizarse si cambian las condiciones.
+Por lo tanto, la validez declarada esté sujeta al registro y publicacién continuos en www.environdec.com
+Choice — EPD
+
+Resumen Ejecutivo
+
+Esta DAP fue desarrollada por Holcim (Costa Rica) S.A. bajo el esquema “The International EPD®
+System”, segün las normas Europeas CEN EN 15804 y PCR 2019:14 y c-PCR-001. El alcance de este
+estudio es “De la Cuna a la Puerta” cubriendo las etapas del producto, segün los médulos A1-A3 de
+las reglas de categoria, se excluyen de esta declaraciôn los médulos C1-C4 y D dado que el producto
+cumple las tres condiciones requeridas por EN 15804:2012+A2:2019 para su exclusién.
+
+La unidad declarada utilizada es una tonelada de cemento (Holcim Industrial). Todos los indicadores
+de desempeño ambiental han sido declarados para cemento a granel ÿ empacado. Todos los datos
+primarios utilizados en este estudio corresponden al año 2020, de la planta de cemento Holcim
+ubicada en Cartago, Costa Rica.
+
+Holcim Industrial es un cemento de alta resistencia temprana para ingenieria civil, aplicaciones de
+construccién, concreto premezclado y productos de concreto. Ayuda a los fabricantes industriales a
+construir de forma més räpida y eficiente. Debido a su contenido optimizado de Clinker, este
+cemento ofrece un mejor desempeño ambiental con el objetivo de permitir la construccién con
+bajas emisiones de carbono a escala y contribuir al logro de certificaciones ambientales de clase
+mundlial (ej., LEED®).
+
+Los cementos producidos por Holcim (Costa Rica) estén incluidos dentro de nuestra visién
+corporativa de Sostenibilidad, lo invitamos a conocer mâs sobre nuestras acciones o profundizar en
+cualquiera de los detalles aqui presentados consultando a nuestro personal técnico o visitando
+nuestro sitio web www.holcim.cr.
+
+EXECUTIVE SUMMARY
+
+This Environmental Product Declaration (EPD) was developed by Holcim (Costa Rica) S.A. under The
+International EPD® System, according to European Standard CEN EN 15804 and PCR 2019:14 and c-
+PCR-001 norms. The scope of this study is “Cradle to Gate” covering product stages using modules
+A1-A3 from the Product Category Rules; for this declaration, modules C1-C4 and D were excluded,
+since product fulfills the three conditions required by EN 15804:2012+A2:2019.
+
+The declared unit used is one ton of cement (Holcim Industrial). AIl environmental performance
+indicators have been declared for bulk and packaged cement. AIl primary data used in this study is
+for the year 2020, at the Holcim cement plant located at Cartago, Costa Rica.
+
+Holcim Industrial is a high early strength cement for civil engineering, building applications, ready-
+mixed concrete, and concrete products. It helps industrial manufacturers to build faster and in a
+more efficient way. Due toits optimized clinker content, this cement delivers a better environmental
+performance with the objective of enabling low-carbon construction at scale and contributing to the
+achievement of world-class environmental certifications (e.g., LEED®).
+
+The cements produced by Holcim (Costa Rica) are included within our corporate vision of
+Sustainability. We invite you to learn more about our study, or to deep dive into any of the details
+presented here by consulting our technical staff or visiting our website www.holcim.cr.
+Colin “— EPD
+
+CONTENIDO
+RESUMEN EJECUTIVO nn rsesnesesesnesesscnesesecscsesccscsesecscsesececsesececseseceesesecesesesesecesesecesescseses 1
+1. _INFORMACION DEL PROGRAMA EPD SYSTEM nes see enennne see snsneceeessnnc see ssneceesssneceeennee 4
+2. INFORMACIÔN DE LA EMPRESA ….nnrrsnnesesesnnncceeenncceeesnne eee esnnnceeeessnc eee essneceeessnnceeeeeneeesne 5
+2.1 DESCRIPCIÔN DE LA ORGANIZACION nn rssererererererererenerenenenenememenenenenenenenenenenennnenerenenesesesesesesesereseseenenenenenee 5
+2.2 CERTIFICACIONES RELACIONADAS CON PRODUCTOS O SISTEMAS DE GESTION serrer ee eeeeeeeeeeeeeeeneee 6
+2.3 NOMBRE Y UBICACION DE LOS SITIOS DE PRODUCCIOÔN rss sererererererenerneenemenememeremenerememeseseeeenenemenenenenenenee 6
+3.  INFORMACIÔN DEL PRODUCTO …nsrrrescneseeennnncceeennncceeeenneceeeesnnceeeessnnc eee essneceeessnnceeeenneeesne 7
+3.1 NOMBRE DEL PRODUCTO ss srrseserererererereenenenenenenenenenenemeneneneneneneneneneneneneneneseneseneeeeeeeenenenenenenenenenenenee 7
+3.2 DENTIFICACION DE PRODUCTO snnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnenenennnnneneneneeennnnenenenennnee 7
+3.3 C6DIGO UN CPE er erererererererererererererererererenenenenenenenenenenene eee eeeeeeeeeeerererererereeenenee 7
+3.4 DESCRIPCIÔN DEL PRODUCTO nn sssrererererererererenererenerenenenenemenenenenenesneeseneseneneseneseseseseseseseenenemenenenenenenee 7
+3.5 PRESENTACIOÔN ns ssesesesrsererererrenenereneneneneneneneneneneneneneneneneneneneneneneseneseneneeneneneneneneneneneneneneneneeeneeenee 7
+3.6 USOS RECOMENDADOS ..seserererererereeereenenenenenenenenenenemememeneneneneneneneneneneneneneneneseneseeneneneneneneneneneneneeenee 7
+4. INFORMACION DEL ANALISIS DE CICLO DE VIDA (ACV) sn se ssncneceeeeessnnceeessneceeessnnceeesnnnsee 8
+AT UNIDAD DECLARADA is seseserererererererereseenenenenenenenenenenenenenemeneneneneneneneneseneneseneneneneneseeneneneneneneneneneeenenenenee 8
+4.2 VIDA UTIL DE REFERENCIA resserre ce cececeeeemererererenereeenenererenereneeeeeeeeeseseeeseseeeeeseseseeeeeenenenenenenenenenenenee 8
+4.3 REPRESENTATIVIDAD TEMPORAL un ussrrererererererererererererenerenenenenenenenenenereennenenesereneseneseeeeeseeeseseenenemenenenenee 8
+4.4 BASE(S) DE DATOS Y SOFTWARE DE ACV UTILIZADOS sise ssseeseerrene ce ssnee cesser 8
+4.5 DESCRIPCIÔN DE LOS LIMITES DEL SISTEMA ..ssseseseresesesererererererererererererenenereneenenenenenenenenenenenenenenenenee 8
+4.6 DIAGRAMA DEL PROCESO sers rererereerenenenenenenenenenemeneneneneneneneneneneneneneneneneseneseeeseenenenenenenenenenenenee 9
+4.7 MGDULOS DECLARADOS se rrerererererererererereemememememenemenememememememenenemeneneneneneneneneneneseseseeeenenenemenenenenenenenenee 9
+4.8 OTRA INFORMACIÔN creer ere enene encre en ere eneneneneneneneneneneneneneneneneneneneneneneneneneneeeeeeeeeerererenenenenenene 10
+5.  INFORMACIÔN DE CONTENIDO..nnrrnnncrseonnceeeennncceeesnnnceeeennnceeeesneceeesessnncceeesnceeeessneceeenencee 13
+6. INFORMACIÔN AMBIENTAL, CEMENTO INDUSTRIAL À GRANEL nn rsnnsreeenncssoeeessnnceessnnncee 14
+6.1 IMPACTO AMBIENTAL POTENCIAL POR UNIDAD DECLARADA se sererererererererereseennenenenenenesesereeererererereenenenenenne 14
+6.2 USO DE RECURSOS ue sseseseresererererrerererenererenenererenenenenenerenenenenenenerenereneneneneseeneneneneneneneneneneneeenenenee 15
+6.3 GENERACIÔN DE RESIDUOS rene ere ererererenererenenememenenecenenenenenenenenenenenenenenenenenenene creer 15
+6.4 FLUJOS DE SALIDA ss sesesesereseresesererneneneneneneneneneneneneneneneneneneneneneneneneneneneneseneneseeneneneneneneneneneneneeenenenee 15
+6.5 IMPACTO POTENCIAL AMBIENTAL — INDICADORES ADICIONALES euussseseserererererererereenenenenenenenenenenenenenenenenenennne 16
+6.6 INFORMACIOÔN SOBRE EL CONTENIDO DE CARBONO BIOGÉNICO ee rreseserererererererererererererererereremerererereeereenenns 16
+7. _INFORMACIÔN AMBIENTAL, CEMENTO INDUSTRIAL EN BOLSA nsnesresescneesoeeessnnseeesnnnsee 17
+7.1 IMPACTO AMBIENTAL POTENCIAL POR UNIDAD DECLARADA nnnnnnnennnnnennnnnenennnnnennnnnennnnnenenenenenenennnnnnenee 17
+7.2 USO DE RECURSOS.nnnnnnn nee nee meme nn meme nennnnnnnenenennnnnnnnnnnenenenenenenenenenenenenenenenennenenenenenenenenenenennnneee 18
+7.3 GENERACION DE RESIDUOS.. rennes rer ererenenemenemerenenecenenenenenenenenenenenenenenenenenenene creer 18
+7.4 FLUJOS DE SALIDA ner nnnnnnnnnnnnnnnenenenennnenennnenenenenenenennenenenenenenenenenenenennnee 18
+7.5 IMPACTO POTENCIAL AMBIENTAL — INDICADORES ADICIONALES snenenenenenenenennrnnenenenenenenenenenenenenenenennnnnee 19
+7.6 INFORMACION SOBRE EL CONTENIDO DE CARBONO BIOGÉNICO nnnnnnnnnnnnnnnnnnnnnenenenenenenenenenenenenenenenennnnne 19
+8.  INTERPRETACION DE LOS RESULTADOS .nsereennneseeencneceeeennnceeeesneceeessneneceeessnnceeesnnncee 20
+8.1 CONTRIBUCION DE LOS MODULOS DECLARADOS A LOS INDICADORES DE IMPACTO AMBIENTAL 20
+8.2 CONTRIBUCION DE LOS MODULOS DECLARADOS A LOS INDICADORES DE USO DE RECURSOS 22
+8.3 CONTRIBUCION DE LOS MODULOS DECLARADOS A LOS INDICADORES DE FLUJO DE RESIDUOS........ rene 23
+8.4 CONTRIBUCION DE LOS MODULOS DECLARADOS A LOS INDICADORES DE FLUJO DE SALIDA ee 24
+8.5 CONTRIBUCION DE LOS MODULOS DECLARADOS A LOS INDICADORES ADICIONALES rer reeeeeeeenes 25
+9. INFORMACION ADICIONAL..nnnnsrnnmscreennncceeesnncneeennnceeeesneceeensne eee een nnceeessneceeessneceeessnnceeesnnncee 26
+9.1 ORIGEN DE LAS MATERIAS PRIMAS ner ere ere er enenenemeneneneneneneneneneneeeneneneneneneneneneneneneneneseerenenenenee 26
+9.2 EMISIONES AL AIRE — COV ni sissesesesereresererererererereserereresesesesesereenemeneneneneeenenss 26
+10. DIFERENCIAS FRENTE A VERSIONES ANTERIORES DE LA DAP ns ssnssssssnesesssssscnesesscsessssnee 26
+11. REFERENCIAS nn nr nee ennennennnn een enneen een eenennenececeneeneenecneseecceseeeeeeeeeneeneeseesesee 27
+Üolcim — EPD
+
+INFORMACIÔN DEL PROGRAMA EPD SYSTEM
+
+FR
+
+EPD International AB
+BOX 210 60
+
+SE-100 31 Estocolmo
+Suecia
+wwWw.environdec.com
+
+info@environdec.com
+
+PCR 2019:14 Construction Products v1.11
+c-PCR-001 to PCR 2019:14
+El Comité Técnico de The International EPD®
+
+System. Ver www.environdec.com/TC para la lista
+
+de integrantes. Presidente de revisién: Claudia A.
+Peña, Universidad de Concepcién, Chile.
+
+El panel de revisores puede ser contactado por
+medio de la Secretaria en
+www.environdec.com/contact
+
+[] Certificacién de proceso DAP
+
+Verificacién DAP
+
+Marcel Gémez Ferrer. Marcel Gomez
+
+Consultoria Ambiental. Info@marcelgomez.com
+The International EPD® System
+
+[1 Si
+
+No
+
+El propietario de la Declaracién Ambiental de Producto (DAP/EPD en inglés) es el ünico propietario
+y responsable de la DAP. Las DAP dentro de la misma categoria de producto, pero de diferentes
+programas pueden no ser comparables. Las DAP de productos de construccién pueden no ser
+comparables si no cumplen con EN 15804. Para obtener ms informaciôn sobre la comparabilidad,
+consulte EN 15804 e ISO 14025.
+Ë:
+
+olcim
+
+2. INFORMACIOÔN DE LA EMPRESA
+
+Propietario de la DAP: Holcim (Costa Rica) S.A.
+
+“— EPD
+
+Contacto: Catalina Mora, catalina.morar@holcim.com
+
+2.1  Descripciôn de la organizaciôn
+
+Holcim (Costa Rica) S.A. es una empresa con
+trayectoria en el pais desde 1964, que cree en
+la construccién de un mundo que funcione
+para las personas y el planeta. Un mundo que
+le permita a las personas vivir de forma
+segura, conectadas y promueva el bienestar
+comün. Mediante la aplicacién de altos
+esténdares (nacionales e internacionales) que
+garanticen un ambiente seguro de trabajo
+“Cero daño”, el cuidado del medio ambiente
+y el desarrollo de politicas que promueven un
+lugar de trabajo inclusivo y diverso. Es por eso
+por lo que estamos reinventando la forma en
+que el mundo avanza en nuestro camino para
+convertirnos en una empresa “Net Zero”.
+
+En nuestro camino para convertirnos en una
+empresa “Net Zero”, estamos:
+
+e _Promoviendo la construccién sostenible
+
+e Somos la primera empresa global de
+materiales de construcciôn en firmar la
+iniciativa "Business Ambition for 1.5°C"
+de United Nations Global Compact
+(UNGC).
+
+e  Trabajamos con metas y un plan de
+accién 2030 verificado por Science
+Based Targets initiatives (SBTi).
+
+Como parte de esta ambicién, en Holcim
+Costa Rica trabajamos con un fuerte enfoque
+en materia de sostenibilidad, queremos
+transformar la manera de trabajar de nuestra
+Industria y alentar al sector de la construccién
+a jugar un rol en los problemas ms
+importantes de nuestro planeta. Por ello,
+nuestra visién de sostenibilidad al año 2030,
+va més allé de las acciones que debe realizar
+una empresa para reducir su impacto, y se
+enfoca en cuatro âreas:
+
+1) Proteger el clima reduciendo nuestras
+emisiones de Gases de Efecto
+Invernadero (GEl).
+
+2) Conservar el recurso hidrico y la
+biodiversidad.
+
+3) Adoptar un modelo de economia circular
+y optimizaciôn de los recursos.
+
+4) Mejorar la calidad de vida de nuestros
+grupos de interés y la comunidad.
+
+Las principales acciones que nos han
+permitido lograr reducir el impacto ambiental
+de nuestras actividades y la huella del
+portafolio de productos son:
+Ë:
+
+olcim
+
+e  Uso de combustibles alternos para
+sustituir el consumo de combustibles
+fésiles tradicionales utilizados para el
+proceso productivo de Cemento.
+
+e  Automatizaciôn de la operaciôn para
+garantizar la mayor  eficiencia
+energética del proceso.
+
+e  Recuperaciôn de calor en el sistema
+para reducir el consumo térmico del
+proceso.
+
+e Utilizacién de minerales adicionados
+(puzolana y caliza) para optimizar la
+composicién del cemento y mejorar
+sus propiedades.
+
+e _Mejora del desempeño del cemento y
+aumento de resistencias mediante la
+utilizacién de aditivos de molienda.
+
+e Control exhaustivo de los
+combustibles y materias primas en el
+proceso para minimizar el impacto en
+emisiones.
+
+e  Monitoreo en linea de las emisiones
+de forma continua con equipo de
+Ültima tecnologia.
+
+e  Mantenimiento preventivo ÿ
+correctivo de los equipos y filtros de
+mangas y electro filtro para disminuir
+las emisiones de material particulado.
+
+Desde el punto de vista del ciclo de la
+construccién, el contar con productos de
+menor huella de carbono o con significativas
+reducciones de CO», contribuye a mitigar el
+impacto ambiental generado por el sector e
+incentiva cambios en la forma tradicional de
+construir.
+
+Holcim Costa Rica comprometido con los
+objetivos de Desarrollo Sostenible (ODS) y con
+la estrategia nacional de descarbonizacién, ha
+puesto sus  esfuerzos en realizar
+Declaraciones ambientales de productos
+(DAP, EPD por sus siglas en inglés), las cuales
+evalüan el potencial de calentamiento global
+(GWP), entre otros impactos ambientales, de
+los materiales de construccién, a partir de la
+
+—— EPD
+
+cantidad de energia requerida durante el
+proceso de fabricaciôn y el impacto ambiental
+de extraer o producir las materias primas yel
+combustible utilizado para entregar los
+materiales a los lugares de trabajo. Estos
+documentos  cumplen con  normativa
+internacional ISO y son reconocidos por
+esquemas de  certificaciôn para la
+construccién sostenible, como Liderazgo en
+Energia y Diseño Ambiental (LEED) v4.
+
+Los resultados de estas DAP serän utilizados
+como informacién para la toma de decisiones
+por parte de diseñadores, desarrolladores y
+constructores, en las fases de diseño,
+especificaciôn y seleccién de materiales con
+una vision de responsabilidad ambiental y
+promocién de la construccién sostenible, con
+un enfoque de ciclo de vida.
+
+2.2  Certificaciones relacionadas con
+productos o sistemas de gestiôn
+
+La planta de Cemento Holcim Costa Rica
+cuenta con un sistema de gestiôn integrado
+certificado segün normas ISO 9001:2015
+“Gestién de Calidad” e ISO 14001:2015
+“Gestién Ambiental”. Adicionalmente, el
+inventario de emisiones de gases de efecto
+invernadero de la organizaciôn esté verificado
+segün los requisitos de la norma ISO 14064-
+1:2006 “Gases de Efecto Invernadero” y el
+cälculo de la Huella de Producto para todos
+los Cementos se realiza en cumplimiento con
+la norma ISO 14067, verificada por tercera
+parte a través del Instituto de Normas Técnica
+de Costa Rica (INTECO).
+
+2.3 Nombre y ubicacién de los sitios de
+produccién
+
+La Planta de Cemento Holcim se localiza en
+Agua Caliente de Cartago, Costa Rica.
+Colin “— EPD
+
+3. INFORMACION DEL PRODUCTO
+
+3.1 Nombre del producto adecuado al Cemento Pértland tipo Il (ASTM
+
+Cemento Holcim Industrial. Cemento C150) de moderada resistencia a los sulfatos.
+
+hidräulico de uso industrial.
+3.5  Presentaciôn
+
+3.2 Identificacién de producto e Bolsas 50 kg
+
+Tipo MP/A-28 (RTCR 479:2015) °  Granel
+
+3.3 Cédigo UN CPC 3.6 Usos recomendados
+
+El cemento Industrial se clasifica en la e  Concretos de tipo estructural
+
+categoria CPC 3744 "Portland cement, e  Concretos resistentes a la agresiôn
+
+aluminous cement, slag cement and similar e Estructuras prefabricadas y
+
+hydraulic cements, except in the form of pretensadas
+
+clinkers" bajo el sistema de clasificaciôn UN ° _ Concretos premezclados
+
+1
+
+CPC v2.1. e  Produccién de mamposteria y
+elementos prefabricados
+
+34  Descripcién del producto e _Concretos impermeables
+
+El Cemento Holcim Industrial es un cemento ° Dora en contacto con aguas o suelos
+
+para uso en concretos especiales y de alta
+
+. Le e  Plantas de tratamiento
+resistencia inicial.
+
+e Canales y obra hidräulicas
+
+El Cemento Holcim Industrial es el
+recomendado para construcciones
+industriales de mayor  resistencia y
+durabilidad. Su contenido controlado de
+Aluminato tricélcico (C:A) menor al 8% provee
+un moderado calor de hidratacién lo cual
+favorece la disminucién de agrietamiento
+superficial por contracciôn pléstica, controlan
+adecuadamente los pardmetros de curado.
+
+La inclusién de la Puzolana Holcim en el
+Cemento Industrial, genera concretos ms
+densos y de mayor durabilidad, cuyas
+caracteristicas los hacen resistentes a la
+accién de medios agresivos, presencia de
+sulfatos, cloruros ÿ agua de mar. Por sus
+caracteristicas de durabilidad es un sustituto
+
+Thttps://unstats.un.org/unsd/classifications/Econ/cpc
+à
+
+olcim
+
+-— EPD
+
+4. INFORMACION DEL ANÂLISIS DE CICLO DE VIDA (ACV)
+
+4.1  Unidad declarada
+
+1 tonelada de cemento, a granel o en bolsa
+
+4.2 Vida ütil de referencia
+
+La vida ütil de servicio de los productos a base
+de cemento se estima, por sus componentes
+y caracteristicas de diseño, superior a 50
+años, al ser integrado como componente del
+concreto y morteros. Por el potencial de
+pérdida de sus propiedades, ante la
+exposicién a condiciones ambientales de
+temperatura ÿ humedad, el tiempo
+recomendado para comercializar el cemento
+es de 45 dias. Se recomienda mantener
+condiciones de almacenamiento adecuadas
+para el cemento, segün lo indicado en los
+documentos Asociacién de Cemento Portland
+(PCA) y el Instituto Americano del Concreto
+(ACI), segün capitulo 2, y capitulo 304 seccién
+2.3.
+
+43  Representatividad temporal
+
+Los datos de produccién corresponden al
+periodo del 1 de enero de 2020 al 31 de
+diciembre de 2020. Otros datos de referencia
+corresponden a la ültima versién disponible
+de Ecoinvent 3.6.
+
+44  Base(s) de datos y software de ACV
+utilizados
+
+Base de datos Ecoinvent 3.6. Modelo de
+Anälisis de Ciclo de Vida desarrollado en
+
+software GCCA Industry EPD tool for cement
+and concrete (V3.0).
+
+45  Descripcién de los limites del sistema
+
+El alcance del estudio de ACV cubre los
+médulos de la cuna a la puerta, en
+concordancia con los requisitos de la PCR
+2019:14 “Productos de Construccién” y la
+norma EN 15804:2012+A2:2019. El producto
+“cemento” cumple con las siguientes
+condiciones:
+
+e El material se integra fisicamente con
+otros productos durante su instalaciôn,
+de tal manera que estos no pueden
+separarse fisicamente al final de su fin de
+vida ütil.
+
+e El material no es identificable al final de
+su vida ütil como resultado de un
+proceso de transformacién fisica y
+quimica.
+
+e El material no contiene carbono
+biogénico.
+
+El andlisis del sistema incluye todas las fases
+del ciclo de vida, desde la extraccién y
+abastecimiento de materias primas, los
+consumos de energia y materiales, y los
+procesos de manufactura primarios y
+secundarios (sus entradas y salidas), hasta el
+producto terminado y/o empacado al final de
+la fase de fabricacién, como lo requiere la
+opcién "De la Cuna a la Puerta" del PCR de
+referencia. Los impactos ambientales se han
+evaluado considerando todas las fases del
+ciclo de vida del producto de acuerdo con las
+reglas enumeradas en el PCR 2019:14
+À —"pD°
+
+olcim
+
+4.6  Diagrama del proceso
+
+4.7  Môdulos declarados
+
+É c S
+= :© 2 © S
+a o 5 Q © 6 S 2 v
+.œ 3 £ 5 £ S 5 e ©
+ñ S SM oN Ÿ | & 5 Ÿ
+£ 8 [e] = = [= 0] = a œ
+ci œ = S  &  % © D © & L
+= c 2 S | < 3 | 5|S|% 2 & ù =
+8 £ Ê S E S $ gg £< © 2» + £ < 28
+à G e G ‘d € ‘G ‘© £ o @ à G = 6 E à
+EUM Oo 6 a Ë 5 2 5 8 8 5 9 £ 6 e ©
+SNS 5 5 2 5 £|3 59e 5 S|$| 2 5 3
+A = 2 = £ =) > œ A œ =) =) A = = a À &
+Médulo A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6  B7 C1 C2 C3 C4 D
+Médulo
+X | X x ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+declarado
+Geografia CR CR CR - - - - - - - - - - - - - -
+Datos
+especificos >90% - - - - - - - - - - - -
+utilizados
+STE
+aracron No relevante = = = = = = = = = = = =
+productos
+Variaciôn No relevante - - - - - - - - - - - -
+— sitios
+X: Môdulo declarado. ND: Médulo no declarado
+Etapa del producto (A1-A3) e Materias primas  primarias y
+A1 - Suministro de materias primas (proceso secundarias
+aguas arriba): se incluyen las materias primas e  Combustibles primarios ÿ
+(desde la cantera), adiciones y otros insumos secundarios
+
+de las actividades productivas.
+Ë:
+
+olcim
+
+A2 - Transporte de materias primas al sitio de
+produccién (proceso principal): se incluye los
+procesos de transporte y abastecimiento de
+materias primas, combustibles, aditivos y
+otros insumos desde los proveedores locales
+(y su lugar de origen) hasta la planta de
+produccién.
+
+e Transporte terrestre
+e Transporte maritimo
+
+A3 - Fabricacién de Clinker (proceso
+principal): incluye los procesos de trituraciôn
+de caliza y prehomogenizacién, preparaciôn
+de crudo ÿ homogenizacién, precalcinacién y
+fabricacién de Clinker en horno rotatorio,
+enfriamiento ÿ almacenamiento.
+
+e  Consumo eléctrico
+
+—— EPD
+
+e  Combustibles primarios
+
+e  Combustibles secundarios
+
+e  Combustibles para transporte
+
+e Agua industrial
+
+e _Residuos peligrosos ÿ no peligrosos
+
+A3 - Produccién de Cemento: inicia en el
+proceso de preparacién de materias primas,
+molienda de cemento, empaque y
+almacenamiento para despacho.
+
+e  Consumo eléctrico
+
+e  Combustibles primarios
+
+e  Combustibles para transporte
+e _Residuos no peligrosos
+
+e  Materiales de empaque
+
+e Aditivos
+
+Diagrama de flujo de la producciôn de cemento — Etapas analizadas en ACV
+
+Extracciôn de
+materias
+primas
+
+\ .
+—] Trituracién y pre Molienda de
+homogenizaclén crudo
+
+Transporte
+
+L
+
+M], Do. Ce
+
+PTE T1
+
+Despacho de Despacho de
+cemento à cemento
+granel empacado
+
+Produccién de Molienda de
+Clinker cemento
+
+Al A2
+
+4.8  Otra informaciôn
+4.8.1 Supuestos
+
+e Transporte de materias primas: Los datos
+reportados para el transporte de materias
+primas y  otros suministros son
+estimaciones de distancias recorridas
+para abastecimiento desde las
+instalaciones del productor o distribuidor.
+Adicionalmente, se han considerado
+distancias de transporte terrestre y
+maritimo para materiales producidos
+fuera del territorio nacional. Se consideré
+
+A3
+
+las distancias de viaje y retorno para los
+transportes terrestres por carretera.
+
+e Transporte de combustibles primarios: Se
+supone un escenario genérico de
+transporte maritimo desde la Costa del
+Golfo en EE. UU., de acuerdo con la
+memoria anual del distribuidor nacional
+de combustibles (RECOPE).
+
+e  Emisiones de carbono: Con base en la
+metodologia del Protocolo de CO: y
+energia de la Asociacién Global de
+
+10
+Ë:
+
+olcim
+
+Cemento y Concreto (GCCA) y por medio
+de cälculos estequiométricos se
+determina el factor de calcinacién anual,
+en kg CO/ton clinker. La determinacién
+de emisiones de combustibles primarios y
+secundarios se realiza con base en los
+factores de  emisién de  COe
+determinados por el protocolo y
+herramienta del GCCA, en kg CO/MJ.
+
+La matriz de electricidad se calculé con
+datos del Centro de Control de Energia de
+Costa Rica de 2020, de acuerdo con la
+distribucién que se presenta en el cuadro
+a continuacién.
+
+Fuente de energia primaria %
+
+Térmico 0,22
+Biomasa (bagazo) 0,53
+Hidrico 69,52
+Geotérmico 15,33
+Solar 0,080
+Edlico 13,24
+Importado 1,08
+
+4.8.2 Reglas de corte
+
+Los datos recopilados cubren todas las
+materias primas, los insumos y los
+materiales de embalaje; el transporte
+asociado hasta el sitio de fabricacién:; los
+procesos con consumo de energia y uso
+del agua; los residuos de la fase
+productiva y emisiones al aire y al agua.
+
+De acuerdo con la EN 15804 y la PCR de
+referencia, los flujos se pueden omitir
+(cortar) de un proceso central en el ACV
+hasta un méximo del 1% de la masa total
+de insumos de materiales o el 1% del
+contenido total de energia de
+combustibles y energia.
+
+4.8.3
+
+—— EPD
+
+Calidad de los datos
+
+Todos los datos se registran diariamente,
+por lotes de produccién. Se implementan
+informes semanales, mensuales y anuales
+como parte del control operativo y
+financiero. Todos los datos se obtuvieron
+directamente de la empresa del año
+operativo 2020.
+
+Los consumos de materias primas y
+energia se registran mediante equipos y
+procesos automatizados, principalmente,
+bajo control metrolôgico.
+
+Los datos de poder calérico de los
+combustibles utilizados se registran por
+medio de anälisis de laboratorio, de
+acuerdo con normas internacionales de la
+Sociedad Americana para Pruebas y
+Materiales (ASTM), y uso de equipos bajo
+control metrolôgico.
+
+De forma general, los datos de actividad
+se obtienen por registros completos de la
+produccién anual, en su mayoria por
+procesos de medicién con equipos
+confiables, propios de un ünico sitio de
+produccién, con una correlacién temporal
+entre 1 y 10 años respecto a la
+informacién de la base de datos, con
+correlaciôén geogräfica local vs conjuntos
+representativos de un érea mayor ÿ con
+una correlacién tecnolôgica igual o
+similar, respecto a los flujos de la base de
+datos.
+
+La empresa cuenta con un sistema de
+gestiôn integrado, desarrollado segün las
+normas INTE/ISO 9001:2015, INTE/ISO
+14001:2015, INTE/ISO 14064-1:2019 e
+INTE B5:2016, certificado por el Instituto
+de Normas Técnicas de Costa Rica. Todas
+las certificaciones aseguran un enfoque
+de procesos, junto con la medicién y
+seguimiento de los mismos, a través de
+indicadores de desempeño de calidad y
+
+11
+Ë:
+
+4.8.4
+
+olcim
+
+medio ambiente, auditados interna y
+externamente de forma anual.
+
+Para asegurar la conformidad del
+producto, se utiliza la norma y
+reglamento técnico RTCR-479:2015 y el
+laboratorio de control de calidad estä
+acreditado bajo la norma INTE/ISO
+17025:2017. Adicionalmente, la huella de
+carbono de los productos  est4
+determinada y certificada bajo la norma
+INTE/ISO 14067:2019.
+
+Reglas de asignacién
+
+De forma general, siempre que fue
+posible, se evité la asignacién. La
+produccién se dividié en dos procesos
+principales, Clinker y Cemento, ÿ se
+recopilaron los datos de entrada y salida
+relacionados con cada uno. En algunos
+casos, los datos no pudieron atribuirse
+directamente a la produccién del
+producto especifico, se asignaron por
+propiedades fisicas (masa).
+
+Todo el consumo de materias primas se
+basa en una formulacién especifica y
+datos registrados para cada producto
+bajo el sistema de control de calidad de la
+empresa, incluyendo insumos para la
+produccién (ei. aditivos).
+
+La asignacién de consumo de energia
+eléctrica para cada producto de cemento
+se calculé a partir del registro interno, por
+medidores independientes de proceso,
+en funcién de la cantidad especifica de
+produccién por producto.
+
+Para los consumos comunes como el
+consumo de agua, asi como salidas
+
+4.8.5
+
+4.8.6
+
+4.8.7
+
+— EPD
+
+comunes de la produccién, tales como las
+emisiones de horno ÿ la generacién de
+residuos sélidos se realizé una asignacién
+total en funcién de la produccién total
+anual de Clinker, siendo esta la principal
+materia prima del cemento.
+
+Para la asignacién del material de
+embalaje se excluye el peso de los
+productos para venta a granel, sin
+embalaje.
+
+Métodos de evaluaciôn de impacto
+
+Los métodos de caracterizacién cumplen
+las especificaciones de la norma EN
+15804:2012+A2:2019, incluidos IPCC (EF),
+WMO, ReCiPe, CML, AWARE, SETAC-
+UNEP, USEtox, LANCA, entre otros.
+
+Informaciôn excluida
+
+El impacto ambiental de la
+infraestructura, la construccién, los
+equipos de produccién y las herramientas
+que no se consumen directamente en el
+proceso de producciôn no se contabilizan
+en el ACV.
+
+Los impactos relacionados con el
+personal, como el transporte hacia y
+desde el trabajo, tampoco se contabilizan
+en el ACV.
+
+BICMATEC
+
+Desarrollador
+del ACV
+
+El reporte del Anälisis de Ciclo de Vida
+(ACV) fue realizado por BIOMATECH
+Engineering Ltda, para Holcim (Costa
+Rica) S.A.
+
+12
+Ë:
+
+olcim
+
+5. INFORMACIÔN DE CONTENIDO
+
+= EPD'
+
+Clinker Portland 80,0% —89,0% 0,43% 0,00%
+Adiciones minerales 6,00% - 21,0% 0,00% 0,00%
+(caliza y puzolana)
+
+Otros 0,00% — 5,00% 0,00% 0,00%
+TOTAL 100% 0,34% - 0,38% 0,00%
+
+Pallet de madera 12,5 1,25 %
+
+Papel kraft 2,30 0,23 %
+
+TOTAL 14,8 1,488 %
+
+Declaracién de sustancias peligrosas: Los productos declarados contienen menos del 0,1% o
+ninguna sustancia peligrosa, de la lista de “Candidate list of Substances of Very High Concern”,
+actualizacién del 08/07/2021. Todos los productos de cemento aqui declarados cumplen con el
+Reglamento REACH (CE) n2 1907/2006, relativo al registro, evaluaciôn, autorizaciôn y restricciôn de
+
+sustancias quimicas.
+
+13
+6. INFORMACIÔN AMBIENTAL, CEMENTO INDUSTRIAL À GRANEL
+
+Los resultados se informan por separado para 1 tonelada métrica de cemento Industrial, a granel.
+
+6.1 Impacto ambiental potencial por unidad declarada
+
+GWP — total
+GWP -— fossil
+GWP — biogenic
+GWP — luluc
+ODP
+AP
+EP — freshwater’
+
+EP — freshwater”
+EP — marine
+EP - terrestrial
+POCP
+ADP - minerals&metals?
+ADP - fossil?
+WDP?
+
+Acrénimos
+
+Descargo de responsabilidad':
+
+kg CO: eq. 7,75E+02
+kg CO: eq. 7,75E+02
+kg CO; eq. 9,85E-02
+kg CO eq. 1,81E-01
+kg CFC 11 eq. 1,18E-05
+mol H* ec. 1,38E+00
+kg PO;* eq. 2,58E-02
+kg P eq. 8,42E-03
+kg N eq. 6,51E-04
+mol N eq. 5,75E+00
+kg NMVOC eq. 1,43E+00
+kg Sb eq. 1,20E-04
+MJ 9,89E+02
+
+m° 3,90E+01
+
+GWP-fossil: Combustibles fôsiles con potencial de calentamiento global; GWP-biogenic:
+potencial de calentamiento global biogénico; GWP-luluc: Uso potencial de la tierra y cambio
+de uso de la tierra para el calentamiento global; ODP: potencial de agotamiento de la capa
+de ozono estratosférico; AP: potencial de acidificacién, excedencia acumulada; EP-
+freshwater: potencial de eutrofizacién, fraccién de nutrientes que Ilegan al compartimento
+final de agua dulce; EP-marine: potencial de eutrofizaciôn, fraccién de nutrientes que Ilegan
+al compartimento final marino; EP-terrestrial: potencial de eutrofizacién, excedencia
+acumulada; POCP: potencial de formacién de ozono troposférico; ADP-minerals&metals:
+potencial de agotamiento de recursos abiôticos no fésiles; ADP-fossil: potencial de
+agotamiento de recursos abiéticos fésiles; WDP: potencial de privacién de agua (usuario),
+consumo de agua ponderado por privacién.
+
+2 Los resultados de este indicador de impacto ambiental deben usarse con cuidado ya que las incertidumbres de estos resultados son
+elevadas y la experiencia con este parémetro es limitada.
+
+14
+Colin "— EPD
+
+6.2 Uso de recursos
+
+PERE MJ 8,29E+02
+PERM MJ 0,00E+00
+PERT MJ 8,29E+02
+PENRE MJ 1,07E+03
+PENRM MJ 0,00E+00
+PENRT MJ 1,07E+03
+SM kg 5,88E+00
+RSF MJ 0,00E+00
+NRSF MJ 1,82E+03
+FW m° 9,79E-01
+
+PERE: Uso de energia primaria renovable excluidos los recursos utilizados como materias primas,
+PERM: Uso de recursos de energia primaria renovable utilizados como materia prima, PERT: Uso
+total de recursos de energia primaria renovable, PENRE: Uso de energia primaria no renovable
+Acrénimos excluidos los recursos utilizados como materias primas, PENRM: Uso de recursos de energia
+primaria no renovable utilizados como materias primas, PENRT: Uso total de recursos de energia
+primaria no renovables, SM: Uso de materiales secundarios, RSF: Uso de combustibles secundarios
+renovables, NRSF: Uso de combustibles secundarios renovables, FW: uso neto de agua dulce.
+
+6.3  Generaciôn de residuos
+
+HWD kg 0,00E+00
+NHWD kg 2,60E-02
+RWD kg 0,00E+00
+
+HWD: Residuos peligrosos eliminados, NHWD: Residuos no peligrosos eliminados, RWD: Residuos
+
+Acrénimos us Lo
+radiactivos eliminados.
+
+6.4  Flujos de salida
+
+CRU kg 4,17E-03
+MFR kg 1,24E-01
+MER kg 1,29E-01
+
+EE MI 0,00E+00
+
+CRU: Componentes para reutilizacién, MFR: Materiales para reciclaje, MER: Materiales para
+
+Acrénimos L2 : : . ñ a)
+cre recuperaciôn de energia, AEE: Energia exportada, electricidad, EET: Energia exportada, térmica.
+
+15
+Colin "— EPD
+
+6.5 Impacto potencial ambiental — indicadores adicionales
+
+CC kg CO; eq. 4,57E+02
+CWRS kg CO eq. 0,00E+00
+CWNRS kg CO; eq. 6,/72E+01
+CC: emisiones por calcinaciôn y remociones por carbonataciôn; CWRS: emisiones por combustién
+Acrénimos de residuos de fuentes renovables; CWNRS: emisiones por combustién de residuos de fuentes no
+renovables
+
+6.6  Informacién sobre el contenido de carbono biogénico
+
+Contenido de carbono biogénico en el producto kg C 0,00
+
+Contenido de carbono biogénico en el empaque kg C 0,00
+Nota: 1 kg de carbono biogénico es equivalente a 44/12 kg COz.
+7. INFORMACIÔN AMBIENTAL, CEMENTO INDUSTRIAL EN BOLSA
+Los resultados se informan por separado para 1 tonelada métrica de cemento Industrial, en bolsa.
+
+7.1  Impacto ambiental potencial por unidad declarada
+
+GWP -— total kg CO, eq. 7,83E+02
+GWP -— fossil kg CO eq. 7,82E+02
+GWP — biogenic kg CO: eq. 1,30E-01
+GWP — luluc kg CO: eq. 2,29E-01
+ODP kg CFC 11 eq. 1,25E-05
+
+AP mol H* eq. 1,44E+00
+
+EP — freshwater* kg PO;* eq. 3,45E-02
+EP — freshwater* kg P eq. 1,12E-02
+EP — marine kg N eq. 1,07E-03
+EP - terrestrial mol N eq. 5,88E+00
+POCP kg NMVOC eq. 1,47E+00
+
+ADP — minerals&metals° kg Sb eq. 1,53E-04
+ADP — fossil* MI 1,10E+03
+WDP* m° 4,55E+01
+
+GWP-fossil: Combustibles fésiles con potencial de calentamiento global; GWP-biogenic:
+potencial de calentamiento global biogénico; GWP-luluc: Uso potencial de la tierra y cambio
+de uso de la tierra para el calentamiento global; ODP: potencial de agotamiento de la capa
+de ozono estratosférico; AP: potencial de acidificacién, excedencia acumulada; EP-
+freshwater: potencial de eutrofizacién, fraccién de nutrientes que Ilegan al compartimento
+
+Acrénimos final de agua dulce; EP-marine: potencial de eutrofizacién, fraccién de nutrientes que llegan
+al compartimento final marino; EP-terrestrial: potencial de eutrofizacién, excedencia
+acumulada; POCP: potencial de formacién de ozono troposférico; ADP-minerals&metals:
+potencial de agotamiento de recursos abiôticos no fésiles; ADP-fossil: potencial de
+agotamiento de recursos abiéticos fésiles; WDP: potencial de privacién de agua (usuario),
+consumo de agua ponderado por privacién.
+
+Descargo de responsabilidad':
+3 Los resultados de este indicador de impacto ambiental deben usarse con cuidado ya que las incertidumbres de estos resultados son
+elevadas y la experiencia con este parémetro es limitada.
+
+17
+Colin — EPD
+
+7.2  Uso de recursos
+
+PERE MJ 9,77E+02
+PERM MJ 2,52E+02
+PERT MJ 1,23E+03
+PENRE MJ 1,20E+03
+PENRM MJ 0,00E+00
+PENRT MJ 1,20E+03
+SM kg 5,88E+00
+RSF MJ 0,00E+00
+NRSF MJ 1,82E+03
+FW m° 1,15E+00
+
+PERE: Uso de energia primaria renovable excluidos los recursos utilizados como materias primas,
+PERM: Uso de recursos de energia primaria renovable utilizados como materia prima, PERT: Uso total
+de recursos de energia primaria renovable, PENRE: Uso de energia primaria no renovable excluidos
+
+Acrénimos los recursos utilizados como materias primas, PENRM: Uso de recursos de energia primaria no
+renovable utilizados como materias primas, PENRT: Uso total de recursos de energia primaria no
+renovables, SM: Uso de materiales secundarios, RSF: Uso de combustibles secundarios renovables,
+NRSF: Uso de combustibles secundarios renovables, FW: uso neto de agua dulce.
+
+7.3  Generaciôn de residuos
+
+HWD kg 0,00E+00
+NHWD kg 2,60E-02
+RWD kg 0,00E+00
+
+HWD: Residuos peligrosos eliminados, NHWD: Residuos no peligrosos eliminados, RWD: Residuos
+
+Acrénimos Je De
+radiactivos eliminados.
+
+7.4  Flujos de salida
+
+CRU kg 4,17E-03
+MFR kg 1,70E-01
+MER kg 1,30E-01
+
+EE M) 0,00E+00
+
+CRU: Componentes para reutilizaciôén, MFR: Materiales para reciclaje, MER: Materiales para
+
+Acrénimos .2 2 u . : 1
+cro recuperaciôn de energia, AEE: Energia exportada, electricidad, EET: Energia exportada, térmica.
+Colin — EPD
+
+7.5 Impacto potencial ambiental - indicadores adicionales
+
+CC kg CO: eq. 4,57E+02
+CWRS kg CO; eq. 0,00E+00
+CWNRS kg CO; eq. 6,/72E+01
+CC: emisiones por calcinacién y remociones por carbonatacién; CWRS: emisiones por combustién de
+Acrénimos residuos de fuentes renovables; CWNRS: emisiones por combustién de residuos de fuentes no
+renovables
+
+7.6  Informacién sobre el contenido de carbono biogénico
+
+Contenido de carbono biogénico en el producto kg C 0,00
+
+Contenido de carbono biogénico en el empaque kg C 5,78
+Nota: 1 kg de carbono biogénico es equivalente a 44/12 kg COz.
+Ë:
+
+olcim
+
+8. INTERPRETACIÔN DE LOS RESULTADOS
+
+Las declaraciones ambientales de productos
+dentro de la misma categoria de productos de
+diferentes programas pueden no ser
+comparables. Asimismo, los resultados de
+esta Declaracién Ambiental de productos de
+construccién pueden no ser comparable con
+otras DAP, si no cumplen con la norma EN
+15804:2012+A2:2019.
+
+La siguiente interpretaciôn de los resultados
+es representativa del promedio de una
+tonelada de cemento Holcim Industrial.
+
+De forma general, los potenciales de impacto
+ambiental y los indicadores asociados estän
+dominados por la etapa de fabricacién del
+Clinker (principal materia prima del cemento)
+seguido por los procesos de extraccién y
+transporte de materias primas, incluidos
+
+—— EPD
+
+también los combustibles para la etapa de
+manufactura.
+
+À continuacién, se presentan los resultados
+obtenidos por Holcim Costa Rica para cada
+una de las categorifas de impacto y sus
+indicadores asociados para la produccién de
+cemento Holcim Industrial (bolsa).
+
+No se presentan las figuras para la
+presentaciôn a granel dada la similitud con la
+distribucién de las categorias de impacto de la
+presentaciôn en bolsa.
+
+Cuando resulte pertinente se har4 mencién
+del impacto de los materiales de empaque
+propios de la presentaciôn en bolsa.
+
+8.1 Contribuciôn de los médulos declarados a los indicadores de impacto ambiental
+
+Impacto ambiental potencial
+
+100% => y == —_—
+S SERRCIEEUIIEEE
+80%
+
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+LE
+
+S S S S À
+
+D
+
+Sr SSI
+
+e
+S
+© Ÿ
+
+x © :
+RTE LR LR LR & $
+S & S À E €
+
+A1-A3 | Materials M A1-A3 | Manufacturing
+
+BA1-A3 | Transport BA1-A3 | Waste management
+
+20
+Ë:
+
+olcim
+
+Las emisiones de diéxido de carbono y
+metano por la utilizacién de recursos
+energéticos, en electricidad ÿ
+combustibles, son la principal fuente de
+contribucién en el proceso de fabricacién
+de Clinker a los indicadores de Potencial
+de  Calentamiento Global  (GWP),
+representando el indicador GWP-fésil el
+de mayor importancia respecto al total
+registrado (>99%). A través de la
+estrategia de optimizacién del factor
+Clinker en la formulacién del cemento, se
+logra reducir el potencial de impacto.
+
+Por su parte los indicadores Potencial de
+Acidificaciôn (AP), Potencial de
+agotamiento de la capa de ozono (ODP) y
+Potencial de eutrofizaciôn (EP) se asocian
+principalmente a las emisiones a la
+atmôsfera del proceso de fabricacién de
+clinker, siendo las emisiones de 6xidos de
+nitrégeno, éxidos de azufre y compuestos
+orgänicos volétiles las de contribucién
+ms significativa. La operaciôn cuenta con
+tecnologia en su horno de Clinker y en la
+torre de precalcinacién que permite
+operar con altos esténdares ambientales,
+reduciendo asi sus emisiones de NO, y
+SO;, Esta condicién junto con los
+esfuerzos de la empresa para analizar y
+controlar la composicién de sus materias
+primas y combustibles, controlar de
+forma continua las emisiones
+atmosféricas, asi como para reducir el
+consumo de combustibles  fésiles
+tradicionales por  sustitucién con
+combustibles alternativos, se reflejan en
+los resultados de los indicadores
+mencionados.
+
+—— EPD
+
+La influencia de los transportes en la
+fabricacién de  clinker se  origina
+principalmente en el transporte de
+materias primas nacionales y el
+transporte de combustibles importados,
+siendo los indicadores ODP, EP, Potencial
+de agotamiento abictico de recursos no
+fsiles (ADPE) y Agotamiento abictico
+para el potencial de recursos fésiles
+(ADPF) aquellos donde la contribucién
+supera el 20% de la magnitud de los
+resultados. En el caso de la produccién de
+cemento, el impacto a partir del
+transporte de materias primas y
+combustibles es de menor significancia,
+no superando el 10% de los resultados
+obtenidos para cada indicador. En menor
+relevancia se identifica la contribucién de
+la fase de extraccién de las materias
+primas en la fabricacién del Clinker
+(<10%).
+
+Los resultados del indicador del ADPF
+reflejan que las operaciones productivas
+se caracterizan por una menor demanda
+de recursos fésiles, gracias a la matriz
+eléctrica nacional de fuentes renovables,
+asi como la alta sustitucién de
+combustibles fésiles tradicionales por
+alternativos.
+
+El indicador Potencial de privacién de
+agua (WDP) demuestra un menor
+impacto en el abastecimiento de agua,
+esto debido a las condiciones locales de
+alta disponibilidad del recurso hidrico,
+aunado al uso eficiente por medio de
+sistemas de recirculacién cerrados de la
+operaciôn de manufactura.
+
+21
+Ë:
+
+8.2
+
+olcim
+
+—— EPD
+
+Contribuciôn de los môdulos declarados a los indicadores de uso de recursos
+
+Uso de recursos
+
+100% |
+90%
+80%
+
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+PERE PERM  PERT PENRE PENRM PENRT SM RSF NRSF_  NFW
+
+A1-A3 | Materials
+
+HA1-A3 | Transport
+
+Los resultados de los indicadores de uso
+de recursos del proceso de produccién de
+cemento Industrial muestran por su parte
+que la mayor fuente de impactos es el
+abastecimiento y fabricacién de las
+materias primas (clinker), lo cual
+representa el principal consumo de
+recursos de energia primaria renovable
+(matriz eléctrica nacional), >70% del Uso
+total de recursos de energia primaria
+renovable (PERT), asi como el consumo
+principal de recursos de energia primaria
+no renovable (combustibles fésiles),
+>90% del Recurso de energia primaria no
+renovable (PERNT).
+
+Los resultados del indicador Uso de
+energia primaria renovable excluyendo
+los recursos energéticos  primarios
+utiliados como materia prima (PERE) se
+originan en el consumo de energia
+eléctrica a partir de la matriz energética
+nacional altamente renovable, la cual se
+diferencia de otros paises de la regién.
+
+B A1-A3 | Manufacturing
+
+HA1-A3 | Waste management
+
+Para los resultados de cemento el
+indicador de Uso de recursos energéticos
+primarios renovables utilizados como
+materias primas (PERM) se determina por
+los materiales para embalaje y despacho
+que incluyen madera en tarimas ÿ papel
+en bolsas de empaque.
+
+El uso de combustibles fésiles alternativos
+a partir de residuos sélidos municipales
+preclasificados e industriales, una de las
+estrategias clave de mitigacién de
+impactos de la compañia, determina la
+contribucién al indicador de Uso de
+combustibles secundarios no renovables
+(NRSF). El resultado de esta estrategia se
+destaca en una reduccién del indicador
+PERNT a cambio del amplio incremento
+del indicador NRSF.
+
+El indicador Secondary Materials (SM) se
+define por la recuperacién y uso de
+residuos de éxido de hierro (origen
+industrial) y residuos de vidrio (origen
+post-consumidor e industria), lo que
+contribuye a disminuir la demanda de
+
+22
+Ë:
+
+8.3
+
+olcim
+
+recursos renovables primarios en la
+fabricacién de Clinker y se refleja
+proporcionalmente en el resultado del
+cemento.
+
+—— EPD
+
+El indicador uso de agua dulce (NFW) se
+origina principalmente en el consumo
+directo de la operacién, la cual cuenta con
+un proceso de recirculacién para
+abastecer los mültiples sistemas de
+enfriamiento ÿ asi reducir
+significativamente el impacto local.
+
+Contribuciôn de los médulos declarados a los indicadores de flujo de residuos
+
+Generaciôn de residuos
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+HWD
+A1-A3 | Materials
+HA1-A3 | Transport
+El indicador  Residuos  peligrosos
+eliminados  (HWD), no  presenta
+
+resultados de acuerdo con el inventario
+de residuos del proceso de produccién.
+Esto por cuanto los residuos peligrosos
+son gestionados internamente como
+combustibles alternativos en el horno de
+Clinker, por lo que no se registran como
+salida a relleno sanitario o incineracién.
+
+NHWD
+
+RWD
+
+B A1-A3 | Manufacturing
+
+HA1-A3 | Waste management
+
+El indicador Residuos no peligrosos
+eliminados (NHWD), se determina a partir
+de la mezcla de residuos ordinarios e
+industriales no peligrosos que son
+gestionados en un relleno sanitario local.
+El resultado de este indicador se ha
+reducido a través de las buenas präcticas
+internas de clasificacién y separacién de
+residuos para destinarlos a reutilizacién,
+reciclaje y valorizacién energética como
+se presenta a continuacién.
+
+23
+Ë:
+
+olcim
+
+—— EPD
+
+8.4  Contribuciôn de los médulos declarados a los indicadores de flujo de salida
+
+Flujos de salida
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+CRU MFR
+A1-A3 | Materials
+HA1-A3 | Transport
+El indicador  Componentes para
+
+reutilizacién (CRU) est4 definido por la
+generacién y separacién de residuos
+desde la etapa de fabricacién de Clinker,
+mientras que el indicador Materiales para
+reciclaje (MFR) da cuenta de la chatarra y
+otros residuos industriales reciclables
+generados en el sitio y de la recuperaciôn
+de pallets para su posterior reutilizaciôn
+fuera del sistema de produccién. Se
+destaca que el tratamiento de residuos
+por medio de reciclaje supera en 350% al
+indicador NHWD para la presentacién a
+
+MER EE
+
+B A1-A3 | Manufacturing
+
+HA1-A3 | Waste management
+
+granel y més de 450% para la
+presentaciôn empacada.
+
+La separacién de residuos valorizables
+energéticamente, los cuales son
+incorporados como combustibles
+alternativos en el horno de Clinker, se
+destaca a través del indicador Materiales
+para la recuperacién de energia (MER)
+que representa més de un 350% del
+resultado del indicador NHWD, siendo
+una de las buenas précticas de la
+empresa.
+
+24
+Ë:
+
+8.5
+
+olcim
+
+—— EPD
+
+Contribuciôn de los môdulos declarados a los indicadores adicionales
+
+Indicadores adicionales
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+CC
+
+A1-A3 | Materials
+
+HA1-A3 | Transport
+
+Los indicadores resultantes evidencian
+que la fuente de emisiones de CO: por
+calcinacién es la ms significativa del
+proceso productivo, que se explica por la
+formulacién con un contenido de clinker
+>80% siendo un producto de mejor
+desempeño para usos industriales.
+
+Los resultados evidencian también una
+mayor utilizacién de residuos como
+combustible alternativo, de tal forma
+que, las emisiones de carbono a partir del
+indicador Emisiones por combustién de
+
+CWRS
+
+CWNRS
+
+B A1-A3 | Manufacturing
+
+HA1-A3 | Waste management
+
+residuos de fuentes no renovables
+(CWNRS) representan casi el 15% de las
+emisiones por calcinacién (CC).
+
+El indicador Emisiones por combustién de
+residuos de fuentes renovables (CWRS)
+no presenta resultados por cuanto no se
+cuenta con herramientas, ni referencias
+para determinar el célculo de contenido
+biogénico en los residuos gestionados
+como combustible secundario
+alternativo.
+
+25
+9. INFORMACION ADICIONAL
+
+9.1  Origen de las materias primas
+
+El abastecimiento de las principales materias
+primas para la produccién de cemento se
+realiza por medio de la extraccién de
+materiales en nuestras canteras. La caliza se
+extrae en Agua Caliente de Cartago, donde se
+ubica nuestra planta de produccién de
+cemento, mientras la puzolana se extrae en
+Llano Grande de Cartago y la caliza de alta ley
+en Azul de Turrialba, a una distancia de 17 km
+y 45 km de nuestra planta de produccién,
+respectivamente, lo cual contribuye a reducir
+los impactos ambientales asociados al
+transporte de las materias primas. El material
+extraido de estos sitios representa el 94% de
+nuestras materias primas consumidas. Esta
+caracteristica contribuye en el célculo del
+valor de los créditos de la categoria
+Materiales y recursos de LEED v4 y v4.1.
+
+9.2 Emisiones al aire —-COV
+
+El crédito Materiales de baja emisiôn “ de
+LEED v4 y v4.1 reconoce que el concreto
+simple es inherentemente no emisor y no se
+requieren pruebas de emisién de Compuestos
+orgänicos volétiles (COV). Por tanto, siendo el
+cemento el componente bésico del concreto,
+este se considera también una fuente
+inherentemente no emisora. Para mantener
+esta condiciôn, sin ninguna prueba de
+emisiones de COV, se debe asegurar que la
+aplicacién del  concreto no  incluya
+recubrimientos de superficie, aglutinantes o
+selladores de base orgänica integral.
+
+10. DIFERENCIAS FRENTE A VERSIONES ANTERIORES DE LA DAP
+
+Esta es la primera versién de la DAP de cemento Holcim Industrial del Holcim Costa Rica.
+
+4 https://www.usgbc.org/credits/schools-new-
+construction-healthcare/v4/eq112
+
+26
+Colin “— EPD
+
+11. REFERENCIAS
+
+e PCR 2019:14. Construction Products, version 1.11.
+
+e C-PCR-001 to PCR 2019:14. Cement and building lime, version 2019-12-20
+
+e EN 15804:2012+A2:2019. Sustainability of construction works — Environmental product
+declarations — Core rules for the product category of construction products.
+
+e  GCCA. Industry EPD Tool for Cement and Concrete - LCA Model, International version.
+Version 3.0. Quantis Intl for Global Cement and Concrete Association (GCCA). 2020
+
+e General Programme Instructions of the International EPD® System. Version 4.0.
+
+e Instituto Costarricense de Electricidad. (2021). Informes Anuales. Retrieved from Centro
+Nacional de Control de Energia:
+https://apps.grupoice.com/CenceWeb/CenceDescargaArchivos.jsf?init=true&categoria=3
+&codigoTipoArchivo=3008
+
+e ISO 14025:2006. Environmental labels and declarations — Type Ill environmental
+declarations — Principles and procedures.
+
+e ISO 14040:2008 — “Environmental management -— Life cycle assessment — Principles and
+framework”.
+
+e ISO 14044:2008 — “Environmental management -— Life cycle assessment - Requirements and
+guidelines”.
+
+e LCA Report for Cement Products by Holcim Costa Rica. Biomatech Engineering Ltd. Costa
+Rica. 2021.
+

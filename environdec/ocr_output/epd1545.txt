@@ -1,0 +1,2511 @@
+riumes
+
+“EPD
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Contents
+
+Programme information and verification
+About us
+Product description
+Technical compliance
+Scope of EPD
+Product stages
+Life cycle assessment (LCA) methodology
+Background data
+Explanation of averages
+Allocation
+Cut-off criteria
+Key assumptions
+Life cycle assessment (LCA) results
+Environmental profiles
+Other environmental information
+Product specification
+References
+
+Contact information
+
+OO GO GO © D D OÙ  U1 D
+
+RS © D ND = =
+= OO (01 RO  W  —
+Programme information and verification
+
+An Environmental Product Declaration (EPD) is a standardised way of quantifying the potential environmental impacts of
+a product or system. EPDs are produced according to a consistent set of rules — Product Category Rules (PCR) — that
+define the requirements within a given product category. These rules are a key part of ISO 14025 as they enable
+transparency and comparability between EPDs. This EPD provides environmental indicators for precast and prestressed
+steel-reinforced concrete products manufactured at Humes' production facilities across Australia. This EPD is a “cradle-to-
+gate” declaration covering production of the precast concrete products and their supply chain.
+
+€
+.O
+5
+e]
+=)
+TD
+[e)
+el
+Cd
+=
+
+This EPD is verified to be compliant with EN 15804. EPD of construction products may not be comparable if they do not
+comply with EN15804. EPDs within the same product category but from different programs or utilising different PCRs may
+not be comparable. Holcim (Australia), as the EPD owner, has the sole ownership, liability and responsibility for the EPD.
+
+Holcim (Australia) Pty Ltd
+Level 7, 799 Pacific Highway
+Declaration Owner Chatswood NSW 2067, Australia
+
+Web: www.holcim.com.au 1 O | ci m
+
+Phone: +61 2 9412 6600
+
+EPD Australasia Limited
+Address: 315a Hardy Street |
+Nelson 7010, New Zealand AUSTRALASIA E P D
+Web: www.epd-australasia.com
+Email: info@epd-australasia.com
+Phone: +61 2 8005 8206
+
+EPD Program Operator
+ENVIRONMENTAL PRODUCT DECLARATION
+
+start2see Pty Ltd
+
+309 / 2a Montrose Place
+
+Hawthorn East Vic 3123, Australia
+
+Web: www.start2see.com.au
+
+Email: Rob.Rouwette@start2see.com.au
+Phone: +61 403 834 470
+
+EPD registration number: S-P-01545 1.0
+Published: 2020-12-23 Valid until: 2025-12-23 (5 years)
+Reference year for data: 2019-01-01 — 2019-12-31
+
+CEN standard EN 15804 served as the core PCR
+
+PCR: PCR 2012:01 Construction Products and Construction Services, Version 2.33, 2020-09-18
+PCR 2012:01-SUB-PCR-G Concrete and concrete elements, version 2.31, 2020-09-18
+
+Le MOTTE TNT) The Technical Committee of the International EPD® System.
+
+by: Chair: Massimo Marino. Contact via info@environdec.com
+
+Independent verification of
+
+the declaration and data,
+
+START2SEE
+
+LIFE CYCLE ASSESSMENTS
+
+EPD Produced by:
+
+D EPD process certification (Internal)
+& EPD verification (External)
+
+according to ISO 14025:
+
+Third party verifier: Jeff Vickers, thinkstep-anz
+Web: www.thinkstep-anz.com A
+Email: jeff.vickers@thinkstep-anz.com th IN K S te D
+
+Phone: +61 2 8007 5770
+Accredited or approved by: EPD Australasia
+
+Precast & Prestressed Concrete 1
+n
+a
+o
+ne) .
+a
+OO
+"
+re
+o
+©.
+-
+n
+T
+(]
+un
+un
+(1
+Le
+=]
+un
+(1
+Le
+©.
+
+Humes
+
+Humes is Australia's leading provider of engineered
+concrete solutions for the civil construction industry.
+Humes Concrete Products (Humes) is a division of Holcim
+(Australia) Pty Ltd which is owned by one of the world's
+largest building materials companies, LafargeHolcim.
+Humes pride ourselves on delivering customised
+solutions to maximise installation, performance, and
+budgetary outcomes for our clients. Today, Humes
+employs more than 600 people and is the largest civil
+precast concrete manufacturer in Australia.
+
+This EPD covers precast and prestressed products
+manufactured at all of Humes sites across Australia
+(Figure 1).
+
+At a Glance
+
+We have a long history of engineering precast and
+prestressed concrete solutions and, after 100 years of
+manufacture, our product range has never been more
+diverse, more competitive, or more in-tune with our
+clients’ needs than it is today.
+
+We offer a range of solutions for bridges and platforms,
+road and rail infrastructure, tunnels and shafts, retaining
+walls, pipeline systems, water treatment, reuse and
+detention, and traffic management. We can customise
+our solutions to ensure they create maximum value for
+your project, accommodating your site conditions, design
+requirements and construction factors.
+
+Humes has been involved in many major projects
+through which the business has demonstrated an ability
+to deliver to client specifications. Humes’ reputation is
+well established in the civil construction and engineering
+market as a valuable and reliable partner.
+
+The quality and reliability of Humes’ products and
+services are the foundation of our success.
+
+Mission
+Humes aims to be the most respected and
+
+successfully operated company in our industry,
+creating value for all of our stakeholders.
+
+As a subsidiary of one of the world's largest cement
+companies, LafargeHolcim, our vision is to perfect
+
+progress as we provide the foundations for society's
+
+future. Achieving our mission involves a
+commitment to the following:
+
+innovative solutions for our customers
+employees with a passion for performance
+an open and collaborative corporate culture
+a forward-looking organisation
+
+a culture that promotes sustainable
+development
+
+long-term financial performance
+
+Figure 1: Location of Humes’ precast and
+prestressed concrete production facilities
+
+Precast & Prestressed Concrete
+
+Introduction
+
+Product description
+
+Humes offers a wide range of solutions, including
+but not limited to:
+
+Stormwater solutions:
+
+e Steel reinforced concrete pipes and fittings
+e Box culverts (small)
+
+e  Headwalls, pits, kerb inlets and floodgates
+e __ HumeGard® Gross Pollutant Trap
+
+e _HumeCeptor® hydrodynamic separator
+
+e _Stormlirap® system
+
+e  RainVault® system
+
+Sewage transfer and storage solutions:
+
+e Steel reinforced concrete pipes with
+corrosion protection
+
+e Access chambers/Manholes
+
+e QuickTee® maintenance shafts
+
+e Storage tanks
+
+e  Pumpstations
+
+Tunnel and shaft solutions:
+
+e One piece shaft
+
+e _Segmental shafts
+
+e _Segmental tunnel linings
+° _3-Pin arches
+
+Bridge and Platform Solutions:
+
+e  Precast Arches
+
+e _ HumeDeck® system
+
+e Box culverts — large
+
+e _Uniculvert® modules
+
+e  Prestressed decks and girders
+e _HumeSlab® bridge decking
+
+Walling and Traffic Management Solutions
+
+e  H-Wall® retaining wall
+° _LandT walls
+
+° Grain bunker modules
+
+e  Barriers and wheel stops
+
+Cable and Power management Solutions:
+
+e Cable jointing pits and access chambers
+e Costello pits
+e _Substation mounts
+
+This EPD covers the vast majority of our product
+range. The only products that have been excluded
+are steel reinforced concrete pipes (these are
+covered by Humes EPD S-P-00998) and specialty
+products that contain significant quantities of
+other materials (i.e. metals other than reinforcing
+steel and various polymer materials) that are not
+covered in this EPD. Examples of such products are
+our standard HumeGard® and HumeCeptor®
+range as well as other products that can be lined.
+The concrete and reinforcement components of
+these example specialty products can be calculated
+by this EPD however these products contain a
+significant proportion of other materials like
+stainless steel, fibreglass and polyethylene that is
+not covered by this EPD.
+
+Precast concrete products and pipes are classified
+as non-dangerous goods according to the
+Australian Code for the Transport of Dangerous
+Goods by Road and Rail.
+
+The products included in this EPD do not contain
+any substances of very high concern as defined by
+European REACH regulation in concentrations
+>0.1% (m/m). Dust from this product is classified
+as Hazardous according to the Approved Criteria
+for Classifying Hazardous Substances 3" Edition
+(NOHSC 2004). When concrete products are cut,
+sawn, abraded or crushed, dust is created which
+contains crystalline silica, some of which may be
+respirable (particles small enough to go into the
+deep parts of the lung when breathed in), and
+which is hazardous. Exposure through inhalation
+should be avoided.
+
+Precast and prestressed concrete products form
+part of the UN CPC 375 — “Concrete” industry
+classification and the ANZSIC 2034 — "Concrete
+Product Manufacturing” product group
+classification.
+
+Precast & Prestressed Concrete
+Technical Compliance
+
+Humes precast and prestressed concrete
+products are manufactured to all relevant
+specifications in Australia. This includes but is
+not limited to Australian Standards and
+regional road authority specifications.
+
+Table 1: Product content for precast concrete
+
+General purpose (GP)
+
+For more information on the Humes product 10-25% 65997-15-1
+
+range and compliance please see our product SÉMIE _
+catalogues on our website Aggregates containing
+. crystalline silica** 65 - 76% 14808-60-7
+(https://www.holcim.com.au/humes) or rer)
+contact our sales team. Water <10% 7732-18-5
+Fly Ash*** 0-7% 69131-74-8
+Slag*** 0-8% 65996-69-2
+Silica Fume*** 0-2% 69012-64-2
+9036-19-5
+Admixtures such as !
+hardening accelerators, Pen eo
+set accelerators, 1% 13477-34-4,
+(super)plasticisers, and 540-72-7
+special purpose (air pe :
+detrainers) 140-078,
+111-42-2
+Steel* 0-12% 7439-89-6
+
+* Cement in concrete contains traces of Chromium VI (hexavalent).
+
+** Crystalline silica (quartz) may be a constituent of sand, crushed stone,
+gravel and fly ash used in any particular concrete mix.
+
+*#** Cementitious additives may contain traces of metals.
+
+# The proportion of concrete components denotes the mass percentage
+that is present in the concrete faction. The proportion reinforcement
+steel is measured as the mass percentage of steel in the reinforced
+concrete product.
+
+Note: Grout or other materials may be used to fill
+gaps between units in their application. These
+materials are not included in the scope of this EPD.
+
+Precast & Prestressed Concrete
+Scope of Environmental Product Declaration
+
+This EPD covers the cradle-to-gate life cycle stages A1-A3. Downstream stages have not
+been included as shown in Table 2 and Figure 2.
+
+Table 2: Scope of EPD
+
+€
+
+A [o)]
+
+ra] = =
+
+a (o] © ro)
+
+=) an = >
+
+> æ) OU
+
+O) res L'Q [0]
+
+5 © © el >
+
+a d IN D >=  O un ca)
+
+.S U = DU NON NS Ne à
+
+res [en c = [os] E © © = OU ©
+
+2 E © E © G NS SE o
+GT © + © à C GO S L 2 5 S à ss *-5s
+>= > 5 > = CE CC d
+
+5 9 = = EMMA NUM MN Mi © ii 7 | 7
+Z © + ro So ©Q + Ô 16 5 ©
+œ © os © FA nm Z © © © © © © ES A do à
+CES £S D 2 x «OC C0 0 + = à we
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 Ca D
+
+Scenario Scenario Scenario
+
+Ÿ Ÿ Ÿ MND  MND MND MND MND MND MND NR  NR MND MND MND MND MND
+
+= module is included in this study
+MND = module is not declared; NR = module is not relevant
+
+Figure 2: Cradle-to-gate life cycle of precast and prestressed concrete products
+
+A1 - Raw materials A3 - Manufacturing
+Aggregate, sand, A2- Transport to factory  Waste concrete, diesel,
+cement, water, steel, Sea, road, rail electricity, natural gas
+
+admixture
+
+Precast & Prestressed Concrete 6
+Product Stages
+
+Raw Material Stage A1
+
+All raw materials used in the production of Humes
+Concrete Products comply with (but not limited to)
+the following Australian Standards:
+
+e AS/NZS 3972: General purpose and blended
+cements (SA 2010)
+
+e AS 3582 Parts 1, 2 and 3 Supplementary
+cementitious materials (SA 2016)
+
+. AS/NZS 4671 Steel reinforcing materials (SA
+2019)
+
+. AS 4672.1:2007 Steel prestressing materials
+(SA 2007)
+
+e AS 2758.1 Aggregates and rock for
+engineering purposes Part 1: Concrete
+Aggregates (SA 2014)
+
+e AS 1478 Chemical admixtures for concrete,
+mortar and grout (SA 2000)
+
+Transportation Stage A2
+
+Raw materials are transported to our site via
+articulated trucks, rigid trucks, barges and rail. The
+impact of transportation is determined from the
+specific supply sources for each site.
+
+StormWwater pits
+
+Manufacturing Stage A3
+
+The typical manufacturing process of Humes
+Concrete Products is by casting specially
+formulated concrete into a reusable steel mould.
+Compaction is predominantly achieved by utilising
+Self Compacting Concrete (SCC), a special type of
+concrete which can be placed and consolidated
+under its own weight without vibration; however
+where normal slumping concrete is required
+compaction is achieved by conventional external
+form and internal vibrators. The freshly poured
+concrete and mould is then cured in a temperature
+and humidity-controlled environment to accelerate
+concrete curing before the product is removed
+from the mould. After removal from the mould the
+product is transferred to the outdoor yard storage
+area where it continues to cure until it is approved
+by final quality checks and transported to the
+installation site.
+
+Precast & Prestressed Concrete
+
+un
+(o]
+00
+[av]
+h
+(2)
+ee
+O
+ee]
+TD
+[e)
+ul
+Q
+TD
+=
+[av]
+[0]
+Q
+[e]
+O
+(2)
+
+Life Cycle Assessment (LCA) Methodology
+
+Background Data
+
+Primary data have been collected for the 2019
+calendar year (CY2019) for all sites, with the
+exception of Tamworth for which data cover
+financial year 2019 (FY19) (1 July 2018 — 30 June
+2019). They have been sourced directly from
+Humes’ factories that manufacture precast and
+prestressed products. Background data have
+predominantly been sourced from AusLCI and the
+AusLCI shadow database. Data for reinforcing steel
+(bars, mesh, wire) have been sourced from our
+supplier's EPDs (registration numbers S-P-00855
+v1.1, S-P-00857 v1.1, S-P-00858 v1.1) (InfraBuild
+2020a-c) where we source steel from InfraBuild. At
+some locations we source reinforcement steel (bar,
+mesh, wire, strand) from other suppliers, who
+import the steel. As specific data on the supply
+chain are not publicly available, we have used
+ecoinvent v3 data to estimate the impacts of the
+various types of reinforcement steel. For transport
+of imported steel, we assumed shipping from
+Singapore to the concrete plant's closest major
+port. Data for admixtures have been sourced from
+five EPDs published in December 2015 by EFCA
+(European Federation of Concrete Admixtures
+Associations Ltd.) (EFCA 2015a-e). As a result, the
+vast majority of the environmental profiles of our
+products are based on life cycle data that have
+been updated in the last five years. Background
+data used are less than 10 years old.
+
+Methodological choices have been applied in line
+with EN 15804 (CEN 2013); deviations have been
+recorded.
+
+Explanation of Averages
+
+Humes produces a large number of precast products,
+each with unique characteristics (e.g. class, length,
+height, width, thickness) and composition (concrete
+composition, steel reinforcement content). After careful
+consideration of the range of precast and prestressed
+products produced by Humes in Australia, it was
+decided to present results separately for concrete and
+steel reinforcement on a mass basis. This allows the user
+to calculate the impacts of a product when the mass of
+concrete and steel reinforcement is given. We have
+included product tables for key products in this EPD. For
+other products, dimensions and compositions may vary
+by production location or state, and as a result no
+standard conversions are provided. Please contact your
+local Humes site for information on product
+composition if the product is not listed in this EPD.
+
+The results are presented for each of our ten production
+locations. Locations will typically produce more than
+one mix-design, so we have presented multiple options
+for concrete mixes. Where we use different mix designs
+with similar cement content (<+10% variation in kg/m*
+cement content), we have grouped these. The use of
+steel bar, mesh, wire, strand and galvanised bar is
+product specific. We provide an average environmental
+profile per kg of steel reinforcement per site. The
+differences between sites are the result of different
+shares of the type of reinforcement combined with
+differences in the supply chains.
+
+This presentation format reduces the variation for each
+product's environmental profile, as it allows the user to
+calculate the environmental profile according to the
+
+exact product composition and manufacturing location.
+
+Precast & Prestressed Concrete
+
+8
+Allocation
+
+The key processes that require allocation are:
+
+e Production of precast concrete products and
+precast concrete pipes: All shared processes
+are attributed to concrete products based on
+their mass.
+
+e Use of fly ash: All environmental impacts of
+the power plant have been allocated to the
+main product: electricity; fly ash has only
+received the burdens of the transport to our
+sites
+
+e Use of slag: We applied economic co-
+product allocation, attributing 0.3% of the
+environmental impacts of pig iron
+production to the slag. Energy for drying and
+grinding slag into ground granulated blast
+furnace slag (GGBFS) are added separately.
+
+e Use of silica fume: We applied economic co-
+product allocation, attributing 4.8% of the
+environmental impacts of metallurgical grade
+silicon production to the silica fume (Timm et
+al 2019).
+
+e Use of steel scrap in reinforcement steel:
+Recycling allocation has followed the polluter
+pays principle in line with EN 15804 and the
+PCR. See InfraBuild's EPDs (S-P-00855; S-P-
+00857 and S-P-00858) of reinforcing
+products (InfraBuild 2020a-c).
+
+Cut-off Criteria
+
+e The contribution of capital goods
+(production equipment and infrastructure)
+and personnel is outside the scope of the
+LCA, in line with the PCR (Environdec 20203).
+
+e The amount of packaging used for
+admixtures, lifters, bar chairs and mould oil
+is well below the materiality cut-off, so
+packaging materials and quantities have
+therefore been estimated only.
+
+Key Assumptions
+
+This EPD covers precast concrete products
+manufactured using normal slumping concrete
+and Self Compacting Concrete (SCC) by Humes in
+Australia. The concrete composition is taken from
+Humes's internal operating systems. Some (<10%)
+of concrete is supplied by neighbouring concrete
+plants that are not owned by Humes. We have
+used the exact concrete composition for both in-
+house manufactured and imported concrete.
+
+Individual products may contain à combination of
+different types of reinforcement steel (bar, mesh,
+wire, strand, galvanised bar). We have used the
+weighted average type of steel per site to report
+reinforcement steel impacts.
+
+Precast & Prestressed Concrete
+
+>
+on
+2
+Q]
+TD
+[e]
+©
+re)
+(o]
+E
+<
+OU
+—
+
+|
+
+Life Cycle Assessment (LCA) results
+
+The background LCA serves as the foundation for this
+EPD. An LCA analyses the environmental processes in
+the value chain of a product. It provides a
+comprehensive evaluation of all upstream material
+and energy inputs and outputs. The results are
+provided for a range of environmental impact
+categories, in line with EN 15804 (CEN 2013).
+
+Declared unit
+
+Precast and prestressed reinforced concrete products
+are available in numerous shapes and sizes. Multiple
+products can be presented collectively (grouped) if
+the variation between their environmental profiles is
+within +10%.
+
+Table 3: Environmental indicators
+
+Precast concrete products are generally
+manufactured using one or two routine concrete
+
+un
+=
+=)
+n
+(o]
+[a
+<
+O
+2
+
+mixes. Our sites also have the ability to use high early
+
+strength mixes and project-specific mixes.
+
+A large number of permutations have been included
+based on the following declared unit:
+
+1 tonne of precast (or prestressed) reinforced
+concrete product.
+
+After careful consideration, we determined that
+presenting the results for concrete and reinforcement
+steel separately would best limit any variations in
+environmental profiles while providing a clear
+pathway for users of the EPD to calculate the impacts
+per declared unit across hundreds of product
+permutations.
+
+Global Warming
+
+Potential GWP ECn CE
+Ozone Depletion ODP kg CFC-11 eq
+Potential
+
+Acidification
+
+Potential AP ESQREE
+Eutrophication 3
+Potential EP LE PO EE
+Photochemical
+
+Ozone Creation POCP kg C2H4 eq
+Potential
+
+Abiotic Depletion
+
+Potential (Elements) ADPE LJS9EE
+Abiotic Depletion
+
+Potential (Fossil ADPF M)
+
+Fuels)
+
+Global warming impact of greenhouse gases such as carbon
+dioxide (CO2), measured in kg CO2 equivalents using a global
+warming potential over a 100-year time horizon.
+
+Relative impact that the product can cause to the stratospheric
+ozone layer, measured in kg trichlorofluoromethane (CFC-11)
+equivalents
+
+Increase of soil and water acidity that the product can cause,
+measured in kg sulphur dioxide (SO2) equivalents.
+
+Potential impact of nutrification by nitrogen and phosphorus to
+aquatic and terrestrial ecosystems, for example through algal
+blooms, measured in kg phosphate (PO4*) equivalents.
+
+Also known as summer smog, the potential impact from
+oxidising of volatile compounds in the presence of nitrogen
+oxides (NO,) which frees ozone in the low atmosphere,
+measured in kg ethene (C2Hz) equivalents.
+
+Techno-economic impact from the depletion of scarce non-
+renewable resources such as metals, measured in kg antimony
+equivalents.
+
+Techno-economic impact from depletion of fossil fuel
+resources such as oil or natural gas, expressed using their net
+calorific value.
+
+Precast & Prestressed Concrete | 11
+Table 4: Parameters describing resource use, waste and output flows
+
+Parameters describing resource use
+
+Use of renewable primary energy excluding renewable primary energy resources
+
+used as raw materials PERE Pause
+Use of renewable primary energy resources used as raw materials PERM Mincv
+Total use of renewable primary energy resources PERT Mincv
+Use of non-renewable primary energy excluding non-renewable primary energy
+
+resources used as raw materials PENRE Pause
+Use of non-renewable primary energy resources used as raw materials PENRM Mincv
+Total use of non-renewable primary energy resources PENRT Mincv
+Use of secondary material SM kg
+Use of renewable secondary fuels RSF Mincv
+Use of non-renewable secondary fuels NRSF Mincv
+Use of net fresh water FEW m°
+
+Waste categories
+Hazardous waste disposed HWD kg
+Non-hazardous waste disposed NHWD kg
+Radioactive waste disposed RWD kg
+Output flows
+
+Components for re-use CRU kg
+Materials for recycling MFR kg
+Materials for energy recovery MER kg
+Exported energy EE MJ
+
+Precast & Prestressed Concrete 12
+Environmental profiles
+
+Cradle-to-gate (A1-A3)
+
+The cradle-to-gate environmental indicators of
+concrete mix designs (per tonne) and
+reinforcement steel (per kg) used at each site are
+presented in this section, for each of the
+
+following production sites:
+
+e Sydney (Blacktown), NSW
+° _ Tamworth, NSW
+
+° _ Ipswich, QLD
+
+e _Rockhampton, QLD
+
+°  Townsville, QLD
+
+un
+2
+=
+[e]
+=
+Q
+œ
+pe
+[=
+oo
+E
+[es
+[e]
+=
+>
+[=
+LU
+
+e Melbourne (Laverton), Vic
+
+e  Echuca, Vic
+
+e Adelaide (Pooraka), SA
+° Perth (Welshpool), WA
+e Darwin (Winnellie), NT
+
+Examples of how to calculate the profile of a specific product
+(Examples provided are for GWP. Repeat this process for each indicator.)
+
+Product and production location
+
+Example 1: Small box culvert
+1200 x 1200 x 2.4m, supplied
+from Pooraka in Adelaide
+
+Example 2: Humes deck, 15m
+long, supplied from Townsville
+
+Step 1: Look up the product
+composition in the Product
+Specifications section (from page 26);
+or consult your local Humes supplier
+for the product's compositional
+details if not included in this EPD.
+
+Small box culverts are found in
+table 19, which shows a 1200 x
+1200 product contains 1.05 m° of
+concrete and 79 kg of steel
+reinforcement.
+
+Humes decks are found in table 16,
+which shows a 15m long deck
+contains 5.11 m° of concrete and
+
+324 kg of steel reinforcement and
+283 kg steel strand.
+
+Step 2: Ask your Humes supplier
+which mix design is used for your
+products. The default is Routine Mix.
+
+Check density for the relevant mix
+(first row of table 12 for Adelaide
+(Pooraka) routine mix): 2400 kg/m°
+
+Check density for the relevant mix
+(first row of table 9 for Townsville
+
+routine mix): 2380 kg/m
+
+Step 3: Look up the environmental
+profiles for the concrete and steel for
+the supplying site in the tables on
+the following pages.
+
+Adelaide (Pooraka) is shown in
+table 12:
+
+Routine mix: 2.35E+02 kg COe/t
+Reo steel: 1.18E+00 kg COe/kg
+
+Townsville is shown in table 9:
+Routine mix: 2.21E+02 kg COe/t
+
+Reo steel: 1.74 +00 kg COe/kg
+Strand steel: 3.19E+00 kg CO2e/kg
+
+Step 4: Multiply the volume of
+concrete by the density of the
+concrete mix and the environmental
+indicator values for the concrete. For
+steel, multiply the quantity of steel by
+the environmental indicator values
+for steel.
+
+Concrete: 1.05 m5 x 2.4 t/mÿ x
+2.35E+02 kg COze/t
+
+= 5.92E+02 kg CO2e
+
+Steel: 79 kg x 1.18E+00 kg COe/kg
+= 9.32E+01 kg CO2e
+
+Concrete: 5.11 m° x 2.38 t/m° x
+2.21E+02 kg CO2e/t
+
+= 2.69E+03 kg CO2e
+
+Reo steel: 324 kg x 1.74E+00 kg
+CO2e/kg = 5.64E+02 kg COze
+Strand: 283 kg x 3.19E+00 kg
+CO2e/kg = 9.03E+02 kg CO2e
+
+Step 5: Add the concrete and steel
+results to get to the reinforced
+concrete product.
+
+5.92E+02 + 9.32E+01
+
+= 6.85E+02 kg CO2e
+
+(this is 685 kg COze for one Small
+box culvert 1200 x 1200 x 2.4m,
+supplied from Pooraka)
+
+2.69E+03 + 9.03E+02
+
+= 3.59E+03 kg CO2e
+
+(this is 3,590 kg CO2e for one 15m
+long Humes deck, supplied from
+Townsville)
+
+Precast & Prestressed Concrete 13
+Sydney (Blacktown), NSW
+
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+
+reinforcement steel used at the Humes Sydney (Blacktown) manufacturing site.
+
+Table 5: Environmental indicators, precast concrete products manufactured in Sydney, stages A1-
+A3, per tonne of concrete and kg of reinforcement steel
+
+GWP [kg CO: eq]
+ODP [kg CFC11 eq]
+AP [kg SO eq]
+EP [kg PO4* eq]
+POCP [kg C2H4 eq]
+ADPE [kg Sb eq]
+ADPF [Mincv]
+
+PERE [Mincv]
+PERM [MJncv]
+PERT [MJncv]
+PENRE [MJncv]
+PENRM [MJncv]
+PENRT [MJncv]
+SM [kg]
+RSF [MJncv]
+NRSF [Mincv]
+FW [mi]
+
+HW [kg]
+NHW [kg]
+RW [kg]
+
+CRU [kg]
+MER [kg]
+MER [kg]
+EE [MJ]
+
+2.96E+02
+2.69E-06
+4.93E-01
+
+1.05E-01
+
+3.64E-02
+7.20E-06
+2.76E+03
+
+4.31E+01
+1.47E-02
+4.31E+01
+2.78E+03
+7 A8E+00
+2.79E+03
+2.25E-01
+
+7.24E-09
+6.89E-04
+1.86E+00
+
+1.04E-05
+1.04E+00
+1.57E-03
+
+(0)
+2.20E+01
+4.14E-04
+
+(0)
+
+2.75E+02
+2.51E-06
+AA8E-01
+
+9.60E-02
+3.35E-02
+5.94E-06
+2.63E+03
+
+4.06E+01
+1.62E-06
+4.06E+01
+2.65E+03
+4.72E+00
+2.65E+03
+2.25E-01
+7.24E-09
+6.89E-04
+1.88E+00
+
+5.37E-06
+8.69E-01
+9.34E-04
+
+(0)
+2.20E+01
+4.14E-04
+
+(0)
+
+3.57E+02
+2.93E-06
+6.14E-01
+
+1.30E-01
+
+4.25E-02
+6.28E-06
+3.08E+03
+
+4.66E+01
+2.57E-03
+4.66E+01
+3.10E+03
+5.28E+00
+3.11E+03
+2.25E-01
+
+7.24E-09
+6.89E-04
+1.92E+00
+
+6.33E-06
+9.42E-01
+1.06E-03
+
+(0)
+2.20E+01
+4.14E-04
+
+(0)
+
+Precast & Prestressed Concrete
+
+1.11E+00
+8.64E-08
+6.18E-03
+8.07E-04
+7.95E-04
+7.63E-06
+1.78E+01
+
+1.18E+00
+(0)
+1.18E+00
+1.73E+01
+(0)
+1.73E+01
+(0)
+(0)
+(0)
+9.73E-02
+
+(0)
+1.32E-05
+(0)
+
+1.07E-01
+
+14
+Tamworth, NSW
+
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Tamworth manufacturing site.
+
+Table 6: Environmental indicators, precast concrete products manufactured in Tamworth, stages
+A1-A3, per tonne of concrete and kg of reinforcement steel
+
+un
+ao
+=
+©
+nn
+es
+re
+£
+=
+rs
+E
+=
+©
+=
+=
+€
+LU
+
+GWP [kg CO: eq] 2.15E+02 2.01E+02 1.74E+00
+ODP [kg CFC11 eq] 3.74E-06 3.57E-06 2.57E-09
+AP [kg SO: eq] 5.02E-01 4.69E-01 5.37E-03
+EP [kg PO4Ÿ eq] 1.06E-01 9.89E-02 5.84E-04
+POCP [kg C2H4 eq] 3.57E-02 3.37E-02 1.01E-03
+ADPE [kg Sb eq] 9.15E-06 8.49E-06 4.54E-07
+ADPF [Mincv] 1.64E+03 1.55E+03 1.94E+01
+PERE [Mncv] 3.04E+01 2.89E+01 1.08E+00
+
+PERM [MJncv] 7.19E-03 0.00E+00 0
+PERT [MJncv] 3.04E+01 2.89E+01 1.08E+00
+PENRE [MJncv] 1.67E+03 1.58E+03 1.95E+01
+
+PENRM [Mncvl 7.710E+00 6.16E+00 0
+PENRT [Mincv] 1.68E+03 1.59E+03 1.95E+01
+SM [kg] 3.93E-01 3.93E-01 9.76E-01
+
+RSF [MJncv] 1.13E-08 1.13E-08 0
+NRSF [Minc] 4.60E-05 4.60E-05 6.34E-02
+FW [mi] 1.77E+00 1.79E+00 7.13E-03
+HW [kg] 9.81E-06 7.16E-06 4.92E-09
+NHW [kg] 1.14E+00 1.05E+00 3.77E-01
+RW [kg] 1.59E-03 1.24E-03 3.49E-05
+
+CRU [kg] 0 0 0
+MER [kg] 7.710E+00 7.710E+00 1.03E-01
+MER [kg] 7.71E-04 7.71E-04 3.03E-04
+
+EE [M] 0 0 0
+
+Precast & Prestressed Concrete 15
+Ipswich, QLD
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Ipswich manufacturing site.
+
+Table 7: Environmental indicators, precast concrete products manufactured in Ipswich, stages
+A1-A3, per tonne of concrete and kg of reinforcement steel
+
+GWP [kg CO: eq] 2.02E+02 2.04E+02 1.71E+02 2.24E+02 1.98E+00
+ODP [kg CFC11 eq] 2.00E-06 1.95E-06 2.15E-06 2.08E-06 7.29E-09
+AP [kg SO eq] 4.84E-01 4.88E-01 4.72E-01 5.26E-01 5.87E-03
+EP [kg PO4* eq] 1.05E-01 1.06E-01 9.57E-02 1.14E-01 6.56E-04
+POCP [kg C2H4 eq] 2.98E-02 2.98E-02 2.95E-02 3.21E-02 1.26E-03
+ADPE [kg Sb eq] 7.42E-06 7.03E-06 7.A5E-06 7.36E-06 5.40E-07
+ADPF [Mincv] 1.62E+03 1.61E+03 1.51E+03 1.73E+03 2.21E+01
+PERE [MJncv] 2.99E +01 2.89E+01 2.89E+01 3.13E+01 1.17E+00
+
+PERM [Mincv] 1.30E-02 1.44E-02 9.19E-03 9.21E-03 0
+PERT [Mncv] 2.99E +01 2.89E+01 2.89E+01 3.13E+01 1.17E+00
+PENRE [Minc] 1.63E +03 1.63E+03 1.53E+03 1.75E+03 2.22E+01
+
+PENRM [MJncv] 7.96E+00 6.83E+00 9.03E+00 8.44E+00 0
+PENRT [Mincv] 1.64E +03 1.63E+03 1.54E +03 1.76E+03 2.22E+01
+SM [kg] 2.25E-01 2.25E-01 2.25E-01 2.25E-01 9.A9E-01
+
+RSF [MJncv] 7.24E-09 7.24E-09 7.24E-09 7.24E-09 0
+NRSF [Mincvl 6.89E-04 6.89E-04 6.89E-04 6.89E-04 6.14E-02
+FW [mi] 1.59E+00 1.53E+00 1.56E+00 1.56E+00 7.13E-03
+HW [kg] 1.06E-05 9.63E-06 1.13E-05 1.06E-05 5.36E-09
+NHW [kg] 8.A7E-01 8.A9E-01 8.04E-01 8.21E-01 4.23E-01
+RW [kg] 1.64E-03 1.44E-03 1.81E-03 1.70E-03 3.87E-05
+
+CRU [kg] 0 0 0 0 0
+MER [kg] 2.44E+01 2.44E+01 2.44E+01 2.A4E+01 9.83E-02
+MER [kg] 4.14E-04 4.14E-04 4.14E-04 4.14E-04 3.94E-04
+
+EE [MI] 0 0 0 0 0
+
+Precast & Prestressed Concrete 16
+Rockhampton, QLD
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Rockhampton manufacturing site.
+
+Table 8: Environmental indicators, precast concrete products manufactured in Rockhampton,
+stages A1-A3, per tonne of concrete and kg of reinforcement steel
+
+un
+ao
+=
+©
+nn
+es
+re
+£
+=
+rs
+E
+=
+©
+=
+=
+€
+LU
+
+GWP [kg CO eq] 2.01E+02 2.09E+02 2.16E+02 1.84E+00 3.22E+00
+ODP [kg CFC11 eq] 1.88E-06 1.92E-06 1.95E-06 1.16E-08 1.74E-07
+AP [kg SOz eq] 3.92E-01 4.09E-01 4.22E-01 5.64E-03 1.32E-02
+EP [kg PO4* eq] 8.40E-02 8.73E-02 8.99E-02 6.35E-04 2.12E-03
+POCP [kg C2H4 eq] 2.71E-02 2.80E-02 2.87E-02 1.09E-03 3.93E-03
+ADPE [kg Sb eq] 6.97E-06 6.97E-06 6.97E-06 8.38E-07 9.99E-05
+ADPF [Mncv] 1.66E+03 1.71E+03 1.74E+03 2.06E +01 4.52E+01
+PERE [Mincv] 2.73E+01 2.79E+01 2.83E+01 1.10E+00 2.92E+00
+PERM [Mincv] 1.12E-02 1.11E-02 1.11E-02 0 0.00E +00
+PERT [Mincv] 2.73E+01 2.79E+01 2.83E+01 1.10E+00 2.92E+00
+PENRE [Minc] 1.68E+03 1.72E+03 1.76E+03 2.09E+01 3.63E+01
+PENRM [Mincv] 7.86E+00 7.80E+00 7.75E+00 2.74E-06 0.00E+00
+PENRT [Minc] 1.69E+03 1.73E+03 1.77E+03 2.09E+01 3.63E+01
+SM [kg] 2.25E-01 2.25E-01 2.25E-01 9.62E-01 0.00E +00
+RSF [MJncv] 7.24E-09 7.24E-09 7.24E-09 8.64E-10 0.00E+00
+NRSF [Mncv] 6.89E-04 6.89E-04 6.89E-04 6.22E-02 0.00E +00
+FW [m°] 1.86E+00 1.85E+00 1.84E+00 1.17E-02 1.69E-01
+
+HW [kg] 1.03E-05 1.02E-05 1.02E-05 9.26E-09 0
+NHW [kg] 7.88E-01 7.92E-01 7.94E-01 3.81E-01 1.27E-05
+
+RW [kg] 1.61E-03 1.60E-03 1.59E-03 3.66E-05 0
+
+CRU [kg] 0 0 0 0 0
+MER [kg] 4.30E +00 4.30E +00 4.30E+00 1.01E-01 1.00E-01
+
+MER [kg] 4.14E-04 4.14E-04 4.14E-04 3.17E-04 0
+
+EE [M] 0 0 0 0 0
+
+Precast & Prestressed Concrete 17
+Townsville, QLD
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Townsville manufacturing site.
+
+Table 9: Environmental indicators, precast concrete products manufactured in Townsville, stages
+A1-A3, per tonne of concrete and kg of reinforcement steel and steel strand
+
+GWP [kg CO» eq] 2.21E+02 2.12E+02 2.29E+02 1.74E +00 3.19E+00
+ODP [kg CFC11 eq] 2.76E-06 2.69E-06 2.82E-06 9.91E-10 1.70E-07
+AP [kg SO: eq] 4.80E-01 4,59E-01 4.98E-01 5.34E-03 1.43E-02
+EP [kg PO4 eq] 1.04E-01 9.99E-02 1.08E-01 5.80E-04 2.20E-03
+POCP [kg CH eq] 3.15E-02 3.06E-02 3.25E-02 1.03E-03 3.95E-03
+ADPE [kg Sb eq] 7.08E-06 7.65E-06 7.71E-06 5.06E-07 9.99E-05
+ADPF [Minc] 1.84E +03 1.80E +03 1.90E +03 1.94E +01 4.48E+01
+PERE [Mncv] 3.04E+01 3.06E+01 3.17E+01 1.09E +00 2.92E+00
+PERM [Mincv] 7.16E-03 6.58E-03 1.43E-02 0 0
+PERT [Mncv] 3.04E+01 3.06E+01 3,17E+01 1.09E +00 2.92E+00
+PENRE [Mincv] 1.87E+03 1.82E +03 1.92E +03 1.95E +01 3.59E+01
+PENRM [MJncv] 9.10E+00 1.16E +01 1.03E +01 0 0
+PENRT [Mincv] 1.88E+03 1.84E +03 1.93E+03 1.95E +01 3.59E+01
+SM [kg] 2.25E-01 2.25E-01 2.25E-01 9.59E-01 0
+RSF [MJncv] 7.24E-09 7.24E-09 7.24E-09 0 0
+NRSE [Mincv] 6.89E-04 6.89E-04 6.89E-04 6.23E-02 0
+EW [mi] 1.71E+00 1.73E +00 1.71E+00 7.23E-03 1.69E-01
+HW [kg] 1.11E-05 1.37E-05 1.34E-05 4.95E-09 0
+NHW [kg] 8.16E-01 8.19E-01 8.99E-01 3.80E-01 9.53E-06
+RW [kg] 1.81E-03 2.27E-03 2.09E-03 3.51E-05 0
+CRU [kg] 0 0 0 0 0
+MER [kg] 1.80E +01 1.80E +01 1.80E +01 1.01E-01 1.00E-01
+MER [kg] 4.14E-04 4.14E-04 4.14E-04 3.15E-04 0
+EE [M)] 0 0 0 0 0
+
+Precast & Prestressed Concrete 18
+Melbourne (Laverton), VIC
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Melbourne (Laverton) manufacturing site.
+
+Table 10: Environmental indicators, precast concrete products manufactured in Melbourne,
+stages A1-A3, per tonne of concrete and kg of reinforcement steel
+
+un
+2
+Lu
+[e)
+nn
+[en
+ro
++
+[=
+U
+=
+[es
+[e)
+=
+>
+[es
+LL
+
+GWP [kg CO eq] 3.05E+02 2.39E+02 3.26E+02 1.96E +00 3.69E+00
+ODP [kg CFC11 eq] 3.34E-06 2.86E-06 3.21E-06 3.72E-09 1.98E-07
+AP [kg SOz eq] 6.16E-01 4.71E-01 6.46E-01 6.14E-03 1.69E-02
+EP [kg PO4* eq] 1.32E-01 1.02E-01 1.38E-01 6.75E-04 2.57E-03
+POCP [kg C2H4 eq] 3.75E-02 3.00E-02 3.92E-02 1.13E-03 4,56E-03
+ADPE [kg Sb eq] 8.08E-06 6.65E-06 7.81E-06 2.25E-06 1.15E-04
+ADPF [Mincv] 2.42E+03 2.02E+03 2.52E+03 2.20E+01 5.18E+01
+PERE [Mincv] 5.34E+01 4.72E+01 5.51E+01 1.25E+00 3.36E+00
+PERM [Mincv] 1.62E-06 1.62E-06 1.62E-06 0 0
+PERT [Mincv] 5.34E+01 4.72E+01 5.51E+01 1.25E+00 3.36E+00
+PENRE [Minc] 2.44E+03 2.05E+03 2.55E+03 2.21E+01 4.16E+01
+PENRM [Mincv] 1.24E+01 5.14E+00 1.26E+01 0 0
+PENRT [Minc] 2.45E+03 2.05E+03 2.56E+03 2.21E+01 4.16E+01
+SM [kg] 2.25E-01 2.25E-01 2.25E-01 1.09E+00 0
+RSF [MJncv] 7.24E-09 7.24E-09 7.24E-09 0 0
+NRSF [Mncv] 6.89E-04 6.89E-04 6.89E-04 7.11E-02 0
+FW [m°] 1.92E+00 1.94E+00 1.94E +00 1.24E-02 1.94E-01
+HW [kg] 2.18E-05 6.40E-06 1.38E-05 5.49E-09 0
+NHW [kg] 9.71E-01 8.42E-01 7.53E-01 4.20E-01 1.30E-05
+RW [kg] 2.21E-03 1.15E-03 2.40E-03 3.89E-05 0
+CRU [kg] 0 0 0 0 0
+MER [kg] 1.00E+02 1.00E+02 1.00E +02 1.19E-01 1.00E-01
+MER [kg] 4.14E-04 4.14E-04 4.14E-04 3.35E-04 0
+EE [M] 0 0 0 0 0
+
+Precast & Prestressed Concrete 19
+Echuca, VIC
+
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Echuca manufacturing site.
+
+Table 11: Environmental indicators, precast concrete products manufactured in Echuca, stages A1-A3,
+per tonne of concrete and kg of reinforcement steel and steel strand
+
+GWP [kg CO: eq] 2.A4E+02 2.52E +02 2.13E +02 2.85E+02 1.06E+00  3.26E+00
+ODP [kg CFC11 eq] 3.55E-06 2.94E-06 3.18E-06 3.21E-06 8.34E-08  1.75E-07
+AP [kg SO eq] 5.09E-01 4.90E-01 A.34E-01 5.64E-01 5.75E-03  1.49E-02
+EP [kg PO4* eq] 1.09E-01 1.04E-01 9.30E-02 1.19E-01 7ATE-04  2.27E-03
+POCP [kg C2H4 eq] 3.56E-02 3.A5E-02 3.13E-02 3.86E-02 7.59E-04  4.02E-03
+ADPE [kg Sb eq] 1.02E-05 7.03E-06 6.64E-06 7.83E-06 391E-06  1.01E-04
+ADPF [Mncv] 2.14E +03 2.12E +03 1.93E+03 2.31E+03 1.72E+01  4.57E+01
+PERE [Mincv] 3.71E+01 3.52E+01 3.17E+01 3.82E+01 1.13E+00  2.96E+00
+PERM [Mincv] 4.93E-02 1.62E-06 1.62E-06 1.92E-02 0 0
+PERT [Mncv] 3.71E+01 3.52E+01 3.17E+01 3.82E+01 1.13E+00  2.96E+00
+PENRE [Mincv] 2.17E+03 2.14E +03 1.95E+03 2.34E +03 1.67E+01  3.68E+01
+PENRM [Mincv] 1.39E+01 9.82E +00 8.53E+00 1.14E+01 0 0
+PENRT [Mincv] 2.18E+03 2.15E+03 1.96E+03 2.35E+03 1.67E+01  3.68E+01
+SM [kg] 2.25E-01 2.25E-01 2.25E-01 2.25E-01 0 0
+RSF [MJncv] 7.24E-09 7.24E-09 7.24E-09 7.24E-09 0 0
+NRSF [MJncv] 6.89E-04 6.89E-04 6.89E-04 6.89E-04 0 0
+FW [mi] 1.70E+00 1.76E+00 1.72E+00 1.75E+00 9.12E-02  1.71E-01
+HW [kg] 2.21E-05 1.08E-05 9.45E-06 2.18E-05 0 0
+NHW [kg] 1.15E+00 6.40E-01 6.09E-01 8.54E-01 135E-05  1.34E-05
+RW [kg] 3.06E-03 1.89E-03 1.65E-03 2.04E-03 0 0
+CRU [kg] 0 0 0 0 0 0
+MFR [kg] 4.70E+01 4.70E+01 4.70E+01 4.70E+01 1.04E-01  1.00E-01
+MER [kg] 4.14E-04 4.14E-04 4.14E-04 4.14E-04 0 0
+EE [M] 0 0 0 0 0 0
+
+Precast & Prestressed Concrete
+Adelaide (Pooraka), SA
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Adelaide (Pooraka) manufacturing site.
+
+Table 12: Environmental indicators, precast concrete products manufactured in Adelaide, stages
+A1-A3, per tonne of concrete and kq of reinforcement steel
+
+un
+ao
+=
+©
+nn
+es
+re
+£
+=
+rs
+E
+=
+©
+=
+=
+€
+LU
+
+GWP [kg CO: eq] 2.35E+02 2.78E+02 1.95E+02 1.18E+00
+ODP [kg CFC11 eq] 3.52E-06 4.00E-06 3.68E-06 8.48E-08
+AP [kg SO: eq] 4.85E-01 5.84E-01 4.51E-01 6.16E-03
+EP [kg PO4Ÿ eq] 1.03E-01 1.23E-01 8.71E-02 8.17E-04
+POCP [kg C2H4 eq] 3.59E-02 4.13E-02 3.58E-02 8.04E-04
+ADPE [kg Sb eq] 6.81E-06 6.89E-06 6.83E-06 1.23E-05
+ADPF [Minc] 2.03E+03 2.29E+03 1.89E+03 1.87E+01
+PERE [Mncv] 7.10E+01 7.44E+01 6.96E+01 1.32E+00
+PERM [Mincv] 1.62E-06 1.62E-06 1.62E-06 0
+PERT [Mncv] 7.10E+01 7.44E+01 6.96E+01 1.32E+00
+PENRE [Minc] 2.06E+03 2.32E+03 1.92E+03 1.82E+01
+PENRM [MJncv] 9.29E+00 1.18E+01 9.47E+00 5.66E-05
+PENRT [Mincv] 2.07E+03 2.33E+03 1.93E+03 1.82E+01
+SM [kg] 2.25E-01 2.25E-01 2.25E-01 8.17E-02
+RSF [MJncv] 7.24E-09 7.24E-09 7.24E-09 1.79E-08
+NRSF [Mincvl 6.89E-04 6.89E-04 6.89E-04 7.24E-05
+FW [mi] 1.79E+00 1.77E+00 1.73E+00 1.87E-01
+HW [kg] 1.03E-05 2.17E-05 1.05E-05 8.90E-08
+NHW [kg] 6.01E-01 6.31E-01 5.91E-01 7.99E-03
+RW [kg] 1.79E-03 1.86E-03 1.82E-03 3.02E-05
+CRU [kg] 0 0 0 0
+MER [kg] 4.60E+01 4.60E+01 4.60E+01 1.10E-01
+MER [kg] 4.14E-04 4.14E-04 4.14E-04 0
+EE [MI] 0 0 0 0
+
+Precast & Prestressed Concrete 21
+Perth (Welshpool), WA
+
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Perth (Welshpool) manufacturing site.
+
+Table 13: Environmental indicators, precast concrete products manufactured in Perth, stages A1-A3,
+per tonne of concrete and kg of reinforcement steel and steel strand
+
+GWP [kg CO: eq] 2.51E+02 1.91E +02 2.12E+02 9.88E-01 3.14E+00
+ODP [kg CFC11 eq] 4.13E-06 4.06E-06 3.62E-06 7.58E-08 1.66E-07
+AP [kg SO> eq] 9.59E-01 7.98E-01 8.06E-01 4.85E-03 1.39E-02
+EP [kg PO4 eq] 1.36E-01 1.09E-01 1.16E-01 6.52E-04 2.15E-03
+POCP [kg C2Ha eq] 5.27E-02 4.86E-02 4.49E-02 6.93E-04 3.89E-03
+ADPE [kg Sb eq] 1.82E-05 2.94E-05 1.35E-05 2.53E-06 9.89E-05
+ADPF [Mincv] 1.78E+03 1.59E +03 1.53E+03 1.61E+01 441E+01
+PERE [Mincv] 2.87E+01 4.54E +01 2.44E+01 1.09E +00 2.89E+00
+
+PERM [Mincv] 3.97E-02 0 0 0 0
+PERT [Mincv] 2.88E +01 4.54E+01 2.44E+01 1.09E +00 2.89E+00
+PENRE [Mincv] 1.81E+03 1.61E+03 1.56E +03 1.56E +01 3.53E+01
+
+PENRM [Mincv] 6.98E +00 1.01E+01 2.91E+00 0 0
+PENRT [Mincv] 1.82E+03 1.62E+03 1.56E +03 1.56E +01 3.53E+01
+
+SM [kg] 7.88E-02 7.88E-02 7.88E-02 0 0
+
+RSF [MJncv] 4.05E-09 4.05E-09 4.05E-09 0 0
+
+NRSF [MJncv] 1.64E-05 1.64E-05 1.64E-05 0 0
+EFW [m?] 1.93E +00 2.12E+00 1.86E+00 8.72E-02 1.67E-01
+
+HW [kg] 1.31E-05 1.94E-05 3.23E-06 0 0
+NHW [kg] 6.68E-01 6.56E-01 2.42E-01 7.22E-06 7.15E-06
+
+RW [kg] 1.64E-03 1.86E-03 5.63E-04 0 0
+
+CRU [kg] 0 0 0 0 0
+MER [kg] 2.50E +01 2.50E+01 2.50E+01 1.01E-01 1.00E-01
+
+MER [kg] 1.36E-04 1.36E-04 1.36E-04 0 0
+
+EE [M] 0 0 0 0 0
+
+Precast & Prestressed Concrete
+Darwin (Winnellie), NT
+The following results show the cradle-to-gate environmental indicators of concrete mix designs and
+reinforcement steel used at the Humes Darwin (Winnellie) manufacturing site.
+
+Table 14: Environmental indicators, precast concrete products manufactured in Darwin, stages
+A1-A3, per tonne of concrete and kg of reinforcement steel
+
+un
+ao
+=
+©
+nn
+es
+re
+£
+=
+rs
+E
+=
+©
+=
+=
+€
+LU
+
+GWP [kg CO: eq] 2.69E+02 2.49E+02 1.75E+02 1.35E+00
+ODP [kg CFC11 eq] 5.55E-06 4.84E-06 4.21E-06 1.00E-07
+AP [kg SO: eq] 1.01E+00 9.18E-01 7.01E-01 6.04E-03
+EP [kg PO4Ÿ eq] 1.50E-01 1.37E-01 1.03E-01 9.63E-04
+POCP [kg C2H4 eq] 6.60E-02 5.80E-02 4.74E-02 9.21E-04
+ADPE [kg Sb eq] 4.05E-05 2.42E-05 1.43E-05 3.02E-05
+ADPF [Minc] 2.19E+03 1.99E+03 1.64E+03 2.12E+01
+PERE [MJncv] 6.28E+01 4.37E+01 3.54E+01 1.47E+00
+PERM [Mincv] 1.62E-06 1.62E-06 1.62E-06 0
+PERT [Mncv] 6.28E+01 4.37E+01 3.54E+01 1.47E+00
+PENRE [Minc] 2.21E+03 2.03E+03 1.68E+03 2.03E+01
+PENRM [MJncv] 1.24E+01 1.24E+01 1.15E+01 0
+PENRT [Mincv] 2.22E+03 2.04E +03 1.69E+03 2.03E+01
+SM [kg] 2.25E-01 2.25E-01 2.25E-01 0
+RSF [MJncv] 7.24E-09 7.24E-09 7.24E-09 0
+NRSF [Mincvl 6.89E-04 6.89E-04 6.89E-04 0
+FW [mi] 6.52E+00 6.12E+00 5.78E+00 1.33E-01
+HW [kg] 1.48E-05 1.45E-05 1.36E-05 0
+NHW [kg] 9.42E-01 8.65E-01 8.67E-01 6.13E-06
+RW [kg] 2.64E-03 2.59E-03 2.42E-03 0
+CRU [kg] 0 0 0 0
+MER [kg] 4.54E+01 4.54E+01 4.54E+01 1.23E-01
+MER [kg] 4.14E-04 4.14E-04 4.14E-04 0
+EE [MI] 0 0 0 0
+
+Precast & Prestressed Concrete 23
+Other environmental information
+
+Our safety, health and environment (SHE) management system aims to achieve high environmental
+standards. The Holcim executive committee closely monitors our performance in managing workplace safety
+and protection of the environment. The environmental component of the management system helps identify
+and manage potential environmental risks. Operations are assessed against the requirements and
+improvements made.
+
+Infrastructure Sustainability
+
+The Infrastructure Sustainability Council of Australia (ISCA) is the peak industry body for advancing
+sustainability in Australia's infrastructure. As a division of Holcim Australia, Humes is a member of ISCA and
+takes an interest and role in developing sustainable practises across design, construction and operation of
+infrastructure.
+
+ISCA has developed the Infrastructure Sustainability (IS) rating scheme which is Australia's only
+comprehensive rating scheme for evaluating sustainability for infrastructure. IS evaluates the sustainability of
+infrastructure projects and assets and assigns credits across a number of categories which incentivise the use
+of sustainable practises.
+
+Humes helps its customers optimise their IS ratings through smart selection and design of precast products.
+
+This is our third Environmental Product Declaration. Earlier this year we developed an ISO 14025 and EN
+15804 compliant EPD for Humes Tamworth precast concrete for infrastructure applications and in 2016 we
+developed an ISO 14025 and EN 15804 compliant EPD for our reinforced concrete pipe products. These EPDs
+are publicly available on the EPD Australasia website:
+
+Humes
+
+Es" EPD
+
+Precast & Prestressed Concrete
+
+24
+Product Specifications
+
+The following tables are provided so the potential environmental impact can be calculated for a specific
+concrete volume and steel content weight. The values in the tables represents the product's steel mass and
+concrete volume that can be converted to a weight in tonnes with the associated sites concrete density so
+that the results of the LCA can be converted to product units. Please note that these product weights cover a
+mixture of standard products and examples of elements that typically have unique specified designs.
+Concrete volumes and steel weights for non-standard products can usually be found in Issued For
+Manufacturer (FM) drawings, and can also be used for determining LCA results using this EPD document.
+
+See example calculation on page 13.
+
+Table 15: Example product groups for which specifications are provided in this EPD
+
+Prestressed piles, decks and girders Humes manufacture a wide range of prestressed bridge componentry to
+meet road and rail authority specifications, including beams, decks and
+planks, I-beams, girders, and piles (rectangular precast concrete section
+and hexagonal prestressed units).
+
+Headwalls Humes manufacture a range of standard headwalls to conform to the
+requirements of individual state and local authorities. Humes also
+manufacture multiple cell headwalls (for both pipes and box culverts),
+sloping headwalls and end walls, small box culvert headwalls, and
+compact headwalls. Where a project requires specific needs, we will work
+with you to develop a cost-effective headwall design to meet the needs of
+your project.
+
+Box Culverts Humes manufacture a full range of box culvert and uni-culvert sizes (from
+300mm to 6,600mm) and configurations to Australian Standards AS1597
+(parts one and two). Box culverts are generally available in standard
+lengths of 1.22m and 2.46m (or 1.2m and 2.4m QLD). In many cases
+Humes has the facility to manufacture larger span and leg heights beyond
+those indicated in the Australian Standards. Humes also manufacture
+custom designs such as splayed box culverts, post-tensioning stressing
+etc.
+
+StormTrap® The StormTrap® system is an underground trafficable stormwater
+detention and infiltration solution that provides a high level of value for
+customers and projects in meeting regulatory requirements, whilst
+minimising the impact on land usability.
+
+HumeDeck® HumeDeck® bridge system is a modular precast solution for small to
+medium sized bridges spanning up to 12 m.
+
+Precast & Prestressed Concrete
+
+25
+Custom Pits Humes manufacture a wide range of custom and modular concrete
+stormwater pits; our range includes lids, grates and covers, base units and
+risers, and a variety of street furniture to suit different applications and
+local requirements. Our ability to customise components to suit each
+project provides design flexibility and economy for installers.
+
+Sleepers Humes has over 50 years’ experience in the provision of prestressed and
+precast concrete railway sleepers for heavy haulage, mainline, secondary
+and high-speed tracks across Australia. We provide a range of standard,
+dual and narrow-gauge sleepers for applications including grain,
+electrical, transponder, pedestrian, transition and DED sleepers.
+
+Storage Wall Units Humes manufacture two modular cantilever storage wall systems (the L
+wall and the T wall) for internal or external retainment, separation, or
+confinement of bulk materials of all kinds.
+
+Arches Arches cover a broad range of spans and heights to accommodate a wide
+range of applications including bridges, tunnels and drainage culverts.
+
+Precast & Prestressed Concrete 26
+Typical bridge parapet,
+Typlcal cast D Typical bridge barrier refer Note 2 ——
+n=situ kerb, Refer Standard Drawing 2200
+\
+
+Decks refer Note 2 |
+The following table shows examples of (Ru
+
+Î
+
+Joints
+Refer Note 2
+
+e
+
+. PTT
+prestressed deck units based on Queensland a
+
+Transport and Main Roads standard drawings. oser uni vin
+
+n-situ kerb |
+(with_scupper)
+Refer Drawing 5 —
+
+Inner Units, refer Drawing 4
+
+TYPICAL SECTION THROUGH BRIDGE
+(CROSS FALL)
+
+\— Outer Unit with
+cast in—situ
+bridge parapet
+(with scupper)
+Refer Drawing 6
+
+Table 16: Product specifications for Humes decks (examples)
+
+185 Steel reo mass (kg)
+10 m 141 Steel strand mass (kg)
+2.98 Concrete volume (m°)
+
+220 Steel reo mass (kg)
+11m 155 Steel strand mass (kg)
+3.28 Concrete volume (m°)
+
+244 Steel reo mass (kg)
+12m 188 Steel strand mass (kg)
+3.56 Concrete volume (m°)
+
+252 255 Steel reo mass (kg)
+13m 203 203 Steel strand mass (kg)
+4.18 3.55 Concrete volume (m°)
+
+324 Steel reo mass (kg)
+15 m 283 Steel strand mass (kg)
+5.11 Concrete volume (m°)
+
+380 Steel reo mass (kg)
+19 m 428 Steel strand mass (kg)
+7.14 Concrete volume (m°)
+
+735 Steel reo mass (kg)
+25 m 730 Steel strand mass (kg)
+11.96 Concrete volume (m°)
+
+Precast & Prestressed Concrete
+
+27
+Prestressed Super T girders
+The following table shows examples of prestressed Super T Girder
+
+units based on Cooroy to Curra (C2C) drawings.
+
+Table 17: Product specifications for Humes Super T girders (examples)
+
+32.9 (33.0,32.55)
+
+28.45
+
+23.65
+
+20.95
+
+18.85
+
+1745
+
+14.95
+
+5688
+
+2295
+
+29.78
+
+4064
+
+1824
+
+28.29
+
+4740
+
+2002
+
+27.12
+
+3586
+
+1321
+
+22.87
+
+3140
+
+1383
+
+19.19
+
+2940
+
+1170
+
+18.24
+
+3002
+
+846
+
+16.20
+
+2842
+
+678
+
+15.38
+
+2631
+
+550
+
+14.07
+
+2314
+
+404
+
+12.20
+
+Steel reo mass (kg)
+
+Steel strand mass (kg)
+Concrete volume (m°)
+Steel reo mass (kg)
+Steel strand mass (kg)
+Concrete volume (m°)
+Steel reo mass (kg)
+Steel strand mass (kg)
+Concrete volume (m°)
+Steel reo mass (kg)
+Steel strand mass (kg)
+Concrete volume (m°)
+Steel reo mass (kg)
+Steel strand mass (kg)
+Concrete volume (m°)
+Steel reo mass (kg)
+Steel strand mass (kg)
+Concrete volume (m°)
+Steel reo mass (kg)
+Steel strand mass (kg)
+
+Concrete volume (m°)
+
+Precast & Prestressed Concrete
+
+28
+Headwalls for pipes
+
+Headwalls | ALT
+
+The following table shows examples of standard B2 exposure classification headwalls. DA
+W
+
+Table 18: Product specifications for Humes headwalls (examples)
+
+2 12 Steel mass (kg)
+300
+0.30 0.16 Concrete volume (mÿ)
+3 11 Steel mass (kg)
+375
+0.30 0.15 Concrete volume (mÿ)
+2 11 Steel mass (kg)
+450
+0.25 0.15 Concrete volume (mÿ)
+11 37 Steel mass (kg)
+525
+045 0.39 Concrete volume (mÿ)
+11 35 Steel mass (kg)
+600
+0.35 0.38 Concrete volume (mÿ)
+35 129 Steel mass (kg)
+675
+0.37 1.29 Concrete volume (mÿ)
+33 96 71 125 Steel mass (kg)
+750
+0.43 1.03 1.03 1.24 Concrete volume (mÿ)
+33 95 71 121 Steel mass (kg)
+825
+0.42 1.00 1.00 1.15 Concrete volume (mÿ)
+43 88 65 130 Steel mass (kg)
+900
+0.58 0.97 0.97 1.30 Concrete volume (m°)
+80 131 75 176 Steel mass (kg)
+1050
+0.92 1.43 1.25 1.91 Concrete volume (mÿ)
+84 122 104 165 Steel mass (kg)
+1200
+0.98 1.41 1.60 1.88 Concrete volume (mÿ)
+103 Steel mass (kg)
+1350
+1.20 Concrete volume (mÿ)
+154 Steel mass (kg)
+1500
+1.30 Concrete volume (mÿ)
+
+Precast & Prestressed Concrete
+Box culverts
+
+The following table shows standard dimensions for small box culverts. Large box culverts (1500
+mm or larger height or span) vary in design from site to site. Please contact your local Humes site
+for product specifications for large box culverts.
+
+Table 19: Product specifications for Humes box culverts
+
+17 18 21 36 42 59 Steel mass (kg)
+300
+0.21 0.35 0.40 0.50 0.55 0.64 Concrete volume (m°)
+21 25 39 46 63 Steel mass (kg)
+450
+0.40 0.45 0.55 0.65 0.71 Concrete volume (m°)
+29 43 49 66 Steel mass (kg)
+600
+0.50 0.60 0.70 0.78 Concrete volume (m°)
+46 53 70 Steel mass (kg)
+750
+0.70 0.75 0.85 Concrete volume (m°)
+56 72 Steel mass (kg)
+900
+0.85 0.91 Concrete volume (m°)
+79 Steel mass (kg)
+1200
+1.05 Concrete volume (m°)
+
+Base
+
+=
+=
+
+Crown unit Invert unit
+
+Precast & Prestressed Concrete
+
+30
+StormTrap®
+The following tables shows standard dimensions for single trap (Table 20) and double trap (Table
+21) StormTrap®.
+
+Table 20: Product specifications for Humes single trap StormTrap®
+
+309 164 306 162 253 146 Steel mass (kg)
+600
+2.10 1.20 2.20 1.24 2.30 1.24 Concrete volume (m°)
+404 218 405 217 338 196 Steel mass (kg)
+900
+2.25 1.34 2.40 1.42 2.55 1.50 Concrete volume (m°)
+432 233 438 236 397 215 Steel mass (kg)
+1200
+2.35 1.49 2.60 1.60 2.85 1.73 Concrete volume (m°)
+453 247 464 252 423 232 Steel mass (kg)
+1500
+2.50 1.63 2.85 1.79 3.15 1.95 Concrete volume (m°)
+Standard type | Standard type NH Standard type ll Standard type IV
+Standard type V Standard type VI Standard type VII
+
+sh. nb
+
+Precast & Prestressed Concrete
+StormTrap® (continued)
+
+Table 21: Product specifications for Humes double trap StormTrap®
+
+618 328 612 324 324 506 Steel mass (kg)
+1200
+
+4.20 2.40 4.40 2.48 2.48 4.60 Concrete volume (m°)
+
+796 420 794 418 418 660 Steel mass (kg)
+1500
+
+4.30 2.52 4.60 2.66 2.66 4.80 Concrete volume (m°)
+
+808 436 810 434 434 676 Steel mass (kg)
+1800
+
+4.50 2.68 4.80 2.84 2.84 5.10 Concrete volume (m°)
+
+842 450 844 450 450 706 Steel mass (kg)
+2100
+
+4.60 2.82 5.00 3.02 3.02 540 Concrete volume (m°)
+
+864 466 876 A72 A72 794 Steel mass (kg)
+2400
+
+4.70 2.98 5.20 3.20 3.20 5.70 Concrete volume (m°)
+
+876 476 894 484 484 810 Steel mass (kg)
+2700
+
+4.90 3.12 5.40 3.40 3.40 6.00 Concrete volume (m°)
+
+906 494 928 504 504 846 Steel mass (kg)
+3000
+
+5.00 3.26 5.70 3.58 3.58 6.30 Concrete volume (m°)
+
+Precast & Prestressed Concrete
+HumeDeck®
+
+The following table shows standard dimensions for HumeDeck®.
+
+Table 22: Product specifications for HumeDeck®
+
+Span (m)
+
+wars mm | 5 |
+
+Figure 2 — Typical deck and girder unit cross-section Figure 3 — Cross-section detail of a complete
+HumeDeck® bridge system
+
+Hold down boit
+ional k
+ete: CPS NN Span
+8
+A
+Deck and girder unit
+
+Precast abutment —
+
+2,700 mm max.
+
+Precast headstock
+
+*— Precast pile
+
+Precast & Prestressed Concrete
+
+n
+[en
+S
+ce)
+fa
+o
+Œ
+O
+U
+Q
+n
+ee
+e
+>
+TD
+[e)
+Fes
+©
+
+33
+Custom pits
+The following tables show standard dimensions for custom pits up to 1300mm height (Table 23)
+and from 1450mm height (Table 24). For other dimensions, contact your local Humes location.
+
+Table 23: Product specifications for Humes custom pits (700mm to 1300 mm height) <
+NK
+PN
+|
+NY
+33 35 37 39 41 Steel mass (kg)
+700 / 700
+0.31 0.35 0.40 045 0.50 Concrete volume (m°)
+35 38 40 42 44 Steel mass (kg)
+850 / 675
+0.33 0.39 0.44 0.49 0.54 Concrete volume (mÿ)
+54 59 64 69 73 Steel mass (kg)
+1380 / 700
+0.46 0.53 0.60 0.67 0.74 Concrete volume (m°)
+58 63 69 78 79 Steel mass (kg)
+1540 / 700
+0.50 0.57 0.65 0.72 0.79 Concrete volume (mÿ)
+36 38 40 42 45 Steel mass (kg)
+930 / 610
+0.34 0.39 0.44 0.49 0.54 Concrete volume (m°)
+39 41 43 45 48 Steel mass (kg)
+930 / 710
+0.36 0.42 0.47 0.52 0.58 Concrete volume (mÿ)
+43 45 48 50 52 Steel mass (kg)
+930 / 835
+0.39 0.45 0.51 0.57 0.63 Concrete volume (m°)
+44 46 49 51 53 Steel mass (kg)
+900 / 900
+0.40 0.46 0.52 0.58 0.64 Concrete volume (mÿ)
+53 56 59 62 64 Steel mass (kg)
+1050 / 1050
+0.48 0.55 0.62 0.69 0.75 Concrete volume (m°)
+64 67 70 73 76 Steel mass (kg)
+1200 / 1200
+0.56 0.64 0.72 0.79 0.87 Concrete volume (m°)
+
+Precast & Prestressed Concrete
+
+34
+Custom pit components
+
+Custom pits (continued)
+
+Table 24: Product specifications for Humes custom pits (1450mm to 2000mm height)
+
+43 45 47 49 50 Steel mass (kg)
+700 / 700
+0.55 0.59 0.64 0.69 0.72 Concrete volume (m°)
+46 48 50 52 54 Steel mass (kg)
+850 / 675
+0.59 0.64 0.70 0.75 0.78 Concrete volume (mÿ)
+78 83 88 93 96 Steel mass (kg)
+1380 / 700
+0.80 0.87 0.94 1.01 1.05 Concrete volume (m°)
+84 90 95 100 104 Steel mass (kg)
+1540 / 700
+0.86 0.94 1.01 1.08 1.13 Concrete volume (mÿ)
+47 49 51 53 55 Steel mass (kg)
+930 / 610
+0.60 0.65 0.70 0.75 0.79 Concrete volume (m°)
+50 52 54 57 58 Steel mass (kg)
+930 / 710
+0.64 0.69 0.75 0.80 0.84 Concrete volume (mÿ)
+54 57 59 62 63 Steel mass (kg)
+930 / 835
+0.69 0.75 0.81 0.86 0.90 Concrete volume (m°)
+56 58 61 63 65 Steel mass (kg)
+900 / 900
+0.70 0.76 0.82 0.88 0.92 Concrete volume (mÿ)
+67 70 73 75 77 Steel mass (kg)
+1050 / 1050
+0.82 0.89 0.96 1.03 1.08 Concrete volume (m°)
+79 83 86 89 91 Steel mass (kg)
+1200 / 1200
+0.95 1.03 1.11 1.18 1.24 Concrete volume (m°)
+
+Precast & Prestressed Concrete
+
+35
+Sleepers
+
+The following table shows examples of our standard profile sleepers.
+
+Table 25: Product specifications for Humes sleepers (examples)
+
+6.09
+
+Narrow gauge
+0.064
+7.18
+
+Standard gauge
+0.072
+
+Dual gauge
+
+* The steel mass includes reinforcement steel only. Every sleeper also contains cast-in iron shoulders (that
+are used to attach the rails to the sleepers). The iron shoulders weigh 4.840 kg each and should be added to
+the environmental profile of the sleepers. We have included an indicative environmental profile for cast-in
+
+7.15
+
+0.106
+
+8.37
+
+0.140
+
+8.832
+
+0.150
+
+Steel strand mass (kg)*
+Concrete volume (m°)
+10.07 Steel strand mass (kg)*
+0.134 Concrete volume (m°)
+Steel strand mass (kg)*
+
+Concrete volume (m°)
+
+iron shoulders (see Table 26), based on ecoinvent v3 data, 10% milling losses and transport to Perth.
+
+Table 26: Indicative environmental profile for cast-in shoulders, total per sleeper
+
+GWP [kg CO: eq]
+ODP [kg CFC11 eq]
+AP [kg SO» eq]
+EP [kg PO4Ÿ eq]
+POCP [kg C2H4 eq]
+ADPE [kg Sb eq]
+ADPF [Mincv]
+
+4.06E+01
+2.20E-06
+1.65E-01
+2.48E-02
+4.81E-02
+3.87E-05
+6.07E+02
+
+6.09E+01
+3.30E-06
+2.AT7E-01
+3.72E-02
+7.21E-02
+5.80E-05
+9.10E +02
+
+Precast & Prestressed Concrete
+
+36
+Standard L walls
+The following table shows standard dimensions for standard L walls.
+
+[2]
+[en
+A
+=
+G
+©
+E
+[e]
+OU
+Q
+n
+ee
+e]
+=)
+Le)
+©
+[=
+(«=
+
+Table 27: Product specifications for Humes standard L walls
+
+Height (mm)
+
+Vertical
+face
+
+Precast & Prestressed Concrete 37
+Arches
+
+The following table shows standard dimensions for arches.
+
+Table 28: Product specifications for Humes arches
+
+2.1
+
+3.1
+
+419 Steel mass (kg)
+4.15 Concrete volume (m°)
+503 Steel mass (kg)
+5.15 Concrete volume (m°)
+472 670 Steel mass (kg)
+5.50 6.50 Concrete volume (m°)
+544 728 Steel mass (kg)
+6.40 7.30 Concrete volume (m°)
+1272 Steel mass (kg)
+11.90 Concrete volume (m°)
+1510 Steel mass (kg)
+14.45 Concrete volume (m°)
+2926 Steel mass (kg)
+
+17.00 Concrete volume (m°)
+
+Thickness
+Internal “y”
+height
+
+« H”
+
+Underside of arch base
+
+Internal span at base of arch
+“6”
+
+Precast & Prestressed Concrete
+
+38
+References
+
+CEN 2013
+
+EFCA 2015a
+
+EFCA 2015b
+
+EFCA 2015c
+
+EFCA 20154
+
+EFCA 2015e
+
+Environdec 2020a
+
+Environdec 2020b
+
+Humes 2017
+
+Humes 2020
+
+EN 15804:2012+A1:2013, Sustainability of construction works — Environmental
+product declarations — Core rules for the product category of construction
+
+products, European Committee for Standardization (CEN), Brussels, November
+2013
+
+un
+[0]
+O
+[es
+[0]
+ls
+VU
+[rs
+(o]
+[a
+
+EPD of Plasticizer and superplasticizer, IBU EPD Declaration number EPD-EFC-
+20150091-IAG1-EN, issued 2015-09-14, based on EN 15804 and PCR for concrete
+admixtures; EPD owner: EFCA - European Federation of Concrete Admixtures
+Associations
+
+EPD of Set accelerators, IBU EPD Declaration number EPD-EFC-20150087-IAG1-EN,
+issued 2015-09-14, based on EN 15804 and PCR for concrete admixtures; EPD
+owner: EFCA - European Federation of Concrete Admixtures Associations
+
+EPD of Hardening accelerators, IBU EPD Declaration number EPD-EFC-20150089-
+IAGT-EN, issued 2015-09-14, based on EN 15804 and PCR for concrete admixtures;
+EPD owner: EFCA - European Federation of Concrete Admixtures Associations
+
+EPD of Air entrainers, IBU EPD Declaration number EPD-EFC-20150086-IAG1-EN,
+issued 2015-09-14, based on EN 15804 and PCR for concrete admixtures; EPD
+owner: EFCA - European Federation of Concrete Admixtures Associations
+
+EPD of Retarders, IBU EPD Declaration number EPD-EFC-20150088-IAG1-EN,
+issued 2015-09-14, based on EN 15804 and PCR for concrete admixtures; EPD
+owner: EFCA - European Federation of Concrete Admixtures Associations
+
+PCR2012:01 (version 2.33), Product category rules according to ISO 14025 and EN
+15804, Combined PCR and PCR Basic Module for Construction products and
+Construction services, registration number 2012:01, published on 18 September
+2020
+
+PCR2012:01-SUB-PCR-G (version 2.31), Product category rules according to ISO
+14025 and EN 15804, Concrete and concrete elements (EN 16757:2017),
+registration number 2012:01, published on 18 September 2020
+
+EPD of Reinforced Concrete Pipe (RCP), EPD Australasia registration no. S-P-00998
+| Version 1.0, issued 2017-03-17, based on EN 15804 and PCR for Construction
+Products and Construction Services; EPD owner: Holcim (Australia) Pty Ltd
+
+EPD of Humes Tamworth Precast Concrete for Infrastructure Applications, EPD
+Australasia registration no. S-P-01544 | Version 1.0, issued 2020-01-31, based on
+EN 15804 and PCR for Construction Products and Construction Services; EPD
+owner: Holcim (Australia) Pty Ltd
+
+Precast & Prestressed Concrete 39
+ISO 2006a
+
+ISO 2006b
+
+ISO 2006c
+
+NOHSC 2004
+
+InfraBuild 2020a
+
+InfraBuild 2020b
+
+InfraBuild 2020c
+
+SA 2000
+
+SA 2007
+
+SA 2010
+
+SA 2014
+
+SA 2016
+
+SA 2019
+
+Timm et al 2019
+
+ISO 14040:2006 Environmental management - Life cycle assessment - Principles
+and framework. International Organization for Standardization, Geneva,
+Switzerland, 2006
+
+IS014044:2006, Environmental management - Life cycle assessment -
+Requirements and guidelines. International Organization for Standardization,
+Geneva, Switzerland, 2006
+
+IS014025:2006, Environmental labels and declarations - Type Ill environmental
+declarations - Principles and procedures. International Organization for
+Standardization, Geneva, Switzerland, 2006
+
+Approved criteria for classifying hazardous substances [NOHSC: 1008(2004)], 3"
+Edition, National Occupational Health and Safety Commission, Canberra, October
+2004
+
+EPD of Reinforcing bar and mesh, EPD Australasia Declaration number S-P-00857
+version 1.1, issued 2020-09-21, based on EN 15804 and PCR 2012:01 Construction
+products and Construction services, Version 2.31, 2019-12-20; EPD owner:
+InfraBuild Construction Solutions
+
+EPD of Reinforcing bar and mesh, EPD Australasia Declaration number S-P-00858
+version 1.1, issued 2020-09-21, based on EN 15804 and PCR 2012:01 Construction
+products and Construction services, Version 2.31, 2019-12-20; EPD owner: ARC -
+The Australian Reinforcing Company
+
+EPD of Reinforcing Rod, Bar and Wire, EPD Australasia Declaration number S-P-
+00855 version 1.1, issued 2020- 09-21, based on EN 15804 and PCR 2012:01
+Construction products and Construction services, Version 2.31, 2019-12-20; EPD
+owner: InfraBuild Australia Pty Ltd
+
+AS 1478.1:2000 Chemical admixtures for concrete, mortar and grout, Part 1:
+Admixtures for concrete, published on 4 October 2000 by Standards Australia,
+Sydney
+
+4672.1:2007 Steel prestressing materials General requirements, published on 18
+January 2007 by Standards Australia, Sydney
+
+AS 3972:2010 General Purpose and blended cements, published on 22 October
+2010 by Standards Australia, Sydney
+
+AS 2758.1:2014 Aggregates and rock for engineering purposes Part 1: Concrete
+aggregates, published on 7 November 2014 by Standards Australia, Sydney
+
+AS/NZS 3582.1:2016 Supplementary cementitious materials Part 1: Fly Ash,
+published on 12 February 2016 by Standard Australia, Sydney
+
+AS/NZS 4671:2019 Steel for the reinforcement of concrete, published on 13
+December 2019 by Standards Australia, Sydney
+
+Timm et al 2019, Sensitivity Analysis of Life Cycle Impacts Distribution Methods
+Choice Applied to Silica Fume Production, IOP Conf. Ser.: Earth Environ. Sci. 323
+012131
+
+Precast & Prestressed Concrete
+
+40
+Contact information
+
+National sales 1300 361 601
+
+humes.com.au
+info@humes.com.au
+
+Head Office
+
+18 Little Cribb St
+Milton 4064 OLD
+Ph: (07) 3364 2800
+Fax: (07) 3364 2963
+
+Queensland
+
+Ipswich/Brisbane
+Ph: (07) 3814 9000
+Fax: (07) 3814 9014
+
+Rockhampton
+Ph: (07) 4924 7900
+Fax: (07) 4924 7901
+
+Townsville
+Ph: (07) 4758 6000
+Fax: (07) 4758 6001
+
+New South Wales
+
+Grafton
+Ph: (02) 6644 7666
+Fax: (02) 6644 7313
+
+Newcastle
+Ph: (02) 4032 6800
+Fax: (02) 4032 6822
+
+Sydney
+Ph: (02)9832 5555
+Fax: (02) 9625 5200
+
+Tamworth
+Ph: (02) 6763 7300
+Fax: (02) 6763 7301
+
+Victoria
+
+Echuca
+Ph: (03) 5480 2371
+Fax: (03) 5482 3090
+
+Melbourne
+Ph: (03) 9360 3888
+Fax: (03) 9360 3887
+
+South Australia
+
+Adelaide
+Ph: (08) 8168 4544
+Fax: (08) 8168 4549
+
+Western Australia
+
+Gnangara
+Ph: (08) 9302 8000
+Fax: (08) 9309 1625
+
+Perth
+Ph: (08) 9351 6999
+Fax: (08) 9351 6977
+
+Northern Territory
+Darwin
+
+Ph: (08) 8984 1600
+Fax: (08) 8984 1614
+
+Precast & Prestressed Concrete
+
+41
+42
+
+Precast & Prestressed Concrete
+National sales 1300 361 601
+humes.com.au
+info@humes.com.au
+
+A Division of Holcim Australia
+
+This publication supersedes all previous literature on this subject. As the specifications and details contained in this publication may change
+please check with Humes Customer Service for confirmation of current issue. This publication provides general information only and is no
+substitute for professional engineering advice. No representations or warranties are made regarding the accuracy, completeness or relevance
+of the information provided. Users must make their own determination as to the suitability of this information or any Humes’ product for their
+specific circumstances. Humes accepts no liability for any loss or damage resulting from any reliance on the information provided in this
+
+publication. Humes is a registered business name and registered trademark of Holcim (Australia) Pty Ltd (Holcim). “Strength. Performance.
+Passion.” is a trademark of Holcim.
+
+© December 2020 Holcim (Australia) Pty Ltd ABN 87 099 732 297. All rights reserved. This guide or any part of it may not be reproduced
+without prior written consent of Holcim.

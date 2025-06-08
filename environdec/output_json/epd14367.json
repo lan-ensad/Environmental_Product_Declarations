@@ -1,0 +1,76 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia",
+    "managed_by": "Holcim Certified EPD Process",
+    "epd_process_certificate_number": "04",
+    "epd_registration_no": "EPD-IES-14367:001",
+    "valid_from": "24/03/2025",
+    "valid_until": "24/03/2030",
+    "revision_date": "24/03/2025",
+    "revision_number": "1",
+    "geographical_scope": "Australia",
+    "accreditation_body": "Epsten Group, Inc.",
+    "reference_year_for_data": "2022 Plant Data, 2025 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+A2:2019/AC:2021",
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)"
+  },
+  "product_description": {
+    "product_name": "Ready-Mix Concrete",
+    "product_code": "WA - Mid West - ECOPact- WE401E1",
+    "production_sites": "Geraldton",
+    "gross_weight": "2,400 kg per cubic meter",
+    "content_declaration": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%"
+    },
+    "classification": "Non-Dangerous Goods"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "scope": "cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D",
+    "time_representativeness": "2022 calendar year production data",
+    "databases_and_software": "SimaPro® LCA software (v 9.5), AusLCI v1.42 (2023), Ecoinvent 3.9.1 (2023)",
+    "allocation": "Physical based on weight or m³ of concrete, economic allocation for ground granulated blast furnace slag",
+    "cut_off_criteria": "No energy or mass flows excluded except packaging of materials"
+  },
+  "transport_and_installation": {
+    "distribution": "EUROS 28t — 32t trucks, 14.52 km transport distance",
+    "installation": {
+      "concrete_losses": "3.00%",
+      "water_use": "669 L",
+      "electricity_use": "2.78 kWh",
+      "diesel_use": "1.67 L",
+      "wastewater": "0.669 L"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": "Hydraulic excavator, 100% collected, 80% recycled",
+    "transport_distance": "25 km",
+    "final_disposal": "Inert waste landfill"
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions": "39% from building environment, 11% from construction materials",
+    "embodied_carbon_reduction_targets": "40% by 2030, net zero by 2050"
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Flyash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": "AusLCI LCA database default for secondary data"
+  },
+  "additional_info": {
+    "lifetime_absorption_of_co2": "Not considered in this EPD",
+    "references": [
+      "AusLCI Database — v1.42",
+      "Ecoinvent version 3.9.1 database",
+      "General Programme Instructions (GPI) for the International EPD System V4.0"
+    ]
+  }
+}

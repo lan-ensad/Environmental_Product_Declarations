@@ -1,0 +1,803 @@
+GENERAL PURPOSE
+PORTLAND CEMENT
+(ULTRACEM) EPD
+
+NEW ZEALAND - ULTRACEM
+
+Publication Date: 2019-08-19
+Version Date: 2023-07-26
+
+Valid Until: 2028-07-26
+
+Revision Number: 2.0
+Geographical Scope: New Zealand
+
+Managed By: Holcim NZ Ltd
+
+EPD Process Certificate No. 1012
+
+Verified Accreditation Body: Epsten Group, Inc.
+EPD Registration No. S-P-00850
+
+ENVIRONMENTAL PRODUCT DECLARATION VERIFIED Program Operator: EPD Australasia Limited | www.epd-australasia.com
+
+© | Er ,
+à un FE p D a In accordance with ISO 14025 and EN15804+A2
+E] O L( [ M Program: The International EPD® System | www.environdec.com
+
+CONTENTS
+
+INTRODUCTION 1
+ABOUT HOLCIM NEW ZEALAND 2
+LOW CARBON CEMENT IN NEW ZEALAND 3
+LCA INFORMATION 4
+EPD PRODUCT DESCRIPTION AND USE 7
+ENVIRONMENTAL PERFORMANCE 9
+PREVIOUS VERSION 155
+REFERENCES 156
+PROGRAM-RELATED INFORMATION AND VERIFICATION 177
+
+2.0 2023-07-26 Update of LCA using Process Calculator
+INTRODUCTION
+
+Cement is a key ingredient in the most commonliy used building
+material in the world. Each year in New Zealand, over ZL.5 million tonnes
+of traditional cement is used, generating 1.23 million tonnes of CO:.1
+
+This clearly demonstrates both the essential need for construction materials now and in the future, as
+well as the necessity for the construction materials industry to be a leading part of the solution
+addressing climate change.
+
+With Aotearoa committed to net zero by 2050, Holcim New Zealand is building progress for a lower
+carbon footprint in the built environment.
+
+For us, building progress means a complete range of low carbon, high-performance, and specialty
+cement and cement binders suitable for Aotearoa’s homes, buildings, and infrastructure. It means
+advice, tools and resources to help you specify your next project with confidence. It means solutions
+that are right for you each and every time.
+
+Together, we can build better
+to help decarbonise Aotearoa.
+
+1 International Energy Agency (IEA) report "The Future of Cement in a Carbon-Constrained World"(2018); Cement and
+Concrete Association of New Zealand - Key Facts and Figures; The International Energy Agency (IEA) Cement Technology
+Roadmap 2009 estimates that the production of 1 tonne of cement results in the emission of approximately 0.82 tonnes
+of CO. Using the conversion factor of 0.82 tonnes of CO2 per tonne of cement, the production of 1.5 million tonnes of
+cement in New Zealand would result in the emission of approximately 1.23 million tonnes of CO. The actual amount of
+CO2emissions may vary.
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 1
+ABOUT HOLCIM
+NEW ZEALAND
+
+BUILDING PROGRESS
+
+Holcim New Zealand (NZ) is a leading
+solutions provider for your design and
+construction needs in New Zealand,
+dating back to 1888. Today, we supply AUCKLAND
+essential construction materials from
+import terminals, depots, and quarries to
+customers. Our cement and aggregates
+are used in ready-mix concrete,
+engineered precast concrete, and
+prestressed concrete solutions for various
+projects throughout the country.
+
+TAURANGA
+
+NEW PLYMOUTH
+NAPIER
+NELSON
+
+This EPD provides our stakeholders with confidence about
+the environmental impact of our products.
+
+Globally, Holcim is 60,000 people around the world who
+are passionate about building progress for people and the
+planet through four business segments: Cement, Ready-
+Mix Concrete, Aggregates and Solutions & Products.
+
+Sustainability is at the core of our global strategy, with our
+industry's first 2030 and 2050 net-zero targets validated by D»
+
+DUNEDIN
+
+the Science Based Targets initiative for all scopes. We are
+leading the transition towards low-carbon construction
+and driving a circular economy by providing materials and
+solutions that are re-shaping the way our industry builds.
+Holcim NZ has developed a range of low carbon cements
+and cement replacements specifically for the New Zealand
+market.
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 2
+LOW CARBON CEMENT
+
+IN NEW ZEALAND
+
+HOLCIM NZ’'S CEMENT AT À GLANCE
+
+Holcim NZ provides project-specific, on-demand
+Environmental Product Declarations (EPDs) to customers.
+This capability represents a significant step in Holcim NZ's
+sustainability journey and embodies our multi-disciplinary
+approach to embedding sustainability into our
+organisation and operations. With the introduction of our
+cement blends, third-party verified data will underpin our
+capability to work with our customers from tender through
+to design and construction to optimise sustainability
+performance.
+
+Holcim NZ's cement blend is backed by an EPD Process
+Certification. It's not only a first for cement, but a first for
+any product in New Zealand. Our EPD Process Certification
+is a stamp of approval to produce compliant EPDs in-
+house, opening up significant capability and flexibility in
+producing and using life cycle impact data to inform our
+operations and our customers.
+
+To gain our EPD Process Certification, Holcim invested in
+embedding Life Cycle Assessment (LCA) into our systems
+and processes. We have satisfied a rigorous, third-party
+evaluation in accordance with the relevant ISO standards
+and guidelines of the International EPD Program and EPD
+Australasia. ?
+
+This EPD has been developed using our EPD Process
+Certification for GENERAL PURPOSE PORTLAND CEMENT
+(ULTRACEM) with production occurring within New
+Zealand.
+
+25-6 and 8-12 in the References section.
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 3
+LCA INFORMATION
+
+Declared Unit
+
+1 tonne of cement blend.
+
+Reference Service Life (RSL)
+
+The RSL is not specified as the scope is from cradle to gate
+with distribution (module A4) option.
+
+Time Representativeness
+
+The plant data for the LCA is based on 2021 calendar year
+production data. The mix data for the LCA is based on
+2023 calendar year production data.
+
+Databases and LCA Software Used
+
+SimaPro® LCA software (v 9.4) was used for the LCA
+modelling which developed the LCA Calculator, used as
+per the certified EPD Process. It uses background data
+from:
+
+1. The Australian Life Cycle Inventory Database (AusLCI
+v1.39) (2022)
+
+2. Ecoinvent 3.8 (2021)
+
+The environmental impacts modelled from the existing
+EPDs do not include impacts for the additional Green Star
+(v1.2) impact categories included in the environmental
+impact tables. The following impact categories were
+calculated manually for the foreground data:
+
+e Use of renewable primary energy resources used as raw
+materials
+
+e Use of non-renewable primary energy, excluding non-
+renewable primary energy resources used as raw
+materials
+
+e Use of secondary materials
+e Use of renewable secondary fuels
+
+ee Use of non-renewable secondary fuels
+
+3 Australian Life Cycle Inventory Database Initiative
+(AuSLCI). (2022). Guidelines for Data Development for an
+Australian Life Cycle Inventory Database, Data Standard.
+
+Allocation
+
+Allocation was necessary to proportion inputs and outputs
+to intermediate flows and processes at the plant level. As
+much as possible, intermediate flows were allocated
+physically based on the weight of cement.
+
+Ground granulated blast furnace slag from steel blast
+furnace production was allocated economically. Please
+refer to the “Recycled Material” section for further detail.
+
+Cut-Off Criteria
+
+No flows were excluded on the basis of cut-off criteria.
+
+Address and Contact Information
+
+Holcim (New Zealand) Ltd
+23 Plumer Street, Central Auckland 1010
+New Zealand
+
+www.holcim.co.nz
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 4
+
+Z
+®
+F
+<
+Z
+œ
+O
+LL
+<
+5
+|
+
+Data Quality
+
+Data quality for the foreground data was assessed in terms
+of geographic and temporal representativeness. Al data
+sources were scored medium or higher.
+
+Background data sources were also assessed with respect
+to their timeliness, with all data sources being updated
+within the 10 years required under PCR 2019:14.
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD |5
+SYSTEM DIAGRAM
+
+The processes included in the LCA are presented in a process diagram in the figure below.
+
+Ship Cement Unloading Ship Cement Loading Distribution
+
+DESCRIPTION OF SYSTEM BOUNDARIES
+AND EXCLUDED LIFECYCLE STAGES
+
+The scope of the LCA and EPD is from cradle to gate (A1-A3).
+Life cycle stages beyond Holcim's gate are excluded from the LCA (see figure below).
+
+Environmental impacts relating to personnel, infrastructure and production equipment not directly
+consumed in the process are excluded from the system boundary as per the Product Category Rules
+
+(2019:14 Construction Production and Construction Services).
+
+Construction Benefits & loads for
+Product Stage Use Stage End of Life Stage the next product
+
+SiERE system
+
+Raw Material Supply
+Transport
+Manufacturing
+Transport
+Construction/Installation process
+Use
+Maintenance incl. transport
+Repair incl. transport
+Replacement incl. transport
+Refurbishment incl. transport
+Operational Energy Use
+Operational Water Use
+
+AT A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7
+
+X X X ND ND ND ND ND ND ND ND ND
+
+ND: Module not declared
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 6
+
+>
+ca
+«
+Q
+Z
+=)
+[e]
+m
+Z
+Lu
+rs
+un
+>
+u
+
+EPD PRODUCT DESCRIPTION
+AND USE
+
+EPD PRODUCT
+
+mr
+n
+=)
+Co.)
+Z
+O
+Le
+=
+[e A
+[®)
+(ue)
+LL
+Q
+
+HOLCIM NZ’'S CEMENTITIOUS PRODUCTS (NEW ZEALAND - GENERAL PURPOSE
+PORTLAND CEMENT (ULTRACEM)
+
+A detailed breakdown of the functional properties of the cement included in this EPD are provided
+below. Product environmental information should only be compared with consideration of the
+product's requisite function.
+
+Manufacturing process and flow diagram
+
+Raw Meal
+
+Fossil Fuels Preparation
+Alternative Fuels Clinker Preperation
+| HighGrade
+High Grade mn
+Limestone Cement Milling
+
+Gypsum
+
+all
+
+Ground Granulated
+Blast Furnace Slag
+
+Export Storage Cement Terminal
+
+Bagging Operations
+
+MIX DESCRIPTIONS
+
+Product brand Description of use
+
+North Island Auckland Ultracem General Purpose Cement (Type GP)
+North Island Onehunga Ultracem General Purpose Cement (Type GP)
+North Island Hamilton Ultracem General Purpose Cement (Type GP)
+North Island Napier Ultracem General Purpose Cement (Type GP)
+North Island Wellington Ultracem General Purpose Cement (Type GP)
+South Island Timaru Ultracem General Purpose Cement (Type GP)
+South Island Lyttelton Ultracem General Purpose Cement (Type GP)
+South Island Dunedin Ultracem General Purpose Cement (Type GP)
+
+Content Declaration
+
+The following table provides a summary of the materials included in Holcim's cement and their
+relative composition by weight. The gross weight of this declared material makes up a minimum of
+
+99% of the products covered by this EPD.
+
+Packaging
+
+Holcim cement is delivered in either
+bulk or packaging.
+
+Recycled Material
+
+BS EN 16757:2017 specifically lists the
+following materials relevant to the
+study as co-products:
+
+e Fly ash:;
+
+° Ground granulated blast furnace
+slag; and
+
+As such, the above materials are
+considered as co-products of their
+production process and the impacts
+for their production process are
+allocated according to PCR 2019:14
+Construction Products and
+Construction Services (co-produced
+goods, multi-output allocation).
+
+Default background data from LCA
+databases was used to model the
+
+above co-products:
+
+°e Fly ash: AUSLCI process for fly ash
+treats it as a waste material and
+only includes transport impacts.
+
+° Ground granulated blast furnace
+slag: the AusLCI process for slag is
+allocated based on economic
+value, as the product has a
+significant economic value at the
+
+point of collection.
+
+The allocation approach of the AusLCI
+LCA database was adopted as a
+default for secondary data and
+processes (eg. secondary fuel in
+cement production). The AusLCI
+dataset conforms to EN 15804 when
+applying allocation to its various
+processes and sub-processes.
+
+Item Door Mass (%)
+Portland Cement Ÿ 100%
+
+- Clinker 2 85
+
+- GGBFS <5
+
+- High Grade Limestone >3
+
+- Gypsum 3-5
+
+Post-consumer material
+(%)
+
+0
+
+Renewable Material (%)
+
+© © © © ©
+
+0
+0
+0
+0
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 8
+ENVIRONMENTAL
+PERFORMANCE
+
+—
+<
+z ©
+Lu Z
+= <
+Z Z
+OX
+Œ ©
+> ©
+Z LU
+Lu ©
+
+The environmental impacts considered in this EPD are listed in the table below.
+Al further tables from this point will contain abbreviation only.
+
+Impact Category Abbreviation Measurement
+
+Potential Environmental Impacts
+
+Total global warming potential GWPT kg CO: equivalents (GWP100)
+Global warming potential (fossil) GWPF kg CO: equivalents (GWP100)
+Global warming potential (biogenic) GWPB kg CO: equivalents (GWP100)
+Global warming potential (land use/ land transformation) GWPL kg CO: equivalents (GWP100)
+Ozone depletion potential ODP kg CFC 11 equivalents
+Acidification potential AP mol H+ eq.
+
+Eutrophication - aquatic freshwater EP - freshwater kg PO43- equivalents
+Eutrophication - aquatic freshwater EP - freshwater kg P equivalent
+Eutrophication - aquatic marine EP - marine kg N equivalent
+Eutrophication - terrestrial EP - terrestrial mol N equivalent
+Photochemical ozone creation potential POCP kg NMVOC equivalents
+Abiotic depletion potential (elements) ADPE kg Sb equivalents
+
+Abiotic depletion potential (fossil fuels) ADPF MJ net calorific value
+
+Water Depletion Potential WDP m3 equivalent deprived
+
+Resource use
+
+Use of renewable primary energy excluding renewable primary energy resources
+
+u PERE M9, net calorific value
+used as raw materials
+Use of renewable primary energy resources used as raw materials PERM M), net calorific value
+Total use of renewable primary energy resources (primary energy and primary PERT M3, net calorific value
+energy resources used as raw materials)
+Use of non-renewable primary energy excluding non-renewable primary energy PENRE M3, net calorific value
+resources used as raw materials
+Use of non-renewable primary energy resources used as raw materials PENRM M), net calorific value
+Total use of non-renewable primary energy resources (primary energy and primary PENRT M3, net calorific value
+energy resources used as raw materials)
+Use of secondary material SM kg
+Use of renewable secondary fuels RSF M9, net calorific value
+Use of non-renewable secondary fuels NRSF M9, net calorific value
+Use of net fresh water FW m3
+Waste categories and Output flows
+Hazardous waste disposed HWD kg
+Non-hazardous waste disposed NHWD kg
+Radioactive waste disposed/stored RWD kg
+
+CFR kg
+
+Components for reuse
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 9
+Impact Category Abbreviation Measurement
+Materials for recycling MFR kg
+
+Materials for energy recovery MFEE kg
+
+Exported energy EÉE-e M9 per energy carrier
+Exported energy, thermal EE -t M9 per energy carrier
+Additional environmental impacts
+
+Global warming potential, excluding biogenic uptake, emissions and storage GWP-GHG kg CO: equivalents (GWP100)
+Particulate matter PM disease incidence
+lonising radiation - human health IRP kBq U-235 eq
+Eco-toxicity (freshwater) ETP-fw CTUe
+
+Human toxicity potential - cancer effects HTP-c CTUh
+
+Human toxicity potential - non cancer effects HTP-nc CTUh
+
+Soil quality SQP dimensionless
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 10
+
+—
+<
+z ©
+Lu Z
+= <
+Z Z
+OX
+Œ ©
+> ©
+Z LU
+Lu ©
+
+NZ - ULTRACEM - MODULE A1-A3
+
+Primary indicators - 1 tonne of cement
+
+n
+È
+<<
+re
+> "
+LU
+Œ=A
+= à
+ne
+22
+
+ENVIRONMENTAL IMPACTS
+
+GWP -
+
+GWP-F GWP -B Luluc GWP -T ODP AP EP-F EP - F2 EP -M EP-T POCP ADP ADPF WDP
+
+Plant produet kg CO:eq | kg CO:eq | kg CO-:eq | kg CO: eq kg ri mol H+ eq kg Fa 3 kgPeq kgNeq | molNeq kg press kg Sb eq MJ deprive d
+Auckland Ultracem 861.89 4.18E-02 7.70E-02 862.01 2.07E-05 3.65 0.70 6.77E-01 0.40 11.92 2.91 -1.74E-04 2399.69 16.69
+Onehunga Ultracem 863.65 4.29E-02 7.70E-02 863.77 2.10E-05 3.66 0.70 6.77E-01 0.41 11.94 2.91 -1.73E-04 2423.25 16.90
+Hamilton Ultracem 872.70 4.52E-02 7.70E-02 872.82 2.24E-05 3.69 0.70 6.77E-01 0.42 12.05 2.94 -1.71E-04 2544.21 18.00
+Napier Ultracem 876.29 1.16E-01 7.96E-02 876.49 2.27E-05 3.98 0.71 6.80E-01 0.47 12.67 3.10 -1.82E-04 2601.51 464.91
+Wellington Ultracem 873.10 1.18E-01 7.96E-02 873.30 2.23E-05 3.89 0.71 6.79E-01 0.46 12.48 3.05 -1.82E-04 2555.04 294.95
+Timaru Ultracem 867.88 1.17E-01 7.95E-02 868.07 2.15E-05 3.76 0.71 6.78E-01 0.43 12.18 2.98 -1.83E-04 2479.05 17.01
+Lyttelton Ultracem 870.25 1.16E-01 7.96E-02 870.44 2.19E-05 3.82 0.71 6.79E-01 0.44 12.32 3.01 -1.82E-04 2513.54 143.15
+
+Dunedin Ultracem 869.85 1.17E-01 7.96E-02 870.04 2.18E-05 3.81 0.71 6.79E-01 0.44 12.30 8.01 -1.82E-04 2507.70 121.77
+
+NZ - ULTRACEM - MODULE A1-A3
+
+Resource use parameters - 1 tonne of cement
+
+PERE PERM PERT PENRE PENRM PENRT SM RSF NRSF FW
+
+Plant Product MJ MJ MJ MJ MJ MI kg MJ MJ m3
+brand
+
+Auckland Ultracem 7.4E+01 0.0E+00 7.4E+01 2.6E+03 0.0E+00 2.6E+03 3.0E+02 4.4E+01 4.0E+02 6.1E+01
+Onehunga Ultracem 7.4E+01 0.0E+00 7.4E+01 2.7E+03 0.0E+00 2.7E+03 3.0E+02 4.4E+01 4.0E+02 6.1E+01
+Hamilton  Ultracem 7.4E+01 0.0E+00 7.4E+01 2.8E+03 0.0E+00 2.8E+03 3.0E+02 4.4E+01 4.0E+02 6.1E+01
+Napier Ultracem 1.7E+02 0.0E+00 1.7E+02 2.9E+03 0.0E+00 2.9E+03 3.0E+02 4.4E+01 4.0E+02 6.4E+01
+Wellington Ultracem 1.7E+02 0.0E+00 1.7E+02 2.8E+03 0.0E +00 2.8E+03 8.0E+02 4.4E+01 4.0E+02 6.4E+01
+Timaru Ultracem 1.7E+02 0.0E+00 1.7E+02 2.7E+03 0.0E+00 2.7E+03 3.0E+02 4.4E+01 4.0E+02 6.4E+01
+Lyttelton Ultracem 1.7E+02 0.0E+00 1.7E+02 2.8E+03 0.0E+00 2.8E+03 3.0E+02 4.4E+01 4.0E+02 6.4E+01
+
+Dunedin Ultracem 1.7E+02 0.0E+00 1.7E+02 2.8E+03 0.0E+00 2.8E+03 8.0E+02 4.4E+01 4.0E+02 6.4E+01
+
+NZ - ULTRACEM - MODULE A1-A3
+
+Waste categories and output flows - 1 tonne of cement
+
+WASTE CATEGORIES AND OUTPUT FLOWS
+
+HWD NHWD RWD CRU MFR MFRE EE-e EE -t
+
+Plant product kg kg kg kg kg kg MI MI
+
+Auckland  Ultracem 7.68E-04 3.36E+00 5.19E-03 0.00E+00  O.00E+00 | 0.00E+00  O.00E+00 0.00E+00
+Onehunga Ultracem 7.78E-04 3.38E+00 5.19E-03 0.00E+00  O.00E+00 | 0.00E+00  O.00E+00 0.00E+00
+Hamilton  Ultracem 8.27E-04 8.51E+00 5.19E-03 0.00E+00  O.00E+00 | 0.00E+00  O.00E+00 0.00E+00
+Napier Ultracem 9.27E-04 8.19E-02 5.66E-03 0.00E+00  O.00E+00 | 0.00E+00  O.00E+00 0.00E+00
+Wellington Ultracem 8.98E-04 5.08E-02 5.60E-03 0.00E+00  O.00E+00 | 0.00E+00  O.00E+00 0.00E+00
+Timaru Ultracem 8.51E-04 0.00E+00 5.50E-03 0.00E+00  O.00E+00 | 0.00E+00  O.00E+00 0.00E+00
+Lyttelton  Ultracem 8.73E-04 2.31E-02 5.54E-03 0.00E+00  O.00E+00 | 0.00E+00  O.00E+00 0.00E+00
+
+Dunedin Ultracem 8.69E-04 1.92E-02 5.54E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+NZ - ULTRACEM - MODULE A1-A3
+
+Additional indicators 1 tonne of cement
+
+ADDITIONAL ENVIRONMENTAL IMPACTS
+
+GWP-GHG PM IRP ETP - fw HTP-c HTP-nc SQP
+
+Plant product kg CO: eq jiese ar CTUe CTUh CTUh Pt
+
+Auckland  Ultracem 0.00 185E-05 | 4.79E+03 | 5.83E+02 | 1.34E-06 | 5./6E-05 | 0.00E+00
+Onehunga Ultracem 1.75 185E-05 | 4.79E+03 | 5.95E+02 | 1.34E-06 | 5./6E-05 | 3.81E+00
+Hamilton  Ultracem 10.72 187E-05 | 4./79E+03 | 6.56E+02 | 1.34E-06 | 5./6E-05 | 2.34E+01
+Napier Ultracem 8.31 189E-05 | 4.79E+03 | 7.50E+02 | 1.34E-06 | 5./7E-05 | 1.93E+01
+Wellington Ultracem 5.16 188E-05 | 4./79E+03 | 7.26E+02 | 1.34E-06 | 5./7E-05 | 1.20E+01
+Timaru Ultracem 0.00 187E-05 | 4.79E+03 | 6.88E+02 | 1.34E-06 | 5./6E-05 | 0.00E+00
+Lyttelton  Ultracem 2.34 187E-05 | 4./79E+03 | 7.05E+02 | 1.34E-06 | 5./6E-05 | 5.44E+00
+
+Dunedin Ultracem 1.94 1.87E-05 4.79E+03 7.02E+02 1.34E-06 5.76E-05 4.52E+00
+
+PREVIOUS VERSION
+
+Z
+ee)
+un
+œ
+Lu
+>
+[2]
+2
+9
+>
+Lu
+œ
+©
+
+Version 1 of GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD, was generated using Primary LCA data from
+2017. This EPD was generated in compliance with the requirements of comparability set out in EN 15804:2012+A1 and
+against the product category rules for Cement and Building Lime (EN 16908:2017)- 2012:01- SUB-PCR-H, 201811-22.
+REFERENCES
+
+10.
+
+11.
+12.
+
+13.
+
+14.
+
+REFERENCES
+
+Australasian EPD Program. (2017). Guidance on the use of INA in EPDs.
+Australasian EPD Program. (2018). Guidance on the use of background LCI data.
+Australasian EPD Program (2019) Instructions of the Australasian EPD Program V3.01.
+
+Australian Life Cycle Inventory Database Initiative (AusLCI). (2022). Guidelines for Data
+Development for an Australian Life Cycle Inventory Database, Data Standard.
+
+British Standards Institution. (2019). Sustainability of construction works. Environmental product
+declarations. Core rules for the product category of construction products, BS EN
+15804:2012+A2:2019. British Standards Institution.
+
+British Standards Institution. (2017). Sustainability of construction works - Environmental
+product declarations - Product Category Rules for concrete and concrete elements, BS EN
+16757:2017. British Standards Institution.
+
+Ecoinvent Centre. (2019). Ecoinvent version 3 database. Zurich: ETH, Agroscope, EMPA, EPFL, PSI.
+Retrieved from www.ecoinvent.org.
+
+EPD International. (2019). General Program Instructions (GPI) for the International EPD System
+V4.0. Retrieved from www.envirodec.com.
+
+EPD International. (2021). Product Category Rules for Construction Products and Construction
+Services, PCR2019:14 v1.11. Stockholm: EPD International.
+
+ISO. (2006). Environmental labels and declarations - Type Ill environmental declarations -
+Principles and procedures, ISO 14025:2006. Geneva: International Organization for
+Standardization.
+
+ISO. (2006). Environmental management -— Life cycle assessment - Principles and framework, ISO
+14040:2006. Geneva: International Organization for Standardization.
+
+ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines,
+ISO 14044:2006+A1:2018. Geneva: International Organization for Standardization.
+
+AUSLCI. (2018) AusLCI Database. Retrieved from AusLCI: www.auslci.com.au/
+
+Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of New
+Zealand's Construction Sector’, Procedia Engineering, Volume 180, 2017, Pages 211-220, ISSN
+1877-7058, (http://www.sciencedirect.com/science/article/pii/S1877705817316879)
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 16
+PROGRAM-RELATED
+INFORMATION AND VERIFICATION
+
+n Holcim (New Zealand) Ltd
+Declaration Owner 23 Plumer Street, Central Auckland 1010, New Zealand
+v www.holcim.co.nz
+
+— ® EPD Australasia Limited
+F PD 315a Hardy Street Nelson 7010, New Zealand
+
+AUSTRALASIA
+Le Te ELEC WWW. -australasia.com | info@epd-australasia.com
+ENVIRONMENTAL PRODUCT DECLARATION +61 2 8005 8206
+n Holcim (New Zealand) Ltd
+EPD Produced by VU H O LC I1M 23 Plumer Street, Central Auckland, New Zealand
+www.holcim.co.nz
+
+Epsten Group
+
+EPD Process Certified by epstengroupæ Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA
+
+www.epstengroup.com
+PCR 2019:14 Construction Products and Construction Services, Version 1.2.5, 2022-06-22
+2021 Plant Data, 2023 Production Year
+
+CEN standard EN 15804:2012+a1:2013 served as the core PCR
+
+Product category rules PCR 2019:14 Construction Products and Construction Services, Version 1.2.5, 2022-06-22
+
+The Technical Committee of the International EPD® System. Chair: Claudia A. Peña. Contact via
+
+PCR review was conducted by info@environdec.com
+
+Independent third-party verification
+of the declaration and data,
+according to ISO 14025:2006:
+
+EPD process certification
+EPD verification
+
+Epsten Group, Inc.
+Accredited by: A2LA, Certificate #3142.03
+
+EPD Process Certified by
+
+Procedure for follow-up of data
+during EPD validity involves third
+party verifier:
+
+Yes
+No
+
+Programme-related information and verification
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product category
+but from different programmes may not be comparable. EPDs of construction products may not be comparable if they do
+not comply with EN 15804.
+
+GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD | 17
+Contact your Holcim representative
+today for more information.
+
+Holcim (New Zealand) Ltd
+23 Plumer Street
+
+Central Auckland
+
+New Zealand
+
+T 0800 465 246
+www.holcim.co.nz
+
+This publication supersedes all previous literature on this subject. As the specifications and details contained in this publication may change, please check
+with Holcim Customer Service for confirmation of current issue. This publication provides general information only and is no substitute for professional
+technical engineering advice. Users must make their own determination as to the suitability of this information or any Holcim product for their specific
+circumstances. Holcim accepts no liability for any loss or damage resulting from their specific circumstances. Holcim accepts no liability for any loss or
+damage resulting from any reliance on the information provided in this publication. Holcim is a registered trademark of Holcim Ltd.
+
+© July 2023 Holcim (New Zealand) Ltd
+Al rights reserved. This guide or any part of it may not be reproduced
+
+( HOLCIM

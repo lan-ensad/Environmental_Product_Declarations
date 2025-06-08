@@ -1,0 +1,158 @@
+{
+  "epd_metadata": {
+    "epd_title": "ENVIROCORE 202 EPD",
+    "product_name": "NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202",
+    "managed_by": "Holcim NZ Ltd",
+    "valid_from": "6 June 2023",
+    "valid_to": "6 June 2028",
+    "epd_process_certificate_no": "1012",
+    "revision_date": "6 June 2023",
+    "verified_accreditation_body": "Epsten Group, Inc.",
+    "revision_number": "1.0",
+    "epd_registration_no": "S-P-08441",
+    "geographical_scope": "New Zealand",
+    "declaration_owner": "Holcim (New Zealand) Ltd",
+    "declaration_owner_address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+    "epd_program_operator": "EPD Australasia Limited",
+    "epd_program_operator_address": "8315a Hardy Street Nelson 7010, New Zealand",
+    "independent_third_party_verification": {
+      "type": "EPD process certification",
+      "verified_by": "Epsten Group, Inc.",
+      "accreditation": "A2LA, Certificate #3142.03"
+    },
+    "program_related_info": {
+      "epd_owner_liability": "The EPD owner has the sole ownership, liability, and responsibility for the EPD.",
+      "comparability_note": "EPDs within the same product category but from different programmes may not be comparable. EPDs of construction products may not be comparable if they do not comply with EN 15804."
+    },
+    "contact_info": {
+      "phone": "0800 465 246",
+      "website": "www.holcim.co.nz"
+    }
+  },
+  "product_description": {
+    "product_type": "Cement blend",
+    "manufacturing_locations": [
+      "ONEHUNGA",
+      "NAPIER",
+      "LYTTLETON"
+    ],
+    "functional_unit": "1 tonne of cement blend",
+    "product_use": "Cementitious product for construction in New Zealand",
+    "manufacturing_process": "Devanning and Debagging",
+    "product_composition": {
+      "minimum_declared_material_weight_percentage": 99,
+      "materials": [
+        {
+          "name": "Fly Ash",
+          "hazardous_content": "No",
+          "post_consumer_material_percentage": 0,
+          "renewable_material_percentage": 0
+        },
+        {
+          "name": "Ground granulated blast furnace slag",
+          "allocation_method": "Economic allocation based on significant economic value at point of collection"
+        }
+      ]
+    },
+    "packaging": "Delivered in either bulk or packaging",
+    "product_standard_references": [
+      "BS EN 16757:2017",
+      "PCR 2019:14 Construction Products and Construction Services"
+    ]
+  },
+  "lca_information": {
+    "declared_unit": "1 tonne of cement blend",
+    "reference_service_life": "Not specified (scope is cradle to gate with distribution - module A4 option)",
+    "time_representativeness": "2021 calendar year production data",
+    "databases_and_software": {
+      "lca_software": "SimaPro® LCA software (v 9.4)",
+      "background_data": [
+        "Australian Life Cycle Inventory Database (AusLCI v1.39) (2022)",
+        "Ecoinvent 3.8 (2021)"
+      ]
+    },
+    "allocation": {
+      "method": "Physical allocation based on weight of cement for intermediate flows; economic allocation for ground granulated blast furnace slag",
+      "notes": "Allocation approach of AusLCI LCA database adopted as default for secondary data and processes"
+    },
+    "cut_off_criteria": "No flows excluded on basis of cut-off criteria",
+    "data_quality": {
+      "foreground_data": "Medium or higher for geographic and temporal representativeness",
+      "background_data": "Updated within 10 years as required under PCR 2019:14"
+    },
+    "system_boundaries": "Cradle to gate (modules A1-A4); excludes life cycle stages beyond Holcim's gate; excludes personnel, infrastructure and production equipment not directly consumed",
+    "excluded_modules": [
+      "A5",
+      "B1",
+      "B2",
+      "B3",
+      "B4",
+      "B5",
+      "B6",
+      "B7"
+    ]
+  },
+  "transport_and_installation": {
+    "included_modules": [
+      "A4 - Distribution"
+    ],
+    "transport_description": "Ship cement unloading and loading included in system diagram; distribution included in cradle to gate scope",
+    "installation": null
+  },
+  "end_of_life": {
+    "included": false,
+    "description": "Life cycle stages beyond Holcim's gate are excluded from the LCA"
+  },
+  "carbon_emission_context": {
+    "background": "In New Zealand, over 1.5 million tonnes of traditional cement is used annually, generating approximately 1.23 million tonnes of CO2 emissions",
+    "commitment": "Aotearoa committed to net zero by 2050",
+    "company_strategy": "Holcim NZ is building progress for a lower carbon footprint with low carbon, high-performance, and specialty cement and cement binders",
+    "global_strategy": "Holcim's 2030 and 2050 net-zero targets validated by Science Based Targets initiative",
+    "carbon_footprint_per_tonne": {
+      "Onehunga": {
+        "GWP_total": 64.56,
+        "unit": "kg CO2 equivalents"
+      },
+      "Napier": {
+        "GWP_total": 66.82,
+        "unit": "kg CO2 equivalents"
+      },
+      "Lyttleton": {
+        "GWP_total": 68.69,
+        "unit": "kg CO2 equivalents"
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "fly_ash": {
+      "treatment": "Treated as waste material in AusLCI process, only transport impacts included",
+      "post_consumer_material_percentage": 0,
+      "renewable_material_percentage": 0
+    },
+    "ground_granulated_blast_furnace_slag": {
+      "allocation": "Economic allocation based on significant economic value at point of collection",
+      "considered_coproduct": true
+    },
+    "allocation_approach": "AusLCI dataset allocation approach adopted for secondary data and processes, conforming to EN 15804"
+  },
+  "additional_info": {
+    "references": [
+      "Australasian EPD Program. (2017). Guidance on the use of INA in EPDs.",
+      "Australasian EPD Program. (2018). Guidance on the use of background LCI data.",
+      "Australasian EPD Program (2019) Instructions of the Australasian EPD Program V3.01.",
+      "Australian Life Cycle Inventory Database Initiative (AusLCI). (2022). Guidelines for Data Development for an Australian Life Cycle Inventory Database, Data Standard.",
+      "British Standards Institution. (2019). Sustainability of construction works. Environmental product declarations. Core rules for the product category of construction products, BS EN 15804:2012+A2:2019.",
+      "British Standards Institution. (2017). Sustainability of construction works - Environmental product declarations - Product Category Rules for concrete and concrete elements, BS EN 16757:2017.",
+      "Ecoinvent Centre. (2019). Ecoinvent version 3 database.",
+      "EPD International. (2019). General Program Instructions (GPI) for the International EPD System V4.0.",
+      "EPD International. (2021). Product Category Rules for Construction Products and Construction Services, PCR2019:14 v1.11.",
+      "ISO. (2006). Environmental labels and declarations - Type Ill environmental declarations - Principles and procedures, ISO 14025:2006.",
+      "ISO. (2006). Environmental management - Life cycle assessment - Principles and framework, ISO 14040:2006.",
+      "ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines, ISO 14044:2006+A1:2018.",
+      "AUSLCI. (2018) AusLCI Database.",
+      "Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of New Zealand's Construction Sector’, Procedia Engineering, Volume 180, 2017."
+    ],
+    "disclaimer": "This publication supersedes all previous literature on this subject. Specifications and details may change. Holcim accepts no liability for loss or damage resulting from reliance on this information.",
+    "copyright": "© June 2023 Holcim (New Zealand) Ltd. All rights reserved."
+  }
+}

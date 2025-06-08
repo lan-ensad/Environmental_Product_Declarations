@@ -1,0 +1,400 @@
+{
+  "epd_metadata": {
+    "title": "GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM) EPD",
+    "publication_date": "2019-08-19",
+    "version_date": "2023-07-26",
+    "valid_until": "2028-07-26",
+    "revision_number": "2.0",
+    "geographical_scope": "New Zealand",
+    "managed_by": "Holcim NZ Ltd",
+    "epd_process_certificate_no": "1012",
+    "verified_accreditation_body": "Epsten Group, Inc.",
+    "epd_registration_no": "S-P-00850",
+    "program_operator": "EPD Australasia Limited",
+    "program_operator_website": "www.epd-australasia.com",
+    "program": "The International EPD® System",
+    "program_website": "www.environdec.com",
+    "standards": [
+      "ISO 14025",
+      "EN15804+A2"
+    ]
+  },
+  "product_description": {
+    "product_name": "GENERAL PURPOSE PORTLAND CEMENT (ULTRACEM)",
+    "product_type": "Cement blend",
+    "functional_unit": "1 tonne of cement blend",
+    "description": "General Purpose Portland Cement (Ultracem) suitable for New Zealand market",
+    "manufacturing_process": [
+      "Raw Meal",
+      "Fossil Fuels Preparation",
+      "Alternative Fuels",
+      "Clinker Preparation",
+      "High Grade Limestone",
+      "Cement Milling",
+      "Gypsum",
+      "Ground Granulated Blast Furnace Slag",
+      "Export Storage",
+      "Cement Terminal",
+      "Bagging Operations"
+    ],
+    "product_brands_and_use": [
+      {
+        "location": "North Island Auckland",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      },
+      {
+        "location": "North Island Onehunga",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      },
+      {
+        "location": "North Island Hamilton",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      },
+      {
+        "location": "North Island Napier",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      },
+      {
+        "location": "North Island Wellington",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      },
+      {
+        "location": "South Island Timaru",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      },
+      {
+        "location": "South Island Lyttelton",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      },
+      {
+        "location": "South Island Dunedin",
+        "brand": "Ultracem",
+        "type": "General Purpose Cement (Type GP)"
+      }
+    ],
+    "content_declaration": {
+      "Portland Cement": "100%",
+      "Clinker": "85%",
+      "Ground Granulated Blast Furnace Slag (GGBFS)": "<5%",
+      "High Grade Limestone": ">3%",
+      "Gypsum": "3-5%",
+      "Post-consumer material (%)": 0,
+      "Renewable Material (%)": 0
+    },
+    "packaging": "Delivered in either bulk or packaging"
+  },
+  "lca_information": {
+    "declared_unit": "1 tonne of cement blend",
+    "reference_service_life": "Not specified (scope is cradle to gate with distribution - module A4 option)",
+    "time_representativeness": {
+      "plant_data": "2021 calendar year production data",
+      "mix_data": "2023 calendar year production data"
+    },
+    "databases_and_software": {
+      "software": "SimaPro® LCA software (v 9.4)",
+      "background_data": [
+        "Australian Life Cycle Inventory Database (AusLCI v1.39) (2022)",
+        "Ecoinvent 3.8 (2021)"
+      ]
+    },
+    "allocation": "Intermediate flows allocated physically based on weight of cement; Ground granulated blast furnace slag allocated economically",
+    "cut_off_criteria": "No flows excluded on basis of cut-off criteria",
+    "data_quality": {
+      "foreground_data": "Medium or higher geographic and temporal representativeness",
+      "background_data": "Updated within 10 years as required under PCR 2019:14"
+    },
+    "system_boundaries": "Cradle to gate (A1-A3) including raw material supply, transport, manufacturing, and distribution; excludes use stage and end of life",
+    "excluded_lifecycle_stages": [
+      "Use stage",
+      "Maintenance",
+      "Repair",
+      "Replacement",
+      "Refurbishment",
+      "Operational energy use",
+      "Operational water use",
+      "End of life"
+    ],
+    "address_and_contact": {
+      "company": "Holcim (New Zealand) Ltd",
+      "address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+      "website": "www.holcim.co.nz"
+    }
+  },
+  "transport_and_installation": {
+    "included_modules": [
+      "A4 - Distribution"
+    ],
+    "excluded_modules": [
+      "A5 - Construction/Installation process",
+      "B1-B7 - Use stage modules",
+      "C1-C4 - End of life modules",
+      "D - Benefits and loads beyond system boundary"
+    ],
+    "notes": "Modules beyond gate excluded; construction benefits and loads for next product not declared"
+  },
+  "end_of_life": {
+    "description": "End of life stages excluded from LCA and EPD",
+    "modules_declared": null
+  },
+  "carbon_emission_context": {
+    "general_info": "Production of 1 tonne of cement results in approx. 0.82 tonnes CO2 emissions; New Zealand uses over 1.5 million tonnes annually generating approx. 1.23 million tonnes CO2",
+    "environmental_impacts": {
+      "impact_categories": {
+        "Global warming potential total (GWP)": "kg CO2 equivalents (GWP100)",
+        "Global warming potential fossil (GWPF)": "kg CO2 equivalents (GWP100)",
+        "Global warming potential biogenic (GWPB)": "kg CO2 equivalents (GWP100)",
+        "Global warming potential land use/land transformation (GWPL)": "kg CO2 equivalents (GWP100)",
+        "Ozone depletion potential (ODP)": "kg CFC 11 equivalents",
+        "Acidification potential (AP)": "mol H+ eq.",
+        "Eutrophication aquatic freshwater (EP - freshwater)": "kg PO4(3-) equivalents",
+        "Eutrophication aquatic freshwater (EP - freshwater P equivalent)": "kg P equivalent",
+        "Eutrophication aquatic marine (EP - marine)": "kg N equivalent",
+        "Eutrophication terrestrial (EP - terrestrial)": "mol N equivalent",
+        "Photochemical ozone creation potential (POCP)": "kg NMVOC equivalents",
+        "Abiotic depletion potential elements (ADPE)": "kg Sb equivalents",
+        "Abiotic depletion potential fossil fuels (ADPF)": "MJ net calorific value",
+        "Water depletion potential (WDP)": "m3 equivalent deprived"
+      },
+      "resource_use": {
+        "Use of renewable primary energy excluding raw materials (PERE)": "MJ net calorific value",
+        "Use of renewable primary energy resources used as raw materials (PERM)": "MJ net calorific value",
+        "Total use of renewable primary energy resources (PERT)": "MJ net calorific value",
+        "Use of non-renewable primary energy excluding raw materials (PENRE)": "MJ net calorific value",
+        "Use of non-renewable primary energy resources used as raw materials (PENRM)": "MJ net calorific value",
+        "Total use of non-renewable primary energy resources (PENRT)": "MJ net calorific value",
+        "Use of secondary material (SM)": "kg",
+        "Use of renewable secondary fuels (RSF)": "MJ net calorific value",
+        "Use of non-renewable secondary fuels (NRSF)": "MJ net calorific value",
+        "Use of net fresh water (FW)": "m3"
+      },
+      "waste_categories_and_output_flows": {
+        "Hazardous waste disposed (HWD)": "kg",
+        "Non-hazardous waste disposed (NHWD)": "kg",
+        "Radioactive waste disposed/stored (RWD)": "kg",
+        "Components for reuse (CRU)": "kg",
+        "Materials for recycling (MFR)": "kg",
+        "Materials for energy recovery (MFRE)": "kg",
+        "Exported energy (electrical) (EE-e)": "MJ",
+        "Exported energy (thermal) (EE-t)": "MJ"
+      },
+      "additional_environmental_impacts": {
+        "Global warming potential excluding biogenic uptake (GWP-GHG)": "kg CO2 equivalents (GWP100)",
+        "Particulate matter (PM)": "disease incidence",
+        "Ionising radiation - human health (IRP)": "kBq U-235 eq",
+        "Eco-toxicity freshwater (ETP-fw)": "CTUe",
+        "Human toxicity potential - cancer effects (HTP-c)": "CTUh",
+        "Human toxicity potential - non cancer effects (HTP-nc)": "CTUh",
+        "Soil quality (SQP)": "dimensionless"
+      }
+    },
+    "environmental_impact_values_by_plant": {
+      "Auckland Ultracem": {
+        "GWP": 861.89,
+        "GWPF": 0.0418,
+        "GWPB": 0.077,
+        "GWPL": 862.01,
+        "ODP": 2.07e-05,
+        "AP": 3.65,
+        "EP_Freshwater_PO4": 0.7,
+        "EP_Freshwater_P": 0.677,
+        "EP_Marine": 0.4,
+        "EP_Terrestrial": 11.92,
+        "POCP": 2.91,
+        "ADPE": -0.000174,
+        "ADPF": 2399.69,
+        "WDP": 16.69
+      },
+      "Onehunga Ultracem": {
+        "GWP": 863.65,
+        "GWPF": 0.0429,
+        "GWPB": 0.077,
+        "GWPL": 863.77,
+        "ODP": 2.1e-05,
+        "AP": 3.66,
+        "EP_Freshwater_PO4": 0.7,
+        "EP_Freshwater_P": 0.677,
+        "EP_Marine": 0.41,
+        "EP_Terrestrial": 11.94,
+        "POCP": 2.91,
+        "ADPE": -0.000173,
+        "ADPF": 2423.25,
+        "WDP": 16.9
+      },
+      "Hamilton Ultracem": {
+        "GWP": 872.7,
+        "GWPF": 0.0452,
+        "GWPB": 0.077,
+        "GWPL": 872.82,
+        "ODP": 2.24e-05,
+        "AP": 3.69,
+        "EP_Freshwater_PO4": 0.7,
+        "EP_Freshwater_P": 0.677,
+        "EP_Marine": 0.42,
+        "EP_Terrestrial": 12.05,
+        "POCP": 2.94,
+        "ADPE": -0.000171,
+        "ADPF": 2544.21,
+        "WDP": 18.0
+      },
+      "Napier Ultracem": {
+        "GWP": 876.29,
+        "GWPF": 0.116,
+        "GWPB": 0.0796,
+        "GWPL": 876.49,
+        "ODP": 2.27e-05,
+        "AP": 3.98,
+        "EP_Freshwater_PO4": 0.71,
+        "EP_Freshwater_P": 0.68,
+        "EP_Marine": 0.47,
+        "EP_Terrestrial": 12.67,
+        "POCP": 3.1,
+        "ADPE": -0.000182,
+        "ADPF": 2601.51,
+        "WDP": 464.91
+      },
+      "Wellington Ultracem": {
+        "GWP": 873.1,
+        "GWPF": 0.118,
+        "GWPB": 0.0796,
+        "GWPL": 873.3,
+        "ODP": 2.23e-05,
+        "AP": 3.89,
+        "EP_Freshwater_PO4": 0.71,
+        "EP_Freshwater_P": 0.679,
+        "EP_Marine": 0.46,
+        "EP_Terrestrial": 12.48,
+        "POCP": 3.05,
+        "ADPE": -0.000182,
+        "ADPF": 2555.04,
+        "WDP": 294.95
+      },
+      "Timaru Ultracem": {
+        "GWP": 867.88,
+        "GWPF": 0.117,
+        "GWPB": 0.0795,
+        "GWPL": 868.07,
+        "ODP": 2.15e-05,
+        "AP": 3.76,
+        "EP_Freshwater_PO4": 0.71,
+        "EP_Freshwater_P": 0.678,
+        "EP_Marine": 0.43,
+        "EP_Terrestrial": 12.18,
+        "POCP": 2.98,
+        "ADPE": -0.000183,
+        "ADPF": 2479.05,
+        "WDP": 17.01
+      },
+      "Lyttelton Ultracem": {
+        "GWP": 870.25,
+        "GWPF": 0.116,
+        "GWPB": 0.0796,
+        "GWPL": 870.44,
+        "ODP": 2.19e-05,
+        "AP": 3.82,
+        "EP_Freshwater_PO4": 0.71,
+        "EP_Freshwater_P": 0.679,
+        "EP_Marine": 0.44,
+        "EP_Terrestrial": 12.32,
+        "POCP": 3.01,
+        "ADPE": -0.000182,
+        "ADPF": 2513.54,
+        "WDP": 143.15
+      },
+      "Dunedin Ultracem": {
+        "GWP": 869.85,
+        "GWPF": 0.117,
+        "GWPB": 0.0796,
+        "GWPL": 870.04,
+        "ODP": 2.18e-05,
+        "AP": 3.81,
+        "EP_Freshwater_PO4": 0.71,
+        "EP_Freshwater_P": 0.679,
+        "EP_Marine": 0.44,
+        "EP_Terrestrial": 12.3,
+        "POCP": 8.01,
+        "ADPE": -0.000182,
+        "ADPF": 2507.7,
+        "WDP": 121.77
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag"
+    ],
+    "allocation_method": {
+      "fly_ash": "Treated as waste material; only transport impacts included",
+      "ground_granulated_blast_furnace_slag": "Allocated economically based on significant economic value at point of collection"
+    },
+    "background_data": {
+      "fly_ash": "AusLCI process treats as waste",
+      "slag": "AusLCI process allocated economically"
+    },
+    "notes": "Allocation approach of AusLCI LCA database adopted as default for secondary data and processes; conforms to EN 15804"
+  },
+  "additional_info": {
+    "previous_version": {
+      "version": "1",
+      "data_year": "2017",
+      "compliance": [
+        "EN 15804:2012+A1",
+        "EN 16908:2017",
+        "SUB-PCR-H, 2018-11-22"
+      ]
+    },
+    "references": [
+      "Australasian EPD Program. (2017). Guidance on the use of INA in EPDs.",
+      "Australasian EPD Program. (2018). Guidance on the use of background LCI data.",
+      "Australasian EPD Program (2019) Instructions of the Australasian EPD Program V3.01.",
+      "Australian Life Cycle Inventory Database Initiative (AusLCI). (2022). Guidelines for Data Development for an Australian Life Cycle Inventory Database, Data Standard.",
+      "British Standards Institution. (2019). Sustainability of construction works. Environmental product declarations. Core rules for the product category of construction products, BS EN 15804:2012+A2:2019.",
+      "British Standards Institution. (2017). Sustainability of construction works - Environmental product declarations - Product Category Rules for concrete and concrete elements, BS EN 16757:2017.",
+      "Ecoinvent Centre. (2019). Ecoinvent version 3 database.",
+      "EPD International. (2019). General Program Instructions (GPI) for the International EPD System V4.0.",
+      "EPD International. (2021). Product Category Rules for Construction Products and Construction Services, PCR2019:14 v1.11.",
+      "ISO. (2006). Environmental labels and declarations - Type Ill environmental declarations - Principles and procedures, ISO 14025:2006.",
+      "ISO. (2006). Environmental management - Life cycle assessment - Principles and framework, ISO 14040:2006.",
+      "ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines, ISO 14044:2006+A1:2018.",
+      "AUSLCI. (2018) AusLCI Database.",
+      "Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of New Zealand's Construction Sector’, Procedia Engineering, Volume 180, 2017."
+    ],
+    "program_related_information": {
+      "declaration_owner": "Holcim (New Zealand) Ltd",
+      "address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+      "website": "www.holcim.co.nz",
+      "epd_produced_by": "Holcim (New Zealand) Ltd",
+      "epd_process_certified_by": "Epsten Group, Inc.",
+      "epd_process_certification_address": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+      "epd_process_certification_website": "www.epstengroup.com",
+      "pcr_reference": "PCR 2019:14 Construction Products and Construction Services, Version 1.2.5, 2022-06-22",
+      "plant_data_year": "2021",
+      "production_year": "2023",
+      "core_pcr_standard": "CEN standard EN 15804:2012+a1:2013",
+      "independent_verification": {
+        "iso_standard": "ISO 14025:2006",
+        "verification_type": [
+          "EPD process certification",
+          "EPD verification"
+        ],
+        "verifier": "Epsten Group, Inc.",
+        "accreditation": "A2LA, Certificate #3142.03"
+      },
+      "follow_up_procedure": "Yes"
+    },
+    "contact_information": {
+      "company": "Holcim (New Zealand) Ltd",
+      "address": "23 Plumer Street, Central Auckland, New Zealand",
+      "phone": "0800 465 246",
+      "website": "www.holcim.co.nz"
+    },
+    "disclaimer": "This publication supersedes all previous literature on this subject. Specifications and details may change. Users must determine suitability for their circumstances. Holcim accepts no liability for loss or damage resulting from reliance on this information."
+  }
+}

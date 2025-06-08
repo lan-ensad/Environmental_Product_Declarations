@@ -1,0 +1,164 @@
+{
+  "epd_metadata": {
+    "epd_programme_operator": "EPD Australasia Limited",
+    "epd_registration_number": "S-P-04662",
+    "valid_from": "7 September 2022",
+    "valid_until": "7 September 2027",
+    "version": "1",
+    "product_category_rules": "PCR 2019:14 Construction Products, Version 1.11, 2021-02-05",
+    "product_group_classification": "UN CPC 54",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": {
+      "plant_data": 2017,
+      "mix_materials_data": 2022
+    },
+    "cen_standard": "EN 15804:2012+A2:2019",
+    "independent_third_party_verification": {
+      "verifier": "Epsten Group, Inc.",
+      "contact_person": "Katherine McFeaters",
+      "epd_process_certified_by": "Paouis Anfelas",
+      "accredited_by": "A2LA",
+      "certificate_number": "3142.03"
+    },
+    "epd_owner": {
+      "name": "Holcim (Australia) Pty Ltd",
+      "address": "Level 7, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+      "web": "www.holcim.com.au",
+      "phone": "+61 2 9412 6600"
+    }
+  },
+  "product_description": {
+    "product_name": "ViroDecs' Ready-mix concrete — Queensland — Brisbane — Plungie General Supply",
+    "product_type": "Ready-mix concrete",
+    "functional_unit": "1 m³ of ready-mix concrete",
+    "product_use": "Construction material for various applications including residential, high-rise buildings, dams, roads, bridges, and public works infrastructure",
+    "product_classes": {
+      "normal_class": "Designed for residential applications, low rise buildings, paving and driveways; specification and ordering simplified",
+      "special_class": "Allows purchaser to specify special requirements such as high-strength, high durability, marine application, post-tensioned, high-pumpability, super workable, piling concrete, architectural off-form finishes and decorative applications"
+    },
+    "content_declaration": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    },
+    "dangerous_goods_classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail",
+    "packaging": "Delivered in bulk with no packaging"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "reference_service_life": "Not specified (scope is cradle to gate)",
+    "time_representativeness": {
+      "plant_data": 2017,
+      "mix_data": 2022
+    },
+    "databases_and_software_used": [
+      "SimaPro® LCA software (v 9.1)",
+      "Australian National Life Cycle Inventory Database (AusLCI) (2018)",
+      "Ecoinvent 3.6 (2019)",
+      "Global Cement and Concrete (GCCA) EPD Tool Project Database version 3.1 (International Version) (2021)",
+      "Product specific EPDs for pigments and fibres"
+    ],
+    "allocation": {
+      "method": "Physical allocation based on weight (quarries) or m³ of concrete (batching plant); economic allocation used when physical allocation not possible",
+      "special_cases": {
+        "fly_ash": "Assumed waste product and burden-free",
+        "silica_fumes": "Assumed waste product and burden-free",
+        "ground_granulated_blast_furnace_slag": "Allocated economically"
+      }
+    },
+    "cut_off_criteria": "No flows excluded on basis of cut-off criteria",
+    "data_quality": {
+      "geographic_and_temporal_representativeness": "Medium or higher for all data sources",
+      "specific_data_sources": {
+        "electricity_provider": "High quality, 2017 data, all states",
+        "diesel_supplier_invoices": "High quality, 2017 data, all states",
+        "national_pollution_inventory": "High quality, 2017 data, all states",
+        "mains_water": "Medium quality, 2017 data, all states barring NSW",
+        "water_other_sources": "Medium quality, 2017 data, all states barring NSW",
+        "manufactured_sand_and_coarse_aggregate": "High quality, 2017 data, Kalgoorlie Quarry in WA excluded",
+        "gravel_production": "High quality, 2017 data, all states",
+        "spoil": "High quality, 2017 data, all states",
+        "actual_transport_distances_and_loads": "High quality, 2017 data, all states excluding Lynwood Quarry",
+        "concrete_batching_plant_water": "Medium quality, 2017 data, all states",
+        "lubricating_oil": "Medium quality, 2015 data, national",
+        "conveyor_belt_process": "Medium quality, 2015 data, national",
+        "concrete_mix_designs": "High quality, 2017 data, all states",
+        "packaging_waste": "Medium quality, background data"
+      }
+    }
+  },
+  "transport_and_installation": {
+    "transport_modes": [
+      "Transoceanic freight ship",
+      "Road transport by rigid truck",
+      "Domestic freight ship"
+    ],
+    "transport_to_site": "Included in system boundary",
+    "installation": null
+  },
+  "end_of_life": {
+    "scope": "Excluded from cradle to gate LCA and EPD",
+    "described_scenarios": [
+      "Disposal of concrete at landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete with substitution of primary materials or natural aggregates"
+    ],
+    "note": "Scenarios 2, 3 and 4 can result in benefits and loads outside system boundary and should be considered in whole-of-life building studies"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "total": "Included in environmental performance tables",
+      "fossil": "Included",
+      "biogenic": "Included",
+      "land_use_land_transformation": "Included"
+    },
+    "carbonation": {
+      "description": "Natural process of CO2 absorption by concrete after construction and curing, partially offsetting cement manufacturing emissions",
+      "consideration": "Not included in this EPD and not reflected in results tables",
+      "standard_reference": "BS EN 16757:2017"
+    }
+  },
+  "recycled_materials_handling": {
+    "fly_ash": {
+      "treatment": "Treated as waste material, burden-free except transport impacts",
+      "allocation": "Transport impacts included"
+    },
+    "silica_fume": {
+      "treatment": "Treated as waste material, burden-free except transport impacts",
+      "allocation": "Transport impacts included"
+    },
+    "ground_granulated_blast_furnace_slag": {
+      "treatment": "Allocated economically due to significant economic value at collection point"
+    },
+    "allocation_approach": "AusLCI LCA database allocation approach adopted for secondary data and processes, conforming to EN 15804"
+  },
+  "additional_info": {
+    "about_holcim": {
+      "company_description": "Leading supplier of construction materials in Australia since 1901, supplying aggregates, sand, ready-mix concrete, engineered precast concrete and prestressed concrete solutions",
+      "operations": "Network of concrete plants, quarries, precast and concrete pipe plants, mobile and on-site project facilities across Australia",
+      "sustainability_commitment": "Industry's first 2050 net-zero targets endorsed by Science Based Targets initiative (SBTi)",
+      "global_presence": "70,000 employees worldwide in Cement, Ready-Mix Concrete, Aggregates and Solutions & Products segments",
+      "strategy": "Driving circular construction and recycling to build more with less"
+    },
+    "virodecs_special": {
+      "description": "Project-specific, on-demand EPDs for ready-mix concrete in Australia, backed by third-party verified data and EPD Process Certification",
+      "significance": "First EPD Process Certification for any product in Australia, enabling in-house compliant EPD production",
+      "certification_process": "Rigorous third-party evaluation per ISO standards and International EPD Programme and EPD Australasia guidelines",
+      "application": "This EPD developed using EPD Process Certification for Plungie Brisbane General Supply with production at various Brisbane locations"
+    },
+    "references": [
+      "Australasian EPD Programme (2017, 2018, 2019)",
+      "Australian Life Cycle Inventory Database Initiative (AusLCI) (2018)",
+      "British Standards Institution (2017, 2019)",
+      "Ecoinvent Centre (2019)",
+      "EPD International (2019, 2021)",
+      "ISO (2006, 2018)",
+      "Man Yu et al., 'The Carbon Footprint of Australia’s Construction Sector', Procedia Engineering, 2017"
+    ],
+    "disclaimer": "Publication supersedes previous literature; specifications may change; users must determine suitability; Holcim accepts no liability for loss or damage from use or reliance on information; trademarks noted",
+    "copyright": "© September 2022 Holcim (Australia) Pty Ltd ABN 87 732 297. All rights reserved"
+  }
+}

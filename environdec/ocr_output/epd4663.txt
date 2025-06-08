@@ -1,0 +1,2081 @@
+ECO PLATFORM
+
+®
+| , AUSTRALASIA = E P D EPD
+H O C [ m ENVIRONMENTAL PRODUCT DECLARATION RUES
+
+Table of Contents
+
+Introduction ................................................................. eee 3
+About Holcim.................................................................. si 4
+ViroDecs'" Special — a first for ready-mix concrete in Australia 5
+ViroDecs'" Special at a glance................................................................. 5
+Ready-mix concrete ..….......................................................... eee 6
+LCA Information... iiisiiiiiiieeeeeeeeeeeeeeereeeeeeeeeeeeereeeeeeeeeeneeeenennee 7
+EPD Product Description and Use... sise 11
+Environmental Performance... sise 14
+Other life cycle stages not included in this EPD....................... 24
+References... iiisiieeeeeeeeeeeeeeeeeeeeeeeeeeeeeneeeeeeeeeneeeeeennnnee 25
+Programme-related information and verification 26
+
+Version Number Reversion Date Description of Changes
+
+1.0 N/A N/A
+
+ViroDecs " EPD | Holcim 2
+Introduction
+
+All around the world, the expectation for Governments
+and organisations to provide enhanced transparency
+and disclosure of environmental impacts, such as
+greenhouse gas (GHG) emissions, has been growing.
+This follows the landmark COP 21 Paris Agreement in
+2015 in which all nations agreed to ambitiously pursue
+efforts to combat climate change andits effects.
+
+Atthe same time, the global demand for construction
+materials is also growing due to worldwide population
+growth and an increase in urbanisation. In fact, concrete
+is the second most used commodity in the world behind
+water, and typically a major contributor to the embodied
+GHG emissions of an infrastructure or property asset.
+
+This clearly demonstrates both the essential need for
+construction materials now and in the future, as well as
+the necessity for the construction materials industry to
+be a leading part of the solution addressing climate
+change.
+
+At Holcim, we recognise our responsibility to contribute
+to global emissions reduction targets and we have
+developed a roadmap with a number of actions to direct
+our efforts.
+
+Our ViroDecs " range of ready-mix concrete
+represented by an Environmental Product Declaration
+(EPD) is one suchinitiative for Holcim in Australia.
+
+ViroDecs " EPD | Holcim
+About Holcim
+
+Western
+Australia
+
+ePerth
+
+AUSTRALIAN OPERATIONS
+
+ET Precast pipe and product
+
+L2 °
+Darwin
+
+Northern ET
+Territory
+Queensland [3
+e Brisbane
+South
+En Australia
+Co. New South jo |
+Wales / ACT
+Era e Sydney 7:
+e Adelaide e Canberra ES
+Victoria
+* Melbourne EX
+Tasmania E
+e Hobart [a
+
+“The breakdown of Australian operations is based on 2017 site data used for the EPD Life Cycle
+Assessment modelling and includes tolling sites and excludes mobile or temporary sites
+
+About Holcim
+
+Holcim Australia is a leading supplier of construction
+materials in Australia, dating back to 1901. Today
+Holcim continues to supply essential construction
+materials including aggregates, sand, ready-mix
+concrete, engineered precast concrete and prestressed
+concrete solutions to a range of customers and projects
+throughout Australia.
+
+Holcim operates right across the Australian continent
+supplying concrete from a network of concrete plants,
+quarries, precast and concrete pipe places, and mobile
+and on-site project facilities.
+
+Sustainability is at the core of our strategy, with our
+
+industry's first 2050 net-zero targets, endorsed by the
+Science Based Targets initiative (SBTi).
+
+ViroDecs " EPD | Holcim
+
+Globally, Holcim is 70,000 people around the world who
+are passionate about building progress for people and
+the planet through four business segments: Cement,
+Ready-Mix Concrete, Aggregates and Solutions &
+Products.
+
+Holcim builds progress for people and the planet. As a
+global leader in innovative and sustainable building
+solutions, Holcim is enabling greener cities, smarter
+infrastructure and improving living standards around the
+world. With sustainability at the core ofits strategy
+Holcim is becoming a net zero company, with its people
+and communities at the heart of its success. The
+company is driving circular construction as a world
+leader in recycling to build more with less.
+ViroDecs'" Special — a first for ready-mix
+
+concrete in Australia
+
+The Holcim ViroDecs!" Special provides project-specific,
+on-demand Environmental Product Declarations (EPDs) to
+Holcim'’s customers. This capability represents a
+significant step in Holcim's sustainability journey and
+embodies our multi-disciplinary approach to embedding
+sustainability into our organisation and operations. With
+the introduction of our ViroDecs " Special, third-party
+verified data will underpin our capability to work with our
+customers from tender through to design and construction
+to optimise ready-mix concrete mix designs and report on
+sustainability performance.
+
+The publication of the original ViroDecs'" EPD in 2019
+introduced quality, third-party verified embodied life cycle
+impact data for ready-mix concrete into the Australian
+market for the first time. Holcim has been pleased by the
+positive response from the industry. The message was
+loud and clear: “we want transparency and we want a
+evidence-based approach to specification, procurement
+and reporting”. With the introduction of our ViroDecs
+Special, Holcim's customers can now specify concrete
+sustainability performance in terms of CO--e, with the
+confidence that our claims are backed by our third-party
+verified EPD Process Certification.
+
+ViroDecs " EPD | Holcim
+
+Holcim ViroDecs!" Special is backed by an EPD
+Process Certification. It's not only a first for concrete but
+a first for any product in Australia. Our EPD Process
+Certification is a stamp of approval to produce compliant
+EPDSs in-house, opening up significant capability and
+flexibility in producing and using life cycle impact data to
+inform our operations and our customers.
+
+To gain our EPD Process Certification, Holcim invested
+in embedding Life Cycle Assessment (LCA) into our
+systems and processes. We have satisfied a rigorous,
+third-party evaluation in accordance with the relevant
+ISO standards and guidelines of the International EPD
+Programme and EPD Australasia.
+
+This EPD has been developed using our EPD Process
+Certification for Queensland — Sunshine Coast —
+ECOPact Range with production occurring at Holcim
+Sunshine Coast sites.
+
+Ready-mix concrete
+
+Aggregrates
+Load and Haul Crushing and Screening Stockpiling and Distribution
+
+()
+2
+a)
+=
+©
+=
+©
+(a)
+X
+E
+>
+©
+œ
+()
+[ee
+
+Concrete
+Batching
+
+Material Handling and Storage
++, Ë
+
+Summary of properties and classes
+
+Concrete is prepared by mixing cement, ° Normal-class — designed for residential
+coarse and fine aggregates, and water, with applications, low rise buildings, paving
+or without the addition of auxiliary agents and driveways etc. Its specification and
+and additives. The fresh concrete is placed ordering have been simplified as far as
+on the building site or prefabricated in practicable.
+
+factory moulds, compacted and hardened in + Special-class — allows the purchaser to
+the desired shape by the hydration of incorporate into the project specification
+cement to form concrete. any special requirements for the project.
+
+Special-class concrete is typically
+supplied to major and high-end
+construction projects from high rise
+buildings, dams and spillways, roads and
+bridges to public works infrastructure etc.
+Special-class concrete is typically
+specified in accordance with the technical
+parameters and performance
+requirements, which can include high-
+strength/high-performances concrete,
+high durability or marine application, post-
+tensioned, high-pumpability, super
+workable, piling concrete, architectural
+off-form finishes and other decorative
+applications.
+
+General Australian Standard AS 1379 sets
+down a number of different ways of
+specifying and ordering concrete to
+promote uniformity, efficiency and economy
+in production and delivery. It refers to two
+classes of concrete: normal-class and
+special-class.
+
+ViroDecs " EPD | Holcim 6
+LCA Information
+
+Declared Unit
+
+1 m° of ready-mix concrete.
+
+Reference Service Life (RSL)
+
+The RSL is not specified as the scope is from cradle to
+gate.
+
+Time Representativeness
+
+The plant data for the LCA is based on 2017 calendar
+year production data. The mix data for the LCA is based
+on 2022 calendar year production data.
+
+Databases and LCA Software Used
+
+SimaPro® LCA software (v 9.1) was used for the LCA
+modelling which developed the LCA Calculator, used as
+per the certified EPD Process. It uses background data
+from:
+
+1. The Australian National Life Cycle Inventory
+Database (AusLCI) (2018)
+
+2. Ecoinvent 3.6 (2019)
+
+3. Global Cement and Concrete (GCCA) EPD Tool
+Project Database version 3.1 (International
+Version) (2021); and
+
+4. Product specific EPDs for pigments and fibres.
+
+The environmental impacts modelled from the existing
+EPDs do not include impacts for the additional Green
+Star (v1.2) impact categories included in the
+environmental impact tables. The following impact
+categories were calculated manually for the foreground
+data:
+
+e Use of renewable primary energy resources
+used as raw materials
+
+e Use of non-renewable primary energy excluding
+non-renewable primary energy resources used
+as raw materials
+
+e Use of secondary material
+
+e Use of renewable secondary fuels
+
+e Use of non-renewable secondary fuels
+
+ViroDecs'" EPD | Holcim
+
+Allocation
+
+Allocation was necessary to proportion inputs and
+outputs to intermediate flows at the quarry and
+processes at the batching plant level.
+
+As much as possible, intermediate flows were allocated
+physically based on weight (quarries) or based on m 2 of
+concrete (at the batching plant). At the quarry level,
+whenever physical allocation was not possible,
+economic allocation was carried out based on Holcim'’s
+internal cost system.
+
+Regarding inputs, it was assumed that fly ash and silica
+fumes are waste products and therefore burden-free.
+Ground granulated blast furnace slag from steel blast
+furnace production was allocated economically. Please
+refer to the “Recycled Material” section for further detail.
+
+c
+2
+ds
+&
+E
+Lu
+©
+=
+£
+<
+©
+=
+
+Cut-Off Criteria
+No flows were excluded on the basis of cut-off criteria.
+
+Address and Contact Information
+
+Holcim (Australia) Pty Ltd
+Level 7, 799 Pacific Highway, Chatswood
+NSW 2067, Australia
+
+Web: www.holcim.com.au
+Phone: +61 2 9412 6600
+Data Quality
+
+Data quality for the foreground data was assessed in terms of geographic and temporal representativeness. All data
+
+sources were scored medium or higher.
+
+Coarse
+aggregate
+
+Manufactured
+sand
+
+Fine aggregate
+
+Aggregate
+transport
+
+Concrete
+batching plant
+
+Concrete mix
+designs
+
+Packaging
+waste
+
+Electricity
+
+Diesel
+
+Pollutants
+Mains water
+
+Water — other
+sources (lakes,
+groundwater,
+rainwater)
+
+Water discharge
+from site
+
+Explosives
+(Manufactured
+sand and Coarse
+aggregate only)
+
+Gravel
+Spoil
+
+Background data
+used to model
+
+Electricity
+
+Diesel
+
+Mains water
+
+Water — other
+sources (lakes,
+groundwater,
+rainwater)
+
+Water discharge
+from site
+
+Lubricating oil
+Conveyor belt
+
+Background data
+used to model
+
+Background data
+used to model
+
+Electricity provider
+invoices
+Supplier invoices
+National Pollution
+Inventory (NPI) data
+
+Water utility invoices
+
+Metered withdrawal
+data
+
+Measured site data
+
+Invoices
+
+Calculated — spoil +
+production amount
+
+Holcim waste records
+
+Actual transport
+distances and loads
+per trip
+Electricity provider
+invoices
+Supplier invoices
+Water metres, with
+utility invoices as a
+back-up
+
+Estimate based on
+water balance
+
+Estimate based on
+Holcim site
+performance metrics
+
+AusLCI concrete
+process
+
+Holcim internal
+technical database
+containing mix
+designs
+
+Estimate based on
+researched
+packaging material
+and sizes
+
+2017
+2017
+
+2017
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+2017
+
+2017
+
+2017
+
+2017
+
+2015
+
+2017
+
+N/A
+
+All states
+
+All states
+
+All states
+All states barring NSW
+
+All states barring NSW
+
+All states barring NSW
+
+All states (excluding the
+
+Kalgoorlie Quarry in WA which
+purchases raw feed from an
+
+external source)
+
+All states
+
+All states
+All states
+
+(excluding Lynwood Quarry
+which transports by freight rail)
+
+All states
+
+All states
+
+All states
+
+All states
+
+All states
+
+National
+
+All states
+
+N/A
+
+Temporal
+Input/outputs Sub-processes Data source scope Geographic scope Quality
+
+High
+High
+High
+
+Medium
+
+Medium
+
+Medium
+
+High
+
+High
+
+High
+
+High
+
+High
+High
+
+High
+
+Medium
+
+Medium
+
+Medium
+
+High
+
+Medium
+
+Background data sources were also assessed with respect to their timeliness, with all data sources being updated
+Within the 10 years required under PCR 2019:14 version 1.11.
+
+ViroDecs " EPD | Holcim
+
+>
+£
+œ
+D
+(e]
+œ
++
+œ
+Q
+
+System Diagram
+
+The processes included in the LCA are presented in a process diagram in the figure below.
+
+Raw material extraction
+
+=
+œ
+Lu
+D)
+1G
+Q
+=
+LD
+o
+>
+[p)]
+
+On-site transport On-site transport
+
+Processing gore Processing Steel manufacturing
+
+aggregate for
+Chemical plant
+
+concrete Electricity
+ggregate foi enmmmmmmmmmnsses
+
+| concrete | |
+|_ Diesel. Admixture production
+
+Fine
+Aggregates not for aggregate
+
+concrete not for
+concrete
+
+Additives manufacturing
+
+Transport by transoceanic freight ship,
+
+Transport by rigid truck rigid truck and/or domestic freight ship
+
+Packaging waste
+
+Transport to site
+
+ViroDecs " EPD | Holcim 9
+Description of System Boundaries and Excluded Lifecycle Stages
+
+The scope of the LCA and EPD is from cradle to gate. Life cycle stages beyond Holcim's gate are excluded from the
+LCA (see figure below).
+
+=
+G
+Lu
+D
+S
+Q
+=
+2
+a
+>
+o
+
+Environmental impacts relating to personnel, infrastructure and production equipment not directly consumed in the
+process are excluded from the system boundary as per the Product Category Rules (2019:14 Construction Production
+version 1.11).
+
+Benefits &
+Sri LelOr Use Stage End of Life Stage DNA NE
+product
+System
+
+Product Stage
+
+Stage
+
+a
+
+8 5 5 5 or S P
+
+[e] lei Q DA d = =
+> s e es o a $ o 5 ©
+| |. - Ne NN 5 Ne 2 = à
+=] € A = fa 3 = O [0] d = œ re
+o & = = = . = “ = 5 = TD = O ë _
+_ © 5 ] ES D D ra) se] = où © E ©. >.
+ES 5 8 5 $ 8 À = E £ à ? £ à $ à S =
+© C S C rm] S = G = = = nn 5 2 2 A 2 à
+= g 5 g = © £ & © = = © S a re S 8
+= +  & F = = E = = S 2 D F 5 el ge
+> = 2 = Et si & & œ © d il _
+ü © 2 © G a © s} = œ col
+(rs D £ (re G. 5 pes = a Œ
+
+© E © 5 O O à 2
+
+6 œ Œ Q me
+
+O
+A1 A2 A3 A4 A5 Bi B2 B3 B4 B5 B6 B7 Ci C2 C3 C4 D
+X X X  MND MND MND MND MND MND MND MND MND MND MND MND MND MND
+
+*Module not declared (MND)
+
+ViroDecs " EPD | Holcim 10
+EPD Product Description and Use
+
+ViroDecs'" Ready-mix concrete Queensland - Sunshine Coast - ECOPact Range
+
+@
+o
+=)
+où
+=
+©
+LL d
+cs
+É
+©
+tr)
+©
+Q
+ds
+©
+5
+D
+©
+Le
+(Su
+
+A detailed breakdown of the functional properties of the ready-mix concrete included in this EPD are provided below.
+Product environmental information should only be compared with consideration of the product's requisite function.
+
+Description of use
+
+Strength (MPa)
+
+QE202L N20/20/80 ECOPact Concrete
+QE202L100 N20/20/100 ECOPact Concrete
+QE252L N25/20/80 ECOPact Concrete
+QE252L100 N25/20/100 ECOPact Concrete
+QE322L N32/20/80 ECOPact Concrete
+QE322L100 N32/20/100 ECOPact Concrete
+QE402E N40/20/80 ECOPact Concrete
+
+QE402E100 N40/20/100 ECOPact Concrete
+
+QE202E N20/20/80 ECOPact Concrete
+
+QE202E100 N20/20/100 ECOPact Concrete
+
+QE252E N25/20/80 ECOPact Concrete
+
+QE252E100 N25/20/100 ECOPact Concrete
+
+QE322E N32/20/80 ECOPact Concrete
+
+QE322E100 N32/20/100 ECOPact Concrete
+
+QE402E N40/20/80 ECOPact Concrete
+
+QE402E100 N40/20/100 ECOPact Concrete
+
+QE201L N20/10/80 ECOPact Concrete
+QE201L100 N20/10/100 ECOPact Concrete
+QE201L N25/10/80 ECOPact Concrete
+QE251L100 N25/10/100 ECOPact Concrete
+QE321L N32/10/80 ECOPact Concrete
+QE321L100 N32/10/100 ECOPact Concrete
+QE401L N40/10/80 ECOPact Concrete
+QE401L100 N40/10/100 ECOPact Concrete
+QE201E N20/10/80 ECOPact Concrete
+
+QE201E100 N20/10/100 ECOPact Concrete
+
+QE251E N25/10/80 ECOPact Concrete
+
+QE251E100 N25/10/100 ECOPact Concrete
+
+ViroDecs " EPD | Holcim 11
+Strength (MPa) | Mixcode | Description of use
+
+|
+QES321E N32/10/80 ECOPact Concrete
+
+QE321E100 N32/10/100 ECOPact Concrete
+QEA4OIE N40/10/80 ECOPact Concrete
+QE401E100 N40/10/100 ECOPact Concrete
+
+QE321EF1 S32/10/100 ECOPact Fibre
+
+Concrete
+QE321EF2 S32/10/1 20 FCOPact Fibre
+QE322EF2 S32/20/1 20 ECOPaot Fibre
+QE322RFB2 S32/20/1 A EC OP ect Main Roads
+ar322rmr2  S32/20/120 ECOPact Main Roads
+
+Concrete
+
+Note: Some customer invoices may have a Z as the second charterer in their mix code (e.g. QZ202E). This indicates that the mix was sold as a
+carbon neutral ready-mix concrete (i.e. the residual Global Warming Potential was offset). To find the applicable mix code, please substitute the
+seconded charter in the mix code with an E (e.g. QE202E).
+
+ViroDecs " EPD | Holcim 12
+Content Declaration
+
+The following table provides a summary of the materials included in Holcim ready-mix concrete and their relative
+composition by weight.
+
+[]
+o
+æ)
+où
+[=
+©
+=
+[os
+En
+©
+(A
+©
+Q
+—
+©
+=]
+T
+[e)
+Le
+Q.
+
+General purpose cement 5-21%
+Aggregate 67-84%
+Supplementary cementitious materials 0-11%
+Water 11.6-12%
+Admixtures 0.01-0.02%
+
+Holcim Ready-mix concrete is classified as Non-Dangerous Goods according to the Australian Code for the Transport
+of Dangerous Goods by Road and Rail. The safety data sheet for pre-mixed concrete lists all associated hazard
+phrases.
+
+The gross weight of this declared material makes up a minimum of 99% of the products covered by this EPD.
+
+Packaging
+
+| Default background data from LCA databases was used
+Holcim ready-mix concrete is delivered in bulk with no to model the above co-products:
+packaging.
+
+° Fly ash: AusLCI process for fly ash treats it as a
+Recycled Material waste material and only includes transport
+
+BS EN 16757:2017 specifically lists the following Impacts.
+
+als rel h L ° Ground granulated blast furnace slag: the
+materials relevant to the study as co-products AusLCI process for slag is allocated based on
+
+economic value, as the product has a significant
+economic value at the point of collection.
+
+° _ Silica fume: the ecoinvent process for silica
+fume treat it as a waste material and only
+
+* _ Silica fume includes transport impacts.
+
+e Fly ash;
+° Ground granulated blast furnace slag; and
+
+The allocation approach of the AusLCI LCA database
+As such, the above materials are considered as co- was adopted as a default for secondary data and
+products of their production process and the impacts for processes (e.g. secondary fuel in cement production).
+their production process are allocated according to PCR The AusLCI dataset conforms to EN 15804 when
+2019:14 Construction Products version 1.11 (co- applying allocation to its various processes and sub-
+produced goods, multi-output allocation). processes.
+
+ViroDecs " EPD | Holcim 13
+Environmental Performance
+
+The environmental impacts considered in this EPD are listed in the table below. Al further tables from this point will
+
+contain abbreviation only.
+
+@
+©
+=
+œ
+=
+Lu
+©
+
+=
+Lu
+©
+
+(su
+
+œ
++
+=
+©
+=
+=
+©
+
+È
+>
+€
+
+ui
+
+Impact Category Abbreviation Measurement Unit
+
+Potential Environmental Impacts
+Total global warming potential
+
+Global warming potential (fossil)
+
+Global warming potential (biogenic)
+Global warming potential (land use/ land transformation)
+Ozone depletion potential
+
+Acidification potential
+
+Eutrophication — aquatic freshwater
+Eutrophication — aquatic freshwater
+Eutrophication — aquatic marine
+Eutrophication — terrestrial
+Photochemical ozone creation potential
+Abiotic depletion potential (elements)
+Abiotic depletion potential (fossil fuels)
+Water Depletion Potential
+
+Resource use
+
+Use of renewable primary energy excluding renewable primary
+
+energy resources used as raw materials
+
+Use of renewable primary energy resources used as raw
+materials
+
+Total use of renewable primary energy resources (primary
+energy and primary energy resources used as raw materials)
+Use of non-renewable primary energy excluding non-
+renewable primary energy resources used as raw materials
+
+Use of non-renewable primary energy resources used as raw
+materials
+
+Total use of non-renewable primary energy resources (primary
+
+energy and primary energy resources used as raw materials)
+Use of secondary material
+
+Use of renewable secondary fuels
+Use of non-renewable secondary fuels
+
+Use of net fresh water
+
+ViroDecs " EPD | Holcim
+
+GWPT
+GWPF
+GWPB
+GWPL
+ODP
+AP
+EP - freshwater
+EP - freshwater
+EP - marine
+EP - terrestrial
+POCP
+ADPE
+ADPF
+WDP
+
+PERE
+
+PERM
+
+PERT
+
+PENRE
+
+PENRM
+
+PENRT
+
+SM
+RSF
+NRSF
+FW
+
+kg CO» equivalents (GWP100
+kg CO» equivalents (GWP100
+kg CO» equivalents (GWP100
+kg CO» equivalents (GWP100
+
+)
+)
+)
+)
+
+kg CFC 11 equivalents
+mol H+ eq.
+kg PO. equivalents
+kg P equivalent
+kg N equivalent
+mol N equlivalent
+kg NMVOC equivalents
+kg Sb equivalents
+M net calorific value
+
+m* equivalent deprived
+
+MY, net calorific value
+MY, net calorific value
+MY, net calorific value
+MY, net calorific value
+MY, net calorific value
+
+MY, net calorific value
+
+kg
+MY, net calorific value
+MJ, net calorific value
+
+m°
+
+14
+Impact Category Abbreviation Measurement Unit
+
+Waste categories and Output flows
+
+@
+©
+=
+œ
+=
+Lu
+©
+=
+Lu
+©
+(su
+œ
+ne
+=
+©
+=
+=
+©
+È
+>
+€
+ui
+
+Hazardous waste disposed HWD Kg
+Non-hazardous waste disposed NHWD kg
+Radioactive waste disposed/stored RWD kg
+Components for reuse CFR kg
+Materials for recycling MER Kg
+Materials for energy recovery MFEÉE Kg
+
+Exported energy EE -e M per energy carrier
+Exported energy, thermal EE -t MJ per energy carrier
+Additional environmental impacts
+
+Particulate matter PM disease incidence
+lonising radiation - human health IRP kBq U-235 eq
+Eco-toxicity (freshwater) ETP-fw CTUe
+
+Human toxicity potential - cancer effects HTP-c CTUh
+
+Human toxicity potential - non cancer effects HTP-nc CTUh
+
+Soil quality SQP dimensionless
+
+ViroDecs " EPD | Holcim 15
+Queensland — Sunshine Coast - ECOPact Range
+Primary indicators - 1m° of ViroDecs" ready-mix concrete
+
+PRIMARY EP - EP - EP
+ENVIRONMENTAL GWPT . POCP
+INDICATORS freshwater | freshwater2 terrestrial
+kg
+
+=
+MJ m3
+
+Êres Êres Dre Dre ‘g ne bus kg ras kg P eq. kg N eq. mol N eq. es kg Sb eq.
+
+BE ce 194 194 0.17 1.09E-03 3.57E-06  8.00E-01  1.99E-01 2.00E-03  2.56E-01 2.87E+00 7.31E-01 1.02E-04 7.20E+02  8.12E+02
+BEM ce2021100 198 198 0.17 1.11E-03  3.60E-06 8.12E-01  2.03E-01 2.03E-03  2.60E-01 291E+00 7.41E-01 1.03E-04 7.31E+02  8.27E+02
+RER cc: 213 213 0.19 1.20E-03 3.76E-06  8.64E-01  2.18E-01 2.16E-03  2.77E-01 3.10E+00  7.88E-01 1.08E-04 7.80E+02  8.84E+02
+BEM ce2521100 217 216 0.19 1.22E-03 3.79E-06 8.76E-01  2.22E-01 2.20E-03  2.80E-01 3.14E+00  7.98E-01  1.09E-04 7.92E+02  8.98E+02
+RER cc: 242 242 0.22 1.36E-03 4.10E-06  9.68E-01  2.48E-01 2.43E-03  3.09E-01  3.46E+00 8.80E-01 1.19E-04 8.76E+02  9.98E+02
+RME ce3221100 248 248 0.22 1.41E-03  4.16E-06  9.90E-01  2.55E-01 2.49E-03  3.16E-01 3.54E+00  9.00E-01 1.22E-04 8.98E+02  1.02E+03
+DE cc 287 287 0.26 1.64E-03  4.57E-06 1.13E+00  2.95E-01 2.84E-03  3.59E-01 4.03E+00 1.02E+00 1.36E-04 1.03E+03  1.17E+03
+BRU ©2021 100 295 295 0.27 1.68E-03 4.63E-06  1.15E+00  3.02E-01 2.91E-03  3.67E-01 4.12E+00 1.04E+00 1.39E-04 1.05E+03  1.20E+03
+| 2 MZ 157 157 0.15 1.04E-03  3.84E-06  7.80E-01  1.84E-01 1.75E-03  2.29E-01 2.55E+00 6.60E-01  9.20E-05 7.12E+02  7.62E+02
+BEN 06202100 160 160 0.16 1.06E-03 3.89E-06 7.95E-01  1.88E-01 1.78E-03  2.33E-01  2.60E+00 6.71E-01 9.32E-05 7.27E+02  7.79E+02
+RER ce: 172 172 0.17 1.15E-03  4.07E-06  8.46E-01  2.03E-01 1.90E-03  2.47E-01 2.76E+00 7.12E-01  9.80E-05  7.76E+02  8.32E+02
+BEN ce252 100 174 174 0.17 1.17E-03  4.10E-06 8.55E-01  2.06E-01 1.92E-03  2.49E-01  2.78E+00 7.19E-01  9.88E-05  7.85E+02  8.43E+02
+EN ce 183 183 0.19 1.30E-03  4.49E-06  9.30E-01  2.25E-01 2.04E-03  2.65E-01 2.95E+00  7.66E-01 1.05E-04 8.61E+02  9.13E+02
+RE cE222 100 188 187 0.20 1.34E-03  4.57E-06  9.52E-01  2.32E-01 2.09E-03  2.70E-01 3.02E+00  7.82E-01 1.06E-04 8.83E+02  9.36E+02
+BEN c©:02 216 215 0.23 1.56E-03 5.04E-06 1.08E+00  2.67E-01 2.37E-03  3.05E-01 3.40E+00 8.81E-01 1.18E-04 1.01E+03 1.07E+03
+BAT 0402100 221 221 0.24 1.60E-03 5.13E-06 1.10E+00  2.74E-01 2.43E-03  3.11E-01 3.48E+00  9.00E-01 1.20E-04 1.03E+03 1.10E+03
+RES co: 200 200 0.18 1.12E-03 3.62E-06 8.21E-01  2.05E-01 2.04E-03  2.63E-01 2.94E+00  7.49E-01 1.03E-04 7.37E+02  8.33E+02
+BE ce2011100 204 204 0.18 1.14E-03  3.64E-06  8.33E-01  2.09E-01 2.08E-03  2.67E-01  2.99E+00  7.60E-01 1.04E-04  7.48E+02  8.47E+02
+RE co: 221 220 0.20 1.24E-03  3.86E-06 8.94E-01  2.26E-01 2.23E-03  2.86E-01 3.20E+00  8.15E-01 1.11E-04 8.06E+02  9.13E+02
+BEN ce2511100 223 223 0.20 1.26E-03 3.88E-06  9.03E-01  2.29E-01 2.26E-03  2.89E-01 3.23E+00 8.22E-01 1.12E-04 8.15E+02  9.24E+02
+ES c21 245 245 0.15 6.22E-04  4.14E-06  9.88E-01  1.65E-01 2.49E-03  3.16E-01 3.54E+00 8.99E-01 1.21E-04  8.09E+02  1.02E+03
+RE cE2211100 256 256 0.23 1.46E-03  4.22E-06 1.02E+00  2.63E-01 2.55E-03  3.25E-01 3.64E+00 9.24E-01 1.24E-04 9.23E+02  1.05E+03
+BE cut 297 297 0.27 1.70E-03  4.66E-06 1.16E+00  3.05E-01 2.93E-03  3.70E-01 4.15E+00  1.05E+00 1.39E-04 1.06E+03  1.21E+03
+BAT ce4011100 305 305 0.28 1.74E-03 472E-06 1.19E+00  3.12E-01 2.99E-03  3.78E-01  4.24E+00  1.07E+00  1.42E-04  1.08E+03  1.24E+03
+BEN ce 151 151 0.16 1.07E-03 4.16E-06  8.30E-01  1.89E-01 1.75E-03  2.32E-01 2.58E+00 6.72E-01 9.17E-05  7.59E+02  7.97E+02
+BEN ©6201 100 153 153 0.16 1.09E-03  4.20E-06  8.42E-01  1.92E-01 1.77E-03  2.34E-01  2.61E+00 6.80E-01 9.25E-05 7.71E+02  8.10E+02
+RE ce 165 165 0.18 1.19E-03  4.44E-06  9.02E-01  2.08E-01 1.90E-03  2.50E-01 2.79E+00 7.26E-01  9.77E-05  8.29E+02  8.72E+02
+BE ce25:E100 168 168 0.18 1.21E-03  4.47E-06  9.14E-01  2.11E-01 1.92E-03  2.53E-01 2.82E+00 7.35E-01  9.87E-05  8.41E+02  8.85E+02
+[ 32 ME 192 192 0.21 1.40E-03  4.97E-06 1.04E+00  2.42E-01 2.17E-03  2.85E-01 3.18E+00 8.27E-01 1.10E-04 9.57E+02  1.01E+03
+BEN ce221E100 197 196 0.22 1.44E-03  5.06E-06 1.06E+00  2.49E-01 2.22E-03  2.91E-01 3.24E+00 8.44E-01  1.11E-04  9.82E+02  1.04E+03
+
+ViroDecs " EPD | Holcim 16
+QE322RFB2 218
+QE322TMR2 210
+
+PRIMARY
+ENVIRONMENTAL GWPT
+INDICATORS
+
+5
+
+BEN cu: 221
+
+BAT 06401100 226
+
+BE cer 203
+
+BEN cez1er2 203
+
+BE ce: 199
+
+| _æ |
+
+EE
+
+ViroDecs " EPD | Holcim
+
+kg CO2
+eq.
+
+221
+225
+203
+203
+199
+218
+210
+
+kg CO2
+eq.
+0.25
+0.25
+0.22
+0.22
+0.21
+0.30
+0.22
+
+kg CO2
+eq.
+1.62E-03
+1.66E-03
+1.48E-03
+1.48E-03
+1.43E-03
+1.49E-03
+1.51E-03
+
+EP -
+freshwater
+
+kg PO43-
+
+kg CFC
+11 eq.
+
+5.52E-06
+5.60E-06
+5.16E-06
+5.17E-06
+4.76E-06
+4.77E-06
+4.74E-06
+
+mol H+
+eq.
+1.18E+00
+1.20E+00
+1.09E+00
+1.09E+00
+1.00E+00
+1.01E+00
+1.01E+00
+
+eq.
+2.80E-01
+2.86E-01
+2.56E-01
+2.57E-01
+2.46E-01
+2.56E-01
+2.57E-01
+
+EP -
+
+freshwater2
+
+kg P eq.
+
+2.47E-03
+2.52E-03
+2.28E-03
+2.29E-03
+2.22E-03
+2.31E-03
+2.31E-03
+
+kg N eq.
+
+3.22E-01
+3.28E-01
+2.99E-01
+3.00E-01
+2.84E-01
+2.90E-01
+2.92E-01
+
+EP —
+terrestrial
+
+mol N eq.
+
+3.60E+00
+3.66E+00
+3.34E +00
+3.34E +00
+3.17E+00
+3.24E +00
+3.26E +00
+
+NMVOC
+eq.
+9.35E-01
+
+9.51E-01
+8.68E-01
+8.69E-01
+8.22E-01
+8.38E-01
+8.43E-01
+
+… E
+kg
+
+kg Sb eq.
+
+1.22E-04
+1.23E-04
+1.14E-04
+1.13E-04
+1.11E-04
+1.14E-04
+1.14E-04
+
+1.10E+03
+1.12E+03
+1.01E+03
+1.01E+03
+9.32E+02
+1.04E+03
+9.44E +02
+
+»
+MJ m3
+
+1.16E+03
+1.18E+03
+1.06E+03
+1.06E+03
+9.88E+02
+9.94E +02
+1.00E+03
+
+17
+Resource use parameters - 1m° of ViroDecs" ready-mix concrete
+
+PARAMETERS
+DESCRIBING
+RESOURCE USE
+
+QE202L
+QE202L100
+QE252L
+QE252L100
+QE322L
+QE322L100
+QE402L
+QE402L100
+QE202E
+QE202E100
+QE252E
+QE252E100
+QE322E
+QE322E100
+QE402E
+QE402E100
+QE201L
+QE201L100
+QE201L
+QE251L100
+QE321L
+QE321L100
+QE401L
+QE401L100
+QE201E
+QE201E100
+QE251E
+QE251E100
+QE321E
+QE321E100
+QE401E
+
+OE . ee Le = DRE
+
+Lo et Mer Money Menor Mao Mey
+
+2.04E+01
+2.08E+01
+2.22E+01
+2.25E+01
+2.50E+01
+2.56E+01
+2.94E+01
+3.01E+01
+1.89E+01
+1.93E+01
+2.06E+01
+2.08E+01
+2.25E+01
+2.30E+01
+2.63E+01
+2.69E+01
+2.09E+01
+2.13E+01
+2.29E+01
+2.32E+01
+2.57E+01
+2.63E+01
+3.03E+01
+3.10E+01
+1.96E+01
+1.99E+01
+2.14E+01
+2.17E+01
+2.47E+01
+2.58E+01
+2.83E+01
+
+ViroDecs " EPD | Holcim
+
+1.36E-03
+1.38E-03
+1.51E-03
+1.53E-03
+1.73E-03
+1.79E-03
+2.11E-03
+2.16E-03
+1.29E-03
+1.33E-03
+1.44E-03
+1.47E-03
+1.65E-03
+1.71E-03
+2.00E-03
+2.06E-03
+1.40E-03
+1.43E-03
+1.56E-03
+1.59E-03
+6.00E-04
+1.86E-03
+2.19E-03
+2.24E-03
+1.33E-03
+1.37E-03
+1.49E-03
+1.52E-03
+1.78E-03
+1.83E-03
+2.09E-03
+
+2.04E+01
+2.08E+01
+2.22E+01
+2.25E+01
+2.50E+01
+2.57E+01
+2.94E+01
+3.01E+01
+1.89E+01
+1.93E+01
+2.06E+01
+2.08E+01
+2.25E+01
+2.30E+01
+2.63E+01
+2.69E+01
+2.09E+01
+2.13E+01
+2.29E+01
+2.32E+01
+2.57E+01
+2.63E+01
+3.03E+01
+3.10E+01
+1.96E+01
+1.99E+01
+2.14E+01
+2.17E+01
+2.47E+01
+2.58E+01
+2.83E+01
+
+6.32E+02
+6.41E+02
+6.82E+02
+6.91E+02
+7.62E+02
+7.80E+02
+8.85E+02
+9.05E+02
+6.31E+02
+6.43E+02
+6.84E+02
+6.92E+02
+7.55E+02
+7.738E+02
+8.76E+02
+8.97E+02
+6.46E+02
+6.55E+02
+7.03E+02
+7.10E+02
+7.80E+02
+7.99E+02
+9.11E+02
+9.30E+02
+6.76E+02
+6.86E+02
+7.385E+02
+7.45E+02
+8.44E+02
+8.65E+02
+9.62E+02
+
+2.47E+02
+2.47E+02
+2.55E+02
+2.54E+02
+2.70E+02
+2.71E+02
+2.89E+02
+2.91E+02
+2.43E+02
+2.43E+02
+2.50E+02
+2.51E+02
+2.64E+02
+2.66E+02
+2.83E+02
+2.85E+02
+2.55E+02
+2.55E+02
+2.68E+02
+2.68E+02
+1.87E+02
+2.81E+02
+3.00E+02
+3.02E+02
+2.52E+02
+2.52E+02
+2.60E+02
+2.60E+02
+2.79E+02
+2.80E+02
+2.95E+02
+
+8.79E+02
+8.88E+02
+9.36E +02
+9.46E +02
+1.03E+03
+1.05E+03
+1.17E+03
+1.20E+03
+8.74E+02
+8.87E+02
+9.34E +02
+9.42E+02
+1.02E+03
+1.04E+03
+1.16E+03
+1.18E+03
+9.01E+02
+9.10E+02
+9.71E+02
+9.78E+02
+9.67E+02
+1.08E+03
+1.21E+03
+1.23E+03
+9.28E+02
+9.38E+02
+9.95E +02
+1.00E+03
+1.12E+03
+1.14E+03
+1.26E+03
+
+9.11E+01
+9.26E+01
+1.01E+02
+1.03E+02
+1.16E+02
+1.20E+02
+1.41E+02
+1.44E+02
+1.31E+02
+1.34E+02
+1.46E+02
+1.49E+02
+1.81E+02
+1.88E+02
+2.20E+02
+2.27E+02
+9.40E+01
+9.56E+01
+1.05E+02
+1.08E+02
+9.70E+01
+1.25E+02
+1.47E+02
+1.50E+02
+1.54E+02
+1.58E+02
+1.73E+02
+1.75E+02
+2.05E+02
+2.13E+02
+2.41E+02
+
+Mincv
+
+1.95E-05
+1.99E-05
+2.17E-05
+2.21E-05
+2.46E-05
+2.54E-05
+3.00E-05
+3.08E-05
+1.86E-05
+1.91E-05
+2.07E-05
+2.12E-05
+2.35E-05
+2.43E-05
+2.85E-05
+2.94E-05
+2.02E-05
+2.06E-05
+2.25E-05
+2.29E-05
+1.15E-05
+2.64E-05
+3.11E-05
+3.19E-05
+1.92E-05
+1.97E-05
+2.15E-05
+2.19E-05
+2.53E-05
+2.61E-05
+2.97E-05
+
+MiNncv
+
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+
+1.14E-01
+1.16E-01
+1.23E-01
+1.25E-01
+1.38E-01
+1.41E-01
+1.60E-01
+1.63E-01
+1.00E-01
+1.02E-01
+1.08E-01
+1.09E-01
+1.16E-01
+1.18E-01
+1.33E-01
+1.36E-01
+1.17E-01
+1.19E-01
+1.27E-01
+1.28E-01
+1.41E-01
+1.44E-01
+1.64E-01
+1.68E-01
+9.98E-02
+1.01E-01
+1.08E-01
+1.09E-01
+1.22E-01
+1.25E-01
+1.38E-01
+
+18
+PARAMETERS
+DESCRIBING
+
+PERT PENRT
+RESOURCE USE
+
+St th :
+(MPa) MiNcv MiNcv MiNcv MiNcv
+
+QE401E100 2.89E+01
+QE321EF1 2.60E+01
+QE321EF2  2.59E+01
+QE322EF2  2.48E+01
+QE322RFB2  2.89E+01
+QE322TMR2  2.47E+01
+
+ViroDecs " EPD | Holcim
+
+2.14E-03
+1.89E-03
+1.89E-03
+1.82E-03
+1.90E-03
+1.93E-03
+
+2.89E+01
+2.60E+01
+2.59E+01
+2.43E+01
+2.89E+01
+2.47E+01
+
+9.79E+02
+8.85E+02
+8.85E+02
+8.13E+02
+9.18E+02
+8.16E+02
+
+Mincv
+
+2.96E +02
+2.94E+02
+2.99E+02
+2.77E+02
+2.84E +02
+2.84E +02
+
+Mincv
+
+1.28E+03
+1.18E+03
+1.18E+03
+1.09E+03
+1.20E+03
+1.10E+03
+
+2.47E+02
+2.19E+02
+2.19E+02
+2.00E+02
+2.03E+02
+2.07E+02
+
+MiNncv
+
+3.05E-05
+2.71E-05
+2.78E-05
+2.68E-05
+2.96E-05
+2.88E-05
+
+MiNncv
+
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+
+1.40E-01
+1.28E-01
+1.28E-01
+1.24E-01
+1.27E-01
+1.28E-01
+
+19
+Waste categories and output flows - 1m of ViroDecs" ready-mix concrete
+
+WASTE CATEGORIES AND
+
+[20 | QE202L 8.08E+01 9.55E+00 4.06E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BEN GE2021100  8.24E:01 9.69E+00 4.15E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BERE ce: 8.97E+01 1.04E+01 4.51E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BEN ©E2521100  9.13E:01 1.05E+01 4.59E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+| 3 | QE322L 1.03E+02 1.16E+01 5.18E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E-+00
+EN 0635221100 1.06E+02 1.19E+01 5.35E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BOSS c©ec02 1.25E+02 1.36E+01 6.31E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BST GE4021100  129E:02 1.39E+01 6.48E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BE ce: 7.69E+01 8.86E+00 3.87E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+[20 | QE202E100  7.90E+01 9.04E+00 3.97E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+| 25 | QE252E 8.59E+01 9.64E+00 4.32E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BEN ©E252E100  8.76E:01 9.77E+00 4.41E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+RE ce: 9.81E+01 1.06E+01 4.94E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+REP ©E322:100  102E+02 1.09E+01 5.11E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+[4 | QE402E 1.19E+02 1.24E+01 6.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BST ©2402 100  123E+02 1.27E+01 6.18E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+D 20 MU 8.35E+01 9.77E+00 4.20E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BON GE2011100  8.52E:01 9.92E+00 4.28E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BREES ce 9.31E+01 1.07E+01 4.68E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BE G©E2511100  948E:01 1.08E+01 4.77E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BRERES ce: 3.87E+01 8.21E+00 1.81E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BEEN G©E:211100 © 1.10E+02 1.23E+01 5.56E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BROES co: 1.30E+02 1.40E+01 6.55E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BST ©E4011100 1.33E+02 1.44E+01 6.72E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+[20 | QE201E 7.94E+01 8.98E+00 3.99E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+RON CE201E100  8.14E:01 9.13E+00 4.10E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+RER °c: 8.90E+01 9.79E+00 4.48E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BEN CE251E100  2.07E:01 9.92E+00 4.56E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+| 3 | QE321E 1.06E+02 1.18E+01 5.32E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E-+00
+BEEN CE321E100  109E+02 1.15E+01 5.49E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+BON CEE 1.24E+02 1.29E+01 6.25E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+ViroDecs " EPD | Holcim
+WASTE CATEGORIES AND
+OUTPUT FLOWS
+
+Strength .
+
+QE401E100
+
+Es nn meme le
+kg kg kg Kg kg kg MJ MJ
+
+1.27E+02
+
+1.31E+01 6.41E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+QE321EF1 1.13E+02 1.18E+01 5.67E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+QE321EF2 1.13E+02 1.18E+01 5.67E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+QE322EF2 1.09E+02 1.15E+01 5.46E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+QE322RFB2 1.16E+02 1.24E+01 5.71E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+QE322TMR2 1.16E+02 1.20E+01 5.79E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+ViroDecs " EPD | Holcim
+Additional indicators 1m° of ViroDecs" ready-mix concrete
+
+ADDITIONAL ENVIRONMENTAL
+EE =
+
+disease incidence kBq U-235 eq CTUe CTUh CTUh dimensionless
+[2 | QE202L 5.19E-06 1.01E+01 1.32E+03 2.62E-08 1.23E-06 1.83E+02
+BEN  GE2021100 5.27E-06 1.03E+01 1.34E+03 2.65E-08 1.25E-06 1.86E+02
+[25 | QE252L 5.59E-06 1.12E+01 1.41E+03 2.81E-08 1.33E-06 1.97E+02
+BEN  GE2521100 5.66E-06 1.14E+01 1.43E+03 2.85E-08 1.35E-06 2.00E+02
+| 3 | QE322L 6.23E-06 1.27E+01 1.56E+03 3.13E-08 1.49E-06 2.20E+02
+BTE  GE3221100 6.37E-06 1.31E+01 1.59E+03 3.20E-08 1.53E-06 2.25E+02
+| 4 | QE402L 7.20E-06 1.55E+01 1.78E+03 3.62E-08 1.73E-06 2.54E+02
+STE  GE4021100 7.36E-06 1.59E+01 1.82E+03 3.69E-08 1.77E-06 2.60E+02
+| 2 | QE202E 4.62E-06 9.65E+00 1.15E+03 2.32E-08 1.06E-06 1.68E+02
+BEN  GE202E100 4.69E-06 9.89E +00 1.16E+03 2.36E-08 1.08E-06 1.71E+02
+[25 | QE252E 4.97E-06 1.07E+01 1.22E+03 2.49E-08 1.15E-06 1.82E+02
+BC N  GE252E100 5.02E-06 1.10E+01 1.23E+03 2.52E-08 1.16E-06 1.84E+02
+| 3 | QE322E 5.32E-06 1.21E+01 1.28E+03 2.67E-08 1.22E-06 1.97E+02
+BTE  0GE322E100 5.42E-06 1.25E+01 1.30E+03 2.72E-08 1.25E-06 2.01E+02
+| 4 | QE402E 6.09E-06 1.47E+01 1.45E+03 3.05E-08 1.40E-06 2.26E+02
+STE  GEr402E100 6.21E-06 1.52E+01 1.47E+03 3.11E-08 1.43E-06 2.31E+02
+[2 | QE201L 5.32E-06 1.04E+01 1.36E+03 2.68E-08 1.27E-06 1.87E+02
+BEN  GE20iL100 5.39E-06 1.07E+01 1.37E+03 2.71E-08 1.28E-06 1.89E+02
+| 25 | QE201L 5.78E-06 1.16E+01 1.46E+03 2.91E-08 1.38E-06 2.03E+02
+CN  GE251L100 5.83E-06 1.18E+01 1.47E+03 2.94E-08 1.39E-06 2.05E+02
+EE 211 6.39E-06 1.32E+01 1.60E+03 3.21E-08 1.53E-06 2.25E+02
+BTE  GE321L100 6.53E-06 1.36E+01 1.63E+03 3.28E-08 1.57E-06 2.30E+02
+| 4 | QEA401L 7.41E-06 1.60E+01 1.84E+03 3.72E-08 1.79E-06 2.61E+02
+TEEN  GE401L100 7.57E-06 1.65E+01 1.87E+03 3.80E-08 1.83E-06 2.67E+02
+[2 | QE201E 4.63E-06 9.94E+00 1.13E+03 2.32E-08 1.05E-06 1.72E+02
+CN  GE201E100 4.69E-06 1.02E+01 1.14E+03 2.34E-08 1.06E-06 1.74E+02
+[25 | QE251E 4.99E-06 1.11E+01 1.20E+03 2.49E-08 1.13E-06 1.86E+02
+CN  GE251E100 5.05E-06 1.13E+01 1.21E+03 2.52E-08 1.15E-06 1.88E+02
+| 3 | QE321E 5.66E-06 1.31E+01 1.34E+03 2.82E-08 1.29E-06 2.12E+02
+REP EN  GE321E100 5.77E-06 1.35E+01 1.36E+03 2.88E-08 1.32E-06 2.17E+02
+| 4 | QE401E 6.38E-06 1.53E+01 1.49E+03 3.17E-08 1.46E-06 2.40E +02
+
+ViroDecs " EPD | Holcim
+ADDITIONAL ENVIRONMENTAL
+ee EE =
+
+Strength (MPa) disease incidence kBq U-235 eq CTUe CTUh CTUh dimensionless
+
+QE401E100 6.48E-06 1.57E+01 1.51E+03 3.22E-08 1.48E-06 2.44E+02
+QE321EF1 5.93E-06 1.45E+01 1.41E+03 2.96E-08 1.35E-06 2.21E+02
+QE321EF2 5.93E-06 1.65E+01 1.41E+03 2.98E-08 1.36E-06 2.21E+02
+QE322EF2 5.69E-06 1.59E+01 1.36E+03 2.88E-08 1.31E-06 2.11E+02
+QE322RFB2 5.83E-06 2.14E+01 1.41E+03 3.01E-08 1.36E-06 2.14E+02
+QE322TMR2 5.88E-06 1.81E+01 1.42E+03 2.99E-08 1.37E-06 2.16E+02
+
+ViroDecs " EPD | Holcim
+Other life cycle stages not included in
+this EPD
+
+u
+©
+D
+©
+ni
+ao
+©
+o
+>
+©
+(
+=
+=
+LD
+©
+£
+Ld
+O
+
+While the LCA study and EPD only consider the cradle to gate environmental impacts of Holcim’s ready-mix concrete,
+practitioners using the EPD for the purpose of whole-of-life building studies or the functional comparison of different
+building products on a whole-of-life basis will consider concrete’s other life cycle stages. Some of the environmental
+impacts of benefits associated with other life cycle stages not included in this EPD are described in the following
+sections.
+
+Lifetime absorption of CO:
+
+Carbonation is a natural process whereby concrete absorbs carbon dioxide (CO) from the atmosphere through a
+chemical reaction between the CO; in the ambient air and hydration products within the concrete (CaOH:). Ready-mix
+concrete can be subject to carbonation from the use stage onward (i.e. after construction and curing). From a life cycle
+impact accounting perspective, this process can also be referred to as ‘reabsorption’, since the CO emitted during the
+cement manufacturing process can be paritly offset by the lifetime absorption of CO», therefore reducing the net CO;
+emissions associated with concrete over its lifetime.
+
+The carbonisation process is a commonly known process in building design and is typically taken into consideration by
+engineers when specifying special-class concrete.
+
+The total amount of CO; absorption during the life cycle of concrete is subject to a range of factors and varies over
+time. The calculation has been standardised in the British and European Standard BS EN 16757:2017 Sustainability
+of construction works — Environmental Product Declarations — Product Category Rules for concrete and concrete
+elements. It is recommended that practitioners make use of this standard when conducting whole-of-life building
+studies and if the building materials include substantial amounts of concrete. Please note that CO: absorption has not
+been considered in this EPD andis not reflected in the EPD results tables.
+
+End of life scenarios
+
+BS EN 16757:2017 presents four end of life scenarios for concrete:
+
+1. Disposal of concrete at a landfill site,
+
+2. Reuse of recovered concrete elements in new construction works,
+
+83. Use of concrete debris, e.g. In land restoration, or
+
+4.  Crushing/recycling of concrete:
+a. Crushed concrete substitutes primary material without further processing, or
+b. Substitution of natural aggregates in fresh concrete.
+
+Scenarios 2, 3 and 4 can all result in benefits and loads outside the system boundary and thus should be considered
+in a whole-of-life building study or when comparing concrete products on a functional basis in line with BS EN
+16757:2017.
+
+ViroDecs " EPD | Holcim 24
+References
+
+Australasian EPD Programme. (2017). Guidance on the use of INA in EPDs.
+
+Australasian EPD Programme. (2018). Guidance on the use of background LCI data.
+
+References
+
+Australasian EPD Programme (2019) Instructions of the Australasian EPD Programme V3.01.
+
+Australian Life Cycle Inventory Database Initiative (AusLCI). (2018). Guidelines for Data Development for an
+Australian Life Cycle Inventory Database, Data Standard.
+
+British Standards Institution. (2019). Sustainability of construction works. Environmental product declarations. Core
+rules for the product category of construction products, BS EN 15804:2012+A2:2019. British Standards Institution.
+
+British Standards Institution. (2017). Sustainability of construction works — Environmental product declarations —
+Product Category Rules for concrete and concrete elements, BS EN 16757:2017. British Standards Institution.
+
+Ecoinvent Centre. (2019). Ecoinvent version 3 database. Zurich: ETH, Agroscope, EMPA, EPFL, PSI. Retrieved from
+www.ecoinvent.org.
+
+EPD International. (2019). General Programme Instructions (GPI) for the International EPD System V3.01. Retrieved
+from www.envirodec.com.
+
+EPD International. (2021). Product Category Rules for Construction Products, PCR2019:14 v1.11. Stockholm: EPD
+International.
+
+ISO. (2006). Environmental labels and declarations — Type III environmental declarations — Principles and procedures,
+ISO 14025:2006. Geneva: International Organization for Standardization.
+
+ISO. (2006). Environmental management — Life cycle assessment — Principles and framework, ISO 14040:2006.
+Geneva: International Organization for Standardization.
+
+ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines, ISO
+14044:2006+A1:2018. Geneva: International Organization for Standardization.
+
+AusLCI. (2018) AusLCI Database. Retrieved from AusLCI: www.auslei.com.au/
+
+Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Taiït, ‘The Carbon Footprint of Australia’s Construction
+Sector, Procedia Engineering, Volume 180, 2017, Pages 211-220, ISSN 1877-7058,
+
+(http;/www.sciencedirect.com/science/article/pi/S1877705817316879)
+
+ViroDecs " EPD | Holcim 25
+Programme-related information and verification
+
+Holcim (Australia) Pty Ltd
+
+Level 7, 799 Pacific Highway
+Declaration Owner Chatswood NSW 2067, Australia
+Web: www.holcim.com.au
+Phone: +61 2 9412 6600
+
+Holcim
+
+EPD Australasia Limited
+315a Hardy Street Nelson nn | ®
+7010, New Zealand AUSTRALASIA E P D
+Web: www.epd-australasia.com
+Email: info@epd-australasia.com
+Phone: +61 2 8005 8206
+
+EPD Programme Operator
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Holcim (Australia) Pty Ltd
+
+Level 7, 799 Pacific Highway
+EPD Produced by Chatswood NSW 2067, Australia
+Web: www.holcim.com.au
+Phone: +61 2 9412 6600
+
+Holcim
+
+Epsten Group
+
+Suite 2600, 101 Marietta St NW, Atlanta,
+EPD Process Certified by Georgia 30303, USA
+
+epstengroup
+
+Web: www.epstengroup.com
+
+EPD Registration Number S-P-04663
+
+Valid From 12 September 2022
+
+Version L
+
+Valid Until 12 September 2027
+
+Product category rules PCR 2019:14 Construction Products, Version 1.11, 2021-02-05
+
+Product group classification UN CPC 54
+
+Australia
+
+Geographical Scope
+
+Reference Year for Data 2017 Plant Data, 2022 Mix/Materials Data
+
+CEN standard EN 15804:2012+A2:2019 served as the core PCR
+
+Product category rules PCR 2019:14 Construction Products, Version 1.11, 2019-02-05
+
+PCR review was conducted by The Technical Committee of the International EPD® System. Chair:
+Massimo Marino. Contact via info@environdec.com
+
+Independent third-party .-
+
+verification of the declaration and EPD process certification
+
+data, according to ISO EPD verification
+14025:2006:
+
+Epsten Group, Inc., Katherine McFeaters: .
+EPD Process Certifed by P P Pahouix Anéolns
+
+Accredited by: A2LA, Certificate #3142.03
+
+Procedure for follow-up of data
+during EPD validity involves
+third party verifier:
+
+Programme-related information and verification:
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product
+category but from different programmes may not be comparable. EPDs of construction products may not be
+comparable if they do not comply with EN 15804.
+
+ViroDecs " EPD | Holcim 26
+Holcim
+
+This publication supersedes all previous literature on this subject. As the
+specifications and details contained in this publication may change, please check
+with Holcim Customer Service for confirmation of current issue. This publication
+provides general information only and is no substitute for professional technical
+engineering advice. Users must make their own determination as to the suitability of
+this information or any Holcim product for their specific circumstances. Holcim
+
+accepts no liability for any loss or damage resulting from their specific circumstances.
+
+Holcim accepts no liability for an loss or damage resulting from any reliance on the
+information provided in this publication. “Strength. Performance. Passion.” and
+
+“ViroDecs” are trademarks of Holcim (Australia) Pty Ltd.
+
+© September 2022 Holcim (Australia) Pty Ltd ABN 87 732 297. All rights reserved.
+This guide or any part of it may not be reproduced without prior written consent of
+Holcim.
+
+ViroDecs " EPD | Holcim
+
+27

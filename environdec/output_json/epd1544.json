@@ -1,0 +1,226 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "epd_owner_address": "Level 7, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+    "epd_owner_phone": "+61 2 9412 6600",
+    "epd_owner_website": "www.holcim.com.au",
+    "epd_program_operator": "EPD Australasia Limited",
+    "epd_program_operator_address": "315a Hardy Street, Nelson 7010, New Zealand",
+    "epd_program_operator_website": "www.epd-australasia.com",
+    "epd_program_operator_email": "info@epd-australasia.com",
+    "epd_program_operator_phone": "+61 2 8005 8206",
+    "epd_producer": "start2see Pty Ltd",
+    "epd_producer_address": "309 / 2a Montrose Place, Hawthorn East Vic 3123, Australia",
+    "epd_producer_website": "www.start2see.com.au",
+    "epd_producer_email": "Rob.Rouwette@start2see.com.au",
+    "epd_producer_phone": "+61 403 834 470",
+    "epd_registration_number": "S-P-01544 1.0",
+    "reference_year_for_data": "2018-07-01 to 2019-06-30",
+    "core_pcr_standard": "CEN standard EN 15804",
+    "pcr": [
+      "PCR 2012:01 Construction Products and Construction Services, Version 2.3, 2018-11-15",
+      "PCR 2012:01-SUB-PCR-G Concrete and concrete elements, version 2.3, 2018-11-22"
+    ],
+    "verification": {
+      "internal": "EPD process certification (Internal)",
+      "external": "EPD verification (External)",
+      "third_party_verifier": "Jeff Vickers, thinkstep-anz",
+      "verifier_website": "www.thinkstep-anz.com",
+      "verifier_email": "jeffvickers@thinkstep-anz.com",
+      "verifier_phone": "+61 2 8007 5770",
+      "accredited_by": "EPD Australasia anz"
+    },
+    "compliance": "EN 15804",
+    "declaration_type": "cradle-to-gate"
+  },
+  "product_description": {
+    "product_name": "Precast reinforced concrete box culverts and headwalls",
+    "manufacturer": "Humes Concrete Products (Humes), division of Holcim (Australia) Pty Ltd",
+    "manufacturing_location": "Tamworth, NSW, Australia",
+    "product_range": "Box culverts, ballast kerbs, wing walls",
+    "product_use": "Bridging for pedestrian, fauna and stock crossings under road and rail applications",
+    "product_characteristics": {
+      "material": "Reinforced concrete made from coarse and fine aggregates, cement, water, steel reinforcement, supplementary cementitious materials (SCM) such as fly ash, and chemical admixtures",
+      "product_shapes": "Inverted U-shape culverts",
+      "sizes": "Small box culverts (600 mm to 1200 mm span), large box culverts (>1200 mm to 3000 mm span), heights 450 to 2400 mm, length 2400 mm",
+      "load_classes": "Railway load class 300LA, road load class SM1600",
+      "wingwall_sizes": "Manufactured to fit 450 to 2400 mm height range of culverts"
+    },
+    "hazardous_substances": "None contained above 0.1% (m/m) as per European REACH regulation",
+    "dust_hazard": "Dust classified as hazardous due to crystalline silica content; exposure through inhalation should be avoided",
+    "industry_classification": {
+      "UN_CPC": "375 - Concrete",
+      "ANZSIC": "2034 - Concrete Product Manufacturing"
+    },
+    "technical_compliance": {
+      "standards": [
+        "AS 1597.1:2010 Precast reinforced concrete box culverts Part 1: Small culverts",
+        "AS 1597.2:2013 Precast reinforced concrete box culverts Part 2: Large culverts",
+        "RMS QA Specification R16 Precast Reinforced Concrete Box Culverts",
+        "AS 5100 & AS 1597 series requirements for design loads"
+      ],
+      "reference_service_life": "100 years when manufactured and installed according to standards"
+    }
+  },
+  "lca_information": {
+    "scope": "Cradle-to-gate life cycle stages A1-A3",
+    "excluded_stages": "Downstream stages (A4-D) not included",
+    "life_cycle_stages": {
+      "A1": "Raw materials extraction and processing",
+      "A2": "Transport to factory",
+      "A3": "Manufacturing"
+    },
+    "raw_materials_standards": [
+      "AS/NZS 3972: General purpose and blended cements (2010)",
+      "AS 3582.1 Supplementary cementitious materials Part 1: Fly Ash (2016)",
+      "AS/NZS 4671 Steel reinforcing materials (2001)",
+      "AS 2758.1 Aggregates and rock for engineering purposes Part 1: Concrete Aggregates (2014)",
+      "AS 1478 Chemical admixtures for concrete, mortar and grout (2000)"
+    ],
+    "transport": "Raw materials transported via articulated trucks; impact based on specific supply sources for Tamworth",
+    "manufacturing_process": "Casting specially formulated Self Compacting Concrete (SCC) into reusable steel moulds, curing in controlled environment, outdoor curing, quality checks",
+    "background_data_sources": [
+      "Primary data from Humes Tamworth factory FY19 (1 July 2018 - 30 June 2019)",
+      "AusLCI and AusLCI shadow database",
+      "Supplier EPD for reinforcing steel (OneSteel, registration S-P-00855)",
+      "EPDs for admixtures from EFCA (2015)"
+    ],
+    "data_age": "Background data less than 10 years old",
+    "methodology": "In line with EN 15804; deviations recorded",
+    "averaging_method": "Weighted average concrete composition and steel content per product group; six product groups defined by product type, application, and size",
+    "allocation_rules": {
+      "shared_processes": "Allocated based on mass",
+      "fly_ash": "Environmental impacts allocated to electricity; fly ash only burdened with transport",
+      "steel_scrap": "Recycling allocation follows polluter pays principle per EN 15804 and PCR"
+    },
+    "cut_off_criteria": {
+      "capital_goods_and_personnel": "Excluded as per PCR",
+      "packaging_materials": "Estimated only due to low materiality"
+    },
+    "key_assumptions": "All SCC concrete included; weighted average composition used including <10% from neighbouring plant"
+  },
+  "transport_and_installation": {
+    "transport": "Raw materials transported to site via articulated trucks; product transport to installation site after manufacturing",
+    "installation": "Minimal excavation and backfill required for culverts; suitable for difficult site conditions"
+  },
+  "end_of_life": {
+    "information": null
+  },
+  "carbon_emission_context": {
+    "declared_unit": "1 tonne of precast reinforced concrete product manufactured in Tamworth (NSW) for infrastructure applications",
+    "environmental_indicators": {
+      "global_warming_potential": {
+        "rail_applications_small_box_culverts": 275,
+        "rail_applications_large_box_culverts": 327,
+        "rail_applications_headwalls": 325,
+        "road_applications_small_box_culverts": 252,
+        "road_applications_large_box_culverts": 295,
+        "road_applications_headwalls": 274
+      },
+      "ozone_depletion_potential": "approx. 3.7E-06 kg CFC-11 eq",
+      "acidification_potential": "approx. 0.6 to 0.9 kg SO2 eq",
+      "eutrophication_potential": "approx. 0.12 to 0.15 kg PO4 eq",
+      "photochemical_ozone_creation_potential": "approx. 0.05 to 0.09 kg C2H4 eq",
+      "abiotic_depletion_elements": "approx. 1.9E-05 to 3.8E-05 kg Sb eq",
+      "abiotic_depletion_fossil_fuels": "approx. 2.08E+03 to 2.97E+03 MJ net calorific value"
+    },
+    "variation": {
+      "global_warming_potential": "±10% for most products; some exceed +10% for POCP and ADPE",
+      "other_indicators": "Ranges provided with minimum and maximum variations per product group"
+    }
+  },
+  "recycled_materials_handling": {
+    "steel_reinforcement": "Recycling allocation follows polluter pays principle per EN 15804 and PCR; data sourced from supplier EPD",
+    "fly_ash": "Environmental impacts allocated to electricity; fly ash only burdened with transport impacts"
+  },
+  "additional_info": {
+    "safety_health_environment_management": "Holcim executive committee monitors workplace safety and environmental protection; environmental risks identified and managed",
+    "infrastructure_sustainability": "Humes is member of Infrastructure Sustainability Council of Australia (ISCA); supports IS rating scheme for sustainable infrastructure",
+    "previous_epd": "2016 EPD for reinforced concrete pipe products available at EPD Australasia website",
+    "product_mass_guides": {
+      "small_box_culvert_rail_300LA": "Provided in tonnes per unit with dimensions",
+      "large_box_culvert_rail_300LA": "Provided in tonnes per unit with dimensions",
+      "headwall_wingwall_rail_300LA": "Provided in tonnes per unit with segment details",
+      "small_box_culvert_road_SM1600": "Provided in tonnes per unit with dimensions",
+      "large_box_culvert_road_SM1600": "Provided in tonnes per unit with dimensions",
+      "headwall_wingwall_road_SM1600": "Provided in tonnes per unit with product details"
+    },
+    "contact_information": {
+      "national_sales_phone": "1300 361 601",
+      "website": "humes.com.au",
+      "email": "info@humes.com.au",
+      "head_office": {
+        "address": "18 Little Cribb St, Milton 4064 QLD",
+        "phone": "(07) 3364 2800",
+        "fax": "(07) 3364 2963"
+      },
+      "regional_offices": {
+        "Queensland": {
+          "Ipswich/Brisbane": {
+            "phone": "(07) 3814 9000",
+            "fax": "(07) 3814 9014"
+          },
+          "Rockhampton": {
+            "phone": "(07) 4924 7900",
+            "fax": "(07) 4924 7901"
+          },
+          "Townsville": {
+            "phone": "(07) 4758 6000",
+            "fax": "(07) 4758 6001"
+          }
+        },
+        "New South Wales": {
+          "Grafton": {
+            "phone": "(02) 6644 7666",
+            "fax": "(02) 6644 7313"
+          },
+          "Newcastle": {
+            "phone": "(02) 4032 6800",
+            "fax": "(02) 4032 6822"
+          },
+          "Sydney": {
+            "phone": "(02) 9832 5555",
+            "fax": "(02) 9625 5200"
+          },
+          "Tamworth": {
+            "phone": "(02) 6763 7300",
+            "fax": "(02) 6763 7301"
+          }
+        },
+        "Victoria": {
+          "Echuca": {
+            "phone": "(03) 5480 2371",
+            "fax": "(03) 5482 3090"
+          },
+          "Melbourne": {
+            "phone": "(03) 9360 3888",
+            "fax": "(03) 9360 3887"
+          }
+        },
+        "South Australia": {
+          "Adelaide": {
+            "phone": "(08) 8168 4544",
+            "fax": "(08) 8168 4549"
+          }
+        },
+        "Western Australia": {
+          "Gnangara": {
+            "phone": "(08) 9302 8000",
+            "fax": "(08) 9309 1625"
+          },
+          "Perth": {
+            "phone": "(08) 9351 6999",
+            "fax": "(08) 9351 6977"
+          }
+        },
+        "Northern Territory": {
+          "Darwin": {
+            "phone": "(08) 8984 1600",
+            "fax": "(08) 8984 1614"
+          }
+        }
+      }
+    },
+    "disclaimer": "This publication supersedes all previous literature; specifications may change; users must verify current issue; no liability accepted for reliance on information; trademarks and copyrights noted."
+  }
+}

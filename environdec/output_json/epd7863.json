@@ -1,0 +1,240 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD System",
+    "program_operator": "EPD International AB",
+    "program_operator_address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+    "program_operator_website": "www.environdec.com",
+    "program_operator_email": "infon@environdec.com",
+    "product_category_rules": [
+      "PCR 2019:14 Construction products version 1.2.5",
+      "EN 16908:2017+A:2022"
+    ],
+    "pcr_review_by": [
+      "The Technical Committee of the International EPD® System",
+      "CEN"
+    ],
+    "pcr_moderator": {
+      "name": "Martin Erlandsson",
+      "organization": "IVL Swedish Environmental Research Institute",
+      "email": "martin.erlandsson@ivl.se"
+    },
+    "third_party_verification": {
+      "verifier": "Barbara M Civit",
+      "approved_by": "The International EPD System",
+      "verification_standard": "ISO 14025:2006",
+      "follow_up_procedure": "Yes"
+    },
+    "epd_registration_number": "S-P-07863",
+    "publication_date": "2023-08-11",
+    "valid_until": "2028-08-10",
+    "lca_accountability": "Lafarge Holcim Maroc",
+    "software_used": "One Click LCA",
+    "data_year": 2021,
+    "upstream_databases": "ecoinvent database 3.6"
+  },
+  "product_description": {
+    "product_name": "Cement CLCA 45 APM (PMES)",
+    "product_reference": null,
+    "cpc_code": "37440",
+    "geographical_scope": "Morocco",
+    "production_sites": [
+      "Ouijda plant",
+      "Bouskoura plant"
+    ],
+    "manufacturer": {
+      "name": "Lafarge Holcim Morocco",
+      "address": "LafargeHolcim Maroc Casablanca BD de la mecqua, CASABLANCA Morocco",
+      "contact_email": "ADIL.HAMIMAZ@Lafargeholcim.com",
+      "website": "lafargeholcim.com",
+      "description": "Cement producer company",
+      "certifications": [
+        "ISO 14001",
+        "ISO 9001",
+        "ISO 50001"
+      ],
+      "production_sites_details": [
+        {
+          "name": "LafargeHolcim Oujda",
+          "address": "Km 45, Route Oujda-Casablanca, BP 44 code postal 60000 Oujda, OUJDA Morocco"
+        },
+        {
+          "name": "LafargeHolcim BOUSKOURA",
+          "address": "RS 109, à 30Km au Sso de Casablanca et à 17 km de Bouskoura, BP 80 CASABLANCA - BOUSKOURA Morocco"
+        }
+      ]
+    },
+    "product_description": "Cement CLC 45 PMES in accordance with the standards NM 10.1.004-2019, NM 10.1.156-2007, NM 10.1.157-2007, NM 10.1.158-2007",
+    "product_application": "Used as raw material for the production of concrete and mortar to be used in construction of buildings or public works. Designed to work in seaside and high sulphate content environment.",
+    "technical_specifications": {
+      "test_standard": "NM 10.1.005 : Liants hydrauliques : Technique des essais",
+      "properties": {
+        "RC2J": {
+          "min": 14,
+          "max": 18
+        },
+        "RC7J": {
+          "min": 23.5,
+          "max": 30.5
+        },
+        "RC28J": {
+          "min": 38,
+          "max": 44
+        },
+        "initial_setting_time": {
+          "min": 28,
+          "max": 30
+        },
+        "final_setting_time": {
+          "min": 180,
+          "max": 260
+        },
+        "Blaine_surface": {
+          "min": 3800,
+          "max": 4400
+        },
+        "Sieve_45u%": {
+          "min": 5,
+          "max": 9
+        },
+        "Hydration_heat": {
+          "min": 260,
+          "max": 50
+        },
+        "CaO_S2-": {
+          "max": 2
+        }
+      }
+    },
+    "material_content": [
+      {
+        "material": "Clinker",
+        "weight_kg": "400-600",
+        "country_of_origin": "Morocco"
+      },
+      {
+        "material": "Gypsum",
+        "weight_kg": "0-50",
+        "country_of_origin": "Morocco"
+      },
+      {
+        "material": "Puzzolana+fly ashes",
+        "weight_kg": "180-300",
+        "country_of_origin": "Morocco"
+      },
+      {
+        "material": "Slag",
+        "weight_kg": "180-300",
+        "country_of_origin": "France"
+      },
+      {
+        "material": "Additives",
+        "weight_kg": "<10",
+        "country_of_origin": "Morocco"
+      }
+    ],
+    "substances_reach_svchc": "The product does not contain any REACH SVHC substances in amounts greater than 0.1% (1000 ppm)."
+  },
+  "lca_information": {
+    "data_year": 2021,
+    "software_used": "One Click LCA",
+    "upstream_databases": "ecoinvent database 3.6",
+    "declared_unit": "1 ton",
+    "mass_per_declared_unit_kg": 1000,
+    "functional_unit": null,
+    "reference_service_life": null,
+    "biogenic_carbon_content": "There is no biogenic carbon in this product",
+    "system_boundaries": "Cradle to gate scope covering modules A1 (Raw material supply), A2 (Transport), and A3 (Manufacturing).",
+    "cut_off_criteria": "No modules or processes mandatory in EN 15804:2012+A2:2019 and PCR are excluded. No hazardous materials or substances excluded. No neglected unit process more than 1% of total mass or energy flows. Total neglected input and output flows do not exceed 5% of energy usage or mass.",
+    "allocation": {
+      "principles": [
+        "Avoid allocation if possible",
+        "If allocation needed, based on physical properties (mass, volume) when revenue difference is small",
+        "If allocation needed, based on economic values"
+      ],
+      "method_used": "Allocation made by mass",
+      "ecoinvent_allocation_method": "Allocation, cut-off by classification"
+    },
+    "averages_and_variability": "Values are weighted average of two production sites; variability less than 5%",
+    "manufacturing_and_packaging_a1_a3": {
+      "description": "Environmental impacts cover manufacturing of raw materials used in production including clinker, gypsum, limestone, fly ashes, slag, pouzzolana and additives. Packaging material not considered as dispatch is done by truck. Electricity from national network. Water used in closed circuit allocated to clinker production. Waste in cement blending and crushing process recirculated inside factory."
+    }
+  },
+  "transport_and_installation": {
+    "modules_evaluated": false,
+    "notes": "Modules A4 and A5 (Transport and installation) not evaluated."
+  },
+  "end_of_life": {
+    "modules_evaluated": false,
+    "notes": "Modules C1-C4 and D not evaluated. Product exempted from declaring these modules as per EN 15804 conditions. End of life scenarios available in EPD for concrete and mortar."
+  },
+  "carbon_emission_context": {
+    "environmental_impact_indicators": {
+      "core_indicators": {
+        "GWP_total_kg_CO2e": 523,
+        "GWP_fossil_kg_CO2e": 537,
+        "GWP_biogenic_kg_CO2e": 0.0566,
+        "GWP_LULUC_kg_CO2e": 0.251,
+        "Ozone_depletion_potential_kg_CFCue": 2.17e-05,
+        "Acidification_potential_mol_Hte": 1.58,
+        "Eutrophication_freshwater_kg_Pe": 0.00637,
+        "Eutrophication_marine_kg_Ne": 0.441,
+        "Eutrophication_terrestrial_mol_Ne": 5.08,
+        "Photochemical_ozone_formation_POCP_kg_NMVOCe": 1.29,
+        "Abiotic_depletion_minerals_metals_kg_Sbe": 0.0532,
+        "Abiotic_depletion_fossil_resources_MJ": 2580,
+        "Water_use_M3": 58.9
+      },
+      "additional_optional_indicators": {
+        "Particulate_matter_incidence": 1.27e-05,
+        "Ionizing_radiation_kBq_U235e": 10.9,
+        "Ecotoxicity_freshwater_CTUe": 6410,
+        "Human_toxicity_cancer_CTUh": 1.44e-07,
+        "Human_toxicity_non_cancer_CTUh": 5.69e-06,
+        "Soil_quality_SOP": 2120
+      },
+      "use_of_natural_resources": {
+        "Renewable_primary_energy_resources_as_energy_MJ": 192,
+        "Renewable_primary_energy_resources_as_material_MJ": 0,
+        "Total_use_of_renewable_primary_energy_resources_MJ": 192,
+        "Non_renewable_primary_energy_resources_as_energy_MJ": 2580,
+        "Non_renewable_primary_energy_resources_as_material_MJ": 0,
+        "Total_use_of_non_renewable_primary_energy_resources_MJ": 2580,
+        "Secondary_materials_kg": 0,
+        "Renewable_secondary_fuels_MJ": 0,
+        "Non_renewable_secondary_fuels_MJ": 3.13,
+        "Net_fresh_water_use_m3": null
+      },
+      "end_of_life_waste": {
+        "Hazardous_waste_kg": 0,
+        "Non_hazardous_waste_kg": 35.9,
+        "Radioactive_waste_kg": 0.0116
+      },
+      "end_of_life_output_flows": {
+        "Components_for_reuse_kg": null,
+        "Materials_for_recycling_kg": null,
+        "Materials_for_energy_recovery_kg": null,
+        "Exported_energy_MJ": null
+      },
+      "GWP_GHG_kg_CO2e": 537
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials_kg": 0,
+    "renewable_secondary_fuels_MJ": 0,
+    "non_renewable_secondary_fuels_MJ": 3.13
+  },
+  "additional_info": {
+    "health_and_safety": "Prolonged physical contact with non-low chromate cements can cause allergic skin reactions. The limit of chromium VI content to be considered as low chromate content is 2 mg/kg.",
+    "sustainability_info_url": "https://www.lafargeholcim.ma/fr/developpement-durable",
+    "references": [
+      "EN 16908:2017+A1:2022 Cement and building lime. Environmental product declaration. Product category rules complementary to EN 15804",
+      "ISO 14025:2010 Environmental labels and declarations — Type III environmental declarations. Principles and procedures.",
+      "ISO 14040:2006 Environmental management. Life cycle assessment. Principles and frameworks.",
+      "ISO 14044:2006 Environmental management. Life cycle assessment. Requirements and guidelines.",
+      "Ecoinvent database v3.6 (2019) and One Click LCA database.",
+      "EN 15804:2012+A2:2019 Sustainability in construction works — Environmental product declarations — Core rules for the product category of construction products.",
+      "Intl EPD System PCR 2019:14 Construction products version 1.2.5",
+      "Cement CLCA 45 APM (PMES) LCA background report"
+    ]
+  }
+}

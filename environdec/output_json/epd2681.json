@@ -1,0 +1,60 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "epd_registration_number": "EPD-IES-0002681",
+    "publication_date": "2021-02-04",
+    "review_date": "2024-07-30",
+    "valid_until": "2026-02-03",
+    "cen_standard": "EN 15804",
+    "pcr": "PCR 2019:14 Construction Products. Version 1.1, c-PCR-003 Concrete and concrete elements (EN 16757). Version 2019-12-20",
+    "third_party_verifier": "TECNALIA R&I Certificación S.L.",
+    "auditor": "Cristina Gazulla Santos",
+    "accredited_by": "ENAC. Accreditation no.125/C-PR283"
+  },
+  "product_description": {
+    "product_name": "Hormigones con CEM I/B y árido reciclado H25 (Estándar, Agilia and Artevia), Hormigones con CEM II/B y árido reciclado H30 (Estándar, Agilia and Artevia), Hormigones con CEM II/B y árido reciclado H35 (Estándar, Agilia)",
+    "product_description": "Holcim is a leading manufacturer and supplier of high-quality concrete, has projects and activities on road and network, collective housing.",
+    "un_cpc_code": "375 Articles of concrete, cement and plaster"
+  },
+  "lca_information": {
+    "functional_unit": "one m3 of ready-mix of concrete with a strength of 25 MPa, 30 MPa or 35 MPa which fulfils the requirements of technical behaviour referred to construction (strength and other technical characteristics) with a Reference Service Life of 100 years.",
+    "reference_service_life": "100 years",
+    "time_representativeness": "data from factory (primary data) is from 2019 and residual electricity mix from Spain in 2018",
+    "database_and_software": "Ecoinvent database version 3.5 and Simapro 9.1",
+    "system_boundaries": "Cradle to grave and Module D (A+B+C+D)"
+  },
+  "transport_and_installation": {
+    "transport": {
+      "fuel_type": "Truck of 16-32 tn. Fuel consumption: 31.1 L/100 Km",
+      "distance": "Truck: 12.16 Km",
+      "capacity_utilisation": "100%",
+      "volume_capacity_utilisation_factor": "1"
+    },
+    "installation": {
+      "auxiliary_materials": "No auxiliary material used",
+      "use_of_water": "Not used",
+      "use_of_other_resources": "No other resource consumption",
+      "wastage_of_materials": "Product losses (2%)"
+    }
+  },
+  "end_of_life": {
+    "deconstruction_demolition": "The use of diesel during the demolition process has been included.",
+    "transport_to_waste_processing": "16-32 tn truck. Fuel consumption: 25 L/100 Km, Distance: 50 km",
+    "waste_processing": "The product is 89% recycled.",
+    "disposal": "The product is 11% landfilled."
+  },
+  "carbon_emission_context": {
+    "co2_uptake": "CO2 fixed by carbonation of cement during the use phase has been included as required in c-PCR, following the methodology explained in EN 16757."
+  },
+  "recycled_materials_handling": {
+    "recycling_potential": "The product is recycled in 89%.",
+    "module_d": "The results of recycling (avoided product) is crushed gravel."
+  },
+  "additional_info": {
+    "sustainable_development": "Holcim develops its activity based on principles of sustainable development, focusing on management system, control environmental impact, contribution to the circular economy and transparent relationship with the environment.",
+    "carbon_footprint": "Holcim Spain has registered its carbon footprint for the years 2016, 2017, 2018 and 2019.",
+    "circular_economy": "Holcim aims to reuse the value of waste as resources, maximizing its life cycle.",
+    "quarry_restoration": "Holcim has been working for more than 30 years for the restoration of its quarries to generate a net positive impact on biodiversity."
+  }
+}

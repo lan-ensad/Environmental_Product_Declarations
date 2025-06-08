@@ -4,7 +4,9 @@ from pathlib import Path
 from openai import OpenAI
 import time
 
-client = OpenAI(api_key="API_KEY")
+client = OpenAI(api_key="API-key")
+
+MODEL = "gpt-4.1-mini" # best result with 'gpt-4.1-mini' 200k TPM
 
 txt_folder = Path("ocr_output")
 output_folder = Path("output_json")
@@ -36,7 +38,7 @@ def extract_json_from_txt(txt_path):
         content = file.read()
 
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model=MODEL,
         messages=[
             {"role": "system", "content": instruction_system},
             {"role": "user", "content": content}
@@ -69,8 +71,8 @@ for txt_file in txt_folder.glob("*.txt"):
         data = extract_json_from_txt(txt_file)
         with open(output_path, "w", encoding="utf-8") as out:
             json.dump(data, out, indent=2)
-        print(f"json generated : {output_path.name}\nWaiting before next API request\n...")
-        time.sleep(30) # avoid limit TPM for chat-gpt API
+        print(f"json generated : {output_path.name}\nWaiting before next API request...")
+        time.sleep(15) # avoid limit TPM for chat-gpt API
     except Exception as e:
         print(f"error {txt_file.name} : {e}")
 

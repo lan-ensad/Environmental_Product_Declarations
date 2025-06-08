@@ -1,0 +1,77 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "registration_number": "S-P-06548",
+    "publication_date": "2022-08-03",
+    "review_date": "2024-09-10",
+    "valid_until": "2027-08-01",
+    "third_party_verifier": "TECNALIA R&I Certificaciôn S.L.",
+    "auditor": "Cristina Gazulla Santos",
+    "accredited_by": "ENAC",
+    "accreditation_number": "125/C-PR283"
+  },
+  "product_description": {
+    "product_name": "ECOPact Prime: H35, H35 AGILIA and ULTRA SERIES PROYECTADO",
+    "description": "High quality concrete and mortar for structural and paving applications.",
+    "un_cpc_code": "375",
+    "manufacturer": "HOLCIM SPAIN",
+    "contact": {
+      "address": "Avenida de Manoteras 20 Edif. Tokyo 1*planta. 28050 Madrid (Spain)",
+      "website": "https://www.holcim.es/",
+      "email": "marketing.spain@holcim.com",
+      "telephone": "34 912 13 31 00"
+    }
+  },
+  "lca_information": {
+    "functional_unit": "One m3 of ready-mix of concrete/mortar",
+    "reference_service_life": "100 years",
+    "time_representativeness": "Data from 2019 and 2020",
+    "database_and_software": "Ecoinvent database version 3.8 and Simapro 9.3",
+    "system_boundaries": "Cradle to grave and Module D (A+B+C+D)",
+    "modules": {
+      "A1-A3": "Product stage",
+      "A4": "Transport",
+      "A5": "Installation",
+      "B1-B7": "Use stage",
+      "C1-C4": "End of life",
+      "D": "Reuse-Recovery-Recycling potential"
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "Truck of 16-32 tn",
+      "fuel_consumption": "43 L/100 Km",
+      "distance": "10.3 km"
+    },
+    "installation": {
+      "auxiliary_materials": "No auxiliary material used",
+      "water_use": "Not used",
+      "energy_use": "Not used",
+      "product_losses": "2%"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": "Use of diesel during demolition",
+    "transport_to_waste_processing": {
+      "vehicle_type": "16-32 tn truck",
+      "fuel_consumption": "25 L/100 Km",
+      "distance": "50 km"
+    },
+    "waste_processing": "89% recycled",
+    "disposal": "11% landfilled"
+  },
+  "carbon_emission_context": {
+    "carbon_footprint_registration": "Registered for 2016, 2017, 2018, 2019, 2020",
+    "co2_fixation": "CO2 fixed by carbonation during use phase"
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "70% recycled cement",
+    "recycling_potential": "89% recycled at end of life"
+  },
+  "additional_info": {
+    "sustainability_principles": "Management System, environmental impact control, circular economy, transparent relationship",
+    "circular_economy_commitment": "Reuse of waste as resources",
+    "quarry_restoration": "Proactive restoration for biodiversity"
+  }
+}

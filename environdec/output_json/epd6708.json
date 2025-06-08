@@ -1,0 +1,302 @@
+{
+  "epd_metadata": {
+    "programme_operator": "The International EPD System",
+    "programme_operator_address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+    "programme_operator_website": "www.environdec.com",
+    "programme_operator_email": "info@environdec.com",
+    "declaration_holder": "Holcim (Romania) SA",
+    "declaration_holder_address": "no.46D-46E-48 Pipera street, OREGON PARK: building B, floor 6, District 2, RO 020308, Bucharest, Romania",
+    "declaration_holder_phone": "+4021 2317708/09",
+    "declaration_holder_contact_person": "Georgiana Vatui",
+    "declaration_holder_email": "alexandrageorgiana.vatui@holcim.com",
+    "company_identification": {
+      "trade_register_no": "J2002000399403",
+      "vat_number": "RO 12253732"
+    },
+    "lca_consultant": {
+      "name": "ERM",
+      "address": "exchequer court, 33 St Mary Axe, London EC3A 8AA, United Kingdom",
+      "website": "Www.erm.com",
+      "contact_person": "Emma Green",
+      "email": "emma.green@erm.com"
+    },
+    "epd_registration_number": null,
+    "publication_date": "2022-08-18",
+    "version_date": "2025-04-11",
+    "valid_until": "2027-08-17",
+    "standards": [
+      "ISO 14020",
+      "ISO 14025",
+      "ISO 14040",
+      "ISO 14044",
+      "EN 15804",
+      "EN 16908",
+      "ISO 21930"
+    ],
+    "epd_type": "Environmental Product Declaration in accordance with ISO 14025:2006 and EN 15804:2012+A2:2019/AC:2021",
+    "product_group_classification": "UN CPC 3744 CEMENT",
+    "product_category_rules": "CEN Standard EN 15804:2012+A2:2019 served as the core PCR. PCR 2019:14-c-PCR-001 c-PCR-001 Cement and building lime (EN 16908) (2022-05-18)",
+    "pcr_review_conducted_by": "The Technical Committee of the International EPD System",
+    "pcr_review_chair": "Massimo Marino",
+    "third_party_verification": {
+      "type": "EPD verification",
+      "verifier": "Dr Hüdai Kara PhD",
+      "approved_by": "The International EPD System",
+      "follow_up_procedure": false
+    },
+    "epd_owner_responsibility": "The EPD owner has the sole ownership, liability, and responsibility for the EPD."
+  },
+  "product_description": {
+    "product_name": "Dorosol® special binder",
+    "manufacturer": "Holcim Romania",
+    "geographical_scope": "Romania",
+    "product_group_classification": "UN CPC 3744 CEMENT",
+    "product_description": "DOROSOLS are Holcim Romania special binders for improving cohesive soils, produced as a combination of hydraulic compounds, Portland cement clinker and quicklime, in accordance with the technical specifications in force.",
+    "intended_application": [
+      "Improving and stabilizing cohesive soils used for construction of embankments, foundation layers and form layers in geotechnical works and road construction",
+      "Improve soil with reduced mechanical strength (soil sensitive to humidity, compressible, swampy etc.)",
+      "Stabilize embankments and slopes",
+      "Increase bearing capacity of capping layers for road construction"
+    ],
+    "product_range": [
+      "DOROSOL® C30",
+      "DOROSOLS C50",
+      "DOROSOLSF"
+    ],
+    "technical_specifications": "As stipulated in the Technical Agreement",
+    "composition": {
+      "Portland cement clinker": "53-57%",
+      "Hydrated Lime": "17-18%",
+      "Bypass": "15-20%",
+      "Other": "10-11%"
+    },
+    "pbt_vpvb_status": "The binder does not meet the criteria for PBT or vPvB in accordance with Annex XIII of Regulation (EC) No. 1907/2006 (REACH). Cement/cementitious binders are exempted from REACH registration.",
+    "manufacturing_process": [
+      "Quarrying and raw material preparation",
+      "Clinker production",
+      "Cement grinding and distribution",
+      "Binder production"
+    ],
+    "manufacturing_process_details": {
+      "quarrying": "Extraction of calcareous materials like limestone or marl, and argillaceous materials like clay using drilling and blasting techniques.",
+      "crushing": "Material reduced in size by compression and/or impact in mechanical crushers.",
+      "conveying": "Raw material transported from quarry to plant using conveyors.",
+      "mixing_bed": "Crushed limestone and clay homogenized by stacking and reclaiming in layered stockpile.",
+      "raw_mill": "Raw materials milled and dried in vertical roller mill (Campulung Plant) and horizontal ball mill (Alesd Plant).",
+      "preheater": "Cyclone preheaters preheat raw material before kiln entry to increase energy efficiency.",
+      "kiln": "Rotating kiln heats raw materials up to 2000°C to form cement clinker.",
+      "binder_production": "Cement mixed with other constituents at road binder plants; cement from Alesd mixed on site, cement from Campulung transported to Pitesti for mixing."
+    },
+    "packaging": "No packaging; products delivered only in bulk with cement trucks.",
+    "additional_information": "Safety Data Sheets (SDS) publicly available on Holcim Romania portal; SDS comply with Regulation (EU) 2020/878 and Regulation (EC) No 1272/2008 (CLP)."
+  },
+  "lca_information": {
+    "goal_of_study": "Generate environmental profile of DOROSOLS binder produced and delivered from Holcim Romania locations to understand lifecycle environmental impacts and allow Type III EPD generation.",
+    "declared_unit": "1 tonne of DOROSOLS produced and delivered from Holcim Romania owned and operated locations; weighted average based on production mass of each plant.",
+    "system_boundary": "Cradle to gate stage (A to A3) covering upstream (A1) and core (A2 and A3) phases; other life cycle stages not covered (MND).",
+    "modules_included": {
+      "product_stage": [
+        "A1",
+        "A2",
+        "A3"
+      ],
+      "construction_process_stage": [],
+      "use_stage": [],
+      "end_of_life_stage": [],
+      "benefits_and_loads_beyond_system_boundary": []
+    },
+    "data_sources_and_quality": {
+      "geographical_scope": "Romania",
+      "data_collection_period": "1 January 2021 to 30 September 2021",
+      "foreground_data": "Company and site-specific data validated by mass balances",
+      "background_data": "Ecoinvent database v3.8 (cut-off) 2021",
+      "lca_software": "SimaPro v9.1",
+      "data_quality": "Very good"
+    },
+    "allocation": "Allocation performed according to EN15804:2012+A2:2019; no co-products produced; data weighted by production mass of plants (55% and 45%).",
+    "cut_off_criteria": {
+      "mass": "Inputs contributing less than 5% of mass may be excluded",
+      "energy": "Inputs contributing less than 5% of energy may be excluded",
+      "environmental_significance": "Inputs with negligible environmental relevance may be excluded",
+      "excluded_materials": [
+        "Alternative Raw Material (slag / fly ash)",
+        "Bypass dust",
+        "Fly ash / acidic fly ash (ARSN)",
+        "Granulated blast furnace slag"
+      ],
+      "excluded_secondary_fuels": [
+        "Mixed industrial waste",
+        "Petroleum sludges",
+        "Used / Waste oils",
+        "Other biomass",
+        "Sewage sludge",
+        "Fresh saw dust",
+        "Used tyres"
+      ],
+      "assumptions": [
+        "No waste produced during clinker production process",
+        "Difference between raw meal consumed and clinker produced due to water evaporation and CO2 release from decarbonation"
+      ]
+    },
+    "comparability": "EPDs within same product category but from different programmes or non-compliant with EN 15804 may not be comparable."
+  },
+  "transport_and_installation": {
+    "packaging": "No packaging; product delivered in bulk by cement trucks",
+    "transport": "Not explicitly detailed beyond delivery in bulk by cement trucks",
+    "installation": null
+  },
+  "end_of_life": {
+    "covered": false,
+    "notes": "End of life stages are not covered in this EPD (MND)."
+  },
+  "carbon_emission_context": {
+    "global_warming_potential_total_kg_CO2_eq": {
+      "A1": 161,
+      "A2": 7.73,
+      "A3": 191,
+      "A1_A3": 360
+    },
+    "global_warming_potential_ghg_kg_CO2_eq": {
+      "A1": 159,
+      "A2": 7.62,
+      "A3": 190,
+      "A1_A3": 356.6
+    },
+    "global_warming_potential_fossil_kg_CO2_eq": null,
+    "global_warming_potential_biogenic_kg_CO2_eq": null,
+    "global_warming_potential_land_use_change_kg_CO2_eq": {
+      "A1": 0.0387,
+      "A2": 0.00464,
+      "A3": 0.00926,
+      "A1_A3": 0.0526
+    },
+    "ozone_depletion_potential_kg_CFC11_eq": {
+      "A1": 9.38e-06,
+      "A2": 1.62e-06,
+      "A3": 7.86e-06,
+      "A1_A3": 1.89e-05
+    },
+    "acidification_potential_mol_H_plus_eq": {
+      "A1": 0.242,
+      "A2": 0.0387,
+      "A3": 0.27,
+      "A1_A3": 0.551
+    },
+    "eutrophication_potential_freshwater_kg_P_eq": {
+      "A1": 0.00485,
+      "A2": 0.00104,
+      "A3": 0.0583,
+      "A1_A3": 0.0642
+    },
+    "eutrophication_potential_marine_kg_N_eq": {
+      "A1": 0.0514,
+      "A2": 0.0123,
+      "A3": 0.148,
+      "A1_A3": 0.212
+    },
+    "eutrophication_potential_terrestrial_mol_N_eq": {
+      "A1": 0.57,
+      "A2": 0.134,
+      "A3": 0.593,
+      "A1_A3": 1.3
+    },
+    "photochemical_ozone_creation_potential_kg_NMVOC_eq": {
+      "A1": 0.21,
+      "A2": 0.041,
+      "A3": 0.409,
+      "A1_A3": 0.66
+    },
+    "abiotic_depletion_potential_minerals_metals_kg_Sb_eq": {
+      "A1": 6e-05,
+      "A2": 2.15e-05,
+      "A3": 4.43e-05,
+      "A1_A3": 0.000126
+    },
+    "net_calorific_value_MJ": {
+      "A1": 759,
+      "A2": 117,
+      "A3": 1140,
+      "A1_A3": 2016
+    },
+    "water_scarcity_m3_world_eq": {
+      "A1": 6.55,
+      "A2": 0.583,
+      "A3": 36.7,
+      "A1_A3": 43.8
+    },
+    "non_hazardous_waste_disposed_kg": {
+      "A1": 4.74,
+      "A2": 9.11,
+      "A3": 2.91,
+      "A1_A3": 16.8
+    },
+    "radioactive_waste_disposed_kg": {
+      "A1": 0.00491,
+      "A2": 0.00076,
+      "A3": 0.00821,
+      "A1_A3": 0.0139
+    },
+    "components_for_reuse_kg": {
+      "A1": 351,
+      "A2": 0,
+      "A3": 0,
+      "A1_A3": 351
+    },
+    "material_for_recycling_kg": {
+      "A1": 0,
+      "A2": 0,
+      "A3": 0,
+      "A1_A3": 0
+    },
+    "materials_for_energy_recovery_kg": null,
+    "exported_energy_electrical_MJ": {
+      "A1": 0,
+      "A2": 0,
+      "A3": 0.167,
+      "A1_A3": 0.167
+    },
+    "exported_energy_thermal_MJ": {
+      "A1": 0,
+      "A2": 0,
+      "A3": 0.222,
+      "A1_A3": 0.222
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials_excluded": [
+      "Alternative Raw Material (slag / fly ash)",
+      "Bypass dust",
+      "Fly ash / acidic fly ash (ARSN)",
+      "Granulated blast furnace slag"
+    ],
+    "secondary_fuels_excluded": [
+      "Mixed industrial waste",
+      "Petroleum sludges",
+      "Used / Waste oils",
+      "Other biomass",
+      "Sewage sludge",
+      "Fresh saw dust",
+      "Used tyres"
+    ],
+    "modelling_of_secondary_fuels": "Secondary fuels are modelled to enter the studied system free of environmental loads; emissions during production allocated to produced products."
+  },
+  "additional_info": {
+    "sustainability_strategy": "Holcim Romania implements and continuously improves an integrated management system aiming to become a NET ZERO company, in accordance with SR EN ISO 9001:2015, SR EN ISO 14001:2015, SR ISO 45001:2023, BES circular 6001:2022.",
+    "safety_data_sheets": "Available on Holcim Romania portal; comply with Regulation (EU) 2020/878 and Regulation (EC) No 1272/2008 (CLP).",
+    "lca_software": "SimaPro v9.1",
+    "background_database": "Ecoinvent v3.8 (cut-off) 2021",
+    "references": [
+      "Boulay et al (2017). The WULCA consensus characterization model for water scarcity footprint.",
+      "Centrum voor Milieuwetenschappen Leiden (CML) (2012). CML-IA baseline v4.1 / EU25 characterisation factors.",
+      "PCR 2019_14 Construction Products (EN 15804+2) Cement and Building Lime (EN 16908:2017) C-PCR-001 (To PCR 2019:14) Version: 2019-12-20",
+      "Ecoinvent (2017). Ecoinvent v3.4, Swiss Centre for Life Cycle Inventories.",
+      "Guo (2012). Life Cycle Assessment (LCA) of Light-Weight Eco-composites.",
+      "Huijbregts et al. ReCiPe 2016: a harmonized life cycle impact assessment method.",
+      "ISO 14020:2000, ISO 14025:2006, ISO 14040:2006, ISO 14044:2006, ISO/TS 14067:2013, ISO 14046:2014",
+      "IPCC (2007, 2006). Guidelines and reports on greenhouse gas inventories.",
+      "JRC (2011). ILCD Handbook: recommendations for life cycle impact assessment.",
+      "Pre Consultants (2019). SimaPro v9.",
+      "Weidema et al (2013). Data quality guideline for the ecoinvent database version 3."
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "epd_owner_address": "Level 40, Northpoint Tower, 100 Miller St, North Sydney NSW 2060, Australia",
+    "epd_owner_phone": "+61 2 9412 6600",
+    "epd_owner_website": "www.holcim.com.au",
+    "programme_operator": "EPD International AB",
+    "programme_operator_address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+    "programme_operator_email": "info@environdec.com",
+    "regional_programme_operator": "EPD Australasia Limited",
+    "regional_programme_operator_address": "315a Hardy Street Nelson 7010, New Zealand",
+    "regional_programme_operator_website": "www.epd-australasia.com",
+    "regional_programme_operator_email": "info@epd-australasia.com",
+    "regional_programme_operator_phone": "+61 2 8005 8206",
+    "epd_produced_by": "Edge Environment Pty Ltd",
+    "epd_produced_by_address": "Level 3, Greenhouse, 180 George Street, Sydney NSW 2000 Australia",
+    "epd_produced_by_website": "www.edgeimpact.global",
+    "epd_produced_by_phone": "+61 2 9438 0100",
+    "epd_process_certified_by": "Epsten Group",
+    "epd_process_certified_by_address": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+    "epd_process_certified_by_website": "www.epstengroup.com",
+    "epd_registration_number": "EPD-IES-18534:001",
+    "valid_from": "22/4/2025",
+    "valid_until": "22/4/2030",
+    "revision_date": "22/4/2025",
+    "revision_number": 1,
+    "epd_process_geographical_scope": "Australia",
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2025 Mix/Materials Data",
+    "standards": [
+      "ISO 14025",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+      "c-PCR-003 Concrete and Concrete Elements, 2024-04-30"
+    ],
+    "accreditation_body": "Epsten Group, Inc.",
+    "third_party_verifier": "Megan Blizzard",
+    "third_party_verifier_accreditation": "A2LA, Certificate #3142.03"
+  },
+  "product_description": {
+    "product_name": "Ready-Mix Concrete",
+    "product_code": "NSW - Coffs Coast - ECOPact- NE201L2",
+    "functional_unit": "1 m³ of ready-mix concrete",
+    "product_use": "Concrete prepared by mixing cement, coarse and fine aggregates, and water, with or without auxiliary agents and additives, placed on building site or prefabricated in factory moulds, compacted and hardened by hydration of cement.",
+    "product_classes": {
+      "normal_class": "Designed for everyday applications such as residential and commercial foundations, driveways and footpaths.",
+      "special_class": "Supplied to major construction projects including high rise buildings, dams, spillways, roads, bridges, public works infrastructure; includes high-strength, high-durability, marine application, post-tensioned, high-pumpability, super workable, piling concrete, architectural off-form finishes and decorative applications."
+    },
+    "production_sites": [
+      "Coffs Harbour",
+      "Woolgoolga",
+      "Grafton"
+    ],
+    "content_declaration": {
+      "gross_weight_per_m3": 2400,
+      "materials": {
+        "general_purpose_cement": "5-21%",
+        "aggregate": "67-84%",
+        "supplementary_cementitious_materials": "0-11%",
+        "water": "11.6-12%"
+      },
+      "biogenic_material_weight_percent": 0.0,
+      "recycled_material_weight_percent": 0.0
+    },
+    "dangerous_goods_classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail",
+    "hazardous_substances": "None of the products contain substances listed in the Candidate List of Substances of Very High Concern for authorisation exceeding 0.1% by weight",
+    "packaging": "Delivered in bulk with no packaging"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "scope": "Cradle to gate (modules A1-A3) with options modules A4-A5, modules C1-C4 and module D",
+    "reference_service_life": null,
+    "time_representativeness": {
+      "plant_data": "2022 calendar year",
+      "mix_data": "2025 calendar year"
+    },
+    "databases_and_software": {
+      "lca_software": "SimaPro® LCA software (v 9.5)",
+      "background_data_preferences": [
+        "Product specific EPDs for cements, admixtures, pigments and fibres",
+        "Australian National Life Cycle Inventory Database (AusLCI v1.42) (2023)",
+        "Ecoinvent 3.9.1 (2023)"
+      ],
+      "manual_calculated_impact_categories": [
+        "Use of renewable primary energy resources used as raw materials",
+        "Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials",
+        "Use of secondary material",
+        "Use of renewable secondary fuels",
+        "Use of non-renewable secondary fuels"
+      ]
+    },
+    "allocation": {
+      "method": "Physical allocation based on weight at quarry and m³ of concrete at batching plant; economic allocation used when physical allocation not possible",
+      "fly_ash_and_silica_fumes": "Assumed waste products and burden-free",
+      "ground_granulated_blast_furnace_slag": "Allocated economically"
+    },
+    "cut_off_criteria": {
+      "excluded": [
+        "Environmental impact from infrastructure, construction, production equipment, and tools not directly consumed",
+        "Personnel-related impacts such as transportation to and from work"
+      ],
+      "included": "All materials required for manufacturing delivered via trucks and ships without packaging"
+    },
+    "data_quality": {
+      "geographic_representativeness": "Good to very good for all data sources",
+      "temporal_representativeness": "All data updated within 10 years as required under PCR 2019:14",
+      "specific_data_quality": {
+        "cement_supplier_data": "Very good",
+        "cementitious_supplementary_materials": "Good",
+        "electricity": "Very good",
+        "diesel": "Very good",
+        "LPG": "Very good",
+        "pollutants_data": "Very good",
+        "mains_water": "Very good",
+        "recycled_aggregates": "Good",
+        "admixtures": "Good",
+        "oxides": "Good",
+        "fibres": "Good",
+        "transport_data": "Very good"
+      }
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "EUROS 28t - 32t trucks",
+      "average_transport_distance": 11.77,
+      "fuel_use_per_km": 0.0197,
+      "fuel_type": "Diesel",
+      "carrying_capacity_tonnes": 28,
+      "density_of_products_kg_per_m3": 2400,
+      "average_load_factor_percent": 50
+    },
+    "installation": {
+      "operational_control": "Holcim does not have operational control over installation",
+      "assumptions": {
+        "concrete_losses_to_landfill_percent": 3,
+        "water_use_liters": 669,
+        "electricity_use_kWh": 2.78,
+        "diesel_use_liters": 1.67,
+        "wastewater_liters": 0.669
+      },
+      "installation_process": "Pouring concrete from ready-mix truck and pump, manual finishing; excludes pre-installation activities"
+    }
+  },
+  "end_of_life": {
+    "control": "No operational control by Holcim",
+    "assumptions": {
+      "deconstruction_process": "Physical process of drilling and removing concrete using hydraulic excavator",
+      "diesel_use_deconstruction": 0.131,
+      "transport_distance_to_processing_km": 25,
+      "waste_processing": "Concrete recycling",
+      "waste_processing_amount_kg": 1920,
+      "final_disposal": "Inert waste landfill",
+      "final_disposal_amount_kg": 480,
+      "recycling_rate_percent": 80
+    },
+    "benefits_and_loads_beyond_system_boundary": "Recycling and recovery of waste concrete into recycled aggregate replacing virgin coarse aggregate"
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions_building_environment_percent": 39,
+    "construction_materials_co2_emissions_percent": 11,
+    "targets": {
+      "2030_embodied_carbon_reduction_percent": 40,
+      "2050_net_zero_construction_materials": true
+    },
+    "carbonation": {
+      "description": "Natural process of CO2 absorption by concrete during use stage onward",
+      "considered_in_epd": false,
+      "standard_for_calculation": "BS EN 16757:2017",
+      "note": "Not reflected in EPD results tables"
+    }
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_method": {
+      "fly_ash": "Treated as waste material, only transport impacts included",
+      "ground_granulated_blast_furnace_slag": "Allocated economically due to significant economic value",
+      "silica_fume": "Treated as waste material, only transport impacts included"
+    },
+    "background_data_allocation": "AusLCI LCA database allocation approach adopted for secondary data and processes",
+    "recycled_aggregates": {
+      "source": "Ecoinvent database 2023",
+      "quality": "Good"
+    }
+  },
+  "additional_info": {
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2025 Mix/Materials Data",
+    "standards_and_pcr": [
+      "ISO 14025",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+      "c-PCR-003 Concrete and Concrete Elements, 2024-04-30"
+    ],
+    "environmental_impact_indicators": {
+      "primary_indicators": [
+        "Global warming potential (GWP-Total, GWP-Fossil, GWP-Biogenic, GWP-Luluc)",
+        "Ozone depletion potential (ODP)",
+        "Acidification potential (AP)",
+        "Eutrophication (freshwater, marine, terrestrial)",
+        "Photochemical ozone creation potential (POCP)",
+        "Abiotic depletion potential (elements and fossil fuels)",
+        "Water depletion potential (WDP)"
+      ],
+      "resource_use_parameters": [
+        "Use of renewable primary energy excluding raw materials",
+        "Total use of renewable primary energy",
+        "Use of non-renewable primary energy",
+        "Use of secondary material",
+        "Use of non-renewable secondary fuels"
+      ],
+      "waste_categories_and_output_flows": [
+        "Hazardous waste disposed",
+        "Non-hazardous waste disposed",
+        "Radioactive waste disposed/stored",
+        "Components for reuse",
+        "Materials for recycling",
+        "Materials for energy recovery",
+        "Exported energy (electrical and thermal)"
+      ],
+      "additional_environmental_impact_indicators": [
+        "Global warming potential excluding biogenic uptake",
+        "Particulate matter",
+        "Ionising radiation",
+        "Eco-toxicity (freshwater)",
+        "Human toxicity (cancer and non-cancer effects)",
+        "Soil quality"
+      ],
+      "additional_green_star_indicators": [
+        "Human toxicity cancer",
+        "Human toxicity non-cancer",
+        "Land use",
+        "Ionising radiation",
+        "Particulate matter",
+        "Water scarcity indicator"
+      ]
+    },
+    "system_boundaries": {
+      "modules_declared": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "D"
+      ],
+      "modules_not_declared": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "excluded_lifecycle_stages": [
+        "Material emissions from usage (B1)",
+        "Maintenance (B2)",
+        "Repair (B3)",
+        "Replacement (B4)",
+        "Refurbishment (B5)",
+        "Operational energy use (B6)",
+        "Operational water use (B7)"
+      ]
+    },
+    "contact_information": {
+      "customer_service_centre": "131 188",
+      "company_abn": "87 099 732 297",
+      "disclaimer": "This publication provides general information only and is no substitute for professional technical engineering advice. Users must make their own determination as to the suitability of this information or any Holcim product for their specific circumstances. Holcim accepts no liability for any loss or damage resulting from their specific circumstances or reliance on the information provided."
+    }
+  }
+}

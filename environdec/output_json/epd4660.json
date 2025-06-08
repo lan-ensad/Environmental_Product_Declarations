@@ -1,0 +1,167 @@
+{
+  "epd_metadata": {
+    "epd_registration_number": "S-P-04660",
+    "valid_from": "27 January 2022",
+    "version_number": "3.0",
+    "reversion_date": "24 April 2024",
+    "description_of_changes": "Additional mixes added.",
+    "programme_operator": "Epsten Group",
+    "programme_operator_address": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+    "programme_operator_website": "www.epstengroup.com",
+    "epd_process_certification": "Epsten Group, Inc., Katherine McFeaters; Accredited by: A2LA, Certificate #3142.03",
+    "independent_third_party_verification": "According to ISO 14025:2006",
+    "product_category_rules": "PCR 2019:14 Construction Products, Version 1.11, 2019-02-05",
+    "core_pcr_standard": "CEN standard EN 15804:2012+A2:2019",
+    "epd_owner": {
+      "name": "Holcim (Australia) Pty Ltd",
+      "address": "Level 7, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+      "phone": "+61 2 9412 6600",
+      "website": "www.holcim.com.au"
+    },
+    "epd_australasia": {
+      "address": "315a Hardy Street Nelson, 7010, New Zealand",
+      "email": "info@epd-australasia.com",
+      "phone": "+61 2 8005 8206",
+      "website": "www.epd-australasia.com"
+    },
+    "epd_international": {
+      "address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+      "email": "info@environdec.com"
+    }
+  },
+  "product_description": {
+    "product_name": "ViroDecs™ Ready-mix concrete South Australia - Adelaide - ECOPact Range",
+    "product_type": "Ready-mix concrete",
+    "product_use": "Construction material for residential, high-end, and infrastructure projects including high-rise buildings, dams, spillways, roads, bridges, and public works infrastructure.",
+    "strength_classes": [
+      "Normal-class: designed for residential applications, low rise buildings, paving, driveways etc.",
+      "Special-class: allows incorporation of special requirements such as high-strength, high durability, marine application, post-tensioned, high-pumpability, super workable, piling concrete, architectural off-form finishes, and decorative applications."
+    ],
+    "mix_codes_and_descriptions": {
+      "SE202E": "S20 MPa 20mm 100SL ECOPact Mix CONC",
+      "SE202E2": "S20 MPa 20mm 120SL ECOPact Mix CONC",
+      "SE202E3": "S20 MPa 20mm 150SL ECOPact Mix CONC",
+      "SE252E": "S25 MPa 20mm 100SL ECOPact Mix CONC",
+      "SE252E2": "S25 MPa 20mm 120SL ECOPact Mix CONC",
+      "SE252E3": "S25 MPa 20mm 150SL ECOPact Mix CONC",
+      "SE322E": "S32 MPa 20mm 100SL ECOPact Mix CONC",
+      "SE322E2": "S32 MPa 20mm 120SL ECOPact Mix CONC",
+      "SE322E3": "S32 MPa 20mm 150SL ECOPact Mix CONC",
+      "SE402E": "S40 MPa 20mm 100SL ECOPact Mix CONC",
+      "SE402E2": "S40 MPa 20mm 120SL ECOPact Mix CONC",
+      "SE402E3": "S40 MPa 20mm 150SL ECOPact Mix CONC",
+      "SE502E": "S50 MPa 20mm 100SL ECOPact Mix CONC",
+      "SE502E2": "S50 MPa 20mm 120SL ECOPact Mix CONC",
+      "SE502E3": "S50 MPa 20mm 150SL ECOPact Mix CONC",
+      "SE502E5": "S50 MPa 20mm 200SL ECOPact Mix CONC",
+      "SE401E3": "S40 MPa 10mm 150SL ECOPact Mix CONC",
+      "SE401E5": "S40 MPa 10mm 200SL ECOPact Mix CONC",
+      "SE501E2": "S50 MPa 10mm 120SL ECOPact Mix CONC",
+      "SE501E3": "S50 MPa 10mm 150SL ECOPact Mix CONC",
+      "SE501E5": "S50 MPa 10mm 200SL ECOPact Mix CONC",
+      "SE651E3": "S65 MPa 10mm 150SL ECOPact Mix CONC",
+      "SE651E5": "S65 MPa 10mm 200SL ECOPact Mix CONC",
+      "SE652E5": "S65 MPa 10mm 200SL ECOPact Mix CONC",
+      "SE401EAV": "S40 10mm/20mm 680SPRD ECOPact SCC CONC",
+      "SE402EAV": "S50 10mm/20mm 680SPRD ECOPact SCC CONC",
+      "SE501EAV": "S65 10mm/20mm 680SPRD ECOPact SCC CONC",
+      "SE502EAV": "ECOPact S40 20mm 240SLUMP CONC"
+    },
+    "content_declaration": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail"
+  },
+  "lca_information": {
+    "declared_unit": "1 m3 of ready-mix concrete",
+    "reference_service_life": "Not specified (scope is cradle to gate)",
+    "time_representativeness": {
+      "plant_data": "2017 calendar year production data",
+      "mix_data": "2024 calendar year production data"
+    },
+    "databases_and_software_used": [
+      "SimaPro® LCA software (v 9.1)",
+      "Australian National Life Cycle Inventory Database (AusLCI) (2018)",
+      "Ecoinvent 3.6 (2019)",
+      "Global Cement and Concrete (GCCA) EPD Tool Project Database version 3.1 (International Version) (2021)",
+      "Product specific EPDs for pigments and fibres"
+    ],
+    "allocation": {
+      "method": "Physical allocation based on weight (quarries) or m3 of concrete (batching plant); economic allocation when physical not possible",
+      "assumptions": {
+        "fly_ash": "Waste product, burden-free",
+        "silica_fume": "Waste product, burden-free",
+        "ground_granulated_blast_furnace_slag": "Allocated economically"
+      }
+    },
+    "cut_off_criteria": "No flows excluded on basis of cut-off criteria",
+    "data_quality": {
+      "foreground_data": "Medium or higher for geographic and temporal representativeness",
+      "background_data": "Updated within 10 years as required under PCR 2019:14 version 1.11"
+    },
+    "system_boundaries": "Cradle to gate; excludes life cycle stages beyond Holcim's gate and environmental impacts relating to personnel, infrastructure and production equipment not directly consumed in the process"
+  },
+  "transport_and_installation": {
+    "transport_modes": [
+      "Transoceanic freight ship",
+      "Rigid truck",
+      "Domestic freight ship"
+    ],
+    "on_site_transport": "Included",
+    "packaging_waste": "Estimated based on researched packaging material and sizes; default background data from LCA databases used"
+  },
+  "end_of_life": {
+    "description": "Not included in LCA; described for whole-of-life building studies",
+    "scenarios": [
+      "Disposal of concrete at landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete: (a) crushed concrete substitutes primary material without further processing, (b) substitution of natural aggregates in fresh concrete"
+    ],
+    "note": "Scenarios 2, 3 and 4 can result in benefits and loads outside system boundary and should be considered in whole-of-life studies"
+  },
+  "carbon_emission_context": {
+    "global_demand": "Growing due to population growth and urbanisation",
+    "concrete_usage": "Second most used commodity worldwide after water",
+    "concrete_impact": "Major contributor to embodied GHG emissions in infrastructure and property assets",
+    "carbonation_process": "Natural absorption of CO2 by concrete over its lifetime (not included in this EPD)",
+    "carbonation_standard": "BS EN 16757:2017",
+    "offset_note": "CO2 absorption not considered in this EPD and not reflected in results"
+  },
+  "recycled_materials_handling": {
+    "fly_ash": {
+      "treatment": "Treated as waste material, burden-free except transport impacts",
+      "source": "AusLCI process"
+    },
+    "silica_fume": {
+      "treatment": "Treated as waste material, burden-free except transport impacts",
+      "source": "Ecoinvent process"
+    },
+    "ground_granulated_blast_furnace_slag": {
+      "treatment": "Allocated economically due to significant economic value at collection",
+      "source": "AusLCI process"
+    },
+    "allocation_approach": "AusLCI LCA database allocation approach adopted for secondary data and processes"
+  },
+  "additional_info": {
+    "sustainability_commitment": "Holcim has industry’s first 2050 net-zero targets endorsed by Science Based Targets initiative (SBTi)",
+    "epd_process_certification": "First for concrete and any product in Australia; enables in-house compliant EPD production",
+    "data_sources": [
+      "Electricity provider invoices",
+      "Supplier invoices",
+      "National Pollution Inventory (NPI) data",
+      "Water utility invoices",
+      "Metered withdrawal data",
+      "Measured site data",
+      "Holcim waste records",
+      "Actual transport distances and loads per trip"
+    ],
+    "disclaimer": "This publication supersedes all previous literature; specifications may change; users must determine suitability; Holcim accepts no liability for loss or damage from reliance on this information",
+    "trademarks": "“Strength. Performance. Passion.” and “ViroDecs” are trademarks of Holcim (Australia) Pty Ltd"
+  }
+}

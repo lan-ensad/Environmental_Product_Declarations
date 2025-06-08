@@ -1,0 +1,408 @@
+{
+  "epd_metadata": {
+    "epd_title": "Environmental Product Declaration Reinforced Concrete Pipes (RCP)",
+    "manufacturer": "Humes",
+    "manufacturing_location": "Welshpool, Australia",
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "regional_program": "EPD Australasia",
+    "epd_registration_number": "EPD-IES-0013575:001",
+    "version": "1.0",
+    "publication_date": "2024-07-29",
+    "valid_until": "2029-07-29",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022-01-01 to 2022-12-31",
+    "standards": [
+      "ISO 14025:2006",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "PCR 2019:14 Construction Products, Version 1.3.3, 2024-03-01",
+      "c-PCR-003 Concrete and concrete elements, version 2023-01-02"
+    ],
+    "verification": {
+      "independent_verifier": "Jeff Vickers, thinkstep-anz",
+      "verification_standard": "ISO 14025",
+      "third_party_verifier_accredited_by": "EPD Australasia",
+      "follow_up_procedure": "No"
+    },
+    "declaration_owner": {
+      "company": "Holcim (Australia) Pty Ltd",
+      "address": "Level 7, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+      "website": "www.holcim.com.au",
+      "phone": "+61 2 9412 6600"
+    },
+    "program_operator_contact": {
+      "address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+      "email": "info@environdec.com"
+    },
+    "regional_program_operator_contact": {
+      "address": "315a Hardy Street, Nelson 7010, New Zealand",
+      "website": "www.epd-australasia.com",
+      "email": "info@epd-australasia.com",
+      "phone": "+61 2 8005 8206"
+    },
+    "lca_producer": {
+      "company": "start2see Pty Ltd",
+      "address": "36 Renaissance Bvd, Mernda, VIC 3754, Australia",
+      "website": "www.start2see.com.au",
+      "email": "Rob.Rouwette@start2see.com.au",
+      "phone": "+61 403 834 470"
+    }
+  },
+  "product_description": {
+    "product_name": "Reinforced Concrete Pipes (RCP)",
+    "product_range": "Wide range of diameters, lengths, load and exposure classes",
+    "primary_application": "Non-pressure stormwater drainage pipelines",
+    "other_applications": [
+      "Sewerage",
+      "Pressure pipe applications",
+      "Jacking and shaft components of access chambers"
+    ],
+    "materials": [
+      "Coarse and fine aggregates",
+      "Cement",
+      "Water",
+      "Hard-drawn deformed steel reinforcement",
+      "Supplementary cementitious materials (SCMs)",
+      "Chemical admixtures",
+      "Rubber rings"
+    ],
+    "joint_types": [
+      "Flush Joint (FJ)",
+      "Rubber Ring Joint (RRJ)"
+    ],
+    "standard_lengths": "2.44 metre effective lengths",
+    "diameter_range": "DN300 to DN2100",
+    "strength_classes": [
+      "Standard-strength (class 2-4)",
+      "Super-strength (class 6-10)"
+    ],
+    "representative_product": "Class 4 DN 600 Freshwater pipes",
+    "product_hazard_info": {
+      "hazardous_substances": "None above 0.1% SVHOC as per European REACH",
+      "dust_classification": "Hazardous due to crystalline silica content",
+      "transport_classification": "Non-dangerous goods according to Australian Code for Transport of Dangerous Goods"
+    },
+    "product_classifications": {
+      "UN_CPC": "375 - Concrete",
+      "ANZSIC": "2034 - Concrete Product Manufacturing"
+    },
+    "product_content_percentages": {
+      "General Purpose Cement": "10-18%",
+      "Fly Ash": "0%",
+      "Ground granulated blast furnace slag (GGBFS)": "0%",
+      "Coarse & Fine aggregates": "71-78%",
+      "Water": "5-7%",
+      "Admixtures": "<0.10%",
+      "Reinforcement steel": "0.1-9.7%",
+      "Rubber rings": "<0.1%"
+    }
+  },
+  "lca_information": {
+    "scope": "Cradle-to-gate with options (A1-A3, A4, A5), modules C1-C4, and module D",
+    "excluded_modules": [
+      "B1",
+      "B2",
+      "B5",
+      "B6",
+      "B7"
+    ],
+    "life_cycle_modules_included": [
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "D"
+    ],
+    "functional_unit": "1 tonne of reinforced concrete pipe including rubber rings, installed using H1 bedding type",
+    "manufacturing_process": "Centrifugal spun process with curing chamber",
+    "transport_modes": {
+      "raw_materials_to_factory": "Rigid or articulated trucks",
+      "factory_to_site": "Road transport",
+      "end_of_life_transport": "Truck, 16 to 28t fleet average"
+    },
+    "allocation": {
+      "concrete_products": "Mass-based allocation",
+      "steel_scrap": "Zero value allocation",
+      "fly_ash": "Economic allocation with zero value",
+      "steel_slag": "Economic allocation using AusLCI data",
+      "silica_fume": "Economic allocation",
+      "steel_scrap_in_reinforcement": "Polluter pays principle"
+    },
+    "cut_off_criteria": {
+      "energy_usage": "1% renewable and non-renewable primary energy",
+      "mass_input": "1% total mass input",
+      "environmental_impacts": "1% total environmental impacts",
+      "excluded_items": [
+        "Packaging for admixtures, rubber rings, mould oil (below cut-off)",
+        "Rubber ring lubricant (negligible amount)",
+        "Capital goods and personnel (less than 10% GWP-GHG)"
+      ]
+    },
+    "background_data_sources": [
+      "Supplier EPDs for cement and steel",
+      "ecoinvent v3.9.1",
+      "AusLCI and AusLCI shadow database v1.42",
+      "EFCA EPDs for admixtures"
+    ],
+    "electricity_mix": {
+      "description": "Adjusted AusLCI data representing residual Australian grid mix without renewables",
+      "composition": {
+        "black_coal": "53.9%",
+        "brown_coal": "17.3%",
+        "natural_gas": "26.3%",
+        "oil_products": "2.5%"
+      },
+      "GWP_GHG": "0.91 kg CO2e / kWh",
+      "contribution_to_A1-A3_GWP": "5-15%"
+    }
+  },
+  "transport_and_installation": {
+    "transport_to_factory": {
+      "mode": "Truck",
+      "details": "Rigid or articulated trucks, specific supply sources per site"
+    },
+    "transport_to_site": {
+      "mode": "Road",
+      "average_distribution_distances": "Weighted average delivery scenario per site",
+      "return_transport": "Empty"
+    },
+    "installation": {
+      "included_in_LCA": true,
+      "installation_type": "Trench type installation only",
+      "processes": [
+        "Excavation of trench",
+        "Placement and compaction of bedding materials",
+        "Placement of RCP",
+        "Filling and compaction of trench"
+      ],
+      "bedding_types": {
+        "H1": "Haunch support, 50% compaction",
+        "H2": "Haunch support, 60% compaction",
+        "H3": "Haunch support, 70% compaction",
+        "HS1": "Haunch and Side support, 10% side zone",
+        "HS2": "Haunch and Side support, 30% side zone",
+        "HS3": "Haunch and Side support, 30% side zone",
+        "U": "Unsupported fill"
+      },
+      "installation_parameters_for_DN600": {
+        "trench_width": "1000 mm",
+        "bed_zone_volume": "0.110 m³/m or 0.056 m³/tonne",
+        "haunch_zone_volume": "0.055 m³/m or 0.028 m³/tonne",
+        "side_and_overlay_zone_volume": "0.457 m³/m or 0.234 m³/tonne",
+        "backfill_volume": "1.000 m³/m or 0.513 m³/tonne",
+        "sand_usage": "334 kg/m (171 kg/tonne) for bed and haunch zones",
+        "sand_transport_distance": "50 km",
+        "diesel_usage": "0.13 L/t for excavation and 0.13 kg/t for pipe placing",
+        "excess_soil_volume": "876 kg/m (449 kg/tonne)",
+        "excess_soil_transport_distance": "50 km"
+      },
+      "note": "Installation impacts expressed per metre of pipe length; impacts correlate strongly with pipe diameter"
+    }
+  },
+  "end_of_life": {
+    "scenarios": [
+      "Left in ground, abandoned",
+      "Exhumed and recycled"
+    ],
+    "left_in_ground": {
+      "module_C1_activity": "None",
+      "module_C2_activity": "None",
+      "module_C3_activity": "None",
+      "module_C4_activity": "Emissions from concrete waste disposed to landfill considered",
+      "disposal": "Landfilling assumed",
+      "collection_process": 0,
+      "transport_from_demolition_site": 0,
+      "recovery_system": 0,
+      "disposal_to_landfill": 1000
+    },
+    "exhumed_and_recycled": {
+      "module_C1_activity": "Pipe removal included; excavation and backfilling part of next pipe life cycle and excluded",
+      "module_C2_activity": "Transport to recycling or sorting yard included",
+      "module_C3_activity": "Crushing of pipes into concrete rubble and steel scrap",
+      "module_C4_activity": "Physical pre-treatment and disposal site management",
+      "collection_process": 1000,
+      "transport_distance": "50 km",
+      "disposal_to_landfill": 0,
+      "assumptions": [
+        "1 m3 excavation equals removing 1 tonne of pipe",
+        "New pipe installation assumed after removal",
+        "Excavation included in next life cycle (A5), not double counted"
+      ]
+    }
+  },
+  "carbon_emission_context": {
+    "GWP_indicators": {
+      "GWP-total": "Includes indirect radiative forcing, based on EU JRC EF 3.0 package",
+      "GWP-GHG": "GWP-total with biogenic CO2 set to zero",
+      "GWP-GHG_IPCC_AR5": "Based on IPCC AR5 100-year horizon, aligned with Australian reporting"
+    },
+    "LCA_results_representative_product": {
+      "product": "Class 4, DN600, Freshwater RRJ pipe, Welshpool",
+      "modules": {
+        "A1": {
+          "GWP-total": 258,
+          "GWP-fossil": 259,
+          "GWP-biogenic": -1.3,
+          "GWP-luluc": 0.0406,
+          "ODP": 1e-05,
+          "AP": 1.14,
+          "EP-freshwater": 0.00373,
+          "EP-marine": 0.298,
+          "EP-terrestrial": 3.32,
+          "POCP": 0.987,
+          "ADP_fossil": 2290,
+          "Water_use": 206,
+          "GWP-GHG": 258
+        },
+        "A2": {
+          "GWP-total": 89.1,
+          "GWP-fossil": 89.1,
+          "GWP-biogenic": 0.0061,
+          "GWP-luluc": 4.14e-05,
+          "ODP": 1.38e-05,
+          "AP": 0.77,
+          "EP-freshwater": 5.26e-06,
+          "EP-marine": 0.242,
+          "EP-terrestrial": 2.65,
+          "POCP": 0.647,
+          "ADP_fossil": 1200,
+          "Water_use": 7.71,
+          "GWP-GHG": 89.1
+        },
+        "A3": {
+          "GWP-total": 38.6,
+          "GWP-fossil": 38.6,
+          "GWP-biogenic": 0.0115,
+          "GWP-luluc": 1.71e-05,
+          "ODP": 5.64e-06,
+          "AP": 0.326,
+          "EP-freshwater": 4.76e-06,
+          "EP-marine": 0.109,
+          "EP-terrestrial": 1.2,
+          "POCP": 0.291,
+          "ADP_fossil": 526,
+          "Water_use": 73.7,
+          "GWP-GHG": 38.0
+        },
+        "A4": {
+          "GWP-total": 0,
+          "GWP-fossil": 0,
+          "GWP-biogenic": 0,
+          "GWP-luluc": 0,
+          "ODP": 0,
+          "AP": 0,
+          "EP-freshwater": 0,
+          "EP-marine": 0,
+          "EP-terrestrial": 0,
+          "POCP": 0,
+          "ADP_fossil": 0,
+          "Water_use": 0,
+          "GWP-GHG": 0
+        },
+        "A5": {
+          "GWP-total": 0,
+          "GWP-fossil": 0,
+          "GWP-biogenic": 0,
+          "GWP-luluc": 0,
+          "ODP": 0,
+          "AP": 0,
+          "EP-freshwater": 0,
+          "EP-marine": 0,
+          "EP-terrestrial": 0,
+          "POCP": 0,
+          "ADP_fossil": 0,
+          "Water_use": 0,
+          "GWP-GHG": 0
+        },
+        "C1": {
+          "GWP-total": 4.37,
+          "GWP-fossil": 0,
+          "GWP-biogenic": 0.00408,
+          "GWP-luluc": 0,
+          "ODP": 0,
+          "AP": 0,
+          "EP-freshwater": 0,
+          "EP-marine": 0,
+          "EP-terrestrial": 0,
+          "POCP": 0.0511,
+          "ADP_fossil": 0,
+          "Water_use": 0,
+          "GWP-GHG": 3.82
+        },
+        "C2": {
+          "GWP-total": 9.33,
+          "GWP-fossil": 9.33,
+          "GWP-biogenic": -0.000341,
+          "GWP-luluc": -6.5e-05,
+          "ODP": -2.15e-08,
+          "AP": 0.0323,
+          "EP-freshwater": 0.000425,
+          "EP-marine": 0.00568,
+          "EP-terrestrial": 0.0681,
+          "POCP": 0.0269,
+          "ADP_fossil": 98.9,
+          "Water_use": 224,
+          "GWP-GHG": 8.8
+        },
+        "D": {
+          "GWP-total": 0,
+          "GWP-fossil": 0,
+          "GWP-biogenic": 0,
+          "GWP-luluc": 0,
+          "ODP": 0,
+          "AP": 0,
+          "EP-freshwater": 0,
+          "EP-marine": 0,
+          "EP-terrestrial": 0,
+          "POCP": 0,
+          "ADP_fossil": 0,
+          "Water_use": 0,
+          "GWP-GHG": 0
+        }
+      },
+      "carbon_footprint_IPCC_AR5_kg_CO2_eq": 255
+    }
+  },
+  "recycled_materials_handling": {
+    "module_D": {
+      "concrete_recycling_rate": "100%",
+      "steel_recycling_rate": "100%",
+      "concrete_recycled_input": "0%",
+      "steel_recycled_input": "70%",
+      "transport_distance_for_recycling": "50 km",
+      "recycling_processes": {
+        "concrete": "Gravel, crushed, at mine/CH U/AusSD U",
+        "steel": "Steel, low-alloyed {RoW} steel production, electric, low-alloyed"
+      },
+      "quality_ratio_outgoing_to_substituted_material": 1,
+      "notes": [
+        "Concrete rubble replaces natural coarse aggregates",
+        "Steel scrap replaces virgin steel after processing"
+      ]
+    }
+  },
+  "additional_info": {
+    "safety_health_environment": {
+      "management_system": "Holcim SHE management system monitors workplace safety and environmental protection",
+      "environmental_risk_management": "Operations assessed and improvements made"
+    },
+    "infrastructure_sustainability": {
+      "membership": "Humes is a member of Infrastructure Sustainability Council (ISC)",
+      "ISC_rating_scheme": "Australia's only comprehensive rating scheme for infrastructure sustainability",
+      "support_to_customers": "Humes helps optimize ISC ratings through smart selection and design of precast products"
+    },
+    "disclaimer": "EPDs within the same product category but registered in different EPD programmes or not compliant with EN 15804 may not be comparable.",
+    "contact_information": {
+      "national_sales_phone": "1300 361 601",
+      "contact_person": "Paul Adams",
+      "contact_phone": "0429790481",
+      "website": "humes.com.au",
+      "email": "info@humes.com.au"
+    }
+  }
+}

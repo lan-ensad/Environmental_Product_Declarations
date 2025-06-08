@@ -1,0 +1,76 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim (Australia) Pty Ltd",
+    "epd_programme_operator": "EPD Australasia Limited",
+    "epd_registration_number": "S-P-03715",
+    "valid_from": "2021-10-21",
+    "valid_until": "2026-10-21",
+    "product_category_rules": "PCR 2012:01 Construction Products and Construction Services, Version 2.3, 2018-11-15",
+    "product_group_classification": "UN CPC 54",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2017 Plant Data, 2021 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+a1:2013",
+    "third_party_verifier": "Epsten Group, Inc., Katherine McFeaters",
+    "accredited_by": "A2LA, Certificate #3142.03"
+  },
+  "product_description": {
+    "product_name": "ViroDecs Ready-mix concrete — ACT - ECOPact Product Range",
+    "mix_descriptions": [
+      {
+        "strength": "20 MPa",
+        "mix_code": "NE202E151 / S20",
+        "description_of_use": "20mm 100mm SLUMP ECOPACT CONCRETE"
+      },
+      {
+        "strength": "25 MPa",
+        "mix_code": "NE252E151 / S25",
+        "description_of_use": "20mm 100mm SLUMP ECOPACT CONCRETE"
+      }
+    ],
+    "content_declaration": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    },
+    "classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "reference_service_life": "Not specified",
+    "time_representativeness": "2017 calendar year production data, 2021 calendar year mix data",
+    "databases_and_lca_software_used": [
+      "SimaPro (v8.4)",
+      "Australian National Life Cycle Inventory Database (AusLCI) (2017)",
+      "Ecoinvent 3.4 (2017)",
+      "World Business Council for Sustainable Development (WBCSD) Cement Sustainability Initiative (CSI) Tool Project Database (2018)"
+    ],
+    "allocation": "Fly ash and silica fumes are waste products and burden-free. Ground granulated blast furnace slag allocated economically.",
+    "cut_off_criteria": "No flows were excluded on the basis of cut-off criteria."
+  },
+  "transport_and_installation": null,
+  "end_of_life": {
+    "scenarios": [
+      "Disposal of concrete at a landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete"
+    ]
+  },
+  "carbon_emission_context": {
+    "lifetime_absorption_of_co2": "Carbonation is a natural process whereby concrete absorbs CO2 from the atmosphere, reducing net CO2 emissions over its lifetime."
+  },
+  "recycled_materials_handling": {
+    "materials": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": "AusLCI LCA database allocation approach adopted as default for secondary data and processes."
+  },
+  "additional_info": {
+    "about_holcim": "Holcim is a leading supplier of construction materials in Australia, part of LafargeHolcim.",
+    "about_lafargeholcim": "LafargeHolcim is the global leader in building materials and solutions, active in four business segments: Cement, Aggregates, Ready-mix Concrete and Solutions & Products."
+  }
+}

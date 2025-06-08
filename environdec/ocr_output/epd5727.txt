@@ -1,0 +1,798 @@
+S'HOLCIM EP
+
+Declaraciôon Ambiental de Producto
+
+Bajo la PCR 2019:14 Construction products (EN 15804:A2); Versiôn 1.11; 2021-02-05
+y c-PCR-001 Cement and Building Lime (EN 16908:2017) 2019-12-20
+
+CLASIFICACIÔN DEL GRUPO DE PRODUCTO: UN CPC 3744
+
+acorde con los eständares IS014025 y 15804:2012+A2:2019 para:
+
+ECO Planet"
+
+CEM 1I/B 42.5 N-LH/SR
+
+Programa: The International EPD® System www.environdec.com
+
+Operador del Programa: EPD International AB
+
+Nümero de registro de la DAP: REF: S-P-05727
+
+Fecha de emisiôn: 2022-03-14
+Fecha de actualizaciôn: 2023-11-23
+Versiôn de la DAP: 2.1
+
+Fecha de validez: 2027-05-03
+
+Una DAP debe proporcionar informacién actualizada y puede actualizarse si cambian las
+condiciones. Por lo tanto, la validez declarada est sujeta al registro y publicaciôn
+continuos en www.environdec.com.
+
+Alcance geogräfico: Global
+
+ECO PLATFORM À
+
+‘EPD
+
+VERIFIED
+HOLCIM ——— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+INTRODUCCION
+
+Este informe contiene el desempeño ambiental de la produccién del cemento CEM 111/B 42.5 N-LH/SR ECOPlanet
+Prime fabricado por Holcim España, S.A.U. en España. Este producto es parte de la gama de cementos ECOPlanet
+comercializada por el fabricante. Esta Declaracién Ambiental de Producto (DAP) ha sido desarrollada utilizando la
+metodologia del Andlisis de Ciclo de Vida (ACV). Los valores de impacto ambiental calculados estän referidos a una
+tonelada (1000 kg) de producto listo para enviar al cliente.
+
+Esta DAP se ha Ilevado a cabo siguiendo el reglamento de The International EPD® System. Este reglamento es un
+sistema para el uso internacional de Declaraciones Ambientales Tipolll, segün la ISO 14025:2010. Tanto el sistema
+como su aplicacién se describen en las Instrucciones Generales del Programa (GPI 3.01). Este informe se ha
+realizado siguiendo las especificaciones del esténdar CEN EN 15804:2012+A2:2019 y la Regla de Categoria de
+Producto c-PCR-001 Cement and Building Lime EN16908:2017.
+
+El ciclo de vida analizado incluye todas las etapas necesarias para fabricar el producto y tenerlo listo para el cliente
+a la puerta de salida de la fébrica.
+
+El propietario de esta DAP es el ünico responsable y propietario de esta DAP.
+
+DAPs dentro de la misma categoria de producto, pero de diferentes programas, pueden no ser comparables. Las
+
+DAPs de productos de construcciôn pueden no ser comparables si no cumplen con la norma EN 15804.
+
+2 Declaraciôn Ambiental de Producto de ECOPlanet Prime CEMIII/B 42.5 N-LH/SR
+9 HOLCIM "— EPD
+
+LE THE INTERNATIONAL EPD° SYSTEM
+
+INFORMACIÔN GENERAL
+
+Informacion sobre el Programa y verificaciôon
+
+PROGRAMA
+
+Esta Declaracién Ambiental de Producto ha sido desarrollada bajo el programa:
+The International EPD® System.
+
+www.environdec.com Direccién: EPD International AB, Box 210 60, SE-100 31 Estocolmo, Suecia.
+
+COMPARABILIDAD
+
+DAPs dentro de la misma categoria de producto pero de diferentes programas pueden no ser comparables. Las
+
+DAPs de productos de construccién pueden no ser comparables si no cumplen con la norma EN 15804.
+
+El propietario de esta DAP, Holcim España, S.A.U. es el ünico responsable y propietario de esta DAP.
+
+VERIFICACIÔN
+
+El eständar internacional ISO 21930 y CEN EN 15804 sirven como Regla de Categoria de Producto (RCP) principal.
+
+Regla de categoria de producto:
+
+2019:14 Construction products (EN 15804:A2); Version 1.11; 2021-02-05 y c-PCR-001 Cement and Building Lime (EN
+16908:2017) 2019-12-20.
+
+Revisiôn de la RCP realizada por:
+
+Comité Técnico de The International EPD® System. Ver www.environdec.com/TC para una lista completa de
+miembros. Responsable de la revisién: Claudia A. Peña, Universidad de Concepcién, Chile. El panel de revisiôn
+puede ser contactado a través del Secretariado: www.environdec.com/contact.
+
+Verificaciôn independiente de la declaraciôn y los datos, segün ISO 14025:2006:
+X] Externa Interna
+
+cubriendo:
+
+Certificaciôn de proceso DAP X] Verificacién DAP
+
+Verificador externo:
+
+Marcel Gômez
+
+Acreditado por:
+Aprobado por el Comité Técnico de The International EPD® System, con el apoyo del Secretariado.
+
+El procedimiento para el seguimiento de los datos durante la validez de la DAP implica a un verificador externo:
+x] Si No
+
+3 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+HOLCIM ——— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Informaciôn de contacto
+
+Propietario de la DAP: | :
+Holcim España, S.A.U.
+
+Avda. de Manoteras, 29, Edificio B, 12 Planta - 28050
+Madrid, España
+
+www.holcim.es
+
+Tel + 91 213 31 00
+
+marketing.spain@holcim.com
+
+Autor del ACV: Solid Forest S.L.
+
+Plaza Santa Maria Soledad Torres Acosta 1, 42 - 28004
+Madrid, España
+
+www.solidforest.com
+
+info@solidforest.com
+
+Operador del Programa: The International EPD® System
+
+EPD International AB, Box 210 60, SE-100 31 Estocolmo, Suecia.
+www.environdec.com
+
+info@environdec.com
+
+Verificador: Marcel Gomez
+info@marcelgomez.com
+
+Version de la DAP
+
+Esta DAP no es sectorial y es la versién nümero 2.1
+
+Diferencias con versiones previas:
+
+Actualizado el logo y el nombre de la empresa.
+
+4 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+9 HOLCIM —— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+INFORMACIÔN DE EMPRESA
+
+Suministrador del Producto
+
+Holcim España,
+S.A.U.
+
+Avda. de Manoteras 20,
+28050 — Madrid
+España
+
+Holcim España, S.A.U. posee cinco fébricas de cemento en España, con una capacidad instalada de més de siete
+millones de toneladas anuales, 19 plantas de hormigén, una planta de mortero, seis terminales y una planta de
+valorizaciôn de residuos, dando empleo a més de 700 personas.
+
+La empresa cuenta con el primer Centro de Investigacién y Desarrollo de Nuevos Hormigones y Morteros, donde
+se desarrollan productos especificos que satisfacen las necesidades especificas de los clientes, incluido el primer
+
+laboratorio con un ärea exclusiva de combustibles alternativos.
+
+Holcim España forma parte de Holcim, lider mundial en soluciones constructivas innovadoras y sostenibles. Holcim
+esté permitiendo desarrollar ciudades mâs verdes, infraestructura més inteligente y mejorando los niveles de vida
+en todo el mundo. Con la sostenibilidad como el centro de su estrategia, Holcim esté creando la ruta para
+convertirse en una empresa cero emisiones netas, con su gente y comunidades en el corazén de su éxito. La
+
+compañia esté impulsando la economia circular como lider mundial en el reciclaje para construir més con menos.
+
+Esta declaraciôn incluye la actividad de las plantas ubicadas en Rambla Olivera s/n, 04140, Carboneras, Almeria,
+España y en Carretera C-17, Km. 2,9447, 08110, Montcada i Reixac, Barcelona, España.
+
+Praâcticas sostenibles de Holcim España
+
+La sostenibilidad es el eje central de nuestra estrategia. Holcim España continuaré estando al frente de las
+soluciones constructivas sostenibles. En nuestro viaje a las cero emisiones netas, estamos descarbonizando
+
+nuestro negocio de manera integral, desde nuestras operaciones y productos hasta el entorno construido.
+
+Descarbonizando nuestras operaciones, mediante nuestro negocio Geocycle reciclamos al final de su ciclo de
+
+vida como una fuente de combustibles alternativos.
+
+5 Declaraciôn Ambiental de Producto de ECOPlanet Prime CEMIII/B 42.5 N-LH/SR
+9 HOLCIM "— EPD
+
+LE THE INTERNATIONAL EPD° SYSTEM
+
+Descarbonizando nuestros productos, ofrecemos la gama ms amplia de soluciones sostenibles, haciendo
+
+posible la produccién baja en carbono a escala.
+
+Descarbonizando nuestro entorno construido, trabajando por un entorno construido con cero emisiones
+
+netas, jugamos un papel esencial en todo el ciclo de vida de la construccién.
+
+Nos preocupamos por la naturaleza, trabajamos para generar un impacto medible y positivo sobre el agua y la
+
+biodiversidad, protegiendo y recuperando los recursos naturales que nos rodean.
+
+ECOPlanet es la gama global de cemento bajo en carbono ms amplia del mundo, ofreciendo una baja huella de
+
+carbono a la vez que proporciona un rendimiento igual o superior.
+
+Desde nuestra gama de hormigones bajos en emisiones de CO2 hasta nuestra gama de cementos bajos en
+emisiones de CO2, ofrecemos la primera gama global en el mundo de materiales de construccién bajos en carbono.
+Con la ms amplia experiencia en formulacién de la industria, adaptamos nuestras soluciones a las necesidades
+
+locales haciendo posible una construccién baja en carbono a escala.
+
+Certificaciones de Producto o de sistemas de
+gestion
+
+Holcim España dispone del certificado de sistema integrado de gestién segün los esténdares ISO 9001:2015
+“Sistemas de Gestiôn de Calidad” e ISO 14001:2015 “Sistemas de Gestién Ambiental”.
+
+El Inventario de Gases de Efecto Invernadero de Holcim España es verificado cada año segün los requisitos de la
+norma ISO 14064-1:2012 “Gases de Efecto Invernadero” y esté incluido en el Registro Nacional de Huella de
+Carbono del Ministerio para la Transicién Ecolégica y el Reto Demogréfico de España, obteniendo los sellos
+“Calculo”, para las huellas calculadas y “Reduzco” por alcanzar una reduccién sustancial de emisiones de GEI en
+
+los ültimos cuatro años.
+
+6 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+9 HOLCIM "— EPD
+
+LE THE INTERNATIONAL EPD° SYSTEM
+
+INFORMACIÔN DEL PRODUCTO
+
+Identificaciôn del Producto
+
+El sistema analizado en esta declaracién incluye el ciclo de vida de la produccién del cemento 111/B 42.5 N-LH/SR
+
+ECOPlanet Prime fabricado por Holcim España en España.
+
+Descripciôon del Producto
+
+La Unidad Funcional de este ACV es una tonelada (1000 kg) de producto listo para enviar al cliente. El producto
+incluido en esta declaraciôn es el CEM 111/B 42.5 N-LH/SR ECOPlanet Prime de Holcim España. Este cemento
+Portland de escoria se puede utilizar en hormigones en masa o armados, especialmente en hormigonados de gran
+volumen, cuando se requiere bajo calor de hidratacién. Muy adecuado para mejorar las prestaciones de los
+hormigones en ambientes sulfatados o de agua marina y, en general, en hormigones en ambientes quimicamente
+agresivos porque aumenta su impermeabilidad. Todos los impactos ambientales y uso de recursos, tanto directos
+
+comoindirectos, son reportados a esta unidad.
+
+Este andlisis se ha realizado utilizando los datos de produccién de 2020. El cemento CEM II/B 42.5 N-LH/SR
+ECOPlanet Prime y su andlisis de ciclo de vida incluye la produccién en las plantas ubicadas en Carboneras ÿ en
+
+Moncada i Reixac, España.
+
+Composiciôn
+
+COMPONENTE % masa* Material post- Material
+consumo, peso% renovable, peso%
+
+Clinker 28% 2% 0%
+
+Escorias de altos hornos 70% 100% 0%
+
+Adiciones menores 2% 0% 0%
+
+TOTAL 100% 70% 0%
+
+*Incluyendo componentes principales y adicionales
+
+Caracteristicas técnicas segün UNE-EN 197-1
+
+Propiedades mecänicas y fisicas Cantidad Unidad
+Resistencia a la compresién 2 dias > 10 MPa
+Resistencia a la compresién 28 dias > 42.5 and < 62.5 MPa
+Tiempo de fraguado inicial > 60 min
+Expansiôn < 10 mm
+Calor de hidratacién < 270 J/g
+
+No se ha utilizado ninguna sustancia peligrosa incluida en la lista “Candidate List of Substances of Very High
+
+Concern (SVHC) for authorization” en un porcentaje superior al 0,1% del peso total del producto.
+
+7 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+9 HOLCIM L EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+INFORMACION DEL LCA
+
+Unidad Declarada
+
+Esta DAP representa los impactos ambientales de una tonelada (1000 kg) de producto lista para enviar al cliente.
+El producto incluido en esta declaraciôn es el CEM 111/B 42.5 N-LH/SR ECOPIlanet Prime de Holcim España.
+
+Una vida ütil de referencia no es relevante debido a las condiciones del alcance de la cuna a la puerta.
+
+Limites del Sistema
+
+Este ACV tiene un alcance “de la cuna a la puerta”, siendo el final del ciclo de vida la puerta de salida de la fébrica
+de cementos, incluyendo los médulos A1 a A3 (etapa de producto).
+
+Esta DAP incluye todas las etapas de producto “de la cuna a la puerta” (médulos A1-A3), puesto que el producto
+cumple con las condiciones requeridas por al EN 15804:2012+A2:2019 relativas a la exclusién de médulos B1 a D
+(el producto se integra fisicamente en otro producto durante la instalacién de forma que no puede ser separado
+fisicamente sen el fin de vida, y el producto ya no es identificable en el fin de vida como resultado de un proceso
+de transformacién fisico o quimico, y el producto no contiene carbono biogénico). Esto significa que todos los
+procesos hasta la Puerta de salida de la fébrica estän incluidos, desde los trabajos de cantera y fabricacién de
+componentes, al transporte de materiales y combustibles, procesos en fébrica y preparacién final. Todos los
+impactos directos e indirectos han sido calculados y reportados en este documento.
+
+Holcim España tiene control total sobre todos los procesos dentro de la fébrica y la extraccién de materias primas
+de cantera.
+
+Los ünicos procesos que no estän controlados directamente por la empresa son la produccién de combustible, el
+transporte de materias primas y entradas menores excluidas segün las reglas de corte.
+
+Los impactos ambientales relacionados con la
+extracciôn y produccién de combustibles, asi como los
+impactos indirectos relacionados con la produccién de
+electricidad también estän incluidos en el célculo de
+impactos. Se ha considerado el mix eléctrico nacional
+
+de España.
+
+En los siguientes diagramas se muestra un modelo
+simplificado del proceso de fabricacién del cemento
+enumerando las principales actividades dentro de los
+limites del sistema. Los procesos e instalaciones
+también estän enlazadas a las fases del ciclo de vida
+(A1-A3).
+
+8 Declaraciôn Ambiental de Producto de ECOPlanet Prime CEMIII/B 42.5 N-LH/SR
+En el médulo A1 los componentes y materiales se
+extraen de la cantera o son fabricados por terceros
+(ei.
+
+materias primas que no son producidas en la planta
+
+produccién de combustibles y escoria). Las
+
+son transportadas a la planta en barco y camién
+(médulo A2). En la etapa de fabricacién (A3), los
+componentes del clinker se calientan y una vez
+producido el clinker se mezcla con las adiciones y
+
+se tritura para producir el cemento final.
+
+No existe embalaje, el producto se comercializa a
+
+granel.
+
+n —— EPD
+14 THE INTERNATIONAL EPD® SYSTEM
+Etapa Etapa
+Etapa de Producto Proceso Etapa de Uso Etapa de Fin de Vida recuperaciôn
+Construcciôn de recursos
+[=
+:©
+[e]
+SG
+o S
+G a
+€ £ (°] S
+E 0 S -
+o S E 2 © 8 a S 2
+œ ss] © 2 £ 5 S ‘© ©
+E © o > a] D 3 © ©
+2 D c co] [e] mA “5 N ©
+à D a ' ® ® 5 2
+E 5 2 c|S|6|s 2 | o 8 >
+D c © ü c 2 g S 8 © E o 6
+2|2/1S128/)% ElS|S|S | s| 8/22 l51S 29
+2 É © == © = ER
+Else |Ss | Se] é SS|213 81815 |2)$£$|%+ 8 à
+É EIS|SE) SE s|812|5|818|8|15|8%rl|E 8 à
+LL FH eu = œ @) œ =) =) Q FH FH il à ©
+Médulo Hip 43 | M | À 1 | 82 | B3 | B4 | B5 | B6 C1 | C2 | C3 D
+Médulos ND | ND | ND ND | ND | ND | ND ND | ND ND
+declarados
+Geografia | GLO | GLO | GLO - - - - - - - - - -
+Uso de datos >95% GWP L
+especficos
+Variantes - | Menos del 10% -
+productos
+Variantes - 2 sitios. L
+sitios Menos del 10%
+
+Etapa de Producto
+
+Operaciôn de cantera
+
+Transportes internos
+
+Produccién
+
+Fabricaciôn de otras
+
+Transporte de materiales
+
+Materias primas comprados
+“> %
+#
+n md 97 on md
+& %
+A] A3
+Suministro de materiales Transporte Fabricacién
+
+Los escenarios incluidos estän en uso actualmente y son representativos de la alternativa més probable.
+
+Informaciôn Técnica
+
+Metodologia de cälculo
+
+Esta EPD es una Declaracién Ambiental Tipo III segün al ISO 14025:2010. Su Andlisis de Ciclo de Vida (ACV)
+
+inherente ha sido desarrollado segün las normas internacionales ISO 14040 e ISO 14044, y siguiendo las
+
+Instrucciones Generales del Programa (GPI 3.01) de The International EPD® System, y las Reglas de Categoria de
+Producto PCR 2019:14 Construction products (EN 15804:A2); Version 1.11; 2021-02-05 y c-PCR-001 Cement and
+
+Building Lime (EN 16908:2017) 2019-12-20.
+
+Para modelar el ACV y para el célculo de impactos se ha utilizado el software Air.e LCA" en su versién 3.12 con la
+
+base de datos Ecoinvent'" 3.7.1.
+
+9 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+
+HOLCIM
+
+Se han utilizado los siguientes modelos de caracterizacién:
+
+“— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Impacto
+
+Modelo
+
+Unidad
+
+Cambio climätico - total
+
+Modelo base de 100 años del IPCC
+(basado en IPCC 2013)
+
+kg de CO2 equivalente
+
+Cambio climätico - fésil
+
+Modelo base de 100 años del IPCC
+(basado en IPCC 2013)
+
+kg de CO2 equivalente
+
+Cambio climätico - biogénico
+
+Modelo base de 100 años del IPCC
+(basado en IPCC 2013)
+
+kg de CO2 equivalente
+
+Cambio climätico — uso del suelo ÿ cambio de
+uso del suelo
+
+Modelo base de 100 años del IPCC
+(basado en IPCC 2013)
+
+kg de CO2 equivalente
+
+Agotamiento de la capa de ozono
+
+Régimen estable ODPs, WMO 2014
+
+kg de CFC11 equivalente
+
+Acidificaciôn
+
+Excedente acumulado
+(Seppälä et al. 2006, Posch et al, 2008)
+
+mol de H+ equivalente
+
+Eutrofizaciôn del agua dulce
+
+Modelo EUTREN, Struijs et al., 2009b, segün
+se implementa en ReCiPe
+
+kg de PO4* equivalente
+
+Eutrofizaciôn del agua dulce
+
+Modelo EUTREN, Struijs et al., 2009b, segün
+se implementa en ReCiPe
+
+kg de P equivalente
+
+Eutrofizaciôn del agua marina
+
+Modelo EUTREN, Struijs et al., 2009b, segün
+se implementa en ReCiPe
+
+kg de N equivalente
+
+Eutrofizaciôn terrestre
+
+Excedente acumulado
+(Seppälä et al. 2006, Posch et al, 2008)
+
+mol de N equivalente
+
+Formaciôn de ozono fotoquimico
+
+Modelo LOTOS-EUROS (Van Zelm et al,
+2008) segün se aplica en ReCiPe 2008
+
+kg de NMVOC equivalente
+
+Agotamiento de los recursos abiéticos —
+
+CML 2002 (Guinée et al., 2002) y van Oers et
+
+kg de Sb equivalente
+
+minerales y metales* al. 2002
+Agotamiento de los recursos abiéticos — CML 2002 (Guinée et al., 2002) y van Oers et Le:
+
+- 2 M] valor calorifico neto
+combustibles fésiles * al. 2002
+
+Consumo de agua*
+
+Disponibilidad de agua restante
+(AWARE) Bouyal et al., 2016
+
+m° mundial equivalente
+
+*Los resultados de este indicador de impacto ambiental deben utilizarse con prudencia, ya que las incertidumbres
+
+de los resultados son elevadas y la experiencia con este parémetro es limitada.
+
+Todos los procesos relacionados con el producto se han incluido en este anälisis.
+
+Segün EN 15804:2012+A2:2019 y EN 16908:2017, algunos componentes con menos del 1% de impacto o el uso de
+coproductos sin valor econémico significativo se han excluido de este andlisis.
+
+Todos los transportes y componentes se han incluido en este LCA, considerando cargas reales y distancias
+recorridas por los materiales utilizados entre enero de 2020 y diciembre de 2020. Se han incluido los principales
+medios de transporte para las compras de combustible y materias primas externas. Las operaciones en el puerto
+se han excluido.
+
+Distancias por carretera calculadas utilizando Google Maps. Distancias maritimas calculadas utilizando
+
+MarineTraffic Voyage Planner.
+
+Las asignaciones se han evitado donde ha sido posible. Solo se ha utilizado una asignacién para las emisiones
+directas verificadas del horno, donde el clinker fabricado puede posteriormente utilizarse para producir distintos
+
+cementos.
+
+10 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+9 HOLCIM "— EPD
+
+LE THE INTERNATIONAL EPD° SYSTEM
+
+Reglas de corte: se ha incluido més del 99% de los materiales y la energia consumidos. La producciôn y
+
+mantenimiento del equipamiento, asi como el transporte de empleados han sido excluidos.
+El producto analizado es representativo de todas las plantas de fabricacién.
+Los componentes reciclados se consideran desde la planta de selecciôn y procesado de los materiales recuperados.
+
+Se han seguido los principios de Modularidad y “el que contamina paga”.
+
+Factores de Emisiôn y Herramientas
+
+Los factores de emisién e impactos ambientales de los elementos del ciclo de vida que no son controlados por
+Holcim, asi como las emisiones directas que no han sido medidas o calculadas proceden de la base de datos
+
+Ecoinvent en su versiôn 3.7.1, utilizando el criterio “cut-off” de dicha base de datos.
+
+EI ACV se ha desarrollado utilizando el software Air.e LCA v3.12.
+
+Calidad de datos
+
+Siguiendo los criterios de calidad de datos de las reglas de categoria de producto de la huella ambiental, y
+considerando que los datos utilizados para los procesos son representativos del émbito geogräfico declarado, que
+no hubo necesidad de modificar aspectos técnicos de forma significativa y que los datos corresponden al ültimo
+año completo, y considerando que las emisiones directas de la planta de produccién estän certificadas por una
+tercera parte e incluidas en el Registro Nacional de Emisiones y Fuentes Contaminantes de España (PRTR) y
+especificamente las emisiones de GEI estän incluidas en el Régimen de comercio de derechos de emisién de la UE
+(RCDE UE), la calidad de datos se considera alta.
+
+11 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+HOLCIM
+
+“— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+DESEMPENO AMBIENTAL
+
+En las siguientes tablas, se presentan los resultados de impactos ambientales potenciales totalizados ÿ para cada
+etapa del ciclo de vida de “una tonelada (1000 kg) de cemento CEM III/B 42.5 N-LH/SR ECOPlanet Prime
+
+producido por Holcim España listo para enviar al cliente”. Los resultados de impacto estimados son solo
+
+declaraciones relativas que no indican los puntos finales de las categorias de impacto, superando los valores de
+
+umbral, los mérgenes de seguridad o los riesgos.
+
+Impacto Ambiental Potencial
+
+(m3 mundial equivalente)
+
+A1 A2 A3 Total
+Ye | Total 9.91 13.99 243.16 267.06*
+c|
+on ue Fésil 9,90 13.98 243.12 267.00**
+Cambio climätico (GWP100)
+(kg de CO equivalente)
+Biogénico 0.01 0.01 0.04 0.07
+USCUS <0.01 <0.01 <0.01 <0.01
+- Agotamiento de la capa de ozono
+& (ke de CFC11 equivalente) 1.22e-5 2.92e-6 8.95e-7 1.60e-5
+a Acidificaciôn
+(mol de H+ equivalente) 9.46e-2 3.00e-1 4.08e-1 8.02e-1
+Eutrofizaciôn del agua dulce
+mn (kg de PO4-3 equivalente) 6.02e-3 1.96e-3 1.51e-2 2.31e-2
+Eutrofizaciôn del agua dulce
+JL (ke dep equivalente) 1.96e-3 6.38e-4 4.92e-3 7.52e-03
+Eutrofizaciôn del Î
+LR (ke de N'equivalente) marne 1.39e-2 6.89e-2 1.76e-1 2.59e-1
+Eutrofizaciôn terrestre
+LR . 0.15 0.77 1.92 2.85
+(mol de N equivalente)
+Formaciôn de ozono fotoquimico
+x (Kg de NMVOC equivalente) 5.45e-2 2.04e-1 4.69e-1 7.27e-01
+Agotamiento de los recursos abiéticos —
+-# minerales y metales 6.07-5 2.97e-5 1.14e-4 2.05e-4
+(kg de Sb equivalente)
+Agotamiento de los recursos abiéticos —
+combustibles fésiles 680.55 188.39 299.38 1168.32
+(MJ valor calorifico neto)
+Consumo de agua
+we 3.55 0.92 4.07 8.55
+
+*Emisiones Netas. Emisiones Brutas (incluyendo combustibles secundarios) = 289.97 kg CO:e
+
+** Emisiones Netas. Emisiones Brutas (incluyendo combustibles secundarios) = 289.88 kg COe
+
+12
+
+Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+
+HOLCIM
+
+Uso de recursos
+
+“— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+dan’
+= = TOTAL A1-A3
+4 l S
+Uso en planta de energia primara RENOVABLE excluyendo los recursos de energia primaria 7.250402
+.25e
+renovable utilizada como materia prima.
+Uso en planta de energia primaria RENOVABLE utilizada como materia prima. <0,01
+Uso total de energia primara RENOVABLE (energia primara y recursos de energia primaria
+" Le 7.25e+02
+utilizada como materia prima),
+Datos en MJ, valor calorifico neto
+TOTAL A1-A3
+Uso directo en planta de energia primara NO RENOVABLE excluyendo los recursos de energia 9.80e+02
+.oUe
+primaria no renovable utilizada como materia prima.
+Uso en planta de energia primaria NO RENOVABLE utilizada como materia prima. <0.01
+Uso total de energia primara NO RENOVABLE (energia primara y recursos de energia primaria
+" Le 9.80e+02
+utilizada como materia prima),
+Datos en MJ, valor calorifico neto
+€? TOTAL A1-A3
+Uso de materiales secundarios 6.83e+02
+Datos en kg
+SAS TOTAL A1-A3
+Uso neto de recursos de agua dulce 0.19
+
+Datos en m3
+
+13 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+
+HOLCIM ——— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Informaciôon ambiental adicional
+
+Impactos ambientales adicionales obligatorios
+
+Resultados por unidad funcional
+Indicador Unidad Tot. A1-A3
+GWP-GHG* Kg CO eq. 289.97
+
+* Este indicador incluye todos los gases de efecto invernadero en Cambio climético total pero excluye las absorciones y
+emisiones de diéxido de carbono biogénico, asi como el carbono biogénico almacenado en el producto. Por tanto, este
+indicador es prâcticamente igual al indicador GWP originalmente definido en la EN 15804:2012+A1:2013. Emisiones
+Brutas (incluyendo combustibles secundarios).
+
+Generaciôon de residuos
+
+Resultados por unidad funcional
+Indicador Unidad Tot. A1-A3
+Residuos peligrosos eliminados Kg <0.01
+Residuos no peligrosos eliminados Kg 1.54
+Residuos radioactivos eliminados Kg <0.01
+
+Flujos de salida
+
+Resultados por unidad funcional
+
+Indicador Unidad Tot. A1-A3
+Componentes para su reutilizaciôn Kg (e)
+Materiales para el reciclaje Kg (e)
+Materiales para valorizaciôn energética Ke 0
+(recuperaciôn de energia)
+Energia eléctrica exportada MI
+Energia térmica exportada MI
+
+Informacién sobre el contenido en carbono biogénico
+
+Resultados por unidad funcional
+Contenido de carbono biogénico Unidad Cantidad
+Carbono biogénico contenido en el producto Kg C (e)
+Carbono biogénico contenido en el embalaje Kg C (e)
+
+14 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR
+9 HOLCIM "— EPD
+
+LE THE INTERNATIONAL EPD° SYSTEM
+
+REFERENCIAS
+
+Esta declaracién se ha desarrollado segün las Instrucciones Generales del Programa de The International EPD®
+
+System. Versiôn 3.01.
+
+PCR 2019:14 Construction products (EN 15804:2012+A2:2019).
+
+c-PCR-001 Cement and Building Lime (EN 16908:2017).
+
+ISO 14040:2006 Environmental management - Life Cycle Assessment - Principles and framework.
+
+ISO 14044:2006 Environmental management - Life Cycle Assessment - Requirements and guidelines.
+
+Informe de ACV: Inventario de Ciclo de Vida de CEM 111/B 42.5 N-LH/SR ECOPlanet Prime de Holcim España, S.A.U.
+Software: Air.e LCA rev. 3.12 (www.solidforest.com).
+
+Base de datos principal: Ecoinvent 3.7.1 (www.ecoinvent.org).
+
+Alcance geogräfico de esta DAP: Global.
+
+Nota: Las declaraciones ambientales publicadas dentro de la misma categoria de producto, pero procedentes de
+
+diferentes programas, pueden no ser comparables.
+
+Y’HOLCIM
+
+15 Declaracion Ambiental de Producto de ECOPIlanet Prime CEMIII/B 42.5 N-LH/SR

@@ -1,0 +1,88 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD System",
+    "program_operator": "EPD Australasia Limited",
+    "revision_number": "11",
+    "revision_date": "26 July 2023",
+    "epd_owner": "Holcim (New Zealand) Ltd",
+    "epd_produced_by": "Holcim (New Zealand) Ltd",
+    "epd_process_certified_by": "Epsten Group",
+    "product_category_rules": "PCR 2019:14 Construction Products and Construction Services, Version 1.2.5, 2022-06-22",
+    "independent_third_party_verification": "Epsten Group, Inc.",
+    "contact_information": {
+      "address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+      "website": "www.holcim.co.nz",
+      "phone": "0800 465 246"
+    }
+  },
+  "product_description": {
+    "product_name": "ECOPLANET",
+    "product_type": "Cement blend",
+    "declared_unit": "1 tonne of cement blend",
+    "manufacturing_location": "Auckland, New Zealand",
+    "packaging": "Bulk or packaging",
+    "content_declaration": {
+      "portland_cement": "60%",
+      "clinker": "<5%",
+      "ggbfs": "23%",
+      "high_grade_limestone": "2%",
+      "gypsum": "5%",
+      "fly_ash": "0%",
+      "recycled_material": {
+        "fly_ash": "0%",
+        "ggbfs": "40%"
+      }
+    }
+  },
+  "lca_information": {
+    "reference_service_life": "Not specified",
+    "time_representativeness": "2021 calendar year",
+    "databases_and_software": {
+      "software": "SimaPro® LCA software (v 9.4)",
+      "databases": [
+        "The Australian Life Cycle Inventory Database (AusLCI v1.39) (2022)",
+        "Ecoinvent 3.8 (2021)"
+      ]
+    },
+    "allocation": "Intermediate flows allocated physically based on weight; GGBFS allocated economically",
+    "cut_off_criteria": "No flows excluded",
+    "data_quality": "Medium or higher for foreground data; background data updated within 10 years"
+  },
+  "transport_and_installation": {
+    "module_a4": {
+      "environmental_impacts": "Not declared",
+      "resource_use": "Not declared",
+      "waste_categories_and_output_flows": "Not declared",
+      "additional_indicators": "Not declared"
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "annual_cement_usage": "1.5 million tonnes",
+    "annual_co2_emissions": "1.23 million tonnes",
+    "co2_emission_factor": "0.82 tonnes of CO2 per tonne of cement"
+  },
+  "recycled_materials_handling": {
+    "fly_ash": "Treated as waste material, only transport impacts included",
+    "ggbfs": "Allocated based on economic value"
+  },
+  "additional_info": {
+    "sustainability_initiatives": "Net-zero targets for 2030 and 2050, low-carbon construction, circular economy",
+    "references": [
+      "Australasian EPD Program. (2017). Guidance on the use of INA in EPDs.",
+      "Australasian EPD Program. (2018). Guidance on the use of background LCI data.",
+      "Australasian EPD Program (2019) Instructions of the Australasian EPD Program V3.01.",
+      "Australian Life Cycle Inventory Database Initiative (AuSLCI). (2022). Guidelines for Data Development for an Australian Life Cycle Inventory Database, Data Standard.",
+      "British Standards Institution. (2019). Sustainability of construction works. Environmental product declarations. Core rules for the product category of construction products, BS EN 15804:2012+A2:2019.",
+      "British Standards Institution. (2017). Sustainability of construction works - Environmental product declarations - Product Category Rules for concrete and concrete elements, BS EN 16757:2017.",
+      "Ecoinvent Centre. (2019). Ecoinvent version 3 database. Zurich: ETH, Agroscope, EMPA, EPFL, PSI.",
+      "EPD International. (2019). General Program Instructions (GPI) for the International EPD System V4.0.",
+      "EPD International. (2021). Product Category Rules for Construction Products and Construction Services, PCR2019:14 v1.11.",
+      "ISO. (2006). Environmental labels and declarations - Type III environmental declarations - Principles and procedures, ISO 14025:2006.",
+      "ISO. (2006). Environmental management - Life cycle assessment - Principles and framework, ISO 14040:2006.",
+      "ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines, ISO 14044:2006+A1:2018.",
+      "AUSLCI. (2018) AusLCI Database.",
+      "Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of New Zealand's Construction Sector’, Procedia Engineering, Volume 180, 2017, Pages 211-220, ISSN 1877-7058"
+    ]
+  }
+}

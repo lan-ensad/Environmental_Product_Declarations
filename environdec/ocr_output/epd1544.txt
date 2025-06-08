@@ -1,0 +1,1331 @@
+riumes
+
+“EPD
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Contents
+
+Programme information and verification
+About us
+Product description
+Technical compliance
+Scope of EPD
+Product stage
+Life cycle assessment (LCA) methodology
+Background data
+Explanation of averages
+Allocation
+Cut-off criteria
+Key assumptions
+Life cycle assessment (LCA) results
+Environmental profiles
+Other environmental information
+Product specification
+References
+
+Contact information
+
+OO OO © OO D D OÙ R ©
+
+NO = = =
+SO NO ©  —
+Programme information and verification
+
+An Environmental Product Declaration (EPD) is a standardised way of quantifying the potential environmental impacts of
+a product or system. EPDs are produced according to a consistent set of rules — Product Category Rules (PCR) — that
+define the requirements within a given product category. These rules are a key part of ISO 14025 as they enable
+transparency and comparability between EPDs. This EPD provides environmental indicators for Humes precast steel-
+reinforced concrete products manufactured at the Humes production facility in Tamworth (NSW) in Australia. This EPD is
+a “cradle-to-gate” declaration covering production of the precast concrete products and their supply chain.
+
+This EPD is verified to be compliant with EN 15804. EPD of construction products may not be comparable if they do not
+comply with EN15804. EPDs within the same product category but from different programs or utilising different PCRs may
+not be comparable. Holcim (Australia), as the EPD owner, has the sole ownership, liability and responsibility for the EPD.
+
+Holcim (Australia) Pty Ltd
+Level 7, 799 Pacific Highway
+Declaration Owner Chatswood NSW 2067, Australia
+
+Web: www.holcim.com.au 1 O | ci m
+
+Phone: +61 2 9412 6600
+
+EPD Australasia Limited
+Address: 315a Hardy Street | E P D
+Nel 7010, New Zeal
+
+EPD Program Operator elson 7010, New Zea and AUSTRALASIA
+Web: www.epd-australasia.com
+
+Email: info@epd-australasia.com
+Phone: +61 2 8005 8206
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+start2see Pty Ltd
+
+309 / 2a Montrose Place
+
+Hawthorn East Vic 3123, Australia
+Web: www.start2see.com.au
+
+Email: Rob.Rouwette@start2see.com.au
+Phone: +61 403 834 470
+
+START2SEE
+
+LIFE CYCLE ASSESSMENTS
+
+EPD Produced by:
+
+EPD registration number: S-P-01544 1.0
+
+Reference year for data: 2018-07-01 — 2019-06-30
+
+CEN standard EN 15804 served as the core PCR
+
+PCR: PCR 2012:01 Construction Products and Construction Services, Version 2.3, 2018-11-15
+PCR 2012:01-SUB-PCR-G Concrete and concrete elements, version 2.3, 2018-11-22
+
+LE TATEN ETC TT The Technical Committee of the International EPD® System.
+by: Chair: Massimo Marino. Contact via info@environdec.com
+
+Independent verification of
+
+a me
+the declaration and data, EPD process certification (Internal)
+
+& EPD verification (External)
+
+according to ISO 14025:
+
+Third party verifier: Jeff Vickers, thinkstep-anz
+Web: www.thinkstep-anz.com
+Email: jeffvickers@thinkstep-anz.com
+
+Phone: +61 2 8007 5770 7
+Accredited or approved by: EPD Australasia anz
+
+Precast Concrete
+
+=
+=
+=)
+e]
+=)
+TD
+O
+Le
+ce)
+=
+
+tenant À PM (us Fa Hits
+“ ». L
+
+n | dif
+RENE LAN
+LL ASMAUEX
+LUS AL Van TIC | V4 sul"
+ae) 1 LL LE RAS PATENER 1 75
+cute 4m mr. | pa" | =] = e | | : A
+
+{ DEN pe a
+
+L
+|
+
+V n! Ti
+
+Humes Tamworth
+
+[es
+.2
+É
+Humes Concrete Products (Humes) is a division of Holcim E
+(Australia) Pty Ltd which is owned by the world's largest &
+building materials company, LafargeHolcim. Humes pride Mission
+ourselves on delivering customised solutions to maximise Humes aims to be the most respected and
+
+installation, performance, and budgetary outcomes for successfully operated company in our industry,
+our clients. Today, Humes employs more than 600 people creating value for all of our stakeholders.
+
+and is the largest civil precast concrete manufacturer in Secbeder cree cie eeer cie.
+
+Australia. companies, LafargeHolcim, our vision is to perfect
+progress as we provide the foundations for society's
+future. Achieving our mission involves a
+
+commitment to the following:
+
+This EPD covers precast products manufactured at our
+plant in Tamworth, NSW (Tamworth is highlighted in
+Figure 1). We have ten factories around Australia
+producing reinforced concrete products. Humes innovative solutions for our customers
+Tamworth is one of two factories located in NSW and is employees with a passion for performance
+
+presently supplying large infrastructure projects such as En Gen EE lELCENE corporate EURE
+a forward-looking organisation
+
+a culture that promotes sustainable
+development
+long-term financial performance
+
+the Inland Rail Project.
+
+At a Glance
+
+We have a long history of engineering precast and
+
+prestressed concrete solutions and, after 100 years of
+manufacture, our product range has never been more
+diverse, more competitive, or more in-tune with our
+clients’ needs than it is today.
+
+We offer a range of solutions for bridges and platforms,
+road and rail infrastructure, tunnels and shafts, retaining
+walls, pipeline systems, water treatment, reuse and
+detention, and traffic management. We can customise
+our solutions to ensure they create maximum value for
+your project, accommodating your site conditions, design
+requirements and construction factors.
+
+The quality and reliability of Humes’ products and
+services are the foundation of our success. Our ability to
+deliver to client specifications on major projects across
+Australia has established Humes as a valuable and
+reliable partner.
+
+Figure 1: Location of Humes’ precast concrete
+production facilities
+
+Precast Concrete 3
+Product description
+
+Humes manufacture a full range of box culverts,
+ballast kerbs and wing wall sizes and
+configurations. This EPD covers box culverts and
+headwalls manufactured at Humes Tamworth, of
+which a significant amount are supplied to the
+Inland Rail Project.
+
+Culvert products’ intended use is bridging for
+pedestrian, fauna and stock crossings under road
+and rail applications. Humes precast concrete box
+culverts are also suitable for difficult site
+conditions as installation requires minimal
+excavation and backfill.
+
+Reinforced concrete products are made from
+coarse and fine aggregates, cement, water, and
+steel reinforcement. Other material used can
+include supplementary cementitious materials
+(SCM) such as fly ash and chemical admixtures,
+which have varied effects on the concrete
+depending on the admixture used.
+
+Humes Tamworth has already supplied over 4000
+precast products to the Inland Rail Parkes to
+Narromine (P2N) section. The culverts are
+manufactured as inverted U-shape culverts (see
+Figure 2 and Figure 3) and are both railway load
+class 300LA and road class SM1600.
+
+The culverts supplied are also classified as both
+small and large box culverts, ranging from 600 mm
+to 3000 mm span:; 450 to 2400 mm height and are
+all 2400 mm in length. Wingwall units are
+manufactured to fit the 450 to 2400 mm height
+range of the culverts.
+
+Figure 2: Schematic of steel cage in a large box
+culvert
+
+The product as supplied is non-hazardous. The
+products included in this EPD do not contain any
+substances of very high concern as defined by
+European REACH regulation in concentrations
+>0.1% (m/m).
+
+Dust from this product is classified as Hazardous
+according to the Approved Criteria for Classifying
+Hazardous Substances 3'{ Edition (NOHSC 2004).
+Precast concrete products and pipes are classified
+as non-dangerous goods according to the
+Australian Code for the Transport of Dangerous
+Goods by Road and Rail. When concrete products
+are cut, sawn, abraded or crushed, dust is created
+which contains crystalline silica, some of which
+may be respirable (particles small enough to go
+into the deep parts of the lung when breathed in),
+and which is hazardous. Exposure through
+inhalation should be avoided.
+
+Precast concrete products form part of the UN CPC
+375 — "Concrete” industry classification and the
+ANZSIC 2034 — "Concrete Product Manufacturing”
+product group classification.
+
+EPD for Tamworth precast products for infrastructure applications
+
+Technical Compliance
+
+Humes culvert units are designed and Table 1: Product content
+manufactured to comply with AS 1597.1:2010
+
+Precast reinforced concrete box culverts Part
+1: Small culverts (not exceeding 1200 mm
+span and 1200 mm height) and AS
+1597.2:2013 Precast reinforced concrete box
+culverts Part 2: Large culverts (exceeding 1200
+mm span or 1200 mm height and up to and
+including 4200 mm span and 4200 mm
+height). Culverts supplied to the Inland Rail
+project are also additionally compliant to RMS
+QA Specification R16 Precast Reinforced
+Concrete Box Culverts. In addition, culvert
+units have a reference service life (RSL) of 100
+years, when manufactured and installed in
+accordance with AS1597.1 & AS1597.2. The
+
+design load of rail way load class culverts is * Cement in concrete contains traces of Chromium VI (hexavalent).
+
+300LA and the design load of road load class ** Crystalline silica (quartz) may be a constituent of sand, crushed stone,
+. | | gravel and fly ash used in any particular concrete mix.
+
+culverts is SM1600 in accordance with both *#* Cementitious additives may contain traces of metals.
+
+AS5100 & AS1597 series requirements. The
+
+ballast kerb and wing wall designs for the Note: Grout may be used to fill gaps between units.
+
+Inland Rail project were supplied by Australian This grout is not included in the scope of this EPD.
+
+Rail Track Corporation (ARTC) and are
+manufactured to the design requirements.
+
+Figure 3: Examples of box culverts and headwalls
+
+CR ee
+
+Multi-cell installation using Link Slab® unit Crown unit Invert unit
+
+Headwalls for pipes Headwalls for box culverts
+
+œ ©
+
+Precast Concrete 5
+
+Product Description
+
+Scope of Environmental Product Declaration
+
+This EPD covers the cradle-to-gate life cycle stages A1-A3. Downstream stages have not
+been included as shown in Table 2 and Figure 4.
+
+Table 2: Scope of EPD
+
+c
+
+A O)
+
+ro) = ©
+
+an (o) e) ©
+
+=) an £ >
+
+> 2  G ©
+
+D G a e) =
+
+D + = € =
+
+» € GS < A a
+
+a ” 2 = co) Z oO ra ci)
+
+Le) ei [en dv _ _ =) [0] >
+
+dus c c C © £ © © = U 0
+
+2 + © + © œ M MIE, © NN © | = Ne D ©, MAR
+m © + © + = © 9 2 2 + © à æ ‘x
+>= eo = eo = CRE s 2 © © € œ Oo 6 d E
+= E = © = & © 5 GG © 2 € à à n S
+8 © © $ à g 8 D 9 5 2 2 à © £ à à 2
+CO OH à +k £S D 2m «OC C0 0 + = à we
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+
+Scenario Scenario Scenario
+
+Ÿ Ÿ Ÿ MND  MND MND MND MND MND MND NR  NR MND MND MND MND MND
+
+= module is included in this study
+MND = module is not declared; NR = module is not relevant
+
+Figure 4: Cradle-to-gate life cycle of precast concrete products
+
+A1 - Raw materials A3 - Manufacturing
+Aggregate, sand, A2 - Transport to factory Waste concrete, diesel,
+cement, water, steel, Sea, road, rail electricity, natural gas
+
+admixture
+
+k |
+À
+
+we
+
+>
+
+EPD for Tamworth precast products for infrastructure applications
+Product Stage
+
+Raw Material Stage A1
+
+All raw materials used in the production of Humes
+Concrete Products comply with the following
+standards as required by AS1597.1 & AS1597.2:
+
+e AS/NZS 3972: General purpose and blended
+cements (SA 2010)
+
+e AS 3582.1 Supplementary cementitious
+materials Part 1: Fly Ash (SA 2016)
+
+e AS/NZS 4671 Steel reinforcing materials (SA
+2001)
+
+e AS 2758.1 Aggregates and rock for
+engineering purposes Part 1: Concrete
+Aggregates (SA 2014)
+
+e AS 1478 Chemical admixtures for concrete,
+mortar and grout (SA 2000)
+
+Transportation Stage A2
+
+Raw materials are typically transported to our site
+via articulated trucks. The impact of transportation
+is determined from the specific supply sources for
+Tamworth.
+
+Manufacturing Stage A3
+
+The typical manufacturing process of Humes
+Concrete Products is by casting specially
+formulated concrete into a reusable steel mould.
+Compaction is achieved by utilising Self
+Compacting Concrete (SCC), a special type of
+concrete which can be placed and consolidated
+under its own weight without vibration. The freshly
+poured concrete and mould is then cured in a
+temperature and humidity-controlled environment
+to accelerate concrete curing before the product is
+removed from the mould. After removal from the
+mould the product is transferred to the outdoor
+yard storage area where it continues to cure until it
+is approved by final quality checks and transported
+to the installation site.
+
+Precast Concrete
+
+7
+Life Cycle Assessment (LCA) Methodology
+
+Background Data
+
+Primary data have been collected for the 2019
+financial year (FY19) (1 July 2018 — 30 June 2019).
+They have been sourced directly from Humes'
+Tamworth factory that manufactures the precast
+products. Background data have predominantly
+been sourced from AusLCI and the AusLCI shadow
+database. Data for reinforcing steel (bars) has been
+sourced from our supplier's (nfraBuild — formerly
+ARC/OnesSteel) EPD (registration number S-P-
+00855) (OneSteel 2016). Data for admixtures have
+been sourced from five EPDs published in
+December 2015 by EFCA (European Federation of
+Concrete Admixtures Associations Ltd.) (EFCA
+2015a-e). As a result, the vast majority of the
+environmental profiles of our products are based
+on life cycle data that have been updated in the
+last five years. Background data used are less than
+10 years old.
+
+Methodological choices have been applied in line
+with EN 15804 (CEN 2013); deviations have been
+recorded.
+
+Explanation of Averages
+
+Humes produces a large number of precast
+products, each with unique characteristics (e.g.
+class, length, height, width, thickness) and
+composition (concrete composition, steel
+reinforcement content). After careful consideration
+of the range of precast products produced in
+Tamworth for infrastructure applications, it was
+decided that the best product groupings are based
+on the type of product (box culverts and
+headwalls), application (rail and road) and for box
+culverts, their size (large and small).
+
+This grouping reduces the variation within each group's
+
+environmental profile while providing a clear delineation
+for users of the EPD. This approach leads to six groups:
+
+Box culverts for rail applications, small (600 - 1200
+mm)
+
+Box culverts for rail applications, large (>1200
+mm)
+
+Headwalls for rail applications
+
+Box culverts for road applications, small (600 -
+1200 mm)
+
+Box culverts for road applications, large (> 1200
+mm)
+
+Headwalls for road applications
+
+We have determined the reference product for each
+group using the weighted average concrete
+composition (across all precast products over FY19) and
+the weighted average steel content per product group.
+The reference product therefore represents the
+product group as a whole, rather than a specific
+product that can be ordered from the catalogue.
+
+Allocation
+
+The key processes that require allocation are:
+
+Production of precast concrete products and
+precast concrete pipes: All shared processes are
+attributed to concrete products based on their
+mass
+
+Use of fly ash: AIT environmental impacts of the
+power plant have been allocated to the main
+product: electricity; fly ash has only received the
+burdens of the transport to our sites
+
+Use of steel scrap in reinforcement steel wire:
+Recycling allocation has followed the polluter pays
+principle in line with EN 15804 and the PCR. See
+OneSteel's EPD (S-P-00855) of reinforcing rod, bar
+and wire (OneSteel 2016).
+
+EPD for Tamworth precast products for infrastructure applications
+Cut-off Criteria
+
+e The contribution of capital goods
+(production equipment and infrastructure)
+and personnel is outside the scope of the
+
+LCA, in line with the PCR (Environdec 2018a).
+
+e The amount of packaging used for
+admixtures, lifters, bar chairs and mould oil
+is well below the materiality cut-off, so
+packaging materials and quantities have
+therefore been estimated only.
+
+Key Assumptions
+
+This EPD covers all Self Compacting Concrete
+(SCC) used at the Tamworth plant for
+infrastructure products. The concrete composition
+is taken from Humes’'s internal operating systems.
+Some (<10%) of the SCC is supplied by a
+neighbouring concrete plant that is not owned by
+Humes. We have used the weighted average
+composition for all SCC concrete used in FY19.
+
+Precast Concrete
+
+9
+
+>
+en
+©
+©
+D
+©
+=
+nd
+@
+€
+<
+O
+—
+
+Life Cycle Assessment (LCA) results
+
+The background LCA serves as the foundation for this
+EPD. An LCA analyses the environmental processes in
+the value chain of a product. It provides a
+
+The Tamworth products are generally manufactured
+using one or two concrete mixes with little variation.
+
+un
+=
+=)
+n
+(]
+[a
+<
+O
+2
+
+The key variable is in the quantity of reinforcement
+
+comprehensive evaluation of all upstream and steel used per tonne of final precast product.
+
+downstream material and energy inputs and outputs. A large number of permutations have been included
+The results are provided for a range of environmental
+
+impact categories, in line with EN 15804 (CEN 2013).
+
+based on the following declared unit:
+
+1 tonne of precast reinforced concrete product
+manufactured in Tamworth (NSW) for infrastructure
+applications
+
+Declared unit
+
+After careful consideration, we ascertained that
+| | | presenting the results for six distinct product groups
+Precast reinforced concrete products are available in . . .
+| j - using the above declared unit - would best limit any
+numerous shapes and sizes. Multiple products can be
+presented collectively (groupedl) if the variation
+
+between their environmental profiles is within +10%.
+
+variations in environmental profiles while providing a
+clear delineation for users of the EPD. This means that
+the variation range for some indicators exceeds the
+10% threshold (see page 15).
+
+Table 3: Environmental indicators
+
+Global warming impact of greenhouse gases such as carbon
+dioxide (CO2), measured in kg CO2 equivalents using a global
+warming potential over a 100-year time horizon.
+
+Global Warming
+
+Potential EU kg CO: eq
+
+Relative impact that the product can cause to the stratospheric
+
+Ozone Depletion ODP kg CFC-11 eq ozone layer, measured in kg trichlorofluoromethane (CFC-11)
+
+Potential
+
+equivalents
+Acidification AP ka SO, € Increase of soil and water acidity that the product can cause,
+Potential J9726q measured in kg sulphur dioxide (SO2) equivalents.
+eo . Potential impact of nutrification by nitrogen and phosphorus to
+Eutrophication 3- - :
+. EP kg PO: eq  aquatic and terrestrial ecosystems, for example through algal
+Potential . 3- :
+blooms, measured in kg phosphate (PO4”) equivalents.
+. Also known as summer smog, the potential impact from
+Photochemical nn - : .
+- oxidising of volatile compounds in the presence of nitrogen
+Ozone Creation POCP kg C2H4 eq - - .
+. oxides (NO,) which frees ozone in the low atmosphere,
+Potential - .
+measured in kg ethene (C2Hz) equivalents.
+oi - Techno-economic impact from the depletion of scarce non-
+Abiotic Depletion . :
+- ADPE kg Sb eq renewable resources such as metals, measured in kg antimony
+Potential (Elements) .
+equivalents.
+Abiotic Depletion Techno-economic impact from depletion of fossil fuel
+Potential (Fossil ADPF M) resources such as oil or natural gas, expressed using their net
+Fuels) calorific value.
+
+Precast Concrdte 11
+Table 4: Parameters describing resource use, waste and output flows
+
+Parameters describing resource use
+Use of renewable primary energy excluding renewable primary energy resources
+used as raw materials
+Use of renewable primary energy resources used as raw materials
+Total use of renewable primary energy resources
+
+Use of non-renewable primary energy excluding non-renewable primary energy
+resources used as raw materials
+
+Use of non-renewable primary energy resources used as raw materials
+Total use of non-renewable primary energy resources
+
+Use of secondary material
+
+Use of renewable secondary fuels
+
+Use of non-renewable secondary fuels
+
+Use of net fresh water
+Waste categories
+
+Hazardous waste disposed
+Non-hazardous waste disposed
+
+Radioactive waste disposed
+Output flows
+
+Components for re-use
+Materials for recycling
+Materials for energy recovery
+
+Exported energy
+
+12 EPD for Tamworth precast products for infrastructure applications
+
+PERE
+
+PERM
+PERT
+
+PENRE
+
+PENRM
+PENRT
+SM
+RSF
+NRSF
+FW
+
+HWD
+NHWD
+RWD
+
+CRU
+
+MER
+
+MER
+EE
+
+Mincv
+
+Mincv
+Mincv
+
+Mincv
+
+Mincv
+Mincv
+kg
+Mincv
+Mincv
+
+kg
+kg
+kg
+
+kg
+kg
+kg
+MJ
+Environmental profiles
+
+Cradle-to-gate (A1-A3)
+Box culverts for rail applications, small (600 - 1200 mm)
+
+Box culverts for rail applications, large (>1200 mm)
+The cradle-to-gate environmental indicators of
+
+un
+=
+=)
+n
+(o]
+[a
+<
+O
+2
+
+Head walls for rail applications
+each product group are expressed per tonne of
+
+Box culverts for road applications, small (600 - 1200 mm)
+
+average precast product for: Box culverts for road applications, large (>1200 mm)
+
+VNVYNNVYNN NV
+
+Head walls for road applications
+
+Table 5: Environmental indicators, precast concrete products for rail applications, stages A1-A3,
+per tonne
+
+GWP [kg CO: eq] 2.75E+02 3.27E+02 3.25E+02
+ODP [kg CFC11 eq] 3.70E-06 3.68E-06 3.68E-06
+AP [kg SO: eq] 7.29E-01 9.18E-01 9.13E-01
+EP [kg PO4Ÿ eq] 1.27E-01 1.45E-01 1.44E-01
+POCP [kg C2H4 eq] 6.48E-02 9.12E-02 9.05E-02
+ADPE [kg Sb eq] 2.49E-05 3.78E-05 3.75E-05
+ADPF [MJncv] 2.36E+03 2.97E+03 2.96E +03
+PERE [MJncv] 7.12E+01 1.05E+02 1.04E+02
+PERM [Minc] 1.28E-02 1.23E-02 1.23E-02
+PERT [Mincv] 7.12E+01 1.05E+02 1.04E+02
+PENRE [Mincv] 2.44E+03 3.09E+03 3.07E+03
+PENRM [Minc] 8.06E+00 7.74E+00 7.75E+00
+PENRT [Mincv] 2.44E+03 3.10E+03 3.08E+03
+SM [kg] 4.37E+01 7.98E+01 7.88E+01
+RSF [MJncv] 1.05E-08 1.05E-08 1.05E-08
+NRSF [Minc] 3.00E+00 5.49E+00 5.43E+00
+FW [mi] 1.99E+00 2.20E+00 2.19E+00
+HW [kg] 2.55E-05 3.69E-05 3.66E-05
+NHW [kg] 1.69E+01 2.99E+01 2.96E +01
+RW [kg] 3.64E-03 5.15E-03 5.11E-03
+
+CRU [kg] (0) 0 (0)
+MER [kg] 3.58E+00 3.87E+00 3.86E+00
+MER [kg] 1.36E-02 2.44E-02 241E-02
+
+EE [MJ] (0) 0 (0)
+
+Precast Concrete 13
+Table 6: Environmental indicators, precast concrete products for road applications, stages A1-A3,
+
+per tonne
+
+GWP [kg CO: eq] 2.52E+02 2.95E+02 2.74E+02
+ODP [kg CFC11 eq] 3.70E-06 3.69E-06 3.70E-06
+AP [kg SO eq] 6.A5E-01 8.00E-01 7.25E-01
+EP [kg PO4* eq] 1.19E-01 1.34E-01 1.27E-01
+POCP [kg C2H4 eq] 5.30E-02 7 ATE-02 6.43E-02
+ADPE [kg Sb eq] 1.92E-05 2.97E-05 2.47E-05
+ADPF [Mincv] 2.08E+03 2.59E+03 2.35E+03
+PÈRE [Mincv] 5.59E+01 8.39E +01 7.04E+01
+PERM [MJncv] 1.31E-02 1.27E-02 1.29E-02
+PERT [MJncv] 5.59E+01 8.39E+01 7.05E+01
+PENRE [Mncv] 2.14E+03 2.68E+03 2.42E+03
+PENRM [Mincv] 8.21E+00 7.94E+00 8.07E+00
+PENRT [MJncv] 2.15E+03 2.69E +03 2.43E+03
+SM [kg] 2.77E+01 5.72E+01 4.30E +01
+RSF [Minc] 1.05E-08 1.05E-08 1.05E-08
+NRSF [Mncv] 1.89E+00 3.93E+00 2.95E+00
+FW [mi] 1.89E+00 2.07E+00 1.98E+00
+HW [kg] 2.04E-05 2.98E-05 2.52E-05
+NHW [kg] 1.11E+01 2.17E+01 1.66E+01
+RW [kg] 2.97E-03 4.20E-03 3.61E-03
+CRU [kg] 0 0 0
+
+MER [kg] 3.A6E +00 3.69E+00 3.58E+00
+MER [kg] 8.84E-03 1.76E-02 1.34E-02
+EE [MI] 0 0 0
+
+14 EPD for Tamworth precast products for infrastructure applications
+Variation (A1-A3) per impact category
+
+The LCA results shown in the previous tables represent a weighted average product produced in Tamworth.
+No product exceeds the global warming potential of the weighted average product by more than 10%. Some
+individual products do exceed a variation from the weighted average product by more than +10%, most
+likely for Photochemical Ozone Creation Potential (POCP) and Abiotic Depletion Potential (Elements) (ADPE)
+indicators. For transparency, Table 7 displays the maximum variation found in the environmental profile of
+
+un
+=
+=)
+n
+(]
+[a
+<
+O
+2
+
+each product group. Note: the minimum/maximum range indicates the extremes. The vast majority of our
+products are within 410% of the environmental profiles presented in this EPD.
+
+Table 7: Range in LCA results (stages A1-A3)
+
+GWP [kg CO» eq] -9% 0% -11% 8% -11% 8%
+ODP [kg CFC11 eq] 0% 0% 0% 0% 0% 0%
+AP [kg SO> eq] -12% 1% -14% 10% -14% 11%
+EP [kg PO4 eq] -7% 0% -8% 6% -8% 7%
+POCP [kg CH eq] -19% 1% -20% 14% -20% 16%
+ADPE [kg Sb eq] -24% 1% -23% 17% -23% 18%
+ADPF [Mincv] -12% 1% -14% 10% -14% 11%
+GWP [kg CO» eq] -5% 7% -2% 7% -10% 4%
+ODP [kg CFC11 eq] 0% 0% 0% 0% 0% 0%
+AP [kg SO eq] -8% 10% -3% 9% -14% 6%
+EP [kg PO4* eq] 4% 5% -2% 5% -7% 3%
+POCP [kg C2H4 eq] -13% 16% -5% 13% -21% 9%
+ADPE [kg Sb eq] -17% 22% -6% 16% -27% 12%
+ADPF [Mincv] -8% 10% -3% 9% -14% 6%
+
+Precast Concrete 15
+Other environmental information
+
+Our safety, health and environment (SHE) management system aims to achieve high environmental
+standards. The Holcim executive committee closely monitors our performance in managing workplace safety
+and protection of the environment. The environmental component of the management system helps identify
+and manage potential environmental risks. Operations are assessed against the requirements and
+improvements made.
+
+Infrastructure Sustainability
+
+The Infrastructure Sustainability Council of Australia (ISCA) is the peak industry body for advancing
+sustainability in Australia's infrastructure. As a division of Holcim Australia, Humes is a member of ISCA and
+takes an interest and role in developing sustainable practises across design, construction and operation of
+infrastructure.
+
+ISCA has developed the Infrastructure Sustainability (IS) rating scheme which is Australia's only
+comprehensive rating scheme for evaluating sustainability for infrastructure. IS evaluates the sustainability of
+infrastructure projects and assets and assigns credits across a number of categories which incentivise the use
+of sustainable practises.
+
+Humes helps its customers optimise their IS ratings through smart selection and design of precast products.
+
+This is our second Environmental Product Declaration. In 2016, we developed an ISO 14025 and EN 15804
+compliant EPD for our reinforced concrete pipe products. That EPD is publicly available on the EPD
+Australasia website: https://epd-australasia.com/epd/reinforced-concrete-pipe-rcp/
+
+|
+
+D. "à "ANNE
+
+“à | |
+nn ce _
+
+16 EPD for Tamworth precast products for infrastructure applications
+Product Specification
+
+The following tables are provided so the potential environmental impact can be calculated for a specific
+product weight. The value in the table represents the product's weight in tonnes so that the results of the
+LCA can be converted to product units. Please note that these product weights represent products for the
+P2N section of the Inland Rail Project. Further sections or other infrastructure applications may have varying
+designs that may alter the unit's weight.
+
+[es
+2
+re
+
+[ae]
+
+©
+=
+
+O
+
+U
+
+[en
+un
++
+
+e]
+
+>
+TD
+
+[e]
+
+nn
+[…s
+
+Table 8: Product Mass Guide, Small Box Culvert Railway Load Class 300LA, Tamworth,
+tonnes per unit
+
+— Span Height | Length
+
+Precast Concrete 17
+Table 9: Product Mass Guide, Large Box Culvert Railway Load Class 300LA, Tamworth,
+
+tonnes per unit
+
+1500 x 600 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 1500 600 2400 4.688
+1500 x 600 x 2400mm Box Culvert -300LA 1500 600 2400 4.002
+1800 x 600 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 1800 600 2400 5.478
+1800 x 600 x 2400mm Box Culvert - 300LA 1800 600 2400 4.730
+1800 x 800 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 1800 800 2400 5.400
+1800 x 900 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 1800 900 2400 5.586
+1800 x 900 x 2400mm Box Culvert - 300LA 1800 900 2400 4.776
+1800 x 1200 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 3OOLA 1800 1200 2400 6.870
+1800 x 1200 x 2400mm Box Culvert - 300LA 1800 1200 2400 6.050
+2400 x 800 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 3O0LA 2400 800 2400 8.345
+2400 x 800 x 2400mm Box Culvert - 300LA 2400 800 2400 7.267
+2400 x 900 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 2400 900 2400 8.500
+2400 x 900 x 2400mm Box Culvert - 300LA 2400 900 2400 7.400
+2400 x 1200 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 2400 1200 2400 9.000
+2400 x 1200 x 2400mm Box Culvert - 300LA 2400 1200 2400 7.900
+2400 x 1500 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 2400 1500 2400 9.900
+2400 x 1500 x 2400mm Box Culvert - 300LA 2400 1500 2400 8.800
+2400 x 1800 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 2400 1800 2400 10.970
+3000 x 1100 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 3000 1100 2400 11.700
+3000 x 1200 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 3000 1200 2400 11.880
+3000 x 1200 x 2400mm Box Culvert - 300LA 3000 1200 2400 10.600
+3000 x 1500 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 3000 1500 2400 12.700
+3000 x 1800 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 3000 1800 2400 13.500
+3000 x 2100 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 3000 2100 2400 14.700
+3000 x 2400 x 2400mm Box Culvert c/w 600 x 250 Ballast Wall - 300LA 3000 2400 2400 15.500
+
+18 EPD for Tamworth precast products for infrastructure applications
+Table 10: Product Mass Guide, Headwall / Wingwall Railway Load Class 300LA, Tamworth,
+
+tonnes per unit
+
+Wing Wall 450mm High Segment 1 - 300LA
+Wing Wall 450mm High Segment 2 - 300LA
+Wing Wall 600mm High Segment 1 - 300LA
+Wing Wall 600mm High Segment 2 - 300LA
+Wing Wall 800mm High Segment 1 - 300LA
+Wing Wall 800mm High Segment 2 - 300LA
+Wing Wall 800mm High Segment 3 - 300LA
+Wing Wall 900mm High Segment 1 - 300LA
+Wing Wall 900mm High Segment 2 - 300LA
+Wing Wall 900mm High Segment 3 - 300LA
+Wing Wall 1100mm High Segment 1 - 300LA
+Wing Wall 1100mm High Segment 2 - 300LA
+Wing Wall 1100mm High Segment 3 - 300LA
+Wing Wall 1200mm High Segment 1 - 300LA
+Wing Wall 1200mm High Segment 2 - 300LA
+Wing Wall 1200mm High Segment 3 - 300LA
+Wing Wall 1500mm High Segment 1 - 300LA
+Wing Wall 1500mm High Segment 2 - 300LA
+Wing Wall 1500mm High Segment 3 - 300LA
+Wing Wall 2100mm High Segment 1 - 300LA
+Wing Wall 2100mm High Segment 2 - 300LA
+Wing Wall 2100mm High Segment 3 - 300LA
+Wing Wall 2100mm High Segment 4 - 300LA
+Wing Wall 2400mm High Segment 1 - 300LA
+Wing Wall 2400mm High Segment 2 - 300LA
+Wing Wall 2400mm High Segment 3 - 300LA
+
+Wing Wall 2400mm High Segment 4 - 300LA
+
+2.760
+
+1.950
+
+2.930
+
+2.500
+
+3.120
+
+2.650
+
+0.550
+
+3.190
+
+2.750
+
+0.700
+
+3.380
+
+3.070
+
+1.170
+
+3.460
+
+3.250
+
+1.400
+
+5.500
+
+4.170
+
+2.100
+
+8.441
+
+6.675
+
+3.074
+
+0.987
+
+8.850
+
+7.100
+
+3.500
+
+1.700
+
+Precast Concrete
+
+19
+Table 11: Product Mass Guide, Small Box Culvert Road Load Class SM1600, Tamworth,
+tonnes per unit
+
+_. Span Height | Length
+
+Table 12: Product Mass Guide, Large Box Culvert Road Load Class SM1600, Tamworth,
+tonnes per unit
+
+_. Span Height | Length
+
+20 EPD for Tamworth precast products for infrastructure applications
+Table 13: Product Mass Guide, Headwall / Wingwall Road Load Class SM1600, Tamworth,
+
+tonnes per unit
+
+Headwall to suit box culverts 600 x 450 single cell
+Headwall to suit box culverts 600 x 300 single cell
+Headwall to suit 750 diameter pipe two cell
+Headwall to suit 600 diameter pipe two cell
+Headwall to suit box culverts 900 x 600 two cell
+Headwall to suit box culverts 1800 x 600 single cell
+Headwall to suit box culverts 900 x 600 three cell
+Headwall to suit box culverts 1200 x 600 two cell
+Headwall to suit 750 diameter pipe three cell
+Headwall to suit box culverts 600 x 450 four cell
+Headwall to suit 750 diameter pipe four cell
+Headwall to suit box culverts 1800 x 900 single cell
+Headwall to suit box culverts 2400 x 900 single cell
+Wing wall to suit 1595 high in situ cast headwall
+Wing wall to suit 995 high in situ cast headwall
+
+Wing wall to suit 1255 high in situ cast headwall
+
+0.584
+
+0.573
+
+2.000
+
+2.190
+
+1.712
+
+1.737
+
+4.056
+
+2.107
+
+2.578
+
+1.914
+
+3.426
+
+3.693
+
+3.459
+
+0.940
+
+0.524
+
+0.528
+
+Precast Concrete
+
+21
+References
+
+CEN 2013
+
+EFCA 2015a
+
+EFCA 2015b
+
+EFCA 2015c
+
+EFCA 20154
+
+EFCA 2015e
+
+Environdec 2018a
+
+Environdec 2018b
+
+ISO 2006a
+
+ISO 2006b
+
+ISO 2006c
+
+EN 15804:2012+A1:2013, Sustainability of construction works — Environmental
+product declarations — Core rules for the product category of construction
+products, European Committee for Standardization (CEN), Brussels, November
+2013
+
+EPD of Plasticizer and superplasticizer, IBU EPD Declaration number EPD-EFC-
+20150091-IAG1-EN, issued 14-09-2015, based on EN 15804 and PCR for concrete
+admixtures; EPD owner: EFCA - European Federation of Concrete Admixtures
+Associations
+
+EPD of Set accelerators, IBU EPD Declaration number EPD-EFC-20150087-IAG1-EN,
+issued 14-09-2015, based on EN 15804 and PCR for concrete admixtures; EPD
+owner: EFCA - European Federation of Concrete Admixtures Associations
+
+EPD of Hardening accelerators, IBU EPD Declaration number EPD-EFC-20150089-
+IAG1-EN, issued 14-09-2015, based on EN 15804 and PCR for concrete admixtures;
+EPD owner: EFCA - European Federation of Concrete Admixtures Associations
+
+EPD of Air entrainers, IBU EPD Declaration number EPD-EFC-20150086-IAG1-EN,
+issued 14-09-2015, based on EN 15804 and PCR for concrete admixtures; EPD
+owner: EFCA - European Federation of Concrete Admixtures Associations
+
+EPD of Retarders, IBU EPD Declaration number EPD-EFC-20150088-IAG1-EN,
+issued 14-09-2015, based on EN 15804 and PCR for concrete admixtures; EPD
+owner: EFCA - European Federation of Concrete Admixtures Associations
+
+PCR2012:01 (version 2.3), Product category rules according to ISO 14025 and EN
+15804, Combined PCR and PCR Basic Module for Construction products and
+Construction services, registration number 2012:01, published on 15 November
+2018
+
+PCR2012:01-SUB-PCR-G (version 2.3), Product category rules according to ISO
+14025 and EN 15804, Concrete and concrete elements (EN 16757:2017),
+registration number 2012:01, published on 22 November 2018
+
+ISO 14040:2006 Environmental management - Life cycle assessment - Principles
+and framework. International Organization for Standardization, Geneva,
+Switzerland, 2006
+
+IS014044:2006, Environmental management - Life cycle assessment -
+Requirements and guidelines. International Organization for Standardization,
+Geneva, Switzerland, 2006
+
+IS014025:2006, Environmental labels and declarations - Type Ill environmental
+declarations - Principles and procedures. International Organization for
+Standardization, Geneva, Switzerland, 2006
+
+22 EPD for Tamworth precast products for infrastructure applications
+NOHSC 2004 Approved criteria for classifying hazardous substances [NOHSC: 1008(2004)], 3" .
+Edition, National Occupational Health and Safety Commission, Canberra, October =
+2004 ©
+©
+[a 4
+OneSteel 2016 EPD of Reinforcing Rod, Bar & Wire, EPD Declaration number EPD-S-P-00855,
+
+issued 14-11-2016, based on EN 15804 and PCR for construction products and
+services; EPD owner: OneSteel
+
+SA 2000 AS 1478.1:2000 Chemical admixtures for concrete, mortar and grout, Part 1:
+Admixtures for concrete, published on 4 October 2000 by Standards Australia,
+Sydney
+
+SA 2001 AS/NZS 4671:2001 Steel reinforcing materials, published on 2 April 2001 by
+
+Standards Australia, Sydney
+
+SA 2010 AS 3972-2010 General Purpose and blended cements, published on 22 October
+2010 by Standards Australia, Sydney
+
+SA 2014 AS 2758.1:2014 Aggregates and rock for engineering purposes Part 1: Concrete
+aggregates, published on 7 November 2014 by Standards Australia, Sydney
+
+SA 2016 AS/NZS 3582.1:2016 Supplementary cementitious materials Part 1: Fly Ash,
+published on 12 February 2016 by Standard Australia, Sydney
+
+Precast Concrete 23
+Contact information
+
+National sales 1300 361 601
+
+humes.com.au
+info@humes.com.au
+
+Head Office
+
+18 Little Cribb St
+Milton 4064 OLD
+Ph: (07) 3364 2800
+Fax: (07) 3364 2963
+
+Queensland
+
+Ipswich/Brisbane
+Ph: (07) 3814 9000
+Fax: (07) 3814 9014
+
+Rockhampton
+Ph: (07) 4924 7900
+Fax: (07) 4924 7901
+
+Townsville
+Ph: (07) 4758 6000
+Fax: (07) 4758 6001
+
+24 EPD for Tamworth precast products for infrastructure applications
+
+New South Wales
+
+Grafton
+Ph: (02) 6644 7666
+Fax: (02) 6644 7313
+
+Newcastle
+Ph: (02) 4032 6800
+Fax: (02) 4032 6822
+
+Sydney
+Ph: (02)9832 5555
+Fax: (02) 9625 5200
+
+Tamworth
+Ph: (02) 6763 7300
+Fax: (02) 6763 7301
+
+Victoria
+
+Echuca
+Ph: (03) 5480 2371
+Fax: (03) 5482 3090
+
+Melbourne
+Ph: (03) 9360 3888
+Fax: (03) 9360 3887
+
+South Australia
+
+Adelaide
+Ph: (08) 8168 4544
+Fax: (08) 8168 4549
+
+Western Australia
+
+Gnangara
+Ph: (08) 9302 8000
+Fax: (08) 9309 1625
+
+Perth
+Ph: (08) 9351 6999
+Fax: (08) 9351 6977
+
+Northern Territory
+
+Darwin
+Ph: (08) 8984 1600
+Fax: (08) 8984 1614
+National sales 1300 361 601
+humes.com.au
+info@humes.com.au
+
+A Division of Holcim Australia
+
+This publication supersedes all previous literature on this subject. As the specifications and details contained in this publication may change
+please check with Humes Customer Service for confirmation of current issue. This publication provides general information only and is no
+substitute for professional engineering advice. No representations or warranties are made regarding the accuracy, completeness or relevance
+of the information provided. Users must make their own determination as to the suitability of this information or any Humes’ product for their
+specific circumstances. Humes accepts no liability for any loss or damage resulting from any reliance on the information provided in this
+publication. Humes is a registered business name and registered trademark of Holcim (Australia) Pty Ltd (Holcim). “Strength. Performance.
+Passion.” is a trademark of Holcim.
+
+© January 2020 Holcim (Australia) Pty Ltd ABN 87 099 732 297. Al rights reserved. This guide or any part of it may not be reproduced without
+prior written consent of Holcim.

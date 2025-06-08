@@ -1,0 +1,88 @@
+{
+  "epd_metadata": {
+    "epd_name": "UHOLCIM READY-MIX CONCRETE",
+    "epd_certification": {
+      "programme": "The International EPD® System",
+      "operator": "EPD International AB",
+      "registration_number": "EPD-IES-21960:001",
+      "valid_from": "16/05/2025",
+      "valid_until": "16/05/2030",
+      "revision_date": "16/05/2025",
+      "revision_number": 1
+    }
+  },
+  "product_description": {
+    "product_name": "ECOPact - QE501UA18",
+    "production_sites": [
+      "Toowoomba",
+      "Nanango"
+    ],
+    "content_declaration": {
+      "cement": {
+        "general_purpose": "5-21%",
+        "aggregate": "67-84%",
+        "supplementary_cementitious_materials": "0-11%",
+        "water": "11.6-12%"
+      }
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "recycled_materials": {
+      "materials_listed": [
+        "Flyash",
+        "Ground granulated blast furnace slag",
+        "Silica fume"
+      ],
+      "considered_as_co-products": true
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "scope": "Cradle to gate (modules A1-A3)",
+    "reference_service_life": null,
+    "time_representativeness": {
+      "plant_data": "2022",
+      "mix_data": "2025"
+    },
+    "lca_software_used": "SimaPro® LCA software (v 9.5)",
+    "background_data_sources": {
+      "cement_supplier_data": "2022",
+      "electricity_invoices": "2022",
+      "coarse_aggregate": "2022",
+      "water_sources": "2022",
+      "waste_categories": "2023"
+    }
+  },
+  "transport_and_installation": {
+    "transport_distance": "11.89 km",
+    "transport_vehicle": "EUROS 28t — 32t trucks",
+    "installation_assumptions": "Based on industrial expertise and experience"
+  },
+  "end_of_life": {
+    "deconstruction": {
+      "process": "Drilling and removing the concrete",
+      "assumptions": "Hydraulic excavator as the operating tool"
+    },
+    "waste_processing": {
+      "concrete_recycling": "1.92E+03 kg",
+      "inert_waste_landfill": "4.80E+02 kg"
+    }
+  },
+  "carbon_emission_context": {
+    "carbonation_process": {
+      "description": "Concrete absorbs CO2 from the atmosphere through a chemical reaction"
+    }
+  },
+  "recycled_materials_handling": {
+    "allocation_approach": "Economic value based on PCR 2019:14",
+    "default_background_data": "Used for modelling co-products"
+  },
+  "additional_info": {
+    "contact_information": {
+      "company_name": "Holcim (Australia) Pty Ltd",
+      "address": "Level 40/100 Miller St, North Sydney NSW 2060, Australia",
+      "phone": "02 9412 6600",
+      "website": "www.holcim.com.au"
+    },
+    "disclaimer": "The results provided in this EPD are relative statements and do not indicate the endpoints of the impact categories."
+  }
+}

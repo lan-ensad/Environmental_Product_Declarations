@@ -1,0 +1,233 @@
+{
+  "epd_metadata": {
+    "product_name": "BOMBAY - 40MPA 19MM PRECAST MIX",
+    "managed_by": "Holcim NZ Ltd",
+    "publication_date": "2024-11-20",
+    "epd_process_certificate_no": "1016",
+    "version_date": "2024-11-20",
+    "valid_until": "2029-11-20",
+    "verified_accreditation_body": "Epsten Group, Inc.",
+    "revision_number": "1.0",
+    "epd_registration_no": "EPD-IES-0017533",
+    "geographical_scope": "New Zealand",
+    "standards": [
+      "ISO 14025:2016",
+      "EN15804+A2:2019/AC:2021"
+    ],
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia Limited",
+    "epd_type": "Specific EPD",
+    "product_group_classification": "UN CPC 375",
+    "reference_year_for_data": "2022 Plant Data, 2024 Mix/Materials Data",
+    "product_category_rules": [
+      "PCR 2019:14 Construction products (EN 15804+A2), Version 1.3.2",
+      "c-PCR-003 Concrete and concrete elements (EN 16757:2022)"
+    ],
+    "independent_verification": {
+      "epd_process_certification": true,
+      "epd_verification": true,
+      "verifier": "Epsten Group, Inc.",
+      "accreditation": "A2LA, Certificate #3142.03",
+      "procedure_for_follow_up": true
+    }
+  },
+  "product_description": {
+    "description": "Ready-mix concrete is produced at batching plants where controlled operations allow precise mix designs resulting in a product that is delivered to construction sites in a freshly mixed, plastic, or unhardened state.",
+    "standards_reference": "NZS 3104:2003",
+    "products_covered": [
+      {
+        "name": "40MPa 19mm Precast Mix",
+        "code": "40MPa Bombay 4019PR283",
+        "type": "Precast concrete products"
+      }
+    ],
+    "material_composition": {
+      "Portland Cement": "5-25%",
+      "Aggregate": "60-90%",
+      "Supplementary Cementitious materials": "0-20%",
+      "Water": "6-12%",
+      "Admixture": "<5%"
+    },
+    "substances_of_concern": "The product does not contain one or more substances that are listed in the Candidate List of Substances of Very High Concern for Authorisation.",
+    "manufacturing_process_flow": {
+      "raw_materials": [
+        "Limestone",
+        "Alumina Source",
+        "Silica Source",
+        "Iron Source",
+        "Clinker",
+        "Alternative Fuels",
+        "High Grade Limestone",
+        "Ground Granulated Blast Furnace Slag",
+        "Coarse and Fine Aggregates",
+        "Secondary Materials (fly ash, silica fume, GGBFS)",
+        "Admixtures"
+      ],
+      "processes": [
+        "Raw Material Preparation",
+        "Clinker Preparation",
+        "Cement Milling",
+        "Concrete Mix Plants",
+        "Fresh/Recycled Water",
+        "Wastewater Treatment",
+        "Transport",
+        "Landfill/Recycling",
+        "Fuel and Electricity"
+      ],
+      "packaging": "Holcim ready-mix concrete is delivered in bulk with no packaging."
+    },
+    "recycled_materials": {
+      "co_products": [
+        "Fly ash",
+        "Ground granulated blast furnace slag",
+        "Silica Fume"
+      ],
+      "recycled_materials_used": "There is no recycled materials used in producing the product."
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1m³ of ready-mix concrete in use",
+    "time_representativeness": {
+      "plant_data": "2022 calendar year production data",
+      "mix_data": "2024 calendar year production data"
+    },
+    "databases_and_software": {
+      "software": "SimaPro® LCA software (v 9.5.0.0)",
+      "databases": [
+        "Ecoinvent 3.9.1 (2023)",
+        "Australian Life Cycle Inventory (AusLCI) v1.42 (2023)",
+        "Environmental Footprint (EF) database v3.1 (2022)"
+      ]
+    },
+    "impact_categories_calculated_manually": [
+      "Use of renewable primary energy resources used as raw materials (PERM)",
+      "Use of non-renewable primary energy resources used as raw materials (PENRM)",
+      "Materials for recycling",
+      "Non-hazardous waste disposed"
+    ],
+    "data_quality": {
+      "foreground_data_source": "Primary source by Holcim (NZ) for January 2022 - December 2022",
+      "data_quality_assessment": "Schemes from EN 15804+A2 used",
+      "generic_data": "Generic data from LCA databases used for raw materials",
+      "exceptions": "Supplier product-specific EPDs incorporated where available"
+    },
+    "system_boundary": {
+      "included_modules": [
+        "A1 - Extraction and production of primary raw materials",
+        "A2 - Transport",
+        "A3 - Manufacturing",
+        "C1 - Deconstruction",
+        "C2 - Transport",
+        "C3 - Waste processing",
+        "C4 - Disposal",
+        "D - Recovery/reuse/recycle"
+      ],
+      "excluded_modules": [
+        "A4 - Distribution",
+        "A5 - Construction installation",
+        "B1-B7 - Use stages"
+      ],
+      "notes": "Emissions from construction installation (A5) excluded due to no operational control; distribution (A4) and use stages (B1-B7) excluded."
+    },
+    "allocation": {
+      "principles": [
+        "Divide system sub-processes and collect input/output data",
+        "Partition inputs and outputs based on physical relationships",
+        "If physical relationships insufficient, allocate based on economic value"
+      ],
+      "application": "Allocation based on annual production volume by m³; fuel consumption for mixing/loading measured per declared unit without allocation."
+    },
+    "cut_off_rules": {
+      "minimum_inflows_included": "95% of total inflows (mass and energy) per module",
+      "minimum_energy_use_included": "99% of renewable and non-renewable primary energy use",
+      "exclusions": [
+        "Environmental impact from infrastructure, production equipment, and tools not directly consumed",
+        "Personnel-related impacts"
+      ],
+      "packaging": "Packaging excluded except for raw material packaging which is excluded for simplicity"
+    },
+    "key_assumptions": {
+      "raw_material_packaging": "Excluded",
+      "emission_factors": "Most assigned are generic; supplier-specific to replace when available",
+      "transport_distances": "Estimated average distances used where data unavailable",
+      "GreenStar_and_IS_indicators": "Included for future reporting; transport impacts for cement product use generic data",
+      "waste_production": "Estimated by Holcim (NZ)",
+      "deconstruction": "Assumed same for all products",
+      "transport_to_landfill": "Assumed 50 km distance"
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "raw_material_transport": "All materials transported via truck; aggregates and cements by heavy trucks, other raw materials by medium trucks",
+      "waste_transport": "Transport of materials for landfilling externally included",
+      "deconstruction_transport_distance": "50 km from construction site to landfill"
+    },
+    "installation": {
+      "included": false,
+      "notes": "Emissions from construction installation (A5) excluded as Holcim (NZ) does not have operational control"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": "Assumed to use drilling to break and remove concrete",
+    "waste_processing": "No recycling assumed; C3 impact is zero",
+    "disposal": "All products assumed to be landfilled (C4)",
+    "carbonation": "No carbonation at end of life",
+    "recycling": "No recycling for the product at end of life",
+    "distance_to_landfill": "50 km assumed"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "A1-A3": 282,
+      "C1": 8.99,
+      "C2": 19.4,
+      "C3": 0,
+      "C4": 25.3,
+      "D": 0,
+      "unit": "kg CO2 eq."
+    },
+    "electricity_emission_factor": "0.0742 kg CO2e/kWh",
+    "electricity_mix": {
+      "hydro": "60%",
+      "geothermal": "18%",
+      "wind": "6.5%",
+      "gas": "9.9%",
+      "coal": "2.88%"
+    },
+    "no_co2_uptake": true
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica Fume"
+    ],
+    "allocation_method": "Impacts allocated according to PCR 2019:14 for co-produced goods, multi-output allocation",
+    "recycled_materials_used_in_product": "None"
+  },
+  "additional_info": {
+    "contact_information": {
+      "company": "Holcim (New Zealand) Ltd",
+      "address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+      "phone": "0800 465 246",
+      "website": "www.holcim.co.nz"
+    },
+    "references": [
+      "Australian Life Cycle Inventory Database Initiative (AusLCI), 2023",
+      "British Standards Institution, BS EN 15804:2012+A2:2019",
+      "Department of the Environment, Australian National Greenhouse Accounts, 2021",
+      "Developer Environmental Footprint (EF), 2022",
+      "Ecoinvent v3.9.1, 2023",
+      "EPD Australasia, 2018",
+      "EPD International, c-PCR-003 Concrete and concrete elements (EN 16757), 2023",
+      "Frischknecht, R., 2007",
+      "ISO 14025:2006, ISO 14040:2006, ISO 14044:2006 and amendments",
+      "Ministry for the Environment, New Zealand, 2022 and 2023",
+      "Ministry of Business, Innovation & Employment, New Zealand, 2023"
+    ],
+    "disclaimers": [
+      "Results of some environmental impact indicators shall be used with care due to high uncertainties or limited experience.",
+      "Ionising radiation impact category excludes nuclear accidents, occupational exposure, and radioactive waste disposal effects."
+    ],
+    "notes": "This publication supersedes all previous literature on this subject. Specifications and details may change; users must confirm current issue with Holcim Customer Service."
+  }
+}

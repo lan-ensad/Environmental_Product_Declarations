@@ -1,0 +1,499 @@
+{
+  "epd_metadata": {
+    "product_name": "NEW PLYMOUTH - 50MPA 13MM ULTIMATE MIX",
+    "managed_by": "Holcim NZ Ltd",
+    "publication_date": "2025-02-17",
+    "epd_process_certificate_no": "1016",
+    "version_date": "2025-02-17",
+    "valid_until": "2030-02-17",
+    "verified_accreditation_body": "Epsten Group, Inc.",
+    "revision_number": "1.0",
+    "epd_registration_no": "EPD-IES-0019922",
+    "geographical_scope": "New Zealand",
+    "standards": [
+      "ISO 14025:2016",
+      "EN15804+A2:2019/AC:2021"
+    ],
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia Limited",
+    "epd_type": "Specific EPD",
+    "product_group_classification": "UN CPC 375",
+    "reference_year_for_data": {
+      "plant_data": 2022,
+      "mix_materials_data": 2024
+    },
+    "product_category_rules": [
+      "PCR 2019:14 Construction products (EN 15804+A2), Version 1.3.4",
+      "c-PCR-003 Concrete and concrete elements (EN 16757:2022)"
+    ],
+    "independent_third_party_verification": {
+      "epd_process_certification": true,
+      "epd_verification": true,
+      "verification_body": "Epsten Group, Inc.",
+      "accreditation": "A2LA, Certificate #3142.03"
+    },
+    "procedure_for_follow_up_of_data": true
+  },
+  "product_description": {
+    "description": "Ready-mix concrete produced at batching plants with controlled operations allowing precise mix designs, delivered in a freshly mixed, plastic, or unhardened state.",
+    "standards_reference": "NZS 3104:2003",
+    "product_list": [
+      "50MPa 13mm Ultimate",
+      "50MPa New Plymouth 5O1S8UEC Ready Mix and precast concrete"
+    ],
+    "material_composition_by_weight": {
+      "Portland Cement": "5-25%",
+      "Aggregate": "60-90%",
+      "Supplementary Cementitious materials": "0-11%",
+      "Water": "6-12%",
+      "Admixture": "0.01-0.02%"
+    },
+    "substances_of_concern": "The product does not contain substances listed in the Candidate List of Substances of Very High Concern for Authorisation.",
+    "manufacturing_process_flow": {
+      "raw_materials": [
+        "Limestone",
+        "Alumina Source",
+        "Silica Source",
+        "Iron Source",
+        "Clinker Preparation",
+        "Alternative Fuels",
+        "High Grade Limestone",
+        "Ground Granulated Blast Furnace Slag",
+        "Coarse and Fine Aggregates",
+        "Secondary Materials (fly ash, silica fume, GGBFS)",
+        "Admixtures"
+      ],
+      "processes": [
+        "Raw Material Preparation",
+        "Cement Milling",
+        "Export Storage",
+        "Concrete Mix Plants",
+        "Mixing and batching",
+        "Wastewater treatment",
+        "Transport",
+        "Landfill/Recycling"
+      ],
+      "energy_sources": [
+        "Electricity from Grid",
+        "Electricity from Heat Recovery",
+        "Fuel and Electricity"
+      ]
+    },
+    "packaging": "Delivered in bulk with no packaging.",
+    "recycled_materials": {
+      "co_products": [
+        "Fly ash",
+        "Ground granulated blast furnace slag",
+        "Silica Fume"
+      ],
+      "recycled_materials_used": "No recycled materials used in producing the product."
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete in use",
+    "time_representativeness": {
+      "plant_data": "2022 calendar year",
+      "mix_data": "2025 calendar year"
+    },
+    "databases_and_software": {
+      "software": "SimaPro® LCA software (v9.6)",
+      "databases": [
+        "Ecoinvent 3.10 (2023)",
+        "Australian Life Cycle Inventory (AusLCI) v1.42 (2023)",
+        "Environmental Footprint (EF) database v3.1 (2022)"
+      ]
+    },
+    "impact_categories_calculated_manually": [
+      "Use of renewable primary energy resources used as raw materials (PERM)",
+      "Use of non-renewable primary energy resources used as raw materials (PENRM)",
+      "Materials for recycling",
+      "Non-hazardous waste disposed"
+    ],
+    "data_quality": {
+      "foreground_data_source": "Primary source by Holcim (NZ) for 2022",
+      "data_quality_assessment_standard": "EN 15804+A2"
+    },
+    "system_boundaries": {
+      "modules_included": [
+        "A1 - Extraction and production of primary raw materials",
+        "A2 - Transport",
+        "A3 - Manufacturing",
+        "C1 - Deconstruction",
+        "C2 - Transport to waste processing",
+        "C3 - Waste processing",
+        "C4 - Disposal",
+        "D - Recovery/reuse/recycle"
+      ],
+      "modules_excluded": [
+        "A4 - Distribution",
+        "A5 - Construction installation",
+        "B1-B7 - Use stages"
+      ],
+      "reason_for_exclusion": "Holcim (NZ) does not have operational control over installation; distribution and use stages excluded."
+    },
+    "allocation": {
+      "principles": [
+        "Initial allocation divides system sub-processes and collects input/output data.",
+        "First allocation step partitions inputs/outputs based on physical relationships.",
+        "Second allocation step (worst case) uses economic value if physical relationships cannot be established."
+      ],
+      "application": "Allocation based on annual production volume by physical relationships; fuel consumption for mixing/loading measured per declared unit without allocation."
+    },
+    "cut_off_rules": {
+      "minimum_inclusion": "95% of total inflows (mass and energy) per module; 99% of renewable and non-renewable primary energy use and total mass input.",
+      "exclusions": [
+        "Environmental impact from infrastructure, construction, production equipment, and tools not directly consumed.",
+        "Personnel-related impacts excluded."
+      ],
+      "packaging": "No packaging except for raw material packaging which is excluded."
+    },
+    "transport": {
+      "mode": "Truck",
+      "details": {
+        "aggregates_and_cements": "Heavy trucks",
+        "other_raw_materials": "Medium trucks"
+      }
+    },
+    "electricity_mix": {
+      "source": "New Zealand Ministry of Business, Innovation & Employment",
+      "composition": {
+        "hydro": "60%",
+        "geothermal": "18%",
+        "wind": "6.5%",
+        "gas": "9.9%",
+        "coal": "2.88%"
+      },
+      "emission_factor": "0.0742 kg CO2e/kWh"
+    },
+    "downstream_processes": {
+      "deconstruction": "Assumed to use drilling to break and remove concrete",
+      "waste_collection_distance": "50 km to landfill",
+      "end_of_life": {
+        "landfilled": true,
+        "recycling": false,
+        "carbonation": false
+      }
+    },
+    "co2_uptake": "No CO2 uptake in any module declared"
+  },
+  "transport_and_installation": {
+    "transport_modes": {
+      "raw_materials_to_plant": "Truck (heavy trucks for aggregates and cement, medium trucks for other materials)",
+      "waste_to_landfill": "Truck, 50 km assumed"
+    },
+    "installation": {
+      "included": false,
+      "reason": "Holcim (NZ) does not have operational control over installation at construction site"
+    }
+  },
+  "end_of_life": {
+    "deconstruction_method": "Drilling to break and remove concrete",
+    "waste_transport_distance": "50 km to landfill",
+    "disposal": "All products assumed to be landfilled",
+    "recycling": "No recycling assumed",
+    "carbonation": "No carbonation at end of life"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential_fossil": {
+      "A1-A3": 412,
+      "C1": 8.99,
+      "C2": 19.1,
+      "C3": 0,
+      "C4": 24.9,
+      "D": 0
+    },
+    "global_warming_potential_biogenic": {
+      "A1-A3": 0.0613,
+      "C1": 0.000387,
+      "C2": 0.00086,
+      "C3": 0,
+      "C4": 0.169,
+      "D": 0
+    },
+    "global_warming_potential_luluc": {
+      "A1-A3": 0.279,
+      "C1": 0.000309,
+      "C2": 0.000559,
+      "C3": 0,
+      "C4": 0.0118,
+      "D": 0
+    },
+    "global_warming_potential_total": {
+      "A1-A3": 413,
+      "C1": 8.99,
+      "C2": 19.1,
+      "C3": 0,
+      "C4": 24.9,
+      "D": 0
+    },
+    "other_impact_categories": {
+      "acidification_potential": {
+        "A1-A3": 1.82,
+        "C1": 0.084,
+        "C2": 0.052,
+        "C3": 0,
+        "C4": 0.282,
+        "D": 0
+      },
+      "eutrophication_freshwater": {
+        "A1-A3": 0.815,
+        "C1": 7.34e-05,
+        "C2": 0.000389,
+        "C3": 0,
+        "C4": 0.0423,
+        "D": 0
+      },
+      "eutrophication_marine": {
+        "A1-A3": 0.231,
+        "C1": 0.0895,
+        "C2": 0.0189,
+        "C3": 0,
+        "C4": 0.0708,
+        "D": 0
+      },
+      "eutrophication_terrestrial": {
+        "A1-A3": 5.93,
+        "C1": 0.433,
+        "C2": 0.207,
+        "C3": 0,
+        "C4": 0.76,
+        "D": 0
+      },
+      "photochemical_ozone_creation_potential": {
+        "A1-A3": 1.47,
+        "C1": 0.129,
+        "C2": 0.0774,
+        "C3": 0,
+        "C4": 0.267,
+        "D": 0
+      },
+      "abiotic_depletion_potential_elements": {
+        "A1-A3": -8.25e-05,
+        "C1": 8.76e-07,
+        "C2": 1.14e-06,
+        "C3": 0,
+        "C4": 9.51e-06,
+        "D": 0
+      },
+      "abiotic_depletion_potential_fossil": {
+        "A1-A3": 1310,
+        "C1": 118,
+        "C2": 256,
+        "C3": 0,
+        "C4": 572,
+        "D": 0
+      },
+      "water_depletion_potential": {
+        "A1-A3": 80.3,
+        "C1": 0.0942,
+        "C2": 0.237,
+        "C3": 0,
+        "C4": -896,
+        "D": 0
+      }
+    },
+    "resource_use": {
+      "use_of_renewable_primary_energy_excluding_raw_materials": {
+        "A1-A3": 94.5,
+        "C1": 0.265,
+        "C2": 0.416,
+        "C3": 0,
+        "C4": 5.23,
+        "D": 0
+      },
+      "use_of_renewable_primary_energy_resources_used_as_raw_materials": {
+        "all_modules": 0
+      },
+      "total_use_of_renewable_primary_energy_resources": {
+        "A1-A3": 94.5,
+        "C1": 0.265,
+        "C2": 0.416,
+        "C3": 0,
+        "C4": 5.23,
+        "D": 0
+      },
+      "use_of_non_renewable_primary_energy_excluding_raw_materials": {
+        "A1-A3": 1410,
+        "C1": 118,
+        "C2": 256,
+        "C3": 0,
+        "C4": 572,
+        "D": 0
+      },
+      "use_of_non_renewable_primary_energy_resources_used_as_raw_materials": {
+        "all_modules": 0
+      },
+      "total_use_of_non_renewable_primary_energy_resources": {
+        "A1-A3": 1410,
+        "C1": 118,
+        "C2": 256,
+        "C3": 0,
+        "C4": 572,
+        "D": 0
+      },
+      "use_of_secondary_material": {
+        "A1-A3": 138,
+        "others": 0
+      },
+      "use_of_renewable_secondary_fuels": {
+        "A1-A3": 20.2,
+        "others": 0
+      },
+      "use_of_non_renewable_secondary_fuels": {
+        "A1-A3": 184,
+        "others": 0
+      },
+      "use_of_net_fresh_water": {
+        "A1-A3": 80,
+        "C1": 0.00871,
+        "C2": 0.00859,
+        "C3": 0,
+        "C4": -9.21,
+        "D": 0
+      }
+    },
+    "waste_production": {
+      "hazardous_waste_disposed": {
+        "A1-A3": 0.00109,
+        "C1": 0.000812,
+        "C2": 0.00175,
+        "C3": 0,
+        "C4": 0.00374,
+        "D": 0
+      },
+      "non_hazardous_waste_disposed": {
+        "A1-A3": 0.118,
+        "C1": 0.00346,
+        "C2": 0.0109,
+        "C3": 0,
+        "C4": 2480,
+        "D": 0
+      },
+      "radioactive_waste_disposed_stored": {
+        "A1-A3": 0.00278,
+        "C1": 6.05e-06,
+        "C2": 9.2e-06,
+        "C3": 0,
+        "C4": 9.09e-05,
+        "D": 0
+      }
+    },
+    "output_flows": {
+      "components_for_reuse": 0,
+      "material_for_recycling": 0,
+      "energy_recovery": 0,
+      "exported_energy_electricity": 0,
+      "exported_energy_thermal": 0
+    },
+    "additional_environmental_impact_indicators": {
+      "particulate_matter_disease_incidence": {
+        "A1-A3": 1.04e-05,
+        "C1": 2.41e-06,
+        "C2": 1.28e-06,
+        "C3": 0,
+        "C4": 4.21e-06,
+        "D": 0
+      },
+      "ionising_radiation_human_health": {
+        "A1-A3": 2200,
+        "C1": 0.0252,
+        "C2": 0.0389,
+        "C3": 0,
+        "C4": 0.375,
+        "D": 0
+      },
+      "eco_toxicity_freshwater": {
+        "A1-A3": 420,
+        "C1": 4.09,
+        "C2": 16.8,
+        "C3": 0,
+        "C4": 589,
+        "D": 0
+      },
+      "human_toxicity_cancer_effects": {
+        "A1-A3": 6.36e-07,
+        "C1": 6.27e-10,
+        "C2": 1.6e-09,
+        "C3": 0,
+        "C4": 3.37e-08,
+        "D": 0
+      },
+      "human_toxicity_non_cancer_effects": {
+        "A1-A3": 2.65e-05,
+        "C1": 8.92e-09,
+        "C2": 1.26e-07,
+        "C3": 0,
+        "C4": 7.37e-07,
+        "D": 0
+      },
+      "soil_quality_index": {
+        "A1-A3": 2090,
+        "C1": 0.251,
+        "C2": 1.04,
+        "C3": 0,
+        "C4": 1350,
+        "D": 0
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica Fume"
+    ],
+    "allocation_method": "Impacts for co-products allocated according to PCR 2019:14 Construction Products and Construction Services (co-produced goods, multi-output allocation).",
+    "recycled_materials_used_in_product": false
+  },
+  "additional_info": {
+    "about_holcim_nz": {
+      "company_description": "Holcim New Zealand is a leading solutions provider for design and construction needs in New Zealand since 1888, supplying cement, aggregates, and ready-mix concrete.",
+      "global_presence": "Holcim employs 60,000 people worldwide across Cement, Ready-Mix Concrete, Aggregates, and Solutions & Products segments.",
+      "sustainability_commitment": "Holcim has industry-first 2030 and 2050 net-zero targets validated by the Science Based Targets initiative, leading transition towards low-carbon construction and circular economy.",
+      "local_low_carbon_solutions": "Holcim NZ developed a range of low carbon solutions specifically for the New Zealand market."
+    },
+    "lca_assumptions_and_limitations": {
+      "raw_material_packaging": "Excluded due to lack of comprehensive data.",
+      "emission_factors": "Most assigned emission factors are generic proxies; supplier-specific data to replace when available.",
+      "transport_distances": "Estimated average distances used where data unavailable.",
+      "greenstar_and_is_indicators": "Included for future reporting; transport impacts for Holcim cement product use generic background data with assumptions on transport distances.",
+      "waste_production": "Estimated by Holcim; more specific data could improve accuracy.",
+      "deconstruction": "Assumed same for all products.",
+      "landfill_transport_distance": "Assumed 50 km based on major city to landfill distances."
+    },
+    "data_quality_assessment": {
+      "raw_materials": "Primary source data from Holcim (NZ) 2022, very good quality.",
+      "transport": "Secondary source data, good quality.",
+      "manufacturing": "Estimated waste outputs, good quality.",
+      "deconstruction": "Assumptions, fair quality.",
+      "waste_processing": "General assumptions, fair quality.",
+      "disposal": "Based on national GHG report, fair quality."
+    },
+    "contact_information": {
+      "holcim_nz": {
+        "address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+        "website": "www.holcim.co.nz",
+        "phone": "0800 465 246"
+      },
+      "epd_programme_operator": {
+        "name": "EPD International AB",
+        "address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+        "website": "www.environdec.com",
+        "email": "info@environdec.com"
+      },
+      "regional_programme": {
+        "name": "EPD Australasia Limited",
+        "address": "315a Hardy Street Nelson 7010, New Zealand",
+        "website": "www.epd-australasia.com",
+        "email": "info@epd-australasia.com"
+      },
+      "verification_body": {
+        "name": "Epsten Group, Inc.",
+        "address": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+        "website": "www.epstengroup.com",
+        "email": "epstengroup@"
+      }
+    },
+    "disclaimer": "This publication supersedes all previous literature on this subject. Specifications and details may change; users must confirm current issue and suitability. Holcim accepts no liability for loss or damage from reliance on this information."
+  }
+}

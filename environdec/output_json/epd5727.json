@@ -1,0 +1,69 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "registration_number": "S-P-05727",
+    "issue_date": "2022-03-14",
+    "update_date": "2023-11-23",
+    "version": "2.1",
+    "validity_date": "2027-05-03",
+    "geographical_scope": "Global",
+    "standards": [
+      "ISO 14025:2010",
+      "EN 15804:2012+A2:2019",
+      "EN 16908:2017"
+    ],
+    "verification": {
+      "type": "External",
+      "verifier": "Marcel Gómez",
+      "accredited_by": "Approved by the Technical Committee of The International EPD® System"
+    }
+  },
+  "product_description": {
+    "product_name": "ECOPlanet Prime CEM III/B 42.5 N-LH/SR",
+    "manufacturer": "Holcim España, S.A.U.",
+    "product_type": "Cement",
+    "functional_unit": "1 tonne (1000 kg) of product",
+    "composition": {
+      "Clinker": "28%",
+      "Blast furnace slag": "70%",
+      "Minor additions": "2%"
+    },
+    "technical_characteristics": {
+      "Compressive strength 2 days": "> 10 MPa",
+      "Compressive strength 28 days": "> 42.5 and < 62.5 MPa",
+      "Initial setting time": "> 60 min",
+      "Expansion": "< 10 mm",
+      "Heat of hydration": "< 270 J/g"
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1 tonne (1000 kg) of product",
+    "system_boundary": "Cradle to gate",
+    "modules_included": "A1-A3",
+    "data_quality": "High",
+    "software": "Air.e LCA v3.12",
+    "database": "Ecoinvent 3.7.1",
+    "impact_assessment_method": "IPCC 2013, WMO 2014, ReCiPe"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "total_GWP": "267.06 kg CO2 equivalent",
+    "fossil_GWP": "267.00 kg CO2 equivalent",
+    "biogenic_GWP": "0.07 kg CO2 equivalent",
+    "land_use_GWP": "<0.01 kg CO2 equivalent"
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": "683 kg",
+    "recycling_rate": "70%"
+  },
+  "additional_info": {
+    "company_practices": "Holcim España focuses on sustainability, aiming for net-zero emissions and promoting circular economy.",
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001:2015",
+      "ISO 14064-1:2012"
+    ]
+  }
+}

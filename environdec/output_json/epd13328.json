@@ -1,0 +1,168 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "program_operator_address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+    "program_operator_website": "www.environdec.com",
+    "epd_registration_number": "REF: S-P-13328",
+    "issue_date": "2024-04-11",
+    "update_date": "2024-04-23",
+    "validity_date": "2029-04-11",
+    "geographical_scope": "Global",
+    "verification": {
+      "third_party_verifier": "Marcel Gómez",
+      "accredited_by": "Approved by The International EPD® System Technical Committee, supported by the Secretariat",
+      "verification_type": "External & Internal",
+      "procedure_for_follow_up": "No"
+    },
+    "version": "1.2",
+    "pcr": [
+      {
+        "name": "2019:14 Construction products (EN 15804:A2)",
+        "version": "1.3.3",
+        "date": "2024-03-01"
+      },
+      {
+        "name": "c-PCR-001 Cement and Building Lime (EN 16908:2019)",
+        "date": "2022-05-18"
+      }
+    ],
+    "standards": [
+      "ISO 14025:2010",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "ISO 21930",
+      "ISO 14040",
+      "ISO 14044",
+      "ISO 14020",
+      "ISO 14025",
+      "ISO 14064-1:2018"
+    ]
+  },
+  "product_description": {
+    "product_name": "ECOPlanet CEM IV/A (P) 42.5 R-SR",
+    "product_group_classification": "UN CPC 3744",
+    "product_category": "Portland cement, aluminous cement, slag cement and similar hydraulic cements, except in the form of clinkers",
+    "manufacturer": "Holcim España, S.A.U.",
+    "manufacturing_location": "Villaluenga de la Sagra, Toledo, Spain",
+    "declared_unit": "One ton (1,000 kg) of product ready to be sent to the customer",
+    "year_of_data": 2022,
+    "composition": {
+      "clinker": "4% (post-consumer recycled material 0%, renewable material 0%)",
+      "natural_pozzolan": "8% (post-consumer recycled material 0%, renewable material 0%)",
+      "natural_gypsum": "0% (post-consumer recycled material 0%, renewable material 0%)",
+      "minor_additional_constituents": "0% (post-consumer recycled material 0%, renewable material 0%)"
+    },
+    "packaging": "None (product marketed in bulk)",
+    "technical_characteristics": {
+      "standard": "UNE-EN 197-1",
+      "compressive_strength_2_days": "> 20.0 MPa",
+      "compressive_strength_28_days": "> 42.5 and < 62.5 MPa",
+      "initial_setting_time": "> 60 min",
+      "soundness": "< 10 mm"
+    },
+    "hazardous_substances": "No substances listed in the Candidate List of Substances of Very High Concern (SVHC) used in a percentage higher than 0.1% of the product weight"
+  },
+  "lca_information": {
+    "declared_unit": "One ton (1,000 kg) of ECOPlanet CEM IV/A (P) 42.5 R-SR",
+    "system_boundary": "Cradle-to-gate (modules A1-A3)",
+    "excluded_modules": [
+      "B1 to D"
+    ],
+    "exclusion_reasons": [
+      "Product physically integrated with other products during installation and cannot be physically separated at end of life",
+      "Product no longer identified at end of life due to physical-chemical transformation",
+      "Product does not contain biogenic carbon"
+    ],
+    "included_processes": [
+      "Quarry works and components manufacturing",
+      "Transport of materials and fuels",
+      "Factory process and final preparation"
+    ],
+    "excluded_processes": [
+      "Manufacture of equipment, buildings or capital goods",
+      "Transport of people to and inside manufacturing plants",
+      "Research and Development activities",
+      "Long-term emissions",
+      "Operations in the port"
+    ],
+    "electricity_mix": {
+      "source": "Supplier specific electricity mix demonstrated by guarantee of origin",
+      "climate_change_impact": "0.04 kg CO2e/kWh (GWP100-GHG)"
+    },
+    "lca_software": "Air.e LCA v3.16",
+    "lca_database": "Ecoinvent 3.9.1",
+    "allocation": "Only for verified direct emissions of the furnace where clinker is used to produce different cements",
+    "cut_off_rules": "At least 95% of total input flows (mass and energy) per module included",
+    "data_quality": "High, based on representative geography, recent data, third-party verified direct emissions, and inclusion in PRTR and EU Emissions Trade System"
+  },
+  "transport_and_installation": {
+    "transport_included": "Yes, all transportation and components included with real loads and distances for 2022",
+    "transport_excluded": "Port operations",
+    "transport_modes": [
+      "Ship",
+      "Truck"
+    ],
+    "installation": "Product physically integrated during installation; no separate end-of-life treatment"
+  },
+  "end_of_life": {
+    "considered": false,
+    "reason": "Product physically integrated and transformed; no separate end-of-life identification or treatment"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential_total": "483.71 kg CO2 equivalent (net emissions)",
+    "global_warming_potential_fossil": "483.49 kg CO2 equivalent",
+    "global_warming_potential_biogenic": "0.17 kg CO2 equivalent",
+    "global_warming_potential_luluc": "0.05 kg CO2 equivalent",
+    "ozone_depletion": "2.10e-6 kg CFC11 equivalent",
+    "acidification": "2.40e-3 mol H+ equivalent",
+    "eutrophication_fresh_water": "4.04e-4 kg P equivalent",
+    "eutrophication_marine_water": "7.63e-4 kg N equivalent",
+    "eutrophication_terrestrial": "8.67e-3 mol N equivalent",
+    "photochemical_ozone_creation": "3.77e-3 kg NMVOC equivalent",
+    "depletion_abiotic_resources_elements": "3.00e-6 kg Sb equivalent",
+    "depletion_abiotic_resources_fossil_fuels": "1278.28 MJ net calorific value",
+    "water_depletion": "76.46 m3 world equivalent",
+    "greenhouse_gas_emissions_gwp_ghg": "562.04 kg CO2 eq (gross emissions including secondary fuels)",
+    "hazardous_waste_disposed": "0.05 kg",
+    "non_hazardous_waste_disposed": "0 kg",
+    "radioactive_waste_disposed": "0 kg",
+    "components_for_reuse": "0 kg",
+    "materials_for_recycling": "0 kg",
+    "materials_for_energy_recovery": "0 kg",
+    "exported_electrical_energy": "0 MJ",
+    "exported_thermal_energy": "0 MJ",
+    "biogenic_carbon_content_product": null,
+    "biogenic_carbon_content_packaging": null
+  },
+  "recycled_materials_handling": {
+    "secondary_material_in_product": "0.23 (unit not specified, likely kg or fraction)",
+    "secondary_material_in_raw_materials_and_transport": "Included in stages A1 and A2 but not part of product",
+    "recycled_components_considered": "Yes, from selection and processing plant of recovered materials",
+    "alternative_fuels": "Used to reduce direct GHG emissions in clinker manufacturing"
+  },
+  "additional_info": {
+    "company_information": {
+      "company_name": "Holcim España, S.A.U.",
+      "address": "Avda. de Manoteras, 20, 28050 Madrid, Spain",
+      "website": "www.holcim.es",
+      "phone": "+91 213 31 00",
+      "email": "marketing.spain@holcim.com",
+      "description": "Holcim España owns five cement factories in Spain with over seven million tons/year capacity, multiple concrete and mortar plants, terminals, and a waste recovery plant. It employs over 700 people and has R&D and quality laboratories.",
+      "sustainability_commitment": "Decarbonizing operations, products, and built environment; recycling via Geocycle; offering low-carbon products like ECOPlanet and ECOPact; protecting water and biodiversity.",
+      "certifications": [
+        "ISO 9001:2015 Quality Management",
+        "ISO 14001:2015 Environmental Management",
+        "ISO 14064-1:2018 Greenhouse Gases verified annually",
+        "Carbon Footprint National Registry of Spain with labels 'Calculo' and 'Reduzco'"
+      ]
+    },
+    "references": [
+      "Holcim Climate Report 2023",
+      "Holcim Net Zero Journey",
+      "Holcim Nature Policy",
+      "Software: Air.e LCA rev. 3.16",
+      "Database: Ecoinvent 3.9.1"
+    ],
+    "notes": "EPDs within the same product category but from different programs may not be comparable unless based on the same PCR version and other equivalency criteria."
+  }
+}

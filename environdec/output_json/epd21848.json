@@ -1,0 +1,90 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia",
+    "managed_by": "Holcim Certified EPD Process",
+    "epd_process_certificate_number": "04",
+    "epd_registration_no": "EPD-IES-21848:001",
+    "valid_from": "22/04/2025",
+    "valid_until": "22/04/2030",
+    "revision_date": "22/04/2025",
+    "revision_number": "1",
+    "geographical_scope": "Australia",
+    "accreditation_body": "Epsten Group, Inc.",
+    "reference_year_for_data": "2022 Plant Data, 2025 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+A2:2019/AC:2021",
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)"
+  },
+  "product_description": {
+    "product_name": "Ready-Mix Concrete",
+    "product_code": "VX321LNR",
+    "product_classification": "Normal-class and Special-class",
+    "production_sites": [
+      "Epping",
+      "Oaklands Junction",
+      "Seaford",
+      "Rosebud"
+    ],
+    "content_declaration": {
+      "gross_weight": "2400 kg/m³",
+      "materials": {
+        "general_purpose_cement": "5-21%",
+        "aggregate": "67-84%",
+        "supplementary_cementitious_materials": "0-11%",
+        "water": "11.6-12%"
+      }
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "recycled_materials": {
+      "fly_ash": "Considered as co-product",
+      "ground_granulated_blast_furnace_slag": "Considered as co-product",
+      "silica_fume": "Considered as co-product"
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "scope": "Cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D",
+    "time_representativeness": "2022 calendar year production data for plant, 2025 for mix data",
+    "databases_and_software": "SimaPro® LCA software (v 9.5), AusLCI v1.42 (2023), Ecoinvent 3.9.1 (2023)",
+    "allocation": "Based on weight or economic value",
+    "cut_off_criteria": "No energy or mass flows excluded except packaging",
+    "data_quality": "Good or very good"
+  },
+  "transport_and_installation": {
+    "distribution": "EUROS 28t-32t trucks, 12.22 km transport distance",
+    "installation": {
+      "concrete_losses": "3.00%",
+      "water_use": "669 L",
+      "electricity_use": "2.78 kWh",
+      "diesel_use": "1.67 L",
+      "wastewater": "0.669 L"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": "Hydraulic excavator, 100% collected",
+    "transport_distance": "25 km",
+    "recycling_rate": "80%",
+    "landfill": "20%"
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions": "39% from building environment",
+    "construction_materials_co2_emissions": "11%",
+    "2030_target": "40% lower embodied carbon",
+    "2050_target": "Net zero new construction materials"
+  },
+  "recycled_materials_handling": {
+    "fly_ash": "Transport impacts only",
+    "ground_granulated_blast_furnace_slag": "Economic allocation",
+    "silica_fume": "Transport impacts only"
+  },
+  "additional_info": {
+    "lifetime_absorption_of_co2": "Not considered in this EPD",
+    "references": [
+      "AusLCI Database — v1.42",
+      "Ecoinvent version 3.9.1 database",
+      "National Waste Report 2022"
+    ]
+  }
+}

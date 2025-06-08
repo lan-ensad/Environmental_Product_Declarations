@@ -1,0 +1,177 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "address": "Level 8, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+    "phone": "+61 2 9412 6600",
+    "website": "www.holcim.com.au",
+    "epd_produced_by": "Holcim",
+    "epd_process_certified_by": "Epsten Group",
+    "epd_process_certified_by_address": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+    "epd_registration_number": "S-P-02333",
+    "valid_from": "8 June 2021",
+    "valid_until": "3 June 2026",
+    "program_operator": "EPD Australasia Limited",
+    "program_operator_address": "315a Hardy Street Nelson 7010 AUSTRALASIA New Zealand",
+    "program_operator_website": "www.epd-australasia.com",
+    "program_operator_email": "info@epd-australasia.com",
+    "program_operator_phone": "02 8005 8206",
+    "independent_third_party_verifier": "Epsten Group, Inc., Katherine McFeaters",
+    "verifier_accreditation": "A2LA, Certificate #3142.03",
+    "verification_standard": "ISO 14025:2006",
+    "version_number": "v1.0",
+    "version_date": null,
+    "description_of_changes": null,
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2017 Plant Data, 2021 Mix/Materials Data",
+    "product_category_rules": "PCR 2012:01 Construction Products and Construction Services, Version 2.3, 2018-11-15",
+    "cpc_code": "UN CPC 54",
+    "cen_standard": "EN 15804:2012+a1:2013",
+    "pcr_review_conducted_by": "The Technical Committee of the International EPD System",
+    "pcr_review_contact": "info@environdec.com"
+  },
+  "product_description": {
+    "product_name": "ViroDecs™ Ready-mix concrete",
+    "product_use": "Ready-mix concrete for construction projects including residential, high-rise buildings, dams, spillways, roads, bridges, and public works infrastructure",
+    "product_classes": {
+      "normal_class": "Designed for residential applications, low rise buildings, paving and driveways; specification and ordering simplified",
+      "special_class": "Allows purchaser to incorporate special requirements such as high-strength, high durability, marine application, post-tensioned, high-pumpability, super workable, piling concrete, architectural off-form finishes and decorative applications"
+    },
+    "functional_unit": "1 m³ of ready-mix concrete",
+    "strength_range_mpa": "40 to 50 MPa (various mix codes)",
+    "composition_by_weight": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "hazard_classification": "Classified as Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "reference_service_life": "Not specified (scope is cradle to gate)",
+    "time_representativeness": {
+      "plant_data": "2017 calendar year",
+      "mix_data": "2021 calendar year"
+    },
+    "databases_and_software_used": [
+      "SimaPro (v8.4)",
+      "Australian National Life Cycle Inventory Database (AusLCI) (2017)",
+      "Ecoinvent 3.4 (2017)",
+      "World Business Council for Sustainable Development (WBCSD) Cement Sustainability Initiative (CSI) Tool Project Database (International Version) (2018)",
+      "Product specific EPDs for admixtures and fibres"
+    ],
+    "allocation": {
+      "method": "Physical allocation based on weight at quarry and m² of concrete at batching plant; economic allocation used when physical allocation not possible",
+      "fly_ash_and_silica_fumes": "Assumed waste products and burden-free",
+      "ground_granulated_blast_furnace_slag": "Allocated economically"
+    },
+    "cut_off_criteria": "No flows excluded on basis of cut-off criteria",
+    "system_boundaries": "Cradle to gate; excludes personnel, infrastructure and production equipment not directly consumed in process; excludes life cycle stages beyond gate",
+    "excluded_life_cycle_stages": [
+      "Construction",
+      "Use",
+      "End of life"
+    ],
+    "environmental_impact_categories": {
+      "global_warming_potential": "kg CO2 equivalents (GWP100)",
+      "ozone_depletion_potential": "kg CFC 11 equivalents",
+      "acidification_potential": "kg SO2 equivalents",
+      "eutrophication_potential": "kg PO4 equivalents",
+      "photochemical_ozone_creation_potential": "kg C2H4 equivalents",
+      "abiotic_depletion_potential_elements": "kg Sb equivalents",
+      "abiotic_depletion_potential_fossil_fuels": "MJ net calorific value",
+      "resource_use": {
+        "renewable_primary_energy_excluding_raw_materials": "MJ net calorific value",
+        "renewable_primary_energy_raw_materials": "MJ net calorific value",
+        "total_renewable_primary_energy": "MJ net calorific value",
+        "non_renewable_primary_energy_excluding_raw_materials": "MJ net calorific value",
+        "non_renewable_primary_energy_raw_materials": "MJ net calorific value",
+        "total_non_renewable_primary_energy": "MJ net calorific value",
+        "secondary_material": "kg",
+        "renewable_secondary_fuels": "MJ net calorific value",
+        "non_renewable_secondary_fuels": "MJ net calorific value",
+        "net_fresh_water": "m3"
+      },
+      "output_categories": {
+        "hazardous_waste_disposed": "kg",
+        "non_hazardous_waste_disposed": "kg",
+        "radioactive_waste_disposed_stored": "kg",
+        "components_for_reuse": "kg",
+        "materials_for_recycling": "kg",
+        "materials_for_energy_recovery": "kg",
+        "exported_energy": "MJ per energy carrier"
+      },
+      "optional_green_star_v1_2_indicators": {
+        "human_toxicity": "CTUh",
+        "land_use": "m2",
+        "water_stress_indicator": "m3",
+        "ionising_radiation": "kBq U235 eq",
+        "particulate_matter": "kg PM2.5 eq"
+      }
+    },
+    "data_quality": {
+      "foreground_data": "Medium or higher geographic and temporal representativeness",
+      "background_data": "Updated within 10 years as required under PCR 2012:01"
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "included": true,
+      "details": "Transport by transoceanic freight ship, rigid truck and/or domestic freight ship included in system boundary (modules A2, A3)",
+      "on_site_transport": "Included (module A4)",
+      "transport_to_site": "Included (module A5)"
+    },
+    "installation": {
+      "included": false,
+      "notes": "Life cycle stages beyond gate including installation are excluded from this EPD"
+    }
+  },
+  "end_of_life": {
+    "included": false,
+    "scenarios_described": [
+      "Disposal of concrete at landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete: substitution of primary material or natural aggregates"
+    ],
+    "notes": "End of life scenarios can result in benefits and loads outside system boundary and should be considered in whole-of-life building studies; not included in this EPD"
+  },
+  "carbon_emission_context": {
+    "carbonation_process": "Concrete absorbs CO2 from atmosphere over its lifetime through carbonation, partially offsetting CO2 emitted during cement manufacturing",
+    "carbonation_consideration": "Not considered in this EPD and not reflected in results tables",
+    "reference_standard": "BS EN 16757:2017 for calculation of CO2 absorption"
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": {
+      "fly_ash": "Treated as waste material, only transport impacts included",
+      "ground_granulated_blast_furnace_slag": "Allocated economically due to significant economic value",
+      "silica_fume": "Treated as waste material, only transport impacts included"
+    },
+    "database_allocation": "AusLCI LCA database allocation approach adopted as default for secondary data and processes",
+    "conformance": "AusLCI dataset conforms to EN 15804 when applying allocation"
+  },
+  "additional_info": {
+    "about_holcim": "Leading supplier of construction materials in Australia, operating across the continent with network of plants, quarries, precast and pipe places, mobile and on-site facilities; part of LafargeHolcim",
+    "about_lafargeholcim": "Global leader in building materials and solutions active in Cement, Aggregates, Ready-mix Concrete and Solutions & Products; operates in around 80 countries with 75,000 employees",
+    "virodecs_special": "Project-specific, on-demand EPDs for ready-mix concrete in Australia; first product in Australia with EPD Process Certification allowing in-house compliant EPD production; supports sustainability performance reporting",
+    "data_sources_for_foreground_data": [
+      "Electricity provider invoices 2017",
+      "Diesel supplier invoices 2017",
+      "National Pollution Inventory data 2017",
+      "Water utility invoices 2017",
+      "Measured site data 2017",
+      "Quarry invoices 2017",
+      "Aggregate production records 2017",
+      "Concrete mix designs database 2017",
+      "Packaging waste data"
+    ],
+    "disclaimer": "Publication supersedes previous literature; specifications may change; users must determine suitability; Holcim accepts no liability for loss or damage from use or reliance on information; trademarks noted"
+  }
+}

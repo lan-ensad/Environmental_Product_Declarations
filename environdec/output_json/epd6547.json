@@ -1,0 +1,60 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "epd_registration_number": "S-P-06547",
+    "publication_date": "2022-08-03",
+    "review_date": "2024-09-10",
+    "valid_until": "2027-08-01",
+    "third_party_verifier": "TECNALIA R&I Certificaciôn S.L.",
+    "auditor": "Cristina Gazulla Santos",
+    "accredited_by": "ENAC",
+    "accreditation_number": "125/C-PR283"
+  },
+  "product_description": {
+    "product_name": "ECOPact Prime: H25, H30, H25 AGILIA, H30 AGILIA, ARTEVIA HDOS 330 and HYDROMEDIA",
+    "description": "Holcim is a leading manufacturer and supplier of high quality concrete and mortar, and has projects and activities on road and network, collective housing.",
+    "un_cpc_code": "375 Articles of concrete, cement and plaster",
+    "production_sites": "Alcobendas, Valencia and Papiol plants in Spain",
+    "product_type": "Ready-mixed concrete/mortar"
+  },
+  "lca_information": {
+    "functional_unit": "One m3 of ready-mix of concrete/mortar with a strength of 25 MPa to 30 MPa",
+    "reference_service_life": "100 years",
+    "time_representativeness": "Data from 2019 and 2020",
+    "database_and_software": "Ecoinvent database version 3.8 and Simapro 9.3",
+    "system_boundaries": "Cradle to grave and Module D (A+B+C+D)",
+    "allocation_procedure": "Volume-based allocation for energy and water consumption, waste production"
+  },
+  "transport_and_installation": {
+    "transport": {
+      "fuel_type": "Long distance truck",
+      "fuel_consumption": "43 L/100Km",
+      "distance": "Truck: 10.3 km, Truck: 12.16 km"
+    },
+    "installation": {
+      "auxiliary_materials": "No auxiliary material used",
+      "use_of_water": "Not used",
+      "wastage_of_materials": "Product losses (2%)"
+    }
+  },
+  "end_of_life": {
+    "deconstruction_demolition": "Use of diesel during the demolition process",
+    "transport_to_waste_processing": "Distance: 50 km, Fuel consumption: 25 L/100 Km",
+    "waste_processing": "89% recycled",
+    "disposal": "11% landfilled"
+  },
+  "carbon_emission_context": {
+    "carbon_footprint_registry": "Registered for the years 2016, 2017, 2018 and 2019",
+    "co2_fixation": "CO2 fixed by carbonation during the use phase"
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "70% recycled cement",
+    "reuse_recovery_recycling_potential": "89% recycled, avoided product is considered crushed gravel"
+  },
+  "additional_info": {
+    "sustainability_principles": "Management System, control environmental impact, contribution to the circular economy, transparent relationship with the environment",
+    "circular_economy_commitment": "Transition from a linear economy to a circular economy",
+    "quarry_restoration": "Proactive restoration of quarries for biodiversity"
+  }
+}

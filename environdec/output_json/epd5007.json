@@ -1,0 +1,187 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "epd_registration_number": "S-P-05007",
+    "publication_date": "2021-11-02",
+    "valid_until": "2026-11-01",
+    "standard": "EN 15804:2012+A2:2019",
+    "geographical_scope": "Costa Rica",
+    "verification": {
+      "verified": true,
+      "verifier": "Marcel Gémez Ferrer, Marcel Gomez Environmental Consulting",
+      "verification_contact": "info@marcelgomez.com"
+    },
+    "epd_owner": "Holcim (Costa Rica) S.A."
+  },
+  "product_description": {
+    "product_name": "Holcim Fuerte Cement",
+    "product_type": "General purpose Hydraulic Cement",
+    "product_identification": "Type MM/C (CP)-28 (RTCR 479: 2015)",
+    "un_cpc_code": "3744",
+    "product_description": "Holcim Fuerte cement is recommended for preparing general-purpose concretes, and mortars that do not require high initial strength. Its controlled Tricalcium Aluminate (C3A) content of no more than 8%, provides a moderate heat of hydration which favors the reduction of surface cracking due to shrinkage, when the curing parameters are adequately controlled. The inclusion of high-grade Holcim Limestone gives it better attributes in terms of plasticity in the fresh state of the mixtures, and reduces the water requirement to reach the desired workability parameters.",
+    "presentation": [
+      "50 kg cement bags",
+      "Bulk cement"
+    ],
+    "recommended_uses": [
+      "Structural type concretes: beams, columns, foundations",
+      "Stamps, slabs, sidewalks",
+      "Repairs and remodeling",
+      "Wall repels",
+      "Cell fill concretes",
+      "Production of masonry elements",
+      "Ready-mix concrete",
+      "Prepackaged dry mortars and concretes",
+      "Injection grouts"
+    ],
+    "content_composition": {
+      "Clinker Portland": "45.0% - 64.0%",
+      "Mineral additions (limestone and pozzolana)": "36.0% - 55.0%",
+      "Others": "0.00% - 5.00%",
+      "Total": "100%",
+      "Loss on ignition": "0.19% - 0.27%",
+      "Packaging materials": {
+        "Wooden pallet": "1.25%",
+        "Kraft paper": "0.23%",
+        "Total packaging": "1.48%"
+      }
+    },
+    "dangerous_substances_declaration": "Declared products contain less than 0.1% or no hazardous substance from the Candidate list of Substances of Very High Concern updated 07/08/2021. All cement products comply with REACH Regulation (CE) No. 1907/2006."
+  },
+  "lca_information": {
+    "declared_unit": "1 ton of cement, bulk or bagged",
+    "reference_service_life": "Estimated to exceed 50 years for cement-based products; recommended shelf life for cement is 45 days under adequate storage conditions.",
+    "time_representativeness": "Production data from January 1, 2020 to December 31, 2020; other reference data from Ecoinvent 3.6 database.",
+    "databases_and_software": {
+      "database": "Ecoinvent Database 3.6",
+      "software": "Global Cement and Concrete Association (GCCA) Industry EPD tool for cement and concrete (V3.0)"
+    },
+    "system_boundaries": "Cradle to Gate (modules A1-A3) according to PCR 2019:14 and EN 15804:2012+A2:2019. Modules C1-C4 and D excluded. Includes raw material extraction, energy and material consumption, manufacturing processes, packaging, and storage at manufacturing stage.",
+    "declared_modules": {
+      "A1": "Supply of raw materials (upstream process)",
+      "A2": "Transport of raw materials to production site",
+      "A3": "Clinker manufacturing and cement production (main process)",
+      "A4": null,
+      "A5": null,
+      "B1": null,
+      "B2": null,
+      "B3": null,
+      "B4": null,
+      "B5": null,
+      "B6": null,
+      "B7": null,
+      "C1": null,
+      "C2": null,
+      "C3": null,
+      "C4": null,
+      "D": null
+    },
+    "assumptions": {
+      "transportation": "Estimates of distances traveled for raw materials and supplies; land and maritime transport considered; travel and return distances for road transport included.",
+      "primary_fuels_transport": "Generic maritime transport assumed from Gulf Coast US to Costa Rica.",
+      "carbon_emissions": "Based on GCCA CO2 and energy protocol and stoichiometric calculations; emission factors from GCCA protocol.",
+      "electricity_matrix": {
+        "Thermal": 0.22,
+        "Biomass (bagasse)": 0.53,
+        "Water": 69.52,
+        "Geothermal": 15.33,
+        "Solar": 0.08,
+        "Wind": 13.24,
+        "Imported": 1.08
+      },
+      "cut_off_rules": "Flows can be omitted up to 1% of total mass of material inputs or energy content of fuels and energy.",
+      "data_quality": "Data recorded daily from production records; calorific values from laboratory analysis; data from single production site with local geographic and technological correlation; certified management systems ISO 9001:2015, ISO 14001:2015, ISO 14064-1:2019, INTE B5:2016; quality control laboratory accredited under INTE/ISO 17025:2017; carbon footprint certified under INTE/ISO 14067:2019.",
+      "allocation_rules": "Allocation avoided when possible; production divided into clinker and cement; allocation by physical properties (mass) when needed; electrical energy allocated by process meters; common consumptions allocated by total annual clinker production; packaging paper allocated by subtracting bulk product weight."
+    },
+    "impact_assessment_methods": "Characterization methods per EN 15804:2012+A2:2019 including IPCC (EF), WMO, ReCiPe, CML, AWARE, SETAC-UNEP, USEtox, LANCA.",
+    "information_excluded": "Environmental impact of infrastructure, construction, production equipment, tools, and personnel transport not accounted."
+  },
+  "transport_and_installation": {
+    "transport_of_raw_materials": "Includes ground and maritime transport from local suppliers and outside national territory; distances estimated.",
+    "transport_of_fuels": "Maritime transport assumed from Gulf Coast US to Costa Rica.",
+    "installation": null
+  },
+  "end_of_life": {
+    "modules_C1_to_C4_and_D": "Excluded from this EPD as product fulfills conditions of EN 15804:2012+A2:2019 that material is physically integrated and not separable at end of life, and does not contain biogenic carbon."
+  },
+  "carbon_emission_context": {
+    "total_gwp_bulk": 577,
+    "gwp_fossil_bulk": 577,
+    "gwp_biogenic_bulk": 0.0789,
+    "gwp_luluc_bulk": 0.144,
+    "odp_bulk": 9.04e-06,
+    "ap_bulk": 1.05,
+    "ep_freshwater_bulk": 0.0207,
+    "ep_freshwater_p_bulk": 0.00674,
+    "ep_marine_bulk": 0.000521,
+    "ep_terrestrial_bulk": 4.36,
+    "pocp_bulk": 1.08,
+    "adp_minerals_metals_bulk": 9.72e-05,
+    "adp_fossil_bulk": 766,
+    "wdp_bulk": 30.9,
+    "total_gwp_bagged": 585,
+    "gwp_fossil_bagged": 584,
+    "gwp_biogenic_bagged": 0.11,
+    "gwp_luluc_bagged": 0.192,
+    "odp_bagged": 9.8e-06,
+    "ap_bagged": 1.1,
+    "ep_freshwater_bagged": 0.0293,
+    "ep_freshwater_p_bagged": 0.00956,
+    "ep_marine_bagged": 0.000943,
+    "ep_terrestrial_bagged": 4.48,
+    "pocp_bagged": 1.13,
+    "adp_minerals_metals_bagged": 0.00013,
+    "adp_fossil_bagged": 874,
+    "wdp_bagged": 37.3,
+    "carbon_emissions_from_calcination": "Significantly reduced due to low clinker content formulation.",
+    "carbon_emissions_from_waste_combustion_non_renewable": "Represents almost 15% of emissions from calcination.",
+    "carbon_emissions_from_waste_combustion_renewable": "No results presented due to lack of calculation tools."
+  },
+  "recycled_materials_handling": {
+    "use_of_secondary_materials": "Recovery and use of iron oxide waste (industrial origin) and glass waste (post-consumer and industrial origin) reduce demand for primary renewable resources.",
+    "use_of_alternative_fuels": "Use of alternative fossil fuels from pre-classified municipal and industrial solid waste reduces traditional fossil fuel consumption.",
+    "waste_management": {
+      "hazardous_waste": "Managed internally as alternative fuels, not recorded as landfill or incineration output.",
+      "non_hazardous_waste": "Managed in local sanitary landfill; reduced by classification and separation for reuse, recycling, and energy recovery.",
+      "components_for_reuse": "Generated and separated waste from clinker manufacturing stage.",
+      "materials_for_recycling": "Scrap metal and other recyclable industrial waste generated on site; recovery of pallets for reuse.",
+      "materials_for_energy_recovery": "Waste treated as alternative fuels in clinker kiln; represents more than 350% of non-hazardous waste disposed indicator."
+    }
+  },
+  "additional_info": {
+    "company_information": {
+      "owner": "Holcim (Costa Rica) S.A.",
+      "contact": "Catalina Mora, catalina.morar@holcim.com",
+      "description": "Operating in Costa Rica since 1964, committed to sustainability and becoming a Net Zero company by 2030 with focus on climate protection, water and biodiversity conservation, circular economy, and stakeholder quality of life.",
+      "certifications": [
+        "ISO 9001:2015 Quality Management",
+        "ISO 14001:2015 Environmental Management",
+        "ISO 14064-1:2006 Greenhouse Gas Inventory Verification",
+        "ISO 14067 Greenhouse Gases for Products (Product Footprint)"
+      ],
+      "production_site": "Holcim Cement Plant, Agua Caliente de Cartago, Costa Rica"
+    },
+    "origin_of_raw_materials": {
+      "limestone": "Extracted in Agua Caliente de Cartago, Costa Rica",
+      "pozzolana": "Extracted in Llano Grande de Cartago, Costa Rica",
+      "high_grade_limestone": "Extracted in Azul de Turrialba, Costa Rica",
+      "transport_distances": "17 km and 45 km from production plant respectively",
+      "local_materials_percentage": "94%"
+    },
+    "air_emissions_voc": "Cement is inherently non-emitting of VOCs; no VOC emission testing required; to maintain this, concrete application must not include organic surface coatings, binders or sealers.",
+    "differences_from_previous_versions": "This is the first version of the Holcim Fuerte Cement EPD by Holcim Costa Rica.",
+    "references": [
+      "PCR 2019:14 Construction Products, version 1.11",
+      "C-PCR-001 to PCR 2019:14 Cement and building lime, version 2019-12-20",
+      "EN 15804:2012+A2:2019 Sustainability of construction works - Environmental product declarations - Core rules",
+      "GCCA Industry EPD Tool for Cement and Concrete - LCA Model, International version 3.0",
+      "General Programme Instructions of the International EPD® System Version 4.0",
+      "Costa Rican Electricity Institute Annual Reports 2021",
+      "ISO 14025:2006 Environmental labels and declarations - Type III environmental declarations",
+      "ISO 14040:2008 Environmental management - Life cycle assessment - Principles and framework",
+      "ISO 14044:2008 Environmental management - Life cycle assessment - Requirements and guidelines",
+      "LCA Report for Cement Products by Holcim Costa Rica, Biomatech Engineering Ltd, 2021"
+    ]
+  }
+}

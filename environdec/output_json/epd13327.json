@@ -1,0 +1,164 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "program_operator_address": "Box 210 60, SE-100 31 Estocolmo, Suecia",
+    "program_operator_website": "www.environdec.com",
+    "epd_registration_number": "REF: S-P-13327",
+    "epd_issue_date": "2024-04-11",
+    "epd_update_date": "2024-04-23",
+    "epd_validity_date": "2029-04-11",
+    "geographical_scope": "Global",
+    "verification": {
+      "external_verifier": "Marcel Gómez",
+      "verification_standard": "ISO 14025:2006",
+      "verification_type": "External",
+      "verification_status": "Verified",
+      "verification_body": "The International EPD® System Technical Committee"
+    },
+    "epd_version": "1.1",
+    "previous_version_differences": "Corrected unit in net water use and gross GWP-GHG emissions"
+  },
+  "product_description": {
+    "product_name": "ECOPlanet CEM IV/A (P) 42.5 R-SR",
+    "product_category": "Cement",
+    "product_code": "CPC 3744",
+    "manufacturer": "Holcim España, S.A.U.",
+    "manufacturer_address": "Avda. de Manoteras, 20, Edificio Tokyo, 1° Planta, 28050 Madrid, España",
+    "production_site": "Montcada i Reixac, 08110, Barcelona, España",
+    "product_function": "Cement for construction",
+    "declared_unit": "1 tonne (1,000 kg) of product ready for dispatch to customer",
+    "product_composition": {
+      "Clinker": "48%",
+      "Natural pozzolana": "10%",
+      "Natural gypsum": "1%",
+      "Additional minor components": "0%"
+    },
+    "renewable_material_content_percent": "0%",
+    "post_consumer_recycled_content_percent": "0%",
+    "packaging": "None (product marketed in bulk)",
+    "technical_characteristics": {
+      "compressive_strength_2_days": "> 20.0 MPa",
+      "compressive_strength_28_days": "42.5 to < 62.5 MPa",
+      "initial_setting_time": "> 60 min",
+      "soundness": "< 10 mm"
+    },
+    "hazardous_substances": "No substances included in the Candidate List of SVHC above 0.1% by weight"
+  },
+  "lca_information": {
+    "declared_unit": "1 tonne (1,000 kg) of ECOPlanet CEM IV/A (P) 42.5 R-SR",
+    "reference_service_life": "Not relevant (cradle to gate scope)",
+    "system_boundaries": "Cradle to gate (modules A1-A3)",
+    "included_modules": [
+      "A1",
+      "A2",
+      "A3"
+    ],
+    "excluded_modules": [
+      "B1 to D"
+    ],
+    "exclusion_criteria": [
+      "Product physically integrated with other products during installation, cannot be separated at end of life",
+      "Product not identifiable at end of life due to physical-chemical transformation",
+      "No biogenic carbon content"
+    ],
+    "processes_included": "All processes from raw material extraction, component manufacturing, transport, factory process, and final preparation",
+    "processes_excluded": [
+      "Manufacture of production equipment, buildings or other capital goods",
+      "Transport of personnel to manufacturing plants",
+      "Transport of personnel within plants",
+      "R&D activities",
+      "Long-term emissions"
+    ],
+    "data_year": "2022",
+    "data_quality": "High",
+    "data_sources": {
+      "LCI_database": "Ecoinvent 3.9.1",
+      "LCA_software": "Air.e LCA v3.16"
+    },
+    "impact_assessment_methods": {
+      "climate_change_total": "IPCC 2013 100 years",
+      "climate_change_fossil": "IPCC 2013 100 years",
+      "climate_change_biogenic": "IPCC 2013 100 years",
+      "climate_change_land_use_change": "IPCC 2013 100 years",
+      "ozone_depletion": "WMO 2014",
+      "acidification": "Seppälä et al. 2006, Posch et al. 2008",
+      "freshwater_eutrophication": "EUTREN, Struijs et al. 2009b",
+      "marine_eutrophication": "EUTREN, Struijs et al. 2009b",
+      "terrestrial_eutrophication": "Seppälä et al. 2006, Posch et al. 2008",
+      "photochemical_ozone_formation": "ReCiPe 2008",
+      "abiotic_depletion_minerals_metals": "CML 2002",
+      "abiotic_depletion_fossil_fuels": "CML 2002",
+      "water_scarcity": "AWARE (Bouyal et al., 2016)"
+    },
+    "cut_off_rules": "At least 95% of total input flows (mass and energy) per module included; ISO 21930 expansion rule applied",
+    "allocation": "Avoided where possible; allocation used only for direct verified kiln emissions where clinker is used for different cements",
+    "electricity_mix": {
+      "source": "Supplier specific with Guarantee of Origin",
+      "climate_change_impact": "0.04 kg CO2e/kWh"
+    }
+  },
+  "transport_and_installation": {
+    "transport_included": "Yes, all transport of raw materials and fuels to factory included",
+    "transport_excluded": "Port operations excluded",
+    "transport_modes": [
+      "Road",
+      "Sea"
+    ],
+    "transport_distances": "Provided by factory records for 2022",
+    "installation": "Product physically integrated with other products; no separate installation impacts reported"
+  },
+  "end_of_life": {
+    "included": false,
+    "reason": "Product physically integrated and not separable at end of life; not identifiable due to physical-chemical transformation",
+    "modules_excluded": [
+      "B1 to D"
+    ]
+  },
+  "carbon_emission_context": {
+    "total_GWP_GHG": "598.14 kg CO2 eq. (gross emissions including secondary fuels: approx. 598.29 kg CO2e)",
+    "biogenic_carbon_content_product": "0 kg C",
+    "biogenic_carbon_content_packaging": "0 kg C",
+    "net_GWP_GHG": "598.14 kg CO2 eq.",
+    "emission_sources": "Mainly kiln energy and chemical processes (limestone decarbonation)",
+    "emission_reduction_measures": "Use of alternative materials and fuels, high kiln efficiency"
+  },
+  "recycled_materials_handling": {
+    "recycled_content_in_product": "0%",
+    "secondary_materials_use": "0.70 kg per declared unit (sum over A1-A3)",
+    "recycled_materials_considered_from": "Plant selection and processing of recovered materials",
+    "alternative_fuels": "Use of alternative fuels via Geocycle business for end-of-life materials recycling"
+  },
+  "additional_info": {
+    "company_information": {
+      "company_name": "Holcim España, S.A.U.",
+      "company_address": "Avda. de Manoteras, 20, 28050 Madrid, España",
+      "company_website": "www.holcim.es",
+      "contact_email": "marketing.spain@holcim.com",
+      "contact_phone": "+91 213 31 00",
+      "production_capacity": "More than 7 million tonnes annually in Spain",
+      "number_of_employees": "More than 700",
+      "facilities": "Five cement factories, over 20 concrete plants, two mortar plants, six terminals, one waste valorization plant",
+      "R&D_center": "Center for Research and Development of New Concretes and Mortars",
+      "quality_certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015"
+      ],
+      "GHG_inventory_verification": "ISO 14064-1:2018, included in Spanish National Carbon Footprint Registry",
+      "sustainability_strategy": "Decarbonizing operations, products, and built environment; promoting circular economy and recycling"
+    },
+    "references": [
+      "Holcim Climate Report 2023",
+      "Holcim Net Zero Journey",
+      "Holcim Nature Policy",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "PCR 2019:14 Construction products (EN 15804:A2)",
+      "c-PCR-001 Cement and Building Lime (EN 16908:2019)",
+      "ISO 14025:2006",
+      "ISO 14040:2006",
+      "ISO 14044:2006",
+      "Ecoinvent 3.9.1",
+      "Air.e LCA v3.16"
+    ]
+  }
+}

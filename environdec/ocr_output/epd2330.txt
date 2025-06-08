@@ -1,0 +1,1038 @@
+Ÿ = ® ECO PLA ORM
+La AUSTRALASIA E P D (= P D
+H O | C Î m ENVIRONMENTAL PRODUCT DECLARATION
+
+EN 15804  VERIFIED
+
+Table of Contents
+
+Introduction ................................................................. eee 3
+About Holcim............................. Si sssssssieeeeeeerrreeeeeeeeeeneeeeseeeeeeeeeeeeeneeeseeeeeeeeeeeees 4
+ViroDecs'" Special — a first for ready-mix concrete in Australia 5
+ViroDecs'" Special at a glance................................................................. 5
+Ready-mix concrete ..….......................................................... eee 6
+LCA Information... sssssssssssssesseseeeerernnnennnnnnnnennnsnnsnsnnnnennnnnnneeneee 7
+EPD Product Description and Use... sise 11
+Environmental Performance... sise 13
+Other life cycle stages not included in this EPD....................... 15
+References... 16
+Programme-related information and verification 17
+Version Number Version Date Description of Changes
+
+v1.0
+
+ViroDecs'" EPD | Holcim 2
+Introduction
+
+All around the world, the expectation for Governments
+and organisations to provide enhanced transparency
+and disclosure of environmental impacts, such as
+greenhouse gas (GHG) emissions, has been growing.
+This follows the landmark COP 21 Paris Agreement in
+2015 in which all nations agreed to ambitiously pursue
+efforts to combat climate change andits effects.
+
+Atthe same time, the global demand for construction
+materials is also growing due to worldwide population
+growth and an increase in urbanisation. In fact, concrete
+is the second most used commodity in the world behind
+water, and typically a major contributor to the embodied
+GHG emissions of an infrastructure or property asset.
+
+This clearly demonstrates both the essential need for
+construction materials now and in the future, as well as
+the necessity for the construction materials industry to
+be a leading part of the solution addressing climate
+change.
+
+At Holcim, we recognise our responsibility to contribute
+to global emissions reduction targets and we have
+developed a roadmap with a number of actions to direct
+our efforts.
+
+Our ViroDecs " range of ready-mix concrete
+represented by an Environmental Product Declaration
+(EPD) is one suchinitiative for Holcim in Australia.
+
+ViroDecs'" EPD | Holcim
+About Holcim
+
+Western
+Australia
+
+ePerth
+
+AUSTRALIAN OPERATIONS
+
+ET Precast pipe and product
+
+*Darwin
+
+Northern ET
+Territory
+Queensland [3
+e Brisbane
+South
+En Australia
+Co. New South jo |
+Wales / ACT
+Era e Sydney 7:
+e Adelaide e Canberra ES
+Victoria
+* Melbourne EX
+Tasmania E
+e Hobart [a
+
+“The breakdown of Australian operations is based on 2017 site data used for the EPD Life Cycle
+Assessment modelling and includes tolling sites and excludes mobile or temporary sites
+
+About Holcim
+
+Holcim is a leading supplier of construction materials in
+Australia, originally serving the industry under the well-
+known Readymix and Humes brands dating back to
+1901. Today Holcim continues to supply essential
+construction materials including aggregates, sand,
+ready-mix concrete, engineered precast concrete and
+prestressed concrete solutions to a range of customers
+and projects throughout Australia.
+
+Holcim operates right across the Australian continent
+supplying concrete from a network of concrete plants,
+quarries, precast and concrete pipe places, and mobile
+and on-site project facilities.
+
+As part of LafargeHolcim, Holcim Australia can be
+counted on for state-of-the-art product development,
+reliable service, and advanced technical expertise for
+your next project.
+
+ViroDecs'" EPD | Holcim
+
+About LafargeHolcim
+
+LafargeHolcim is the global leader in building materials
+and solutions and active in four business segments:
+Cement, Aggregates, Ready-mix Concrete and
+Solutions & Products.
+
+With leading positions in all regions of the world and a
+balanced portfolio between developing and mature
+markets, LafargeHolcim offers a broad range of high-
+quality building materials and solutions.
+
+LafargeHolcim experts solve the challenges that
+customers face around the world, whether they are
+building individual homes or major infrastructure
+projects.
+
+Demand for LafargeHolcim materials and solutions is
+driven by global population growth, urbanisation,
+improved living standards and sustainable construction.
+Around 75,000 people work for the company in around
+80 countries.
+ViroDecs'" Special — a first for ready-mix
+
+concrete in Australia
+
+The Holcim ViroDecs!" Special provides project-specific,
+on-demand Environmental Product Declarations (EPDs) to
+Holcim'’s customers. This capability represents a
+significant step in Holcim's sustainability journey and
+embodies our multi-disciplinary approach to embedding
+sustainability into our organisation and operations. With
+the introduction of our ViroDecs " Special, third-party
+verified data will underpin our capability to work with our
+customers from tender through to design and construction
+to optimise ready-mix concrete mix designs and report on
+sustainability performance.
+
+The publication of the original ViroDecs " EPD in 2019
+introduced quality, third-party verified embodied life cycle
+impact data for ready-mix concrete into the Australian
+market for the first time. Holcim has been pleased by the
+positive response from the industry. The message was
+loud and clear: “we want transparency and we want a
+evidence-based approach to specification, procurement
+and reporting”. With the introduction of our ViroDecs "
+Special, Holcim's customers can specify concrete
+sustainability performance in terms of CO--e, with the
+confidence that our claims are backed by our third-party
+verified EPD Process Certification.
+
+Holcim ViroDecs'" Special is backed by an EPD
+Process Certification. It's not only a first for concrete but
+a first for any product in Australia. Our EPD Process
+Certification is a stamp of approval to produce compliant
+EPDSs in-house, opening up significant capability and
+flexibility in producing and using life cycle impact data to
+inform our operations and our customers.
+
+To gain our EPD Process Certification, Holcim invested
+in embedding Life Cycle Assessment (LCA) into our
+systems and processes. We have satisfied a rigorous,
+third-party evaluation in accordance with the relevant
+ISO standards and guidelines of the International EPD
+Programme and EPD Australasia.
+
+This EPD has been developed using our EPD Process
+Certification for the project with production occurring at
+Holcim's concrete plant.
+
+Ready-mix concrete
+
+Aggregrates
+Load and Haul Crushing and Screening Stockpiling and Distribution
+
+Concrete
+Batching
+
+Material Handling and Storage
++, Ë
+
+Summary of properties and classes
+
+Concrete is prepared by mixing cement, ° Normal-class — designed for residential
+coarse and fine aggregates, and water, with applications, low rise buildings, paving
+or without the addition of auxiliary agents and driveways etc. Its specification and
+and additives. The fresh concrete is placed ordering have been simplified as far as
+on the building site or prefabricated in practicable.
+
+factory moulds, compacted and hardened in e Special-class — allows the purchaser to
+the desired shape by the hydration of incorporate into the project specification
+cement to form concrete. any special requirements for the project.
+
+Special-class concrete is typically
+supplied to major and high-end
+construction projects from high rise
+buildings, dams and spillways, roads and
+bridges to public works infrastructure etc.
+Special-class concrete is typically
+specified in accordance with the technical
+parameters and performance
+requirements, which can include high-
+strength/high-performances concrete,
+high durability or marine application, post-
+tensioned, high-pumpability, super
+workable, piling concrete, architectural
+off-form finishes and other decorative
+applications.
+
+General Australian Standard AS 1379 sets
+down a number of different ways of
+specifying and ordering concrete to
+promote uniformity, efficiency and economy
+in production and delivery. It refers to two
+classes of concrete: normal-class and
+special-class.
+
+ViroDecs'" EPD | Holcim
+
+<
+O
+2
+où
+X
+E
+>
+©
+œ
+©
+œ
+
+LCA Information
+
+Declared Unit
+
+1 m° of ready-mix concrete.
+
+Reference Service Life (RSL)
+
+The RSL is not specified as the scope is from cradle to
+gate.
+
+Time Representativeness
+
+The plant data for the LCA is based on 2017 calendar
+year production data. The mix data for the LCA is based
+on 2020 calendar year production data.
+
+Databases and LCA Software Used
+
+SimaPro (v8.4) was used for the LCA modelling which
+developed the LCA Calculator, used as per the certified
+EPD Process. It uses background data from:
+
+1. The Australian National Life Cycle Inventory
+Database (AusLCI) (2017)
+
+2. Ecoinvent 3.4 (2017)
+
+83. World Business Council for Sustainable
+Development (WBCSD) Cement Sustainability
+Initiative (CSI) Tool Project Database
+(International Version) (2018); and
+
+4. Product specific EPDs for admixtures and fibres.
+
+The environmental impacts modelled from the CSI tool
+and existing EPDs do not include impacts for the
+additional Green Star (v1.2) impact categories included
+in the environmental impact tables. The following impact
+categories were calculated manually for the foreground
+data:
+e Use of renewable primary energy resources
+used as raw materials
+e Use of non-renewable primary energy excluding
+non-renewable primary energy resources used
+as raw materials
+e Use of secondary material
+e Use of renewable secondary fuels
+e Use of non-renewable secondary fuels
+
+ViroDecs'" EPD | Holcim
+
+Allocation
+
+Allocation was necessary to proportion inputs and
+outputs to intermediate flows at the quarry and
+processes at the batching plant level.
+
+As much as possible, intermediate flows were allocated
+physically based on weight (quarries) or based on m 2 of
+concrete (at the batching plant). At the quarry level,
+whenever physical allocation was not possible,
+economic allocation was carried out based on Holcim's
+internal cost system.
+
+Regarding inputs, it was assumed that fly ash and silica
+fumes are waste products and therefore burden-free.
+Ground granulated blast furnace slag from steel blast
+furnace production was allocated economically. Please
+refer to the “Recycled Material” section for further detail.
+
+=
+©
+ds
+œ
+=
+Lu
+©
+=
+=
+<
+©
+er
+
+Cut-Off Criteria
+No flows were excluded on the basis of cut-off criteria.
+
+Address and Contact Information
+
+Holcim (Australia) Pty Ltd
+Level 8, 799 Pacific Highway, Chatswood
+NSW 2067, Australia
+
+Web: www.holcim.com.au
+Phone: +61 2 9412 6600
+Data Quality
+
+Data quality for the foreground data was assessed in terms of geographic and temporal representativeness. All data
+
+>
+sources were scored medium or higher. =
+=]
+(e]
+œ
+Q
+. Electricity provider :
+Electricity ose 2017 All states High
+Diesel Supplier invoices 2017 All states High
+National Pollution .
+Pollutants Inventory (NPI) data 2017 All states High
+Mains water Water utility invoices 2017 All states barring NSW Medium
+Water — other
+Coarse sources FCI AMNLEMEL ITS All states barring NSW Medium
+aggregate (lakes, data
+groundwater,
+Manufactured rainwater)
+sen Water discharge . .
+. ; Measured site data 2017 All states barring NSW Medium
+Fine aggregate from site
+te d All states (excluding the Kalgoorlie
+Invoices 2017 Quarry in WA which purchases High
+sand and
+raw feed from an external source)
+Coarse
+aggregate only)
+Gravel CRIER ar | sr All states High
+production amount
+Spoil Le RES 2017 All states High
+records
+All states
+Aggregate Background data es censpot 2017 | | Hiah
+transport Mederodel istances an (excluding Lynwood Quarry which 1g
+loads per trip transports by freight rail)
+. Electricity provider ;
+Electricity Ho 2017 All states High
+Diesel Supplier invoices 2017 All states High
+Water metres,
+Mains water with utility invoices 2017 All states High
+as a
+back-up
+. Side Water — other
+atchin EUX i
+gp sources Estimate based on 2017 All states Medium
+(lakes, water balance
+groundwater,
+rainwater)
+Water discharde Estimate based on
+narg Holcim site 2017 All states Medium
+from site
+performance
+metrics
+Lubricating oil
+d ATEILOI enerEts 2015 National Medium
+Conveyor belt process
+Holcim internal
+Concrete mix Background data technical .
+designs used to model database 207 QUCECE High
+containing mix
+designs
+Estimate based on
+Packaging Background data researched N/A N/A Medium
+waste used to model packaging
+material
+and sizes
+
+Background data sources were also assessed with respect to their timeliness, with all data sources being updated
+within the 10 years required under PCR 2012:01.
+System Diagram
+
+The processes included in the LCA are presented in a process diagram in the figure below.
+
+=
+œ
+el
+D
+.G
+Q
+=
+©
+a
+>
+ao
+
+| Personnel | Raw material extraction
+| impacts |
+masses
+
+E |
+| go
+
+On-site transport
+
+A 1 Processing Steel manufacturing
+
+Ê Chemical plant
+
+Admixture production
+
+Aggregates not for Aggregates not for aggregate
+concrete concrete not for,
+concrete
+
+Additives manufacturing
+
+_—_ Transport by transoceanic freight ship,
+A2 nspor by roitucE rigid truck and/or domestic freight ship
+
+A3
+
+— 0
+Lubricating oil goporete Packaging waste
+
+Transport to site
+
+ViroDecs'" EPD | Holcim 9
+Description of System Boundaries and Excluded Lifecycle Stages
+
+The scope of the LCA and EPD is from cradle to gate. Life cycle stages beyond Holcim's gate are excluded from the
+LCA (see figure below).
+
+=
+G
+Lu
+D
+S
+Q
+=
+2
+a
+>
+o
+
+Environmental impacts relating to personnel, infrastructure and production equipment not directly consumed in the
+process are excluded from the system boundary as per the Product Category Rules (2012:01 Construction Production
+and Construction Services).
+
+Benefits &
+
+Construction Use Stage End of Life Stage loads for the
+
+Product Stage next
+
+product
+system
+
+Stage
+
+a
+
+8 5 5 5 o 5 P
+
+e œs + [os © C2] d = 5
+à à 2 &S L2 E > 3 $ o &
+© on Œ G Q œ œ > — C _ o
+=] € A = fa 3 = O [0] d = œ re
+o & = = = . = “ = 5 = TD = O ë _
+_ © 5 ] ES D D ra) se] = où © E ©. >.
+SE OS 8 $ 8 gg À © À LE Où + < 9 8 » où =
+o = Œ = o > © © E € F w 2 = © Q 8 2
+= g 5 g = © £ & © = = © S a re S 8
+= +  & F = = E = = S 2 D F 5 el ge
+= Z 2 = Et ® a & w ü d (re -
+ü © 2 © G a © s} = œ col
+(rs D £ (re G. 5 pes = a Œ
+
+© E © 5 O O à 2
+
+6 œ Œ Q me
+
+O
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 Ci C2 C3 C4 D
+X X X  MND MND MND MND MND MND MND MND MND MND MND MND MND MND
+
+*Module not declared (MND)
+
+ViroDecs'" EPD | Holcim 10
+EPD Product Description and Use
+
+ViroDecs'" Ready-mix concrete Kullcorp Panel Mix
+
+@
+o
+=)
+où
+=
+©
+5
+cs
+É
+©
+tr)
+©
+Q
+ds
+©
+5
+D
+©
+Le
+(Su
+
+A detailed breakdown of the functional properties of the ready-mix concrete included in this EPD are provided below.
+Product environmental information should only be compared with consideration of the product’s requisite function.
+
+MIX :
+DESCRIPTIONS Kullcorp Panel Mix
+
+Strength (MPa) Mix code Description of use
+
+NP404KULL Precast Panel Mix
+
+ViroDecs'" EPD | Holcim 11
+Content Declaration
+
+The following table provides a summary of the materials included in Holcim ready-mix concrete and their relative
+
+composition by weight.
+
+General purpose cement
+
+Aggregate
+
+Supplementary cementitious materials
+Water
+
+Admixtures
+
+5-21%
+67-84%
+0-11%
+11.6-12%
+
+0.01-0.02%
+
+[]
+o
+æ)
+où
+[=
+©
+=
+[os
+En
+©
+(A
+©
+Q
+—
+©
+=]
+T
+[e)
+Le
+Q.
+
+Holcim Ready-mix concrete is classified as Non-Dangerous Goods according to the Australian Code for the Transport
+of Dangerous Goods by Road and Rail. The safety data sheet for pre-mixed concrete lists all associated hazard
+
+phrases.
+
+The gross weight of this declared material makes up a minimum of 99% of the products covered by this EPD.
+
+Packaging
+
+Holcim ready-mix concrete is delivered in bulk with no
+packaging.
+
+Recycled Material
+
+BS EN 16757:2017 specifically lists the following
+materials relevant to the study as co-products:
+
+e Fly ash;
+° Ground granulated blast furnace slag; and
+°  Silica fume
+
+As such, the above materials are considered as co-
+
+products of their production process and the impacts for
+their production process are allocated according to PCR
+
+2012:01 Construction Products and Construction
+Services (co-produced goods, multi-output allocation).
+
+ViroDecs'" EPD | Holcim
+
+Default background data from LCA databases was used
+
+to model the above co-products:
+
+° Fly ash: AusLCI process for fly ash treats it as a
+
+waste material and only includes transport
+impacts.
+° Ground granulated blast furnace slag: the
+
+AusLCI process for slag is allocated based on
+economic value, as the product has a significant
+
+economic value at the point of collection.
+
+° _ Silica fume: the ecoinvent process for silica
+fume treat it as a waste material and only
+includes transport impacts.
+
+The allocation approach of the AusLCI LCA database
+
+was adopted as a default for secondary data and
+
+The AusLCI dataset conforms to EN 15804 when
+applying allocation to its various processes and sub-
+processes.
+
+processes (e.g. secondary fuel in cement production).
+Environmental Performance
+
+The environmental impacts considered in this EPD are listed in the table below. Al further tables from this point will
+contain abbreviation only.
+
+Impact Category Abbreviation Measurement Unit
+
+Potential Environmental Impacts
+
+@
+©
+=
+œ
+=
+Lu
+©
+
+=
+Lu
+©
+
+(su
+
+œ
++
+=
+©
+=
+=
+©
+
+È
+>
+€
+
+ui
+
+Global warming potential GWP kg CO, equivalents (GWP100)
+Ozone depletion potential ODP kg CFC 11 equivalents
+Acidification potential AP kg SO; equivalents
+Eutrophication Potential EP kg POS equivalents
+Photochemical ozone creation potential POCP kg C-H, equivalents
+Abiotic depletion potential (elements) ADPE kg Sb equivalents
+Abiotic depletion potential (fossil fuels) ADPF MJ net calorific value
+
+Resource use
+Use of renewable primary energy excluding renewable primary
+
+energy resources used as raw materials FANE LD, Me GENE VEINE
+PSE Or reneWaD'e primary energy resources used as raw PERM bre eine
+er er a nee) PERT Ml netcaon vale
+a en 7e" PENRE A nétcaoniovane
+Te LRO renewable primary energy resources used as raw PENRM MJltnet calorific value
+ne ee me PENRT Mi netcaont vale
+Use of secondary material SM kg
+
+Use of renewable secondary fuels RSF MJ, net calorific value
+Use of non-renewable secondary fuels NRSF MJ, net calorific value
+Use of net fresh water FW m$
+
+Output categories
+
+Hazardous waste disposed HWD kg
+Non-hazardous waste disposed NHWD kg
+Radioactive waste disposed/stored RWD kg
+Components for reuse CRU kg
+
+Materials for recycling MFR kg
+Materials for energy recovery MER kg
+
+Exported energy EE MJ per energy carrier
+Optional Green Star (v1.2) indicators
+
+Human Toxicity HT CTUh
+
+Land use LU m2?
+
+Water stress indicator WSI ms
+
+lonising radiation IR kBq U235 eq
+Particulate matter PM kg PM2.5 eq
+
+ViroDecs'" EPD | Holcim 13
+Kullcorp Panel Mix
+
+Kullcorp Precast Panel Mix: 1m of ViroDecs M" ready-mix concrete — Primary indicators
+
+—— ele lee » ee.
+
+Strength
+
+(MPa) Mix ECS kg CO» eq kg CFC-11 eq kg SO: eq kg PO eq kg C2H4 eq kg Sb eq MJ
+
+= 233.35 3.82E-06 5.17E-01 1.17E-01 1.89E-02 1.41E-04 1.82E+03
+
+Kullcorp Panel Mix: 1m° of ViroDecs " ready-mix concrete - Resource use parameters
+
+PARAMETERS
+DESCRIBING PERT PENRT NRSF FW
+RESOURCE USE
+
+Strength
+(MPa)
+
+Mix EC Mincv MiNncv MiNncv MiNncv Mincv MiNncv MiNncv MiNncv m°
+
+ES 2.88E+01 O0.00E+00 2.88E+01 1.05E+03 1.12E+02 1.16E+03 2.27E+02 O0.00E+00 O0.00E+00 6.76E-01
+
+Kullcorp Panel Mix: 1m of ViroDecs M" ready-mix concrete — Waste categories and output flows
+
+WASTE CATEGORIES AND
+
+(MPa)
+NP404KULL 1.13E-03 7.31E+00 6.09E-06 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+Kullcorp Panel Mix: 1m° of ViroDecs " ready-mix concrete — Green Star As Built v1.2 optional indicators
+
+— - DRRIERNES
+
+Strength (MPa) CTUh kBq U235 eq kg PM2.5 eq
+
+NP404KULL 7.81E-09 1.39E-02 7.56E-01 4.39E-02 2.75E-01
+
+ViroDecs'" EPD | Holcim 14
+
+@
+©
+=
+œ
+=
+Lu
+©
+
+=
+Lu
+©
+
+(su
+
+=
+
++
+=
+©
+=
+=
+©
+
+È
+>
+€
+
+ui
+
+Other life cycle stages not included in
+this EPD
+
+u
+©
+D
+©
+ni
+ao
+©
+o
+>
+©
+(
+=
+=
+LD
+©
+£
+Ld
+O
+
+While the LCA study and EPD only consider the cradle to gate environmental impacts of Holcim's ready-mix concrete,
+practitioners using the EPD for the purpose of whole-of-life building studies or the functional comparison of different
+building products on a whole-of-life basis will consider concrete’s other life cycle stages. Some of the environmental
+impacts of benefits associated with other life cycle stages not included in this EPD are described in the following
+sections.
+
+Lifetime absorption of CO:
+
+Carbonation is a natural process whereby concrete absorbs carbon dioxide (CO) from the atmosphere through a
+chemical reaction between the CO; in the ambient air and hydration products within the concrete (CaOH:). Ready-mix
+concrete can be subject to carbonation from the use stage onward (i.e. after construction and curing). From a life cycle
+impact accounting perspective, this process can also be referred to as ‘reabsorption’, since the CO; emitted during the
+cement manufacturing process can be paritly offset by the lifetime absorption of CO», therefore reducing the net CO;
+emissions associated with concrete over its lifetime.
+
+The carbonisation process is a commonly known process in building design and is typically taken into consideration by
+engineers when specifying special-class concrete.
+
+The total amount of CO; absorption during the life cycle of concrete is subject to a range of factors and varies over
+time. The calculation has been standardised in the British and European Standard BS EN 16757:2017 Sustainability
+of construction works — Environmental Product Declarations — Product Category Rules for concrete and concrete
+elements. It is recommended that practitioners make use of this standard when conducting whole-of-life building
+studies and if the building materials include substantial amounts of concrete. Please note that CO: absorption has not
+been considered in this EPD andis not reflected in the EPD results tables.
+
+End of life scenarios
+
+BS EN 16757:2017 presents four end of life scenarios for concrete:
+
+1. Disposal of concrete at a landfill site,
+
+2. Reuse of recovered concrete elements in new construction works,
+
+83. Use of concrete debris, e.g. In land restoration, or
+
+4.  Crushing/recycling of concrete:
+a. Crushed concrete substitutes primary material without further processing, or
+b. Substitution of natural aggregates in fresh concrete.
+
+Scenarios 2, 3 and 4 can all result in benefits and loads outside the system boundary and thus should be considered
+in a whole-of-life building study or when comparing concrete products on a functional basis in line with BS EN
+16757:2017.
+
+ViroDecs'" EPD | Holcim 15
+References
+
+Australasian EPD Programme. (2017). Guidance on the use of INA in EPDs.
+
+References
+
+Australasian EPD Programme. (2018). Guidance on the use of background LCI data.
+Australasian EPD Programme (2018) Instructions of the Australasian EPD Programme V3.0.
+
+Australian Life Cycle Inventory Database Initiative (AusLCI). (2015). Guidelines for Data Development for an
+Australian Life Cycle Inventory Database, Data Standard.
+
+British Standards Institution. (2014). Sustainability of construction works. Environmental product declarations. Core
+rules for the product category of construction products, BS EN 15804:2012+A1:2013. British Standards Institution.
+
+British Standards Institution. (2017). Sustainability of construction works — Environmental product declarations —
+Product Category Rules for concrete and concrete elements, BS EN 16757:2017. British Standards Institution.
+
+Ecoinvent Centre. (2017). Ecoinvent version 3 database. Zurich: ETH, Agroscope, EMPA, EPFL, PSI. Retrieved from
+www.ecoinvent.org.
+
+EPD International. (2017). General Programme Instructions (GPI) for the International EPD System V3.0. Retrieved
+from www.envirodec.com.
+
+EPD International. (2018). Product Category Rules for Construction Products and Construction Services, PCR2012:01
+v2.3. Stockholm: EPD International.
+
+ISO. (2006). Environmental labels and declarations — Type III environmental declarations — Principles and procedures,
+ISO 14025:2006. Geneva: International Organization for Standardization.
+
+ISO. (2006). Environmental management — Life cycle assessment — Principles and framework, ISO 14040:2006.
+Geneva: International Organization for Standardization.
+
+ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines, ISO
+14044:2006+A1:2018. Geneva: International Organization for Standardization.
+
+AusLCI. (2017) AusLCI Database. Retrieved from AusLCI: www.auslei.com.au/
+
+Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of Australia’s Construction
+Sector, Procedia Engineering, Volume 180, 2017, Pages 211-220, ISSN 1877-7058,
+
+(http;/www.sciencedirect.com/science/article/pi/S1877705817316879)
+
+ViroDecs'" EPD | Holcim 16
+Programme-related information and verification
+
+Holcim (Australia) Pty Ltd Level 8,
+799 Pacific Highway
+
+Chatswood NSW 2067, Australia
+
+Web: www.holcim.com.au Phone:
++61 2 9412 6600
+
+Declaration Owner
+
+olcim
+
+EPD Australasia Limited
+
+315a Hardy Street Nelson | E P D ©
+
+7010 AUSTRALASIA
+New Zealand
+
+Web: www.epd-australasia.com Email:
+info@epd-australasia.com Phone: 02
+8005 8206
+
+EPD Programme Operator
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Holcim (Australia) Pty Ltd Level 8,
+799 Pacific Highway
+
+Chatswood NSW 2067, Australia
+Web: www.holcim.com.au Phone: +61 2 9412
+6600
+
+EPD Produced by
+
+Holcim
+epstengroup
+
+Epsten Group
+
+Suite 2600, 101 Marietta St NW, Atlanta,
+EPD Process Certified by Georgia 30303, USA
+
+Web: www.epstengroup.com
+
+F
+
+EPD Registration Number No. S-P-02330
+
+Valid From 2021-03-05
+Version
+Valid Until 2026-03-05
+
+PCR 2012:01 Construction Products and Construction Services, Version 2.3,
+
+Product category rules 2018-11-15
+
+Product group classification UN CPC 54
+
+Australia
+
+Geographical Scope
+
+Reference Year for Data 2017 Plant Data, 2020 Mix/Materials Data
+
+_
+Oo
+
+CEN standard EN 15804:2012+a1:2013 served as the core PCR
+
+PCR 2012:01 Construction Products and Construction Services, Version
+
+Product category rules 2.3, 2018-11-15
+
+PCR review was conducted The Technical Committee of the International EPDS® System.
+by Chair: Massimo Marino. Contact via info@environdec.com
+
+Independent third-party
+
+verification of the declaration EPD process certification
+and data, according to ISO EPD verification
+14025:2006:
+
+Third Party Verifier Epsten Group, Inc., Katherine McFeaters:
+Accredited by: A2LA, Certificate #3142.03
+
+Procedure for follow-up of
+data during EPD validity
+involves third party verifier:
+
+Programme-related information and verification:
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product
+category but from different programmes may not be comparable. EPDs of construction products may not be
+comparable if they do not comply with EN 15804.
+
+ViroDecs'" EPD | Holcim
+
+17
+Holcim
+
+This publication supersedes all previous literature on this subject. As the
+specifications and details contained in this publication may change, please check
+with Holcim Customer Service for confirmation of current issue. This publication
+provides general information only and is no substitute for professional technical
+engineering advice. Users must make their own determination as to the suitability of
+this information or any Holcim product for their specific circumstances. Holcim
+accepts no liability for any loss or damage resulting from their specific circumstances.
+Holcim accepts no liability for an loss or damage resulting from any reliance on the
+information provided in this publication. Holcim is a registered trademark of
+LafargeHolcim Ltd. “Strength. Performance. Passion.” and “ViroDecs” are trademarks
+of Holcim (Australia) Pty Ltd.
+
+© March 2021] Holcim (Australia) Pty Ltd ABN 87 732 297. All rights reserved. This
+guide or any part of it may not be reproduced without prior written consent of Holcim.

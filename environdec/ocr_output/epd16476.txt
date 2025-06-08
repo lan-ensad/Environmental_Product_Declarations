@@ -1,0 +1,742 @@
+9 HOLCIM
+
+—— EPD
+
+THE INTERNATIONAL EPD® SYSTEM
+
+Environmental Product Declaration
+
+Under PCR 2019:14 Construction products (EN 15804:A2); Version 1.3.4; 2024-04-30
+and c-PCR-001 Cement and Building Lime (EN 16908:2019); 2024-04-30
+
+PRODUCT GROUP CLASSIFICATION: UN CPC 3744
+
+in accordance with 1S014025:2006 and 15804:2012+A2:2019/AC:2021 for:
+
+Program:
+
+Program operator:
+EPD registration number:
+
+Issue date:
+Validity date:
+
+Geographical scope:
+
+VERIFIED
+
+The International EPDS System www.environdec.com
+EPD International AB
+
+EPD-IES-0016476:001
+
+2024-12-03
+
+2029-12-02
+
+An EPD should provide current information and may be updated if conditions
+change. The stated validity is therefore subject to the continued registration
+and publication at www.environdec.com.
+
+Europe
+
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+PRESENTATION
+
+This declaration contains the environmental performance of the production of cement ECOPlanet
+CEM V/A (Q-S) 42.5 N manufactured by Holcim España, S.A.U. in Spain, in the plant located in
+Sagunto, Valencia.
+
+This EPD has been conducted according to the International EPD System regulation. This
+regulation is a system for the international use of Type III Environmental Declarations, according to
+ISO 14025:2006. Not only the system but also its applications are described in the General
+Programme Instructions (GPI 4). The report has been made following the specifications given in the
+CEN standard EN 15804:2012+A2:2019/AC:2021 and the Product Category Rule c-PCR-001
+Cement and Building Lime EN16908:2019; 2024-04-30.
+
+The assessed life cycle includes all the stages needed to manufacture the product and have it
+ready for the customer at the exit gate of the factory.
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD.
+
+EPDs within the same product category but from different programs may not be comparable. EPDs
+of construction products may not be comparable if they do not comply with EN 15804.
+
+2 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+GENERAL INFORMATION
+
+Programme-related information and verification
+
+Product Category Rules (PCR)
+CEN standard EN 15804 serves as the core Product Category Rules (PCR)
+
+Product Category Rules (PCR):
+
+PCR 2019:14 Construction products (EN 15804:A2); Version 1.3.4; 2024-04-30 and c-PCR-001
+Cement and Building Lime (EN 16908:2019); 2024-04-30
+
+PCR review conducted by:
+
+The Technical Committee of the International EPDS System. See https://www.environdec.com/
+for a list of members. Review chair: Claudia A. Peña, University of Concepcién, Chile. The review
+panel may be contacted via the Secretariat https://www.environdec.com/contact
+
+Verification
+
+External and independent (‘third-party”) verification of the declaration and data, according to
+ISO 14025:2006, via:
+
+EPD verification through an individual EPD verification
+
+[ EPD verification through an EPD Process Certification*
+
+[ EPD verification through a pre-verified LCA/EPD tool
+
+Third party verifier:
+
+Marcel Gomez, Marcel Gômez Consultoria Ambiental S.L. - info@marcelgomez.com
+
+Approved by: The International EPD System
+
+*EPD Process Certification involves an accredited certification body certifying and periodically
+auditing the EPD process and conducting external and independent verification of EPDs that are
+regularly published. More information can be found in the General Programme Instructions on
+www.envrondec.com. International EPD System
+
+Procedure for follow-up of data during EPD validity involves third-party verifier:
+
+[ Yes No
+
+Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+
+(a)
+( HOLCIM —… FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+EPD-related information
+
+The owner of this EPD, Holcim España, S.A.U. has the sole ownership, liability, and responsibility on
+this EDP.
+
+EPD owner
+HOLCIM ESPANA S.A.U
+Avda. de Manoteras, 20, Edificio Tokyo, 1° planta - 28050 - Madrid - Spain
+
+marketing.spain@Holcim.com
++34 91 213 31 00
+
+Commissioned LCA practitioner:
+
+SOLID FOREST S.L - C/ Circe 49A - 28022 - Madrid - Spain
+info@solidforest.com
+
+EPD version
+This is the first version of the EPD
+
+Sectorial EPD
+This is not a sectorial EPD
+
+EPD Comparability
+
+EPDs within the same product category but from different programmes may not be comparable.
+EPDs of construction products may not be comparable if they do not comply with EN 15804.
+Environmental declarations published within the same product category, though originating
+from different programs, may not be comparable. For two EPDs to be comparable, they must be
+based on the same PCR (including the same version number) or be based on PCR or fully aligned
+PCR versions; cover products with identical functions, technical performance and use (e.g.
+identical declared/functional units); have equivalent system limits and data descriptions; apply
+equivalent data quality requirements, data collection methods, and allocation methods; apply
+identical cut-off rules and impact assessment methods (including the same version of
+characterization factors); have equivalent content statements; and be valid at the time of
+comparison. For more information on comparability, see EN 15804 and ISO 14025.
+
+Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+
+EN
+( HOLCIM —… FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+COMPANY INFORMATION
+
+Product Provider
+
+ps e
+
+Holcim España, S.A.U.
+Avda. de Manoteras, 20
+
+28050 Madrid
+
+España
+
+Holcim España owns five cement factories in Spain, with an installed capacity of more than seven
+million tons per year, more than 20 concrete plants, two mortar plants, six terminals and one waste
+recovery plant, employing more than 700 people.
+
+Holcim España has a Research and Development Center for New Concretes and Mortars, where
+products are designed to meet the specific needs of customers. It also has a Central Quality
+Laboratory with an exclusive area dedicated to the analysis of alternative fuels.
+
+Holcim España is part of Holcim, a world leader in innovative and sustainable construction
+solutions. Holcim is enabling the development of greener cities, smarter infrastructure and
+improving living standards around the world. With sustainability at the heart of its strategy, Holcim
+is creating the path to becoming a net-zero company, with its people and communities at the heart
+of its success. The company is driving the circular economy as a global leader in recycling to build
+more with lessi,
+
+Holcim España sustainable practices
+
+Sustainability is at the heart of our strategy. Holcim España will continue to be at the forefront of
+sustainable construction solutions. On our journey to net zero, we are decarbonizing our business
+end-to-end, from our operations and products to the built environment.
+
+Decarbonizing our operations: Through our Geocycle business we recycle materials at the end of
+their life cycle as a source of alternative fuels.
+
+Decarbonizing our products: We offer the widest range of sustainable solutions, enabling low-
+carbon production at scale.
+
+1 Holcim Climate Report 2023
+
+5 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = F PD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Decarbonizing our built environment: Working towards a built environment with zero net
+emissions, we play an essential role in the entire construction lifecycle?.
+
+We care about nature: we work to generate a measurable and positive impact on water and
+biodiversity, protecting and recovering the natural resources that surround us$.
+
+From our ECOPlanet low CO2 cement to our ECOPact low CO2 concrete, we offer the world's first
+global range of low-carbon building materials. With the industry's broadest formulation expertise,
+we tailor our solutions to local needs by enabling low-carbon construction at scale.
+
+Product-related or management system-related
+certifications
+
+Holcim España has an integrated management system certified according to ISO 9001:2015
+“Quality Management” and ISO 14001:2015 “Environmental Management” standards.
+
+The Greenhouse Gases Emissions Inventory of Holcim España is verified every year according to
+the requirements of the ISO 14064-1:2018 “Green House Gases” standard and is included in the
+Carbon Footprint National Registry of the Ministerio para la Transicién Ecolégica y el Reto
+Demogräfico of Spain, obtaining the labels “Calculo”, for calculated carbon footprint and
+“Reduzco” for achieving a substantial GHG emissions reduction in the last four years.
+
+2 Holcim Net-Zero Journey
+3 Holcim Nature Policy
+
+6 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+PRODUCT INFORMATION
+
+Product identification
+
+The system analyzed in this Declaration comprises the life cycle of the production of the cement
+ECOPlanet CEM V/A (Q-S) 42.5 N (CPC 3744: “Portland cement, aluminous cement, slag cement
+and similar hydraulic cements, except in the form of clinkers “) manufactured by Holcim España in
+Spain, in the factory located in Sagunto, Valencia.
+
+Information about the product
+
+The Declared Unit of this LCA is one ton (1 000 kg) of product ready to be sent to the customer. The
+product included in this declaration is ECOPlanet CEM V/A (Q-S) 42.5 N from Sagunto factory. Al
+environmental impacts and use of resources, both direct and indirect, are reported to this unit.
+
+The results of environmental impacts by declared unit are declared as an average, weighted
+according to the total production of each factory.
+
+This assessment has been done using the production data of 2023.
+
+Composition
+material, weight% kg C/D.U.
+Clinker 1.85% 0.00
+Blast furnace slag 70 100% 0.00
+Natural calcined pozzolana 222 0% 0.00
+Natural gypsum 0 0% 0.00
+Minor constituents 100% 0.00
+
+*Including main components and additional constituents
+
+This product is marketed in bulk, so there are no packaging materials.
+
+Technical characteristics according to UNE-EN 197-1
+ÉMechanicaland physical properties [Amount [Unit
+
+Compressive strength 2 days > 10.0 MPa
+Compressive strength 28 days > 42.5 and < 62.5 MPa
+Initial setting time > 60 min
+Soundness < 10 mm
+
+During the life cycle of the product any hazardous substance listed in the “Candidate List of
+Substances of Very High Concern (SVHO) for authorization” has not been used in a percentage
+higher than 0,1% of the weight of the product.
+
+7 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+LCA INFORMATION
+
+Declared Unit
+
+This EPD represents the environmental impacts of one ton (1 000 kg) of ECOPlanet CEM V/A (Q-S)
+42.5 N manufactured by Holcim España in Sagunto, marketed in bulk, ready to send to customers.
+
+A reference service life is not relevant due to this cradle-to-gate boundary conditions.
+
+System boundaries
+
+This EPD covers all product stages from “cradle to gate” (modules A1-A3), since the product fulfils
+all the conditions required by EN 15804:2012+A2:2019/AC:2021 regarding the exclusion of
+modules B1 to D:
+
+1. The product is physically integrated with other products during installation so they
+cannot be physically separated at the end of life.
+
+2. The product is no longer identified at the end of life as a result of a physical-
+chemical transformation process.
+
+8. The product does not contain biogenic carbon.
+
+This means that all processes up to the output gate of
+the manufacturer are included, from quarry works and
+components manufacturing, to transports of materials
+and fuels, factory process and final preparation. All direct
+and indirect environmental impacts have been
+calculated and are reported in this document.
+
+Holcim España has a complete control over all the
+processes within the factory and the quarry of main raw
+materials.
+
+The LCI includes, in accordance with EN 15804, a minimum of 95% of the total input flows (mass
+and energy) per module (e.g. A1-A3). In addition, the PCR applies the expanded cut-off rule of the
+ISO 21930 standard, which establishes at least 95% of the environmental impact per module.
+
+The only processes that are not controlled directly by the company are the production of main
+fuels, electricity, some additions, the transport of the raw materials, and minor inputs excluded
+according to the cut-off rules.
+
+According to the PCR, the following elements or processes have also been excluded:
+
+e Manufacture of the equipment used in the production, buildings, or any other capital
+goods.
+
+° Transport of people to the manufacturing plants.
+
+e Transport of people inside the manufacturing plants.
+
+e  R+D activities.
+
+e _Long-term emissions.
+
+8 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+To model the impacts of the electricity used in the plant, the mix of the electricity company, using
+100% of renewable sources, has been used. This electricity mix has a Climate Change impact of
+0.079 kg CO2e/kWh (GWP100-GHG).
+
+A simplified model of the process of cement manufacturing is described in the following diagrams,
+enumerating the main activities included in the system boundaries. The process and installations
+are also linked to the phases of the product life cycle (A1-A3).
+
+Construction Resource
+Product stage process Use stage End of life stage recovery
+stage stage
+
+ro
+=
+©
+Q
+[eo
+D
+S £
+S © E= 2
+Lo) a © © ©
+È : [515 ë
+8 ë S1S1l.e 2 >
+(2) £= + œ © 2] oo]
+& E 8 815 1S/131% $ E
+ü É— œ g D
+S ls RE Ë 181515 |13|8lS ;
+ES à | à S£slS | é|Ss|s|s|éle $
+s | S s16121S18|S$|Ss|24|12412161)8 3
+œ F F e] > = œ œ œ (e} (e} Q F = ca
+Module A A2 M A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 D
+Modules | x | x | x | no | ao | no | no | no | no | no | no | ab | à | no ND
+declared
+Geograph GLO | GLO | ES - - - - - - - - - - - -
+Specific data >95% GWP L
+used
+Variations - 0% :
+products
+Variations - 0% :
+sites
+
+Product Stage
+
+Internal transports Production
+
+Quarry operation
+
+Transport of external materials
+
+Manufactring or recovery of other
+raw materials
+
+A3
+
+Manufacturing
+
+AT
+
+Raw material supply
+
+Transport
+
+In the A1 module the components and materials are extracted in a quarry or manufactured in a
+third-party location (ie. manufacture of fuels). Raw materials that are not produced in the plant are
+transported to the plant by ship and truck (A2 module). In the manufacturing stage (A3), the
+
+9 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = F PD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+components of the clinker are heated and once the clinker is produced it is mixed with the
+additions and grinded to produce the final cement.
+
+This declaration is referred to the product marketed in bulk.
+
+The scenarios included are currently in use and are representative for one of the most probable
+alternatives.
+
+Technical Information
+
+Calculation Methodology
+
+This EPD represents Typelll Environmental Declarations according to ISO 14025:2006. The inherent
+Life Cycle Assessment (LCA) has been developed according to ISO 14040 and ISO 14044
+International Standards, and following the International EPD System General Programme
+Instruction (GPI 4), the PCR 2019:14 Construction products (EN 15804:A2); Version 1.3.4; 2024-04-
+80 and c-PCR-001 Cement and Building Lime (EN 16908:2019) 2024-04-30.
+
+Version 3.17 of software Air.e LCATM with EcoinventT" 3.10 (system model Allocation, cut-off,
+EN15804) database has been used for LCA modelling and impacts calculations.
+
+The following impacts and units have been used, calculated according to the models in EF 3.1:
+
+Global Warming Potential (GWP Total) kg of CO2 equivalent
+Global Warming Potential (GWP Fossil) kg of CO equivalent
+Global Warming Potential (GWP Biogenic) kg of CO equivalent
+Global Warming Potential (GWP LULUC) kg of CO2 equivalent
+Ozone depletion kg of CFC11 equivalent
+Acidification mol of H+ equivalent
+Eutrophication fresh water kg of P equivalent
+Eutrophication marine water kg of N equivalent
+Eutrophication terrestrial mol of N equivalent
+Photochemical ozone creation kg of NMVOC equivalent
+Depletion of abiotic resources (elements)* kg of Sb equivalent
+Depletion of abiotic resources (fossil fuels)* MI net calorific value
+Water scarcity* m* world equivalent
+
+* The result of this environmental impact indicator shall be used with care as the uncertainties on these results are high or
+as there is limited experience with the indicator.
+
+10 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = F PD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+All processes related to the product have been included in the assessment.
+
+According to EN 15804:2012+A2:2019/AC:2021 and EN 16908:2017, some components with less
+than 1% impact or use of co-products with no significant economic value have been excluded from
+the assessment.
+
+AL transportation and components have been included in this LCA, considering real loads and
+distances traveled by the materials used between January 2023 and December 2023. The main
+means of transportation have been included for the purchase of fuel and external raw materials.
+Operations in the port have been excluded.
+
+The distances by road and sea have been mainly provided by each factory according to their own
+records.
+
+Assignments have been avoided where possible. Allocation was only used for verified direct
+emissions of the furnace, where the clinker produced can subsequently be used to produce
+different cements.
+
+Cut-off rules: more than 95% of the total input flows (mass and energy) per module (e.g. A1-A3)
+have been included. In addition, the PCR applies the expanded cut-off rule of the ISO 21930
+standard, which establishes at least 95% of the environmental impact per module.
+
+The recycled components are considered from the selection and processing plant of the recovered
+materials.
+
+The Polluter Payer Principle and the Modularity Principle had been followed.
+
+Emission Factors and Tools
+
+The emission factors and environmental impacts of the elements in the life cycles that are not
+controlled by Holcim España, or direct emissions that has not measured or calculated, come from
+Ecoinvent database, version 3.10, using the cut-off EN 15804 criteria of that database.
+
+The LCA has been developed using the software Air.e LCA v3.17.
+
+Data quality
+
+According to the environmental footprint product category rules quality data criteria, and
+considering that the data used for the processes is representative of the geography scope declared,
+that there was no need to significantly modify technical aspects and that the data is from the last
+complete year, and considering that the direct emissions of the manufacturing plant are third-party
+verified and included in the PRTR (Spanish National Emissions and Contaminant Sources Registry)
+and specifically the GHG emissions are included in the EU Emissions Trade System, the data quality
+is considered as high.
+
+11 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+ENVIRONMENTAL PERFORMANCE
+
+The following tables present the results of totalized potential environmental impacts and for each
+stage of the life cycle of "one ton (1 000 kg) of ECOPlanet CEM V/A (Q-S) 42.5 N manufactured by
+Holcim España in Sagunto, marketed in bulk, ready to send to customers”. The estimated impact
+results are only relative statements that do not indicate the end points of the impact categories,
+
+exceeding threshold values, safety margins, or risks.
+
+Potential Environmental Impact
+
+AT A2 A3 Total
+@ | Total 6.15 34.24 340.46 |  380.85*
+Global Warming Potential Fossil 22.66 34.22 323.65 | 380.53**
+(GWP100)
+(kg of CO2 equivalent) Biogenic -16.51 0.00 16.59 0.07 ***
+LULUC 0.01 0.02 0.22 0.25
+Ozone depletion 06 07 07 06
+& (kg of CFC11 equivalent) 1.68e 5.85e 1.06e 2.37e
+Acidification
+(y (mol of H+ equivalent) 0.13 0.54 0.61 1.29
+Eutrophication fresh water
+LR (Kg of P equivalent) 1.73e 0 1.77e 1.83e 03 5.32e°%
+Eutrophication marine water : L L L
+M ho on equivalent 2.906 |  126e%|  3ilet!|  4.66e°:
+Eutrophication terrestrial
+M in equivalent 0.35 1.39 3.44 5.19
+Photochemical ozone creation
+[@% (kg of NMVOC equivalent) 0.22 0.42 0.85 1.49
+Depletion of abiotic resources (elements) _os Los 04 04
+-# (kg of Sb equivalent) 7.40e 6.39e 2.26e 3.64e
+Depletion of abiotic resources (fossil fuels)
+LE (MI net calorific value) 1163.37 484.43 90.50 1738.30
+Water depletion
+Leone (m3 world equivalent) 4.88 2.17 5.22 12.26
+
+*Net Emissions. Gross Emissions (including secondary fuels) = 417.08 kg COLe
+
+**Net Emissions. Gross Emissions (including secondary fuels) = 416.76 kg CO2e
+*#* The negative value in A1 corresponds to that absorbed by biogenic fuels during formation. This absorbed
+CO2is released mainly in the form of CO2 and to a lesser extent in CHa in AG.
+
+12 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM ——FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Use of resources
+
+M, net calorific value TOTAL
+
+PERE: Use of RENEWABLE primary energy excluding renewable primary
+
+. 6.07 5.62 166.19 177.88
+energy resources used as raw materials
+PERM: Use of RENEWABLE primary energy resources used as raw materials 0.00 0.00 0.00 0.00
+PERT: Total use of RENEWABLE primary energy resources (primary energy 6.07 5.62 166.19 177.88
+
+and primary energy resources used as raw materials)
+
+PENRE: use of NON-RENEWABLE primary energy excluding non- 399.15 459.42 349.10 1207.66
+renewable primary energy resources used as raw materials
+
+aus Use of NON-RENEWABLE primary energy resources used as raw 0.00 0.00 0.00 0.00
+materials
+
+PENRT: Total use of NON-RENEWABLE primary energy resources (primary
+energy and primary energy resources used as raw materials)
+
+399.15 459.42 349.10 1207.66
+
+SM: Use of secondary material 0.31 0.00 0.00 0.31
+RSF: Use of renewable secondary fuels 0.0 0.0 167.94 167.94
+NRSF: Use of non-renewable secondary fuels 0.00 0.00 1243.61 1243.61
+AR :
+
+Use of net fresh water 0.12 0.05 0.13 0.30
+
+13 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+2
+
+CG HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Additional environmental information
+
+Additional mandatory environmental impacts
+
+Results per declared unit
+
+Indicator Total A1-A3
+
+GWP-GHG* kg CO: eq. 417.01
+* The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2015. Gross emissions
+(including secondary fuels).
+
+Waste production
+
+Results per declared unit
+
+Indicator Total A1-A3
+
+Hazardous waste disposed Kg 0.01
+
+Non-hazardous waste disposed Kg 0.38
+
+Radioactive waste disposed Kg 9.06E-04
+Output flows
+
+Results per declared unit
+
+Indicator Total A1-A3
+
+Components for re-use (CRU) Kg 0.00
+Materials for recycling (MFR) Kg 0.05
+Materials for energy recovery (MER) Kg 0.33
+Exported electrical energy (ÉEE) MI 0.34
+Exported thermal energy (ETE) MI 1.21
+
+Information on biogenic carbon content
+
+Results per declared unit
+
+Indicator Total A1-A3
+
+Biogenic carbon content in product kg C
+
+Biogenic carbon content in packaging kg C
+
+4 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+
+H
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Interpretation
+
+As shown in the following chart most of the environmental impacts occur during the
+manufacturing stage (A3). This is due to the energy required in the furnace and the chemical
+processes occurring in it (mainly decarbonation of limestone).
+
+Thanks to the use of alternative materials and fuels and to the high efficiency of the furnace. the
+emissions usually linked to the traditional processes can be reduced significantly. mainly those
+related to the direct GHG emissions in the manufacturing of Portland clinker.
+
+Relative impacts per stage
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+GWP100 Total Ozone depletion  Acidification Eurrophicaton Eutrophication Eutrophication Ph. Ozone Depletion Depletion Depletion
+(fresh w. (marine w.) (terrestrial) creation (elements) (fossil fuels) (water)
+
+BA HA2 HA3
+
+The impacts where the raw materials stage (A1) is more relevant are those related to the extraction
+of fuels: depletion of abiotic resources (fossil fuels) and ozone depletion. Those impacts are not
+relevant in the A3 stage because no CFCs are present during the manufacturing process and the
+extraction of fossil fuels is accounted in the A1 stage.
+
+15 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+This declaration has been developed according to the General Programme Instructions of the
+International EPDS System. Version 4.
+
+PCR 2019:14 Construction products (EN 15804:A2); Version 1.3.4; 2024-04-30
+
+European standard EN 15804:2012+A2:2019/AC:2021 Sustainability of construction works -
+Environmental product declarations - Core rules for the product category of construction products
+
+c-PCR-001 Cement and Building Lime (EN 16908:2019) 2024-04-130.
+ISO 14040:2006 Environmental management - Life Cycle Assessment - Principles and framework.
+
+ISO 14044:2006 Environmental management - Life Cycle Assessment - Requirements and
+guidelines.
+
+ISO 14020:2000 Environmental statements and programmes for products — Principles and general
+requirements
+
+ISO 14025:2006 Environmental labels and declarations — Type Ill environmental declarations —
+Principles and procedures
+
+Registro Estatal de Emisiones y Fuentes Contaminantes (prtr-es.es).
+
+Holcim Climate Report 2023 (https://www.holcim.com/sites/holcim/files/2023-03/31032023-
+holcim-climate-report-2023-7392605829.pdf)
+
+Holcim Net Zero Journey (https://www.holcim.com/sustainability/climate-action/our-net-zero-
+journey)
+
+Holcim Nature Policy (https://www.holcim.com/sites/holcim/files/2022-
+06/holcim_nature_policy.pdf)
+
+Software: Air.e LCA rev. 3.17 (www.solidforest.com).
+Main database: Ecoinvent 3.10 (www.ecoinvent.org).
+Geographical scope of the EPD: Europe.
+
+Note: Environmental declarations published within the same product category. though originating from different programs.
+may not be comparable. For two EPDs to be comparable. they must be based on the same PCR (including the same version
+number) or be based on PCR or fully aligned PCR versions; cover products with identical functions. technical performance
+and use (e.g. identical declared/functional units); have equivalent system limits and data descriptions; apply equivalent
+data quality requirements. data collection methods. and allocation methods; apply identical cut-off rules and impact
+assessment methods (including the same version of characterization factors); have equivalent content statements; and be
+valid at the time of comparison. For more information on comparability. see EN 15804 and ISO 14025.
+
+16 Environmental Product Declaration of CEM V/A (Q-S) 42.5 N - Sagunto

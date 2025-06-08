@@ -1,0 +1,260 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "epd_version": "3",
+    "epd_registration_number": "S-P-03786",
+    "publication_date": "2021-06-02",
+    "revision_date": "2023-05-29",
+    "valid_until": "2026-05-31",
+    "third_party_verification": "EPD verification",
+    "third_party_verifier": {
+      "name": "TECNALIA R&I Certificaciôn S.L.",
+      "auditor": "Cristina Gazulla Santos",
+      "accreditation": "ENAC. Accreditation no.125/C-PR283"
+    },
+    "verification_follow_up": "Yes",
+    "epd_owner": "HOLCIM SPAIN",
+    "epd_owner_address": "Avenida de Manoteras 20 Edif. Tokyo 1#planta. 28050 Madrid (Spain)",
+    "epd_owner_website": "https://www.holcim.es/",
+    "epd_owner_contact": {
+      "telephone": "34 912 13 31 00",
+      "email": "marketing.spain@holcim.com"
+    },
+    "product_category_rules": [
+      "PCR 2019:14 Construction Products. Version 1.11, c-PCR-003 Concrete and concrete elements (EN 16757). Version 2019-12-20"
+    ],
+    "standards": [
+      "ISO 14025",
+      "UNE-EN 15804:2014+A2:2019",
+      "ISO 14025:2010",
+      "ISO 14040:2006",
+      "ISO 14044:2006",
+      "UNE-EN 12350-6:2020"
+    ],
+    "un_cpc_code": "375 Articles of concrete, cement and plaster",
+    "epd_type": "Individual EPD",
+    "epd_scope": "Cradle to grave and Module D (A+B+C+D)",
+    "geographical_scope": "Spain",
+    "data_representativeness_period": "2021",
+    "data_sources": [
+      "Ecoinvent database version 3.8",
+      "Simapro 9.3"
+    ],
+    "lca_software": "Simapro 9.3",
+    "allocation_procedure": "Allocation based on volume where necessary",
+    "cut_off_rules": "Minimum 95% of total inflows (mass and energy) per module included, more than 99% accounted for",
+    "excluded_processes": [
+      "Environmental impact from infrastructure, construction, production equipment, and tools not directly consumed",
+      "Personnel-related impacts such as transportation to and from work",
+      "Research and development activities",
+      "Long-term emissions"
+    ]
+  },
+  "product_description": {
+    "product_name": "ECOPact: AGILIA SUELO C, ARTEVIA HDOS 275 and H25",
+    "product_type": "Ready-mix concrete/mortar",
+    "product_use": "Continuous pavements; Agilia Suelo C is a self-leveling mortar",
+    "product_characteristics": "High quality concrete and mortar with extraordinary capacity and great finishing",
+    "functional_unit": "One m3 of ready-mix concrete/mortar fulfilling technical performance for construction with a reference service life of 100 years",
+    "intended_use": {
+      "structural": [
+        "ECOPact H25"
+      ],
+      "paving_and_flooring": [
+        "ECOPact AGILIA SUELO C",
+        "ECOPact ARTEVIA HDOS 275"
+      ]
+    },
+    "reference_service_life": "100 years",
+    "product_composition": {
+      "ECOPact Agilia SUELO C": {
+        "cement": "ECOPlanet III/A 42,5N, 41% recycled cement",
+        "cement_quantity_kg_per_m3": "230-280",
+        "gravel_kg_per_m3": "1500-1750",
+        "water_kg_per_m3": "250-300",
+        "additives_kg_per_m3": "0-10",
+        "total_kg_per_m3": 2161.75
+      },
+      "ECOPact Artevia HDOS 275": {
+        "cement": "ECOPlanet III/A 42,5N, 41% recycled cement",
+        "cement_quantity_kg_per_m3": "250-300",
+        "gravel_kg_per_m3": "1800-2000",
+        "water_kg_per_m3": "150-200",
+        "additives_kg_per_m3": "0-5",
+        "total_kg_per_m3": 2309.8
+      },
+      "ECOPact H25": {
+        "cement": "ECOPlanet III/A 42,5N, 41% recycled cement",
+        "cement_quantity_kg_per_m3": "250-300",
+        "gravel_kg_per_m3": "1800-2000",
+        "water_kg_per_m3": "150-200",
+        "additives_kg_per_m3": "0-5",
+        "total_kg_per_m3": 2311.65
+      }
+    },
+    "hazardous_substances": "No hazardous substances listed in the Candidate List of SVHC used above 0.1% by weight"
+  },
+  "lca_information": {
+    "system_boundaries": "Cradle to grave including Modules A1 to C4 and Module D",
+    "modules_included": [
+      "A1 Raw materials supply",
+      "A2 Transport of raw materials to factory",
+      "A3 Manufacturing",
+      "A4 Transport to building site",
+      "A5 Construction/installation",
+      "B1 Use phase - carbonation CO2 fixation",
+      "B2 Maintenance (none required)",
+      "B3 Repair (none required)",
+      "B4 Replacement (none required)",
+      "B5 Refurbishment (none required)",
+      "B6 Operational energy use (none required)",
+      "B7 Operational water use (none required)",
+      "C1 Deconstruction/demolition",
+      "C2 Transport to waste processing",
+      "C3 Waste processing for reuse, recovery and/or recycling",
+      "C4 Disposal",
+      "D Reuse-Recovery-Recycling potential"
+    ],
+    "data_representativeness": "Annual production inventory from 1 January 2021 to 31 December 2021 from Alcobendas and Papiol manufacturing plants",
+    "electricity_mix": {
+      "country": "Spain",
+      "year": 2021,
+      "renewables": "0%",
+      "cogeneration_high_efficiency": "32%",
+      "coal": "unspecified",
+      "fuel_gas": "unspecified",
+      "nuclear": "unspecified",
+      "others": "2%"
+    },
+    "allocation": "Volume-based allocation for energy, water consumption, and waste production",
+    "cut_off_rules": "Minimum 95% of total inflows included, more than 99% accounted for",
+    "excluded_impacts": [
+      "Infrastructure, construction, production equipment and tools not directly consumed",
+      "Personnel-related impacts",
+      "Research and development activities",
+      "Long-term emissions"
+    ],
+    "database_and_software": {
+      "databases": [
+        "Ecoinvent 3.8"
+      ],
+      "software": "Simapro 9.3"
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "Truck 16-32 tons",
+      "fuel_consumption": "43 L/100 km",
+      "distance_km": 10.3,
+      "capacity_utilisation": "Percentage according to Ecoinvent database",
+      "bulk_density": "1 (unit not specified)",
+      "volume_capacity_utilisation_factor": "1"
+    },
+    "installation": {
+      "auxiliary_materials": "None used",
+      "water_use": "Not used",
+      "other_resources": "Not used",
+      "energy_use": "Not specified",
+      "material_wastage": "2% product losses"
+    }
+  },
+  "end_of_life": {
+    "deconstruction_demolition": {
+      "diesel_use_included": true
+    },
+    "transport_to_waste_processing": {
+      "model_used": "Same as A4 transport to building site"
+    },
+    "waste_processing": {
+      "recycling_rate_percent": 89,
+      "landfill_rate_percent": 11,
+      "collection_process": "Mixed with construction waste",
+      "recovery_system": "Recycling",
+      "disposal_type": "Landfill",
+      "assumed_transport_distance_km": 50,
+      "vehicle_type": "16-32 tn truck",
+      "fuel_consumption": "25 L/100 km"
+    },
+    "reuse_recovery_recycling_potential": {
+      "recycling_rate_percent": 89,
+      "avoided_product": "Crushed gravel"
+    }
+  },
+  "carbon_emission_context": {
+    "climate_change_total_kg_CO2_eq": {
+      "manufacture_A1_A3": 175,
+      "construction_A4": 1.69,
+      "installation_A5": 1.24,
+      "use_B1": -0.165,
+      "end_of_life_C1": 8.65,
+      "end_of_life_C2": 17.5,
+      "end_of_life_C3": 0,
+      "end_of_life_C4": 0.598,
+      "module_D": -10.3
+    },
+    "biogenic_carbon_content_kg_C": 0,
+    "carbon_fixation_by_carbonation": "Included in use phase (B1) following EN 16757 methodology",
+    "reference_service_life_years": 100
+  },
+  "recycled_materials_handling": {
+    "cement_recycled_content_percent": 41,
+    "recycled_content_in_product_percent": 41,
+    "recycling_rate_end_of_life_percent": 89,
+    "landfill_rate_end_of_life_percent": 11,
+    "avoided_product_due_to_recycling": "Crushed gravel"
+  },
+  "additional_info": {
+    "company_description": "Holcim is a global leader in building materials and solutions with activities in cement, aggregates, concrete solutions and products. It aims to lead the industry towards low carbon construction with strong R&D focus.",
+    "production_sites": "All manufacturing plants of Holcim in Spain",
+    "management_system_certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ],
+    "environmental_commitments": [
+      "Registered carbon footprint and commitment to reduce greenhouse gas emissions for 2016-2020",
+      "Commitment to circular economy and waste lifecycle maximization",
+      "Proactive restoration of quarries to increase biodiversity and natural capital"
+    ],
+    "differences_vs_previous_versions": [
+      "New specific EPD for ECOPlanet CEM IA 42,5 N",
+      "Updated residual electricity mix from 2021",
+      "Updated transport consumptions for A4",
+      "Grouping of concrete products updated",
+      "Use of PCR 2019:14 version 1.11",
+      "New Holcim logotype in version 3"
+    ],
+    "references": [
+      "General Programme Instruction of the International EPD® System. Version 3.01",
+      "ISO 14020:2000",
+      "ISO 14025:2010",
+      "ISO 14040:2006",
+      "ISO 14044:2006",
+      "UNE-EN 12350-6:2020",
+      "Real Decreto 470/2021, Spain",
+      "PCR 2019:14 Construction products (EN 15804:A2) version 1.11",
+      "UNE-EN 15804:2014+A2:2019",
+      "c-PCR-003 Concrete and concrete elements (EN 16757)",
+      "Holcim ECOPlanet CEM I/A 42,5N EPD S-P-05185",
+      "Underlying LCA report Version 4, March 2023"
+    ],
+    "verification_statement": {
+      "certificate_number": "EPD04604",
+      "verifier": "TECNALIA R&I CERTIFICACION S.L.",
+      "epd_owner": "HOLCIM ESPANA, S.A.U.",
+      "product": "ECOPact: AGILIA SUELO C, ARTEVIA HDOS 275 and H25",
+      "registration_number": "S-P-03786",
+      "conformity": [
+        "ISO 14025:2010",
+        "General Programme Instructions for the International EPD® System v.3.01",
+        "PCR 2019:14 Construction products v1.11",
+        "c-PCR-003 Concrete and concrete elements (EN 16757)",
+        "UN CPC code: 375 Articles of concrete, cement and plaster"
+      ],
+      "issue_date": "2021-06-02",
+      "update_date": "2023-04-21",
+      "valid_until": "2026-05-31",
+      "certificate_serial_number": "EPD0460401-E"
+    }
+  }
+}

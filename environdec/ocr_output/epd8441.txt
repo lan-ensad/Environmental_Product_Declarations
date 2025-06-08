@@ -1,0 +1,964 @@
+ENVIROCORE 202 EPD
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202
+
+Managed By: Holcim NZ Ltd Valid From 6 June 2023 | Valid To 6 June 2028
+EPD Process Certificate No. 1012 Revision Date: 6 June 2023
+Verified Accreditation Body: Epsten Group, Inc. Revision Number: 1.0
+
+EPD Registration No. S-P-08441 Geographical Scope: New Zealand
+
+CONTENTS
+
+INTRODUCTION
+
+ABOUT HOLCIM NEW ZEALAND
+
+LOW CARBON CEMENT IN NEW ZEALAND
+
+LCA INFORMATION
+
+EPD PRODUCT DESCRIPTION AND USE
+ENVIRONMENTAL PERFORMANCE
+
+PREVIOUS VERSION
+
+REFERENCES
+
+PROGRAM-RELATED INFORMATION AND VERIFICATION
+
+1.0 6 June 2023 N/A
+
+INTRODUCTION
+
+Cement is a key ingredient in the most commonly used building
+material in the world. Each year in New Zealand, over 1.5 million tonnes
+of traditional cement is used, generating 1.23 million tonnes of CO:.1
+
+This clearly demonstrates both the essential need for construction materials now and in the future, as
+well as the necessity for the construction materials industry to be a leading part of the solution
+addressing climate change.
+
+With Aotearoa committed to net zero by 2050, Holcim New Zealand is building progress for a lower
+carbon footprint in the built environment.
+
+For us, building progress means a complete range of low carbon, high-performance, and specialty
+cement and cement binders suitable for Aotearoa’s homes, buildings, and infrastructure. It means
+advice, tools and resources to help you specify your next project with confidence. It means solutions
+that are right for you each and every time.
+
+Together, we can build better
+to help decarbonise Aotearoa.
+
+1 International Energy Agency (IEA) report "The Future of Cement in a Carbon-Constrained World"(2018); Cement and
+Concrete Association of New Zealand - Key Facts and Figures; The International Energy Agency (IEA) Cement Technology
+Roadmap 2009 estimates that the production of 1 tonne of cement results in the emission of approximately 0.82 tonnes
+of CO. Using the conversion factor of 0.82 tonnes of CO: per tonne of cement, the production of 1.5 million tonnes of
+cement in New Zealand would result in the emission of approximately 1.23 million tonnes of CO. The actual amount of
+CO2emissions may vary.
+
+ENVIROCORE 202 EPD | 1
+
+Z
+©
+F
+O
+2
+[a)
+[e)
+œ
+[es
+£Z
+
+ABOUT HOLCIM
+NEW ZEALAND
+
+BUILDING PROGRESS
+
+Holcim New Zealand (NZ) is a leading
+solutions provider for your design and
+construction needs in New Zealand,
+dating back to 1888. Today, we supply AUCKLAND
+essential construction materials from
+import terminals, depots, and quarries to
+customers. Our cement and aggregates
+are used in ready-mix concrete,
+engineered precast concrete, and
+prestressed concrete solutions for various
+projects throughout the country.
+
+TAURANGA
+
+NEW PLYMOUTH
+NAPIER
+NELSON
+
+This EPD provides our stakeholders with confidence about
+the environmental impact of our products.
+
+Globally, Holcim is 60,000 people around the world who
+are passionate about building progress for people and the
+planet through four business segments: Cement, Ready-
+Mix Concrete, Aggregates and Solutions & Products.
+
+Sustainability is at the core of our global strategy, with our
+industry's first 2030 and 2050 net-zero targets validated by D»
+
+DUNEDIN
+
+the Science Based Targets initiative for all scopes. We are
+leading the transition towards low-carbon construction
+and driving a circular economy by providing materials and
+solutions that are re-shaping the way our industry builds.
+Holcim NZ has developed a range of low carbon cements
+and cement replacements specifically for the New Zealand
+market.
+
+ENVIROCORE 202 EPD | 2
+
+Q
+Z
+<
+_—
+<
+Li
+N
+Z
+Lu
+z
+=
+O
+_—
+O
+JL
+[=
+2
+[e]
+m
+<
+
+LOW CARBON CEMENT
+IN NEW ZEALAND
+
+EF
+2
+LU
+Z
+Lu Q
+24
+Z
+Oz
+ uj
+ŒÆN
+HE
+05
+Zz z
+9z
+
+HOLCIM NZ’'S CEMENT AT À GLANCE
+
+Holcim NZ provides project-specific, on-demand
+Environmental Product Declarations (EPDs) to customers.
+This capability represents a significant step in Holcim NZ's
+sustainability journey and embodies our multi-disciplinary
+approach to embedding sustainability into our
+organisation and operations. With the introduction of our
+cement blends, third-party verified data will underpin our
+capability to work with our customers from tender through
+to design and construction to optimise sustainability
+performance.
+
+Holcim NZ's cement blend is backed by an EPD Process
+Certification. It's not only a first for cement, but a first for
+any product in New Zealand. Our EPD Process Certification
+is a stamp of approval to produce compliant EPDs in-
+house, opening up significant capability and flexibility in
+producing and using life cycle impact data to inform our
+operations and our customers.
+
+To gain our EPD Process Certification, Holcim invested in
+embedding Life Cycle Assessment (LCA) into our systems
+and processes. We have satisfied a rigorous, third-party
+evaluation in accordance with the relevant ISO standards
+and guidelines of the International EPD Program and EPD
+Australasia. 2?
+
+This EPD has been developed using our EPD Process
+Certification for NORTH & SOUTH ISLAND - ONEHUNGA /
+NAPIER / LYTTLETON - ENVIROCORE 202 with production
+occurring at ONEHUNGA / NAPIER / LYTTLETON.
+
+25-6 and 8-12 in the References section.
+
+ENVIROCORE 202 EPD | 3
+LCA INFORMATION
+
+Declared Unit
+
+1 tonne of cement blend
+
+Reference Service Life (RSL)
+
+The RSL is not specified as the scope is from crade to gate
+with distribution (module A4) option.
+
+Time Representativeness
+
+The plant data for the LCA is based on 2021 calendar year
+production data. The mix data for the LCA is based on
+2021 calendar year production data.
+
+Databases and LCA Software Used
+
+SimaPro® LCA software (v 9.4) was used for the LCA
+modelling which developed the LCA Calculator, used as
+per the certified EPD Process. It uses background data
+from:
+
+1. The Australian Life Cycle Inventory Database (AusLCI
+v1.39) (2022)
+
+2. Ecoinvent 3.8 (2021)
+
+The environmental impacts modelled from the existing
+EPDs do not include impacts for the additional Green Star
+(v1.2) impact categories included in the environmental
+impact tables. The following impact categories were
+calculated manually for the foreground data:
+
+ee __ Use of renewable primary energy resources used as raw
+materials
+
+e __ Use of non-renewable primary energy, excluding non-
+renewable primary energy resources used as raw
+materials
+
+e Use of secondary materials
+e Use of renewable secondary fuels
+
+e Use of non-renewable secondary fuels
+
+$ Australian Life Cycle Inventory Database Initiative
+(AuSLCI). (2022). Guidelines for Data Development for an
+Australian Life Cycle Inventory Database, Data Standard.
+
+LCA INFORMATION
+
+Allocation
+
+Allocation was necessary to proportion inputs and outputs
+to intermediate flows and processes at the plant level. As
+much as possible, intermediate flows were allocated
+physically based on the weight of cement.
+
+Ground granulated blast furnace slag from steel blast
+furnace production was allocated economically. Please
+refer to the “Recycled Material” section for further detail.
+
+Cut-Off Criteria
+
+No flows were excluded on the basis of cut-off criteria.
+
+Address and Contact Information
+
+Holcim (New Zealand) Ltd
+23 Plumer Street, Central Auckland 1010
+New Zealand
+
+www.holcim.co.nz
+
+ENVIROCORE 202 EPD | 4
+Data Quality
+
+Data quality for the foreground data was assessed in terms
+of geographic and temporal representativeness. Al data
+sources were scored medium or higher.
+
+Background data sources were also assessed with respect
+to their timeliness, with all data sources being updated
+within the 10 years required under PCR 2019:14.
+
+ENVIROCORE 202 EPD | 5
+
+LCA INFORMATION
+
+SYSTEM DIAGRAM
+
+The processes included in the LCA are presented in a process diagram in the figure below.
+
+Ship Cement Unloading Ship Cement Loading Distribution
+
+DESCRIPTION OF SYSTEM BOUNDARIES
+AND EXCLUDED LIFECYCLE STAGES
+
+The scope of the LCA and EPD is from cradle to gate (A1-A4). Life cycle stages beyond Holcim's gate
+are excluded from the LCA (see figure below).
+
+Environmental impacts relating to personnel, infrastructure and production equipment not directly
+consumed in the process are excluded from the system boundary as per the Product Category Rules
+(2019:14 Construction Production and Construction Services).
+
+Construction Benefits & loads for
+Product Stage Use Stage End of Life Stage the next product
+
+Stage system
+
+Raw Material Supply
+Transport
+Manufacturing
+Transport
+Construction/Installation process
+Use
+Maintenance incl. transport
+Repair incl. transport
+Replacement incl. transport
+Refurbishment incl. transport
+Operational Energy Use
+Operational Water Use
+
+AI A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7
+
+ND: Module not declared
+
+ENVIROCORE 202 EPD | 6
+
+Z
+©
+FE
+<
+Z
+œ
+[e)
+LL
+Es
+<
+O
+en]
+
+EPD PRODUCT DESCRIPTION
+AND USE
+
+Z
+©
+EF
+a
+[ra
+re]
+n
+LU
+[a)
+=
+e]
+2
+[a)
+O
+[ra
+©
+[a]
+©
+LU
+
+Lu
+[2]
+2
+Q
+Z
+<
+
+HOLCIM NZ’'S CEMENTITIOUS PRODUCTS NORTH & SOUTH ISLAND - ONEHUNGA /
+NAPIER / LYTTLETON - ENVIROCORE 202
+
+A detailed breakdown of the functional properties of the cement included in this EPD are provided
+below. Product environmental information should only be compared with consideration of the
+product's requisite function.
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202
+
+Manufacturing process and flow diagram
+
+Devanning and
+Debagging
+
+MIX DESCRIPTIONS
+pond | Punt | Produetbrana | ue. n done lus. =
+use use
+Supplementary Supplementary
+North Island Onehunga ENVRRD Core Cementitious South Island Lyttelton ENVRD Core Cementitious
+Material Material
+Supplementary
+North Island Napier ENVRRD Core Cementitious
+Material
+
+ENVIROCORE 202 EPD | 7
+Content Declaration
+
+The following table provides a summary of the materials included in Holcim's cement and their
+relative composition by weight. The gross weight of this declared material makes up a minimum of
+99% of the products covered by this EPD.
+
+Zz
+©
+=
+Eu
+œ
+re]
+n
+LL
+[a]
+=
+e]
+2
+Q
+O
+œ
+ru
+[a]
+0.
+Lu
+
+Lu
+M]
+=)
+Q
+Z
+<
+
+Packaging Default background data from LCA databases was
+used to model the above co-products:
+Holcim cement is delivered in either bulk or
+packaging. e Fly ash: AusLCI process for fly ash treats it as a
+waste material and only includes transport
+impacts.
+
+Recycled Material
+e Ground granulated blast furnace slag: the
+
+BS EN 16757:2017 specifically lists the following AusLCI process for slag is allocated based on
+
+materials relevant to the study as co-products: economic value, as the product has a
+significant economic value at the point of
+
++ Flyash; collection.
+
+°__ Ground granulated blast furnace slag; and The allocation approach of the AusLCI LCA
+
+database was adopted as a default for secondary
+data and processes (eg. secondary fuel in cement
+production). The AusLCI dataset conforms to EN
+15804 when applying allocation to its various
+processes and sub-processes.
+
+As such, the above materials are considered as co-
+products of their production process and the
+impacts for their production process are allocated
+according to PCR 2019:14 Construction Products
+and Construction Services (co-produced goods,
+multi-output allocation).
+
+Item Hazardous Content MES) Post-consumer material (%) Renewable Material (%)
+
+Fly Ash Ÿ 100% 0 0
+
+ENVIROCORE 202 EPD | 8
+ENVIRONMENTAL
+PERFORMANCE
+
+The environmental impacts considered in this EPD are listed in the table below.
+
+Al further tables from this point will contain abbreviation only.
+
+Impact Category
+
+Potential Environmental Impacts
+
+Abbreviation
+
+Measurement
+
+Total global warming potential GWPT g CO: equivalents (GWP100)
+Global warming potential (fossil) GWPF g CO: equivalents (GWP100)
+Global warming potential (biogenic) GWPB g CO: equivalents (GWP100)
+Global warming potential (land use/ land transformation) GWPL g CO: equivalents (GWP100)
+Ozone depletion potential ODP g CFC 11 equivalents
+Acidification potential AP mol H+ eq.
+
+Eutrophication - aquatic freshwater
+
+EP - freshwater
+
+g PO43- equivalents
+
+Eutrophication - aquatic freshwater
+
+EP - freshwater
+
+g P equivalent
+
+Eutrophication - aquatic marine
+
+EP - marine
+
+g N equivalent
+
+Eutrophication -— terrestrial
+
+EP -— terrestrial
+
+mol N equivalent
+
+»
+uw
+Zz ©
+Lu Z
+E <
+Z 2
+CL:
+ED
+> ©
+Z LU
+Lu ©
+
+Photochemical ozone creation potential POCP g NMVOC equivalents
+Abiotic depletion potential (elements) ADPE g Sb equivalents
+Abiotic depletion potential (fossil fuels) ADPF MJ net calorific value
+Water Depletion Potential WDP m3 equivalent deprived
+Resource use
+Use of renewable primary energy excluding renewable primary energy resources PERE M3, net calorific value
+used as raw materials
+Use of renewable primary energy resources used as raw materials PERM M9, net calorific value
+Total use of renewable primary energy resources (primary energy and primary PERT M3, net calorific value
+energy resources used as raw materials)
+Use of non-renewable primary energy excluding non-renewable primary energy PENRE M3, net calorific value
+resources used as raw materials
+Use of non-renewable primary energy resources used as raw materials PENRM M9, net calorific value
+Total use of non-renewable primary energy resources (primary energy and PENRT M3, net calorific value
+primary energy resources used as raw materials)
+Use of secondary material SM kg
+Use of renewable secondary fuels RSF M), net calorific value
+Use of non-renewable secondary fuels NRSF M), net calorific value
+Use of net fresh water FW m3
+Waste categories and Output flows
+Hazardous waste disposed HWD kg
+Non-hazardous waste disposed NHWD kg
+Radioactive waste disposed/stored RWD kg
+
+CFR kg
+
+Components for reuse
+
+ENVIROCORE 202 EPD | 9
+Impact Category Abbreviation Measurement
+
+z
+: : EE
+Materials for recycling MER kg Z 2
+tr]
+E <
+Materials for energy recovery MFEE kg 5 =
+& O
+Exported energy EE -e MJ per energy carrier = Œ
+Z
+Lu ©
+Exported energy, thermal EE -t MJ per energy carrier
+
+Additional environmental impacts
+
+Global warming potential, excluding biogenic uptake, emissions and storage GWP-GHG kg CO: equivalents (GWP100)
+Particulate matter PM disease incidence
+
+lonising radiation - human health IRP kBq U-235 eq
+
+Eco-toxicity (freshwater) ETP-fw CTUe
+
+Human toxicity potential - cancer effects HTP-c CTUh
+
+Human toxicity potential - non cancer effects HTP-nc CTUh
+
+Soil quality SQP dimensionless
+
+ENVIROCORE 202 EPD | 10
+TT | Qd3 TOC HODOHIANZT
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A1-A3
+
+Primary indicators - 1 tonne of cement
+
+ENVIRONMENTAL IMPACTS
+
+GWP -
+
+GWP-F  GWP-B Luluc GWP-T ODP AP EP-F EP - F2 EP-M EP-T POCP ADP ADPF WDP
+Plant product kg CO:eq kgCO:eq kgCO:eq kgCO:eq kg Pr mol H+ eq kg a 3 kg P eq kg N eq mol N eq kg press kg Sb eq MI doprive d
+Onehunga Nes 64.55 -8.26E-02 4.04E-02 64.56 1.23E-05 1.81 0.03 4.42E-03 0.41 4.54 1.20 -2.31E-04 835.21 2.20
+Napier Nes 66.81 -8.46E-02 4.18E-02 66.82 1.27E-05 1.87 0.03 4.56E-03 0.42 4.70 1.24 -2.39E-04 863.84 2.27
+Lyttleton Nés 68.68 -3.63E-02  4.30E-02 68.69 1.31E-05 1.92 0.03 4.68E-03 0.43 4.83 1.28 -2.46E-04 887.60 2.33
+
+Lu]
+LL
+_—
+)
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+2 | Qd3 TOC AHODOHIANZ
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A1-A3
+
+Resource use parameters - 1 tonne of cement
+
+Lu]
+LL
+_—
+)
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+PERE PERM PERT PENRE PENRM PENRT sM RSF NRSF FW
+Plant Product MJ MJ MJ MJ MJ MI kg MJ MI m3
+brand
+Onehunga 200 IROCOre 3 6E+01 0.0E+00 3.6E+01 8.6E+02 0.0E+00 8.6E+02 0.0E+00 0.0E+00 0.0E+00 6.3E+01
+Napier D IROCOre 3 7t:01 0.0E+00 3.7E+01 8.9E+02 0.0E+00 8.9E+02 0.0E+00 0.0E+00 0.0E+00 6.5E+01
+Lyttleton D IROCOre 376,01 0.0E+00 3.7E+01 9.1E+02 0.0E+00 9.1E+02 0.0E+00 0.0E+00 0.0E+00 6.7E+01
+
+€T | Gdz £OC 2HODOHIANZ
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A1-A3
+
+Waste categories and output flows - 1 tonne of cement
+
+Lu]
+Lu
+_—
+c]
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+WASTE CATEGORIES AND OUTPUT FLOWS
+
+HWD NHWD RWD CRU MER MFRE EE-e EE -t
+Plant product kg kg kg kg kg kg MI MI
+
+Onehunga 200 IROCO'e  203E-04 3.40E+00  5.41E-03 O0.00E+00  0.00E+00  O.00E+00  O.00E+00  0.00E+00
+Napier D IROCO'e  231E-04 3.52E+00 5.60E-03 0.00E+00  0.00E+00  O.00E+00  O.00E+00  0.00E+00
+Lyttelton D IROCOIS  G4E-04 3.61E+00  5.76E-03 O0.00E+00  O0.00E+00  O0.00E+00  0.00E+00  0.00E+00
+
+ŸT | Qd3 TOC AHODOHIANZ
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A1-A3
+
+Additional indicators 1 tonne of cement
+
+ADDITIONAL ENVIRONMENTAL IMPACTS
+
+GWP-GHG PM IRP ETP - fw HTP-c HTP - nc SQP
+Product disease
+Plant brand kg CO: eq incidence kKBq U-235 eq CTUe CTUh CTUh Pt
+Onchun ENVIROCore 0.54 1.95E-06 3.88E+00 5.46E+02 4.70E-08 8.26E-07 1.22E+02
+enunga 292
+0.53 2.02E-06 3.50E+00 5.64E+02 4.86E-08 8.88E-07 1.26E+02
+Napier ENVIROCore
+P 202
+0.52 2.08E-06 3.60E+00 5.79E+02 5.00E-08 3.47E-07 1.30E+02
+ENVIROCore
+Lyttleton 202
+
+Lu]
+Lu
+_—
+c]
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+ST | Gdz £OC 2HODOHIANZ
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A4
+
+Primary indicators - 1 tonne of cement
+
+Lu]
+LL
+_—
+)
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+ENVIRONMENTAL IMPACTS
+
+GWP -
+
+GWP-F GWP-B Luluc GWP-T ODP AP EP-F EP - F2 EP-M EP-T POCP ADP ADPF WDP
+Product kg CFC-11 kg POA4. 3- kg NMVOC m3 eq
+Plant brand kg CO:eq kgCO:eq kgCO:eq kgCO:eq eq mol H+ eq eq kg P eq kg N eq mol N eq eq kg Sb eq MI deprived
+ENVIROCore
+Onehunga 202 0.00 0.00E+00  O.00E+00 0.00 0.00E+00  0.00E+00  O.00E+00  0.00E+00  O.00E+00  O.00E+00  O.00E+00  0.00E+00 0.00 0.00
+: ENVIROCore
+Napier 202 0.00 0.00E+00  O.00E+00 0.00 0.00E+00  0.00E+00  O.00E+00  0.00E+00  O.00E+00  O.00E+00  O.00E+00  0.00E+00 0.00 0.00
+ENVIROCore
+Lyttleton 202 0.00 0.00E+00  O.00E+00 0.00 0.00E+00  0.00E+00  O.00E+00  0.00E+00  O.00E+00  O.00E+00  O.00E+00  0.00E+00 0.00 0.00
+
+9T | Ad3 TOC AHODOHIANZ
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A4
+
+Resource use parameters - 1 tonne of cement
+
+Lu]
+Lu
+_—
+c]
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+PERE PERM PERT PENRE PENRM PENRT sM RSF NRSF FEW
+
+Plant Product MI MI MI MI MI MI kg MI MI m3
+brand
+
+Onehunga 200 IROCOre 5 00E+00  0.00E+00 0.00 0.00 0.00E+00 0.00 0.00E+00  O.00E+00  O.00E+00  0.00E+00
+
+Napier D IROCOre 5 00E+00  0.00E+00 0.00 0.00 0.00E+00 0.00 0.00E+00 0.00E+00  0.00E+00  0.00E+00
+
+Lyttleton D IROCOe D 00:00  0.00E+00 0.00 0.00 0.00E+00 0.00 0.00E+00  O.00E+00  O.00E+00  0.00E+00
+
+ZT | Ad TOC HODOHIANZ
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A4
+
+Waste categories and output flows - 1 tonne of cement
+
+WASTE CATEGORIES AND OUTPUT FLOWS
+
+HWD NHWD RWD CRU MER MFRE EE-e EE -t
+Plant product kg kg kg kg kg kg MI MI
+
+Onehunga D IROCO'e D 00E+00  0.00E+00  O.00E+00 0.00E+00  0.00E+00  O.00E+00  O.00E+00  0.00E+00
+Napier D IROCOIS GO O0E+00  0.00E+00  O0.00E+00 O0.00E+00  0.00E+00 0.00E+00  0.00E+00  0.00E+00
+Lyttleton 200 IROCO'e D 00E+00  0.00E+00  O.00E+00 0.00E+00  0.00E+00  O.00E+00  O.00E+00  0.00E+00
+
+Lu]
+Lu
+_—
+c]
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+8T | Gdl £OC 2HODOHIANZ
+
+NORTH & SOUTH ISLAND - ONEHUNGA / NAPIER / LYTTLETON - ENVIROCORE 202 - MODULE A4
+
+Additional indicators 1 tonne of cement
+
+Lu]
+Lu
+_—
+c]
+<
+re
+>
+œ
+<
+Z
+Z
+=]
+u
+
+ADDITIONAL ENVIRONMENTAL IMPACTS
+
+GWP-GHG PM IRP ETP-fw  HTP-c  HTP-nc
+Plant product kg CO: eq see kKBqU-235eq  CTUe CTUh CTUh
+
+Onehunga D IROGore 0.00 0.00E+00  O.00E+00  O.00E+00  O0.00E+00  0.00E+00
+Napier 20 IROCore 0.00 0.00E+00  O.00E+00  O.00E+00  0.00E+00  O.00E+00
+Lyttleton 20 IROCore 0.00 0.00E+00  0.00E+00  0.00E+00  O.00E+00  0.00E+00
+
+PREVIOUS VERSION
+
+REFERENCES
+
+5 © D hR
+
+10.
+
+11.
+
+12.
+
+13.
+14.
+
+REFERENCES
+
+Australasian EPD Program. (2017). Guidance on the use of INA in EPDs.
+Australasian EPD Program. (2018). Guidance on the use of background LCI data.
+Australasian EPD Program (2019) Instructions of the Australasian EPD Program V3.01.
+
+Australian Life Cycle Inventory Database Initiative (AusLCI). (2022). Guidelines for Data
+Development for an Australian Life Cycle Inventory Database, Data Standard.
+
+British Standards Institution. (2019). Sustainability of construction works. Environmental product
+declarations. Core rules for the product category of construction products, BS EN
+15804:2012+A2:2019. British Standards Institution.
+
+British Standards Institution. (2017). Sustainability of construction works - Environmental
+product declarations - Product Category Rules for concrete and concrete elements, BS EN
+16757:2017. British Standards Institution.
+
+Ecoinvent Centre. (2019). Ecoinvent version 3 database. Zurich: ETH, Agroscope, EMPA, EPFL, PSI.
+Retrieved from www.ecoinvent.org.
+
+EPD International. (2019). General Program Instructions (GPI) for the International EPD System
+V4.0. Retrieved from www.envirodec.com.
+
+EPD International. (2021). Product Category Rules for Construction Products and Construction
+Services, PCR2019:14 v1.11. Stockholm: EPD International.
+
+ISO. (2006). Environmental labels and declarations - Type Ill environmental declarations -
+Principles and procedures, ISO 14025:2006. Geneva: International Organization for
+Standardization.
+
+ISO. (2006). Environmental management -— Life cycle assessment - Principles and framework, ISO
+14040:2006. Geneva: International Organization for Standardization.
+
+ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines,
+ISO 14044:2006+A1:2018. Geneva: International Organization for Standardization.
+
+AUSLCI. (2018) AusLCI Database. Retrieved from AusLCI: www.auslci.com.au/
+
+Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of New
+Zealand's Construction Sector’, Procedia Engineering, Volume 180, 2017, Pages 211-220, ISSN
+1877-7058, (http://www.sciencedirect.com/science/article/pii/S1877705817316879)
+
+ENVIROCORE 202 EPD | 20
+PROGRAM-RELATED
+INFORMATION AND VERIFICATION
+
+n Holcim (New Zealand) Ltd
+Declaration Owner 23 Plumer Street, Central Auckland 1010, New Zealand
+v www.holcim.co.nz
+
+® EPD Australasia Limited
+EPD Program Operator AUSTRALASIA F PD 8315a Hardy Street Nelson 7010, New Zealand
+
+WWW. = ralasia.com | info@epd-australasia.com
+ENVIRONMENTAL PRODUCT DECLARATION +64 9 889 2909
+
+n Holcim (New Zealand) Ltd
+EPD Produced by VU H O LC I1M 23 Plumer Street, Central Auckland 1010, New Zealand
+
+www.holcim.co.nz
+
+Epsten Group
+
+EPD Process Certified by epstengroupæ Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA
+
+wWww.epstengroup.com
+
+PCR 2019:14 Construction Products and Construction Services, Version 1.2.5, 2022-06-22
+2021 Plant Data, 2023 Production Year
+
+CEN standard EN 15804:2012+a1:2013 served as the core PCR
+
+Product category rules PCR 2019:14 Construction Products and Construction Services, Version 1.2.5, 2022-06-22
+
+The Technical Committee of the International EPD® System. Chair: Claudia A. Peña. Contact via
+
+PCR review was conducted by info@environdec.com
+
+Independent third-party verification
+of the declaration and data,
+according to ISO 14025:2006:
+
+X EPD process certification
+EPD verification
+
+Epsten Group, Inc.
+Accredited by: A2LA, Certificate #3142.03
+
+EPD Process Certified by
+
+Procedure for follow-up of data o
+during EPD validity involves third
+party verifier:
+
+Yes
+No
+
+Programme-related information and verification
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product category
+but from different programmes may not be comparable. EPDs of construction products may not be comparable if they do
+not comply with EN 15804.
+
+ENVIROCORE 202 EPD | 21
+Contact your Holcim representative
+today for more information.
+
+Holcim (New Zealand) Ltd
+23 Plumer Street
+
+Central Auckland 1010
+New Zealand
+
+T 0800 465 246
+www.holcim.co.nz
+
+This publication supersedes all previous literature on this subject. As the specifications and details contained in this publication may change, please check
+with Holcim Customer Service for confirmation of current issue. This publication provides general information only and is no substitute for professional
+technical engineering advice. Users must make their own determination as to the suitability of this information or any Holcim product for their specific
+circumstances. Holcim accepts no liability for any loss or damage resulting from their specific circumstances. Holcim accepts no liability for any loss or
+damage resulting from any reliance on the information provided in this publication. Holcim is a registered trademark of Holcim Ltd.
+
+© June 2023 Holcim (New Zealand) Ltd
+Al rights reserved. This guide or any part of it may not be reproduced
+
+U’HOLCIM
+

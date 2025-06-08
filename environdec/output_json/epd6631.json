@@ -1,0 +1,334 @@
+{
+  "epd_metadata": {
+    "programme_operator": "The International EPD System",
+    "programme_operator_address": {
+      "street": "Box 210 60",
+      "postal_code": "SE-100 31",
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "programme_operator_website": "www.environdec.com",
+    "programme_operator_email": "info@environdec.com",
+    "declaration_holder": {
+      "name": "Holcim (Romania) SA",
+      "address": "no.46D-46E-48 Pipera street, OREGON PARK: building B, floor 6, District 2, RO 020308, Bucharest, Romania",
+      "phone": "+4021 2317708/09",
+      "contact_person": "Georgiana Vatui",
+      "email": "alexandrageorgiana.vatui@holcim.com",
+      "trade_register_no": "J2002000399403",
+      "vat_number": "RO 12253732"
+    },
+    "lca_consultant": {
+      "name": "ERM",
+      "address": "exchequer court, 33 St Mary Axe, London EC3A 8AA, United Kingdom",
+      "website": "www.erm.com",
+      "contact_person": "Emma Green",
+      "email": "emma.green@erm.com"
+    },
+    "publication_date": "2022-08-18",
+    "version_date": "2025-04-11",
+    "valid_until": "2027-08-17",
+    "standards": [
+      "ISO 14020",
+      "ISO 14025",
+      "ISO 14040",
+      "ISO 14044",
+      "EN 15804",
+      "EN 16908",
+      "ISO 21930"
+    ],
+    "epd_type": "Environmental Product Declaration in accordance with ISO 14025:2006 and EN 15804:2012+A2:2019/AC:2021",
+    "version": "Edition 1; Revision 2: April 2025"
+  },
+  "product_description": {
+    "product_name": "Doroport®TB special road binder",
+    "product_range": [
+      "DOROPORTETB 15 (type HRB E2)",
+      "DOROPORTETB 25 (type HRB E3)",
+      "DOROPORTETB 35 (type HRB Ed)"
+    ],
+    "product_standard": "SR EN 13282-1: 2013",
+    "product_use": [
+      "Stabilize materials used in execution of road layers, especially foundation and base layers in rigid and non-rigid road systems",
+      "Execution of bituminous coatings through cold recycling technology",
+      "Expanding existing foundations, construction of platforms and parking spaces",
+      "Strengthen parking lanes, framing lanes and sidewalks",
+      "Execution of clothing for local roads or low-traffic streets as well as bituminous coatings using cold recycling technology"
+    ],
+    "geographical_scope": "Romania",
+    "composition": {
+      "Portland cement clinker and other minor constituents": "72-74%",
+      "Other constituents": "20%",
+      "Additional constituents": "6-8%",
+      "Other": "<1%"
+    },
+    "pbt_vpvb_status": "Does not meet criteria for PBT or vPvB according to Annex XIII of Regulation (EC) No. 1907/2006 (REACH)",
+    "exemption": "Cement/cementitious binders are mixtures and exempted from REACH registration",
+    "manufacturing_process": [
+      "Quarrying and raw material preparation",
+      "Clinker production",
+      "Cement grinding and distribution",
+      "Binder production"
+    ],
+    "manufacturing_process_details": {
+      "quarrying": "Extraction of calcareous materials (limestone or marl) and argillaceous materials (clay) using drilling and blasting",
+      "crushing": "Mechanical crushers reduce size from 120 cm to 1.2-8 cm; drying may be necessary",
+      "transport": "Raw material transported by conveyors to plant",
+      "mixing_bed": "Homogenization by stacking and reclaiming in long-layered stockpile",
+      "raw_mill": "Milling and drying in vertical roller mill (Campulung Plant) or horizontal ball mill (Alesd Plant)",
+      "preheater": "Cyclone preheaters preheat raw material before kiln entry; calciners integrated for efficiency",
+      "kiln": "Heating raw materials to ~1000°C for decarbonisation and up to 2000°C in rotating kiln to form clinker",
+      "binder_production": "Mixing cement with minor constituents at road binder plants; cement from Alesd mixed onsite, cement from Campulung transported to Pitesti for mixing",
+      "packaging": "No packaging; products delivered in bulk by cement trucks"
+    },
+    "additional_information": "Safety Data Sheets (SDS) available on Holcim Romania portal; compliant with EU REACH and CLP regulations"
+  },
+  "lca_information": {
+    "goal_of_study": "Generate environmental profile of DOROPORT®TB binder produced and delivered from Holcim Romania owned and operated locations to understand lifecycle environmental impacts and enable Type III EPD publication",
+    "declared_unit": "1 tonne of DOROPORT®TB produced and delivered from Holcim Romania plants; weighted average based on production mass per plant",
+    "system_boundary": {
+      "scope": "Cradle to gate (modules A1 to A3)",
+      "excluded_stages": "Other life cycle stages dependent on specific building/construction scenarios; marked as MND (Module Not Declared)",
+      "modules_included": [
+        "A1",
+        "A2",
+        "A3"
+      ],
+      "modules_excluded": [
+        "A4",
+        "A5",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "data_sources_and_quality": {
+      "geographical_scope": "Romania",
+      "data_collection_period": "1 January 2021 to 30 September 2021",
+      "data_type": "Company and site-specific data",
+      "software_used": "SimaPro v9.1",
+      "background_database": "Ecoinvent v3.8 (cut-off) 2021",
+      "data_quality": "Very good; foreground data validated by mass balances; background data reviewed"
+    },
+    "allocation": {
+      "method": "According to EN15804:2012+A2:2019 basic rules",
+      "co_products": "None produced",
+      "allocation_basis": "All flows related exclusively to binder produced",
+      "weighting": {
+        "Alesd Plant": 51,
+        "Campulung Plant": 49
+      }
+    },
+    "cut_off_criteria": {
+      "mass": "Inputs contributing less than defined percentage to mass may be excluded",
+      "energy": "Inputs contributing less than defined percentage to energy may be excluded",
+      "environmental_significance": "Inputs with low environmental relevance may be excluded",
+      "total_neglected_input_flows_limit": "Do not exceed 5% of energy usage and mass per module"
+    },
+    "excluded_materials": {
+      "secondary_materials": [
+        "Alternative Raw Material (slag / fly ash)",
+        "By-pass dust",
+        "Fly ash / acidic fly ash (ARSN)",
+        "Granulated blast furnace slag"
+      ],
+      "secondary_fuels": [
+        "Mixed industrial waste",
+        "Petroleum sludges",
+        "Used / Waste oils",
+        "Other biomass",
+        "Sewage sludge",
+        "Fresh saw dust",
+        "Used tyres"
+      ],
+      "notes": "Secondary fuels modeled as entering system free of environmental loads; emissions allocated to products"
+    },
+    "assumptions": [
+      "No waste produced during clinker production",
+      "Difference between raw meal consumed and clinker produced due to water evaporation and CO2 release from decarbonation"
+    ],
+    "comparability": "EPDs within same product category but from different programmes or non-compliant with EN 15804 may not be comparable"
+  },
+  "transport_and_installation": {
+    "packaging": "No packaging; product delivered in bulk by cement trucks",
+    "installation": null
+  },
+  "end_of_life": {
+    "covered": false,
+    "notes": "End of life stages (modules C1-C4) not covered in this EPD; marked as MND"
+  },
+  "carbon_emission_context": {
+    "impact_assessment_method": "EF 8.0 methodology (dated November 2019)",
+    "impact_categories": {
+      "GWP_total": {
+        "A1": 76.4,
+        "A2": 8.75,
+        "A3": 248,
+        "A1-A3": 333.15,
+        "unit": "kg CO2 eq."
+      },
+      "GWP_GHG": {
+        "A1": 75.3,
+        "A2": 8.62,
+        "A3": 248,
+        "A1-A3": 331.9,
+        "unit": "kg CO2 eq."
+      },
+      "GWP_fossil": {
+        "A1": 76.5,
+        "A2": 8.72,
+        "A3": 248,
+        "A1-A3": 333,
+        "unit": "kg CO2 eq."
+      },
+      "GWP_biogenic": {
+        "A1": -0.0278,
+        "A2": 0.0202,
+        "A3": -0.0851,
+        "A1-A3": -0.0927,
+        "unit": "kg CO2 eq."
+      },
+      "GWP_luluc": {
+        "A1": 0.00406,
+        "A2": 0.00545,
+        "A3": 0.0107,
+        "A1-A3": 0.0202,
+        "unit": "kg CO2 eq."
+      },
+      "ODP": {
+        "A1": 1.74e-06,
+        "A2": 1.81e-06,
+        "A3": 4.84e-06,
+        "A1-A3": 8.89e-06,
+        "unit": "kg CFC-11 eq."
+      },
+      "AP": {
+        "A1": 0.113,
+        "A2": 0.0444,
+        "A3": 0.386,
+        "A1-A3": 0.543,
+        "unit": "mol H+ eq."
+      },
+      "EP_freshwater": {
+        "A1": 0.018,
+        "A2": 0.00123,
+        "A3": 0.0778,
+        "A1-A3": 0.097,
+        "unit": "kg P eq."
+      },
+      "EP_marine": {
+        "A1": 0.0632,
+        "A2": 0.0142,
+        "A3": 0.201,
+        "A1-A3": 0.278,
+        "unit": "kg N eq."
+      },
+      "EP_terrestrial": {
+        "A1": 0.267,
+        "A2": 0.154,
+        "A3": 0.781,
+        "A1-A3": 1.2,
+        "unit": "mol N eq."
+      },
+      "POCP": {
+        "A1": 0.196,
+        "A2": 0.0466,
+        "A3": 0.604,
+        "A1-A3": 0.847,
+        "unit": "kg NMVOC eq."
+      },
+      "ADP_minerals_metals": {
+        "A1": 2.64e-05,
+        "A2": 2.48e-05,
+        "A3": 5.92e-05,
+        "A1-A3": 0.00011,
+        "unit": "kg Sb eq."
+      },
+      "ADP_fossil": {
+        "A1": 399,
+        "A2": 132,
+        "A3": 1270,
+        "A1-A3": 1801,
+        "unit": "MJ net calorific value"
+      },
+      "water_deprived": {
+        "A1": 4.29,
+        "A2": 0.674,
+        "A3": 11.7,
+        "A1-A3": 16.7,
+        "unit": "m3 deprivated water eq."
+      },
+      "PER_renewable_energy_used": {
+        "A1": 22.6,
+        "A2": 3.64,
+        "A3": 113,
+        "A1-A3": 139,
+        "unit": "MJ"
+      },
+      "PER_non_renewable_energy_used": {
+        "A1": 1.37,
+        "A2": 0.558,
+        "A3": 4.66,
+        "A1-A3": 6.59,
+        "unit": "MJ"
+      },
+      "PERE": {
+        "A1": 28.9,
+        "A2": 4.19,
+        "A3": 118,
+        "A1-A3": 146,
+        "unit": "MJ"
+      },
+      "PENRE": {
+        "A1": 498,
+        "A2": 135,
+        "A3": 1590,
+        "A1-A3": 2223,
+        "unit": "MJ"
+      },
+      "hazardous_waste_disposed": null,
+      "non_hazardous_waste_disposed": {
+        "A1": 0.871,
+        "A2": 10.1,
+        "A3": 3.19,
+        "A1-A3": 14.2,
+        "unit": "kg"
+      },
+      "radioactive_waste_disposed": {
+        "A1": 0.00176,
+        "A2": 0.000858,
+        "A3": 0.00775,
+        "A1-A3": 0.0104,
+        "unit": "kg"
+      },
+      "components_for_reuse": null,
+      "materials_for_recycling": null,
+      "materials_for_energy_recovery": null,
+      "exported_energy_electrical": null,
+      "exported_energy_thermal": null
+    }
+  },
+  "recycled_materials_handling": {
+    "secondary_materials": [
+      "Alternative Raw Material (slag / fly ash)",
+      "By-pass dust",
+      "Fly ash / acidic fly ash (ARSN)",
+      "Granulated blast furnace slag"
+    ],
+    "secondary_fuels": [
+      "Mixed industrial waste",
+      "Petroleum sludges",
+      "Used / Waste oils",
+      "Other biomass",
+      "Sewage sludge",
+      "Fresh saw dust",
+      "Used tyres"
+    ],
+    "modelling_note": "Secondary fuels modeled as entering system free of environmental loads; emissions allocated to products"
+  },
+  "additional_info": {
+    "sustainability_strategy": "Holcim Romania sustainability strategy implemented, maintained and governed by Holcim Group commitment; integrated management system compliant with SR EN ISO 9001:2015, EN ISO 14001:2015, SR ISO 45001:2023, BES 6001:2022",
+    "safety_data_sheets": "Available on Holcim Romania portal https://www.holcim.ro/ro/produse-si-servicii/produse; compliant with EU REACH and CLP regulations",
+    "notes": "EPD owner has sole ownership, liability and responsibility; EPDs within same product category but different programmes or non-compliant with EN 15804 may not be comparable"
+  }
+}

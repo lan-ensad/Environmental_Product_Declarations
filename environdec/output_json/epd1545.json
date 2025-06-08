@@ -1,0 +1,244 @@
+{
+  "epd_metadata": {
+    "epd_title": "Environmental Product Declaration for Precast & Prestressed Concrete Products",
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "owner_address": "Level 7, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+    "owner_website": "www.holcim.com.au",
+    "owner_phone": "+61 2 9412 6600",
+    "epd_program_operator": "EPD Australasia Limited",
+    "program_operator_address": "315a Hardy Street, Nelson 7010, New Zealand",
+    "program_operator_website": "www.epd-australasia.com",
+    "program_operator_email": "info@epd-australasia.com",
+    "program_operator_phone": "+61 2 8005 8206",
+    "epd_registration_number": "S-P-01545 1.0",
+    "publication_date": "2020-12-23",
+    "valid_until": "2025-12-23",
+    "reference_year_for_data": "2019-01-01 to 2019-12-31",
+    "verification_standard": "EN 15804",
+    "core_pcr": "PCR 2012:01 Construction Products and Construction Services, Version 2.33, 2020-09-18; PCR 2012:01-SUB-PCR-G Concrete and concrete elements, version 2.31, 2020-09-18",
+    "third_party_verifier": {
+      "name": "Jeff Vickers",
+      "organization": "thinkstep-anz",
+      "email": "jeff.vickers@thinkstep-anz.com",
+      "phone": "+61 2 8007 5770",
+      "website": "www.thinkstep-anz.com"
+    },
+    "epd_produced_by": "start2see Pty Ltd",
+    "epd_producer_address": "309 / 2a Montrose Place, Hawthorn East Vic 3123, Australia",
+    "epd_producer_website": "www.start2see.com.au",
+    "epd_producer_email": "Rob.Rouwette@start2see.com.au",
+    "epd_producer_phone": "+61 403 834 470"
+  },
+  "product_description": {
+    "product_range": "Precast and prestressed steel-reinforced concrete products",
+    "manufacturing_sites": "All Humes sites across Australia",
+    "applications": [
+      "Bridges and platforms",
+      "Road and rail infrastructure",
+      "Tunnels and shafts",
+      "Retaining walls",
+      "Pipeline systems",
+      "Water treatment, reuse and detention",
+      "Traffic management"
+    ],
+    "excluded_products": [
+      "Steel reinforced concrete pipes (covered by Humes EPD S-P-00998)",
+      "Specialty products containing significant quantities of other materials (e.g., stainless steel, fibreglass, polyethylene)"
+    ],
+    "product_classification": {
+      "UN_CPC": "375 — Concrete",
+      "ANZSIC": "2034 — Concrete Product Manufacturing"
+    },
+    "hazardous_substances": "Products do not contain substances of very high concern as defined by European REACH regulation in concentrations >0.1% (m/m). Dust from cutting or abrasion contains crystalline silica which is hazardous and exposure should be avoided.",
+    "dangerous_goods_classification": "Non-dangerous goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail"
+  },
+  "lca_information": {
+    "scope": "Cradle-to-gate (life cycle stages A1-A3)",
+    "excluded_stages": "Downstream stages (A4-D) not included",
+    "life_cycle_stages": {
+      "A1": "Raw materials extraction and processing",
+      "A2": "Transport to factory",
+      "A3": "Manufacturing"
+    },
+    "raw_materials_standards": [
+      "AS/NZS 3972: General purpose and blended cements (2010)",
+      "AS 3582 Parts 1, 2 and 3 Supplementary cementitious materials (2016)",
+      "AS/NZS 4671 Steel reinforcing materials (2019)",
+      "AS 4672.1:2007 Steel prestressing materials",
+      "AS 2758.1 Aggregates and rock for engineering purposes Part 1: Concrete Aggregates (2014)",
+      "AS 1478 Chemical admixtures for concrete, mortar and grout (2000)"
+    ],
+    "transport_modes": "Articulated trucks, rigid trucks, barges and rail",
+    "manufacturing_process": "Casting specially formulated concrete into reusable steel moulds, compaction using Self Compacting Concrete (SCC) or vibrators, curing in controlled environment, outdoor curing, final quality checks",
+    "background_data_sources": [
+      "Primary data from 2019 calendar year (FY19 for Tamworth)",
+      "AusLCI and AusLCI shadow database",
+      "Supplier EPDs for reinforcing steel (InfraBuild 2020a-c)",
+      "ecoinvent v3 for imported steel",
+      "EFCA EPDs for admixtures (2015)"
+    ],
+    "methodology_standard": "EN 15804",
+    "allocation_rules": {
+      "shared_processes": "Attributed based on mass",
+      "fly_ash": "Impacts allocated to electricity; fly ash only burdened with transport",
+      "slag": "Economic co-product allocation, 0.3% of pig iron production impacts allocated to slag",
+      "silica_fume": "Economic co-product allocation, 4.8% of metallurgical grade silicon production impacts allocated",
+      "steel_scrap": "Recycling allocation follows polluter pays principle per EN 15804 and PCR"
+    },
+    "cut_off_criteria": {
+      "capital_goods": "Excluded",
+      "personnel": "Excluded",
+      "packaging": "Estimated only due to low materiality"
+    },
+    "key_assumptions": {
+      "concrete_types": "Normal slumping concrete and Self Compacting Concrete (SCC)",
+      "concrete_supply": "Exact concrete composition used; some concrete (<10%) supplied by non-Humes plants",
+      "steel_reinforcement": "Weighted average type of steel per site used for reporting"
+    },
+    "declared_unit": "1 tonne of precast (or prestressed) reinforced concrete product",
+    "results_presentation": "Environmental profiles presented separately for concrete (per tonne) and steel reinforcement (per kg) per production site"
+  },
+  "transport_and_installation": {
+    "transport_modes": "Articulated trucks, rigid trucks, barges, rail",
+    "product_transport_classification": "Non-dangerous goods according to Australian Code for Transport of Dangerous Goods by Road and Rail",
+    "installation": null
+  },
+  "end_of_life": {
+    "information": null
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": "kg CO2 equivalents per declared unit",
+    "ozone_depletion_potential": "kg CFC-11 equivalents",
+    "acidification_potential": "kg SO2 equivalents",
+    "eutrophication_potential": "kg PO4 equivalents",
+    "photochemical_ozone_creation_potential": "kg C2H4 equivalents",
+    "abiotic_depletion_potential_elements": "kg Sb equivalents",
+    "abiotic_depletion_potential_fossil_fuels": "MJ net calorific value",
+    "resource_use": {
+      "renewable_primary_energy_excl_raw_materials": "PERE",
+      "renewable_primary_energy_raw_materials": "PERM",
+      "total_renewable_primary_energy": "PERT",
+      "non_renewable_primary_energy_excl_raw_materials": "PENRE",
+      "non_renewable_primary_energy_raw_materials": "PENRM",
+      "total_non_renewable_primary_energy": "PENRT",
+      "secondary_material_use": "SM (kg)",
+      "renewable_secondary_fuels": "RSF",
+      "non_renewable_secondary_fuels": "NRSF",
+      "net_fresh_water_use": "FEW (m3)"
+    },
+    "waste_and_output_flows": {
+      "hazardous_waste_disposed": "HWD (kg)",
+      "non_hazardous_waste_disposed": "NHWD (kg)",
+      "radioactive_waste_disposed": "RWD (kg)",
+      "components_for_reuse": "CRU (kg)",
+      "materials_for_recycling": "MFR (kg)",
+      "materials_for_energy_recovery": "MER (kg)",
+      "exported_energy": "EE (MJ)"
+    }
+  },
+  "recycled_materials_handling": {
+    "steel_scrap_recycling": "Recycling allocation follows polluter pays principle in line with EN 15804 and PCR",
+    "fly_ash": "Environmental impacts allocated to electricity; fly ash only burdened with transport",
+    "slag": "Economic co-product allocation, 0.3% of pig iron production impacts allocated to slag",
+    "silica_fume": "Economic co-product allocation, 4.8% of metallurgical grade silicon production impacts allocated"
+  },
+  "additional_info": {
+    "company_profile": {
+      "description": "Humes is Australia's leading provider of engineered concrete solutions for civil construction, a division of Holcim (Australia) Pty Ltd, owned by LafargeHolcim.",
+      "employees": "More than 600",
+      "market_position": "Largest civil precast concrete manufacturer in Australia",
+      "mission": "To be the most respected and successfully operated company in the industry, creating value for stakeholders with innovative solutions, passionate employees, collaborative culture, sustainable development, and long-term financial performance."
+    },
+    "environmental_management": {
+      "system": "Safety, health and environment (SHE) management system monitored by Holcim executive committee",
+      "focus": "Identifying and managing environmental risks, continuous improvements"
+    },
+    "infrastructure_sustainability": {
+      "membership": "Member of Infrastructure Sustainability Council of Australia (ISCA)",
+      "role": "Supports sustainable practices in infrastructure design, construction and operation",
+      "rating_scheme": "ISCA Infrastructure Sustainability (IS) rating scheme"
+    },
+    "previous_epds": [
+      "EPD for Humes Tamworth precast concrete for infrastructure applications (2020)",
+      "EPD for reinforced concrete pipe products (2016)"
+    ],
+    "contact_information": {
+      "national_sales_phone": "1300 361 601",
+      "website": "humes.com.au",
+      "email": "info@humes.com.au",
+      "head_office": {
+        "address": "18 Little Cribb St, Milton 4064 QLD",
+        "phone": "(07) 3364 2800",
+        "fax": "(07) 3364 2963"
+      },
+      "regional_offices": {
+        "Queensland": {
+          "Ipswich/Brisbane": {
+            "phone": "(07) 3814 9000",
+            "fax": "(07) 3814 9014"
+          },
+          "Rockhampton": {
+            "phone": "(07) 4924 7900",
+            "fax": "(07) 4924 7901"
+          },
+          "Townsville": {
+            "phone": "(07) 4758 6000",
+            "fax": "(07) 4758 6001"
+          }
+        },
+        "New South Wales": {
+          "Grafton": {
+            "phone": "(02) 6644 7666",
+            "fax": "(02) 6644 7313"
+          },
+          "Newcastle": {
+            "phone": "(02) 4032 6800",
+            "fax": "(02) 4032 6822"
+          },
+          "Sydney": {
+            "phone": "(02) 9832 5555",
+            "fax": "(02) 9625 5200"
+          },
+          "Tamworth": {
+            "phone": "(02) 6763 7300",
+            "fax": "(02) 6763 7301"
+          }
+        },
+        "Victoria": {
+          "Echuca": {
+            "phone": "(03) 5480 2371",
+            "fax": "(03) 5482 3090"
+          },
+          "Melbourne": {
+            "phone": "(03) 9360 3888",
+            "fax": "(03) 9360 3887"
+          }
+        },
+        "South Australia": {
+          "Adelaide": {
+            "phone": "(08) 8168 4544",
+            "fax": "(08) 8168 4549"
+          }
+        },
+        "Western Australia": {
+          "Gnangara": {
+            "phone": "(08) 9302 8000",
+            "fax": "(08) 9309 1625"
+          },
+          "Perth": {
+            "phone": "(08) 9351 6999",
+            "fax": "(08) 9351 6977"
+          }
+        },
+        "Northern Territory": {
+          "Darwin": {
+            "phone": "(08) 8984 1600",
+            "fax": "(08) 8984 1614"
+          }
+        }
+      }
+    },
+    "disclaimer": "This publication supersedes all previous literature on this subject. Specifications and details may change; users should confirm current issue with Humes Customer Service. The publication provides general information only and is no substitute for professional engineering advice. No warranties are made regarding accuracy or completeness. Users must determine suitability for their circumstances. Humes accepts no liability for loss or damage from reliance on this information.",
+    "copyright": "© December 2020 Holcim (Australia) Pty Ltd ABN 87 099 732 297. All rights reserved."
+  }
+}

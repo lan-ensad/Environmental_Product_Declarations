@@ -1,0 +1,298 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "program_website": "www.environdec.com",
+    "program_email": "infon@environdec.com",
+    "epd_version": "3",
+    "epd_registration_number": "S-P-08536",
+    "publication_date": "2023-04-21",
+    "revision_date": "2023-05-29",
+    "valid_until": "2028-04-20",
+    "third_party_verification": true,
+    "third_party_verifier": {
+      "name": "TECNALIA R&I Certificaciôn S.L.",
+      "auditor": "Cristina Gazulla Santos",
+      "accreditation": "ENAC. Accreditation no.125/C-PR283"
+    },
+    "verification_procedure_follow_up": true,
+    "epd_owner": "HOLCIM SPAIN",
+    "epd_owner_address": "Avenida de Manoteras 20 Edif. Tokyo 1#planta. 28050 Madrid (Spain)",
+    "epd_owner_website": "https://www.Holcim.es/",
+    "epd_owner_contact": {
+      "contact_name": "HOLCIM ESPANA",
+      "telephone": "34 912 13 31 00",
+      "email": "marketing.spain@Holcim.com"
+    },
+    "product_category_rules": "PCR 2019:14 Construction Products. Version 1.11, c-PCR-003 Concrete and concrete elements (EN 16757). Version 2019-12-20",
+    "review_chair": "Claudia A. Peña",
+    "review_contact_email": "info@environdec.com",
+    "standard_compliance": "ISO 14025 and UNE-EN 15804:2014+A2:2019"
+  },
+  "product_description": {
+    "product_name": "ECOPact: H35 and H35 AGILIA",
+    "product_type": "Ready-mix concrete/mortar",
+    "product_use": "Structural concretes and surface paving/flooring (Ultra Series Proyectado)",
+    "product_characteristics": "High quality concrete and mortar with extraordinary capacity and great finishing",
+    "un_cpc_code": "375 Articles of concrete, cement and plaster",
+    "production_sites": "All manufacturing plants of Holcim in Spain",
+    "production_capacity": "Five cement factories in Spain with an installed capacity of seven million tons per year, 20 concrete plants, a mortar plant, a plant for alternative fuels preparation, four terminals and two distribution centers",
+    "product_certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ],
+    "product_website": "www.Holcim.es/ecopact-hormigon-sostenible"
+  },
+  "lca_information": {
+    "functional_unit": "One m3 of ready-mix concrete/mortar fulfilling technical performance for construction with a reference service life of 100 years",
+    "strength": {
+      "ECOPact H35": "35 MPa (structural)",
+      "ECOPact AGILIA H35": "35 MPa (structural)"
+    },
+    "reference_service_life": "100 years",
+    "time_representativeness": "Data inventory representative of regular annual production since March 2021; residual electricity mix from Spain 2021",
+    "data_sources": [
+      "Ecoinvent database version 3.8",
+      "Simapro 9.3"
+    ],
+    "impact_models": "UNE-EN 15804:2014+A2:2019",
+    "system_boundaries": "Cradle to grave and Module D (A+B+C+D)",
+    "cut_off_rules": "Minimum 95% of total inflows (mass and energy) per module included; more than 99% inflows accounted for",
+    "allocation_procedure": "Allocation based on volume for energy, water consumption, and waste production",
+    "excluded_processes": [
+      "Environmental impact from infrastructure, construction, production equipment, and tools not directly consumed",
+      "Personnel-related impacts such as transportation to/from work",
+      "Research and development activities",
+      "Long-term emissions"
+    ],
+    "modules_included": [
+      "A1",
+      "A2",
+      "A3",
+      "A4",
+      "A5",
+      "B1",
+      "B2",
+      "B3",
+      "B4",
+      "B5",
+      "B6",
+      "B7",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "D"
+    ],
+    "geographical_scope": "Spain",
+    "specific_data_share": "More than 99% specific data used",
+    "variation": "Less than 10% inside product groups and sites",
+    "raw_materials": {
+      "cement": "ECOPlanet I/A 42.5N cement with 41% recycled cement",
+      "gravel": "1700-1900 kg",
+      "water": "150-190 kg",
+      "additives": "8-12 kg"
+    },
+    "biogenic_carbon_content": {
+      "product": 0,
+      "packaging": 0
+    },
+    "hazardous_substances": "No substances listed in Candidate List of SVHC used above 0.1% weight"
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "Truck 16-32 tn",
+      "fuel_consumption": "43 L/100 km",
+      "distance": "10.3 km",
+      "capacity_utilisation": "Not specified",
+      "bulk_density": "Not specified",
+      "volume_capacity_utilisation_factor": "Not specified"
+    },
+    "installation": {
+      "auxiliary_materials": "None used",
+      "water_use": "Not used",
+      "other_resources": "Not used",
+      "energy_use": "Not used",
+      "material_wastage": "2% product losses"
+    }
+  },
+  "end_of_life": {
+    "deconstruction_demolition": {
+      "fuel_use": "Diesel included"
+    },
+    "transport_to_waste_processing": {
+      "model": "Same as A4 transport",
+      "distance": "50 km",
+      "vehicle": "16-32 tn truck",
+      "fuel_consumption": "25 L/100 km"
+    },
+    "waste_processing": {
+      "recycling_rate": "89%",
+      "landfill_rate": "11%",
+      "collection_process": "Mixed with construction waste",
+      "recovery_system": "Recycling",
+      "disposal": "Landfill"
+    },
+    "reuse_recovery_recycling_potential": {
+      "recycling_rate": "89%",
+      "avoided_product": "Crushed gravel"
+    }
+  },
+  "carbon_emission_context": {
+    "climate_change_fossil_kg_CO2_eq": {
+      "A1-A3": 223,
+      "A4": 1.7,
+      "A5": 1.54,
+      "B1": -0.259,
+      "C1": 8.58,
+      "C2": 17.4,
+      "D": -9.6
+    },
+    "climate_change_biogenic_kg_CO2_eq": {
+      "A1-A3": 0.257,
+      "A4": 0.000726,
+      "A5": 0.00357,
+      "B3": 0.00322,
+      "B4": 0.0159,
+      "B7": 0.000341,
+      "D": -0.173
+    },
+    "climate_change_land_use_kg_CO2_eq": {
+      "A1-A3": 0.0402,
+      "A4": 1.79e-05,
+      "A5": 0.000996,
+      "B4": 0.000857,
+      "B5": 0.00696,
+      "D": -0.0185
+    },
+    "ozone_depletion_kg_CFC11_eq": {
+      "A1-A3": 1.92e-05,
+      "A4": 5.25e-07,
+      "A5": 3.17e-07,
+      "C1": 1.83e-06,
+      "C2": 4.03e-06,
+      "D": -2.62e-07
+    },
+    "acidification_mol_H+_eq": {
+      "A1-A3": 0.621,
+      "A4": 0.00421,
+      "A5": 0.00709,
+      "C1": 0.0892,
+      "C2": 0.0494,
+      "D": -0.0464
+    },
+    "eutrophication_kg_PO4_eq": {
+      "A1-A3": 0.0387,
+      "A4": 0.000397,
+      "A5": 0.000838,
+      "C1": 0.0139,
+      "C2": 0.00516,
+      "D": -0.00376
+    },
+    "eutrophication_freshwater_kg_P_eq": {
+      "A1-A3": 0.00632,
+      "A4": 1.13e-06,
+      "A5": 1.66e-05,
+      "C1": 2.85e-05,
+      "C2": 0.000124,
+      "D": -0.000767
+    },
+    "eutrophication_marine_kg_N_eq": {
+      "A1-A3": 0.194,
+      "A4": 0.000641,
+      "A5": 0.00198,
+      "C1": 0.0395,
+      "C2": 0.00982,
+      "D": -0.000857
+    },
+    "eutrophication_terrestrial_mol_N_eq": {
+      "A1-A3": 2.13,
+      "A4": 0.0071,
+      "A5": 0.022,
+      "C1": 0.433,
+      "C2": 0.109,
+      "D": -0.0466
+    },
+    "photochemical_ozone_formation_kg_NMVOC_eq": {
+      "A1-A3": 0.6,
+      "A4": 0.00259,
+      "A5": 0.0072,
+      "C1": 0.119,
+      "C2": 0.0421,
+      "D": -0.00897
+    },
+    "resource_use_minerals_and_metals_kg_Sb_eq": {
+      "A1-A3": 0.000288,
+      "A4": 9.6e-08,
+      "A5": 4.62e-06,
+      "C1": 4.42e-06,
+      "C2": 6.17e-05,
+      "D": -0.000124
+    },
+    "resource_use_fossils_MJ": {
+      "A1-A3": 1760,
+      "A4": 31.3,
+      "A5": 28,
+      "C1": 118,
+      "C2": 264,
+      "D": -145
+    },
+    "water_use_m3_depriv": {
+      "A1-A3": 37.9,
+      "A4": -0.00524,
+      "A5": 0.668,
+      "C1": 0.184,
+      "C2": 0.803,
+      "D": -23.3
+    }
+  },
+  "recycled_materials_handling": {
+    "cement_recycled_content_percent": 41,
+    "product_recycling_rate_percent": 89,
+    "product_landfill_rate_percent": 11,
+    "avoided_product_from_recycling": "Crushed gravel"
+  },
+  "additional_info": {
+    "company_description": "Holcim is a world leader in building materials and solutions with activities in cement, aggregate, concrete solutions and construction products. It aims to lead the industry towards reducing carbon emissions and low carbon construction with strong R&D.",
+    "environmental_management_systems": [
+      "ISO 9001",
+      "ISO 14001"
+    ],
+    "carbon_footprint_registry": "Registered carbon footprint and CO2 absorption projects with the Ministerio para la Transiciôn Ecologica y el Reto Demogräfico de España for years 2016-2020",
+    "circular_economy_commitment": "Focus on waste reuse as resources, maximizing life cycle; Geocycle subsidiary pre-treats waste into fuel for clinker production",
+    "quarry_restoration": "Over 30 years of quarry restoration aiming for net positive biodiversity impact; recognized with European Business Awards for the Environment 2018 second prize in 'Company and Biodiversity' category",
+    "epd_update_history": {
+      "2nd_version": {
+        "registration_number": "S-P-03786",
+        "updates": [
+          "New specific EPD for ECOPlanet CEM I/A 42,5 N (S-P-05185)",
+          "Updated impacts for raw materials (A1)",
+          "Updated residual electricity mix to 2021",
+          "Updated transport consumptions for A4",
+          "Grouping of concrete products updated",
+          "PCR 2019:14 version 1.11 used"
+        ]
+      },
+      "3rd_version": {
+        "updates": [
+          "New Holcim logotype used"
+        ]
+      }
+    },
+    "references": [
+      "General Programme Instruction of the International EPD® System. Version 3.01",
+      "ISO 14020:2000 Environmental labels and declarations - General principles",
+      "ISO 14025:2010 Environmental labels and declarations - Type III Environmental Declarations - Principles and procedures",
+      "ISO 14040:2006 Environmental management - Life Cycle Assessment - Principles and framework",
+      "ISO 14044:2006 Environmental management - Life Cycle Assessment - Requirements and guidelines",
+      "UNE-EN 12350-6:2020 Testing fresh concrete - Part 6: Density",
+      "Real Decreto 470/2021, 29th June, Spain",
+      "UNE-EN 12390-3:2020 Testing hardened concrete - Part 3: Compressive strength of test specimens",
+      "PCR 2019:14 Construction products (EN 15804:A2) version 1.11",
+      "UNE-EN 15804:2014+A2:2019 Sustainability of construction works - Environmental Product Declarations - Core rules for construction products",
+      "c-PCR-003 Concrete and concrete elements (EN 16757)",
+      "Holcim ECOPlanet CEM IH/A 42,5N https://www.environdec.com/library/epd5185 https:/www.Holcim.es/ecoplanet-cemento-sostenible",
+      "Underlying LCA report. Version 4, March 2023"
+    ]
+  }
+}

@@ -1,0 +1,809 @@
+Environmental = EPD
+
+Product
+Declaration
+
+In accordance with ISO 14025 and UNE-EN 15804:2014+A2:2019 for:
+
+ECOPact: H35 and H35 AGILIA
+
+FROM
+HOLCIM
+Programme: The International EPD® System, www.environdec.com
+Programme operator: | EPD International AB
+EPD Version 3
+EPD registration S-P-08536
+number:
+Publication date: 2023-04-21
+Revision date: 2023-05-29
+Valid until: 2028-04-20
+An EPD should provide current information and may be updated if conditions change. The stated
+validity is therefore subject to the continued registration and publication at www.environdec.com
+
+avais —— EPD
+
+General information
+Programme information
+
+Programme: The International EPDS System
+EPD International AB
+Box 210 60
+
+Address: SE-100 31 Stockholm
+Sweden
+
+Website: www.environdec.com
+
+E-mail: infon@environdec.com
+
+CEN standard EN 15804 serves as the Core Product Category Rules (PCR)
+
+Product category rules (PCR): PCR 2019:14 Construction Products. Version 1.11, c-PCR-003
+Concrete and concrete elements (EN 16757). Version 2019-12-20.
+
+PCR review was conducted by: The Technical Committee of the International EPD® System.
+See www.environdec.com/TC for a list of members.
+
+Review chair: Claudia A. Peña. The review panel may be contacted via the
+Secretariat info@environdec.com
+
+Independent third-party verification of the declaration and data, according to ISO 14025:2006:
+
+[] EPD process certification X EPD verification
+
+Third party verifier:
+
+TECNALIA R&I Certificaciôn S.L. Auditor: Cristina Gazulla Santos
+Accredited by: ENAC. Accreditation no.125/C-PR283
+
+Procedure for follow-up of data during EPD validity involves third party verifier:
+
+Yes CO No
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD.
+EPDs within the same product category but from different programmes may not be
+
+comparable. EPDs of construction products may not be comparable if they do not comply with
+EN 15804. For further information about comparability, see EN 15804 and ISO 14025.
+
+PAGE 2/20
+avais —— EPD
+
+Company information
+
+Owner of the EPD: HOLCIM SPAIN.
+Avenida de Manoteras 20 Edif. Tokyo 1#planta. 28050 Madrid (Spain).
+https://www.Holcim.es/
+
+Contact: HOLCIM ESPANA
+Telephone: 34 912 13 31 00
+Email: marketing.spain@Holcim.com
+
+Description of the organisation: Holcim is one of the world leaders in building materials and
+solutions with activity in four business segments: cement, aggregate, concrete solutions and
+products in the field of construction. Its ambition is to lead the industry towards reducing carbon
+emissions and moving towards low carbon construction. With the strongest R&D area in the
+industry, the company seeks to promote the development and marketing of high-quality and
+sustainable building materials and solutions for its customers around the world.
+
+Holcim has five cement factories in Spain with an installed capacity of seven million tons per
+year, 20 concrete plants, a mortar plant, a plant for the preparation of alternative fuels from
+waste, four terminals and two distribution centers, where about 700 employees work. The
+company is distinguished by having the first Laboratory with an exclusive area of alternative
+fuels and the first Research and Development Center for New Concrete and Mortars. Holcim
+contributes to global development by making significant efforts in innovation, which materialize
+in the creation of safe, sustainable and high-performance materials and solutions that respond
+to customer challenges
+
+Product-related or management system-related certifications:
+Holcim has implemented ISO 9001 and ISO 14001 management systems.
+
+Name and location of production site(s):
+
+The results are valid for the product produced in all the manufacturing plants of Holcim in
+Spain. The formulation of the products is representative for a complete year.
+
+Product information
+
+Product name: ECOPact: H35 and H35 AGILIA
+
+Product description: Holcim is a leading manufacturer and supplier of high quality concrete and
+mortar, and has projects and activities on road and network, collective housing.
+
+Concrete and mortar production is a specific process: depending on the nature and quantity of
+each of the components (cement, aggregates, water, additives), it will have different
+characteristics. Once manufactured, the ready-mixed concrete/mortar is a fresh product, which
+must be transported and used quickly on local markets, and under optimal conditions.
+
+Holcim's concrete and mortar offer an outstanding combination of product quality and
+
+performance. AI manufactured products are high quality concrete and mortar, characterised
+by their extraordinary capacity and great finishing.
+
+PAGE 3/20
+avais —— EPD
+
+Products are a ready-mix concrete/mortar, as well as that the ranges included are structural
+concretes, except Ultra Series Proyectado which is intended application is on flooring and
+paving.
+
+See more product properties in www.Holcim.es/ecopact-hormigon-sostenible
+
+UN CPC code: 375 Articles of concrete, cement and plaster.
+
+LCA information
+
+Functional unit: One m3 of ready-mix of concrete/mortar which fulfills the requirements of
+technical performance for construction for a reference service life of 100 years. Ready-mix
+concrete for structural applications has a strength of 35 MPa, while ready-mix concrete for
+surface paving must be applied with a dosage of 450 kg/ms.
+
+| UNE-EN
+ECOPact H35 35 Not applicable 2297,70 12390-3:2020
+ECOPact AGILIA H35 35 Not applicable  2821,60 UNE-EN
+
+12390-3:2020
+
+e For product references that have MPa: the intended use is structural.
+
+e _Forthe product references that do not have MPa: the intended use is in paving and flooring
+systems (those do not have the "strength" data, in MPa, because they are not structural and
+are not characterised by their compression).
+
+Reference service life: 100 years (as functional by the manufacturer) and recommended in c-
+PCR for structural concrete.
+
+Time representativeness: the data inventory of the LCA study presented representative of a
+regular annual production inventory since Ecopact began to manufacturing on march 2021.
+The residual electricity mix is from Spain in 2021 . The amount used of raw materials (cement,
+water, gravel stone) has been obtained from the recipe in Papiol and Alcobendas
+manufacturing plant in 2021. Energy consumption, waste production, pollutant emissions and
+transport distance (in A2 and A4) have been obtained from Alcobendas and Papiol
+manufacturing plants in 2021 (from the 1st of January 2021 to the 31st of December 2021)
+since the production process is the same for the different concrete products manufactured in
+the plants. The composition of the specific cement used for each product has been obtained
+also directly from the manufacturing plants and therefore correspondés to reality.
+
+l'UNE-EN 12350-6:2020. Testing fresh concrete - Part 6: Density
+
+PAGE 4/20
+Pouce —— EPD
+
+Residual electricity Mix, Spain 2021
+
+0% = Renowables
+# Cogeneration (high efficiency)
+Cogeneration
+CC natural gas
+32%
+
+2%
+
+s Coal
+
+Fuel/Gas
+
+# Nuclear
+
+# Others
+
+Database(s) and LCA software used: generic data on the impact per unit of matter or energy
+have been taken to determine emissions per kg of matter, KWh of energy or tkm transported.
+These data have been obtained from the Ecoinvent database version 3.8. (updated in <2
+years) and Simapro 9.3. The impact models used are those indicated in UNE-EN
+15804:2014+A2:2019.
+
+Description of system boundaries:
+Cradle to grave and Module D (A+B+C+D)
+
+PAGE 5/20
+
+avais —— EPD
+
+System diagram:
+
+Cement
+
+Recycled cement
+
+Emiss
+ions to
+
+air,
+. .. soil &
+Raw A1-A3 (storage of raw materials, mixing) water
+materia
+Is
+
+A4 Transport
+AS Installation
+
+C End of life
+
+More information: www.Holcim.es
+
+e Technical support for the implementation of the EPD: Marcel Gémez Consultoria
+Ambiental.
+
+e The modularity principle, as well as the polluter-payer principle have been followed.
+Cut off rules: according to EN 15804 a minimum of 95% of total inflows (mass and
+energy) per module are included and more than 99% of the inflows are accounted for.
+
+e Allocation procedure: where necessary (energy and water consumption, waste
+production) an allocation based in volume has been used.
+
+e The next processes have not been included since its impact is not significant:
+
+o Environmental impact from infrastructure, construction, production equipment,
+and tools that are not directly consumed in the production process.
+o  Personnel-related impacts, such as transportation to and from work.
+Research and development activities.
+o  Long-term emissions.
+
+©
+
+PAGE 6/20
+avais —— EPD
+
+Modules functional, geographical scope, share of specific data (in GWP-GHG indicator) and
+data variation:
+
+Construction Resource
+Product stage process Use stage End of life stage recovery
+stage stage
+8 2
+c = O
+2 D ro] re) S
+> œ 3/SIlE ®
+Ch = > O œ
+es 5 D | 5) D L
+a e s|2|8ls=S à S
+2 e) = s | T6 | > |2£ a ss
+E £ 5 8 Ses) s|S 8 8
+© E 2 + 5 S = E SSlEel+e| 2 | (
+œ © © © S ce 9 | S|212|0|S|S| x CS
+E 2 = Q 5 © | = 025 | | S<S S | © | © d =
+= S C S C œ | = o | © | à © © O = u Q 5 ©
+© œ œ œ [e) ta] œ © © © Q | Q | © œ GS | © 5
+œ - = + © |D|=| | 000 |=E |A Œ à
+Module Aî A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 Ca D
+Modules X X X X X X X X X X X X X X
+functional X
+ES ES ES ES ES ES | ES | ES | ES | ES | ES | ES | ES | ES | ES | ES
+Geography ES
+Specific More than 99% specific data is used in - - - - - - - - - - - -
+data used the EPD.
+Variation — | Less than 10% inside of every group of - - - - - - - - - - - -
+products products
+Variation — Less than 10% - - - - - - - - - - - -
+sites
+
+e _A1-A3 Product stage
+
+o A1 Raw materials supply: this module takes into account the extraction and
+processing of raw materials and the energy that is produced prior to the
+manufacturing process under study. The product uses ECOPlanet I/A 42.5N
+cement, which contains 41% recycled cement, since a significative amount of
+clinker has been replaced by sludge.
+
+o A2 Transport: this module includes the transport of the different raw materials
+from the manufacturer to the factory. The distance and type of concrete truck
+for each raw material has been introduced.
+
+o A3 Manufacturing: this module includes the consumption of energy and water
+used during the manufacturing process, as well as the transport and
+management of the factory-produced waste. The manufacture of concreate or
+mortar consists mainly of a mixing process of different components.
+
+PAGE 7/20
+
+ HOLCIM
+
+—— EPD
+
+e _A4-A5 Construction process stage
+o A4 Transport
+
+Fuel type and consumption of vehicle or vehicle
+type used for transport e.g. long distance truck,
+boat, etc
+Distance
+Capacity utilisation (including empty returns)
+Bulk density of transported products*
+Volume capacity utilisation factor
+
+o A5 Construction/installation
+
+Truck of 16- 32 tn. Fuel consumption: 43 L/100
+Km
+
+Truck: 10,3 km
+% according to Ecoinvent database
+
+See table in LCA information section
+1
+
+The product is directly transferred from the truck to the construction site
+
+Auxiliary materials for installation
+Use of water
+Use of other resources
+Quantitative description of the type of energy
+
+(regional mix) and the consumption during the
+installation process
+
+Wastage of materials on the building site before
+waste processing, generated by the products
+installation (specified by type)
+
+No auxiliary material used
+Not used
+No other resource consumption
+
+Not used
+
+Product losses (2%)
+
+ee __B Use stage: the products fix CO: by carbonatation during the use phase (B1), and
+do not require maintenance (B2), repair (B3), replacement (Bd), refurbishment (B5),
+operational energy use (B6) or operational water use (B7) during its Reference
+
+Service Life.
+
+CO: fixed by carbonatation of cement during the use phase has been included as
+required in c-PCR, following the methodology explained in EN 167572.
+
+Vt
+CO uptake = k+ (D
+
+}r vice» c+ pe
+
+Where:
+
+K:K factor, mm of carbonatation/year°
+Utcc: maximum theorical uptake in g CO2/Kg of cement
+
+C:cement content in kg/m* of concrete
+
+2 UNE-EN 16757:2018. Sustainability of construction works -
+
+Category Rules for concrete and concrete elements
+
+Environmental product declarations - Product
+
+PAGE 8/20
+avais —— EPD
+
+Dc: degree of carbonation
+
+À hypothesis is made where only one face of one m* of concrete is in contact with air, being
+the other 3 faces not in contact with air.
+
+e  C End of life stage
+
+o C1 Deconstruction/demoblition: the use of diesel during the demoblition
+process has been included.
+
+o C2 Transport to waste processing: the model use for the transportation
+(see A4, transportation to the building site) is applied.
+
+o C3 Waste processing for reuse, recovery and/or recycling: the product is
+89% recycledÿ.
+
+o C4 Disposal: the product is 11% landfilled.
+
+Collection process specified by type The product is collected mixed with construction
+waste
+Recovery system specified by type 89% recycling
+Disposal specified by type 11% landfill
+
+Assumptions for scenario development (e.g. 16-32 tn truck. Fuel consumption: 25 1/100 Km
+transportation) Distance: 50 km
+
+e D Reuse-Recovery-Recycling potential
+The product is recycled in 89%$. As a consequence, the module D has been calculated, where
+the results of recycled content that the product already includes has been taken into account.
+The avoided product is considered crushed gravel.
+
+Content information
+
+ECOPact H35
+
+CEM ECOPlaneit IN/A 42,5N 350-400 41 0
+Gravel 1700-1900 0 0
+
+Water 150-190 0 (0)
+
+Additives 8-12 (0) (0)
+
+TOTAL 2297,70 6,38 0
+
+2 https://ec.europa.eu/eurostat/documents/2995521/9629294/8-04032019-BP-EN.pdf/295c2302-4edi -
+45b9-af86-96d1bbb7acb1
+
+PAGE 9/20
+Pouce —— EPD
+
+ECOPact H35 Agilia
+
+CEM ECOPlanet III/A 42,5N 400-450 41 (0)
+Gravel 1700-1900 () ()
+
+Water 150-190 0 (0)
+
+Additives 1-8 0 (0)
+
+TOTAL 23213,8 6,26 0
+
+During the life cycle of the product any hazardous substance listed in the “Candidate List of
+Substances of Very High Concern (SVHC) for authorization” has not been used in a
+percentage higher than 0,1% of the weight of the product.
+
+Environmental Information - results are by m° of product
+
+Estimated impact results are only relative statements which do not indicate the end points of
+the impact categories, exceeding threshold values, safety margins or risks.
+
+These results are valid for the next products since their impact differs less than 10%. A
+
+representative virtual product has been chosen, showing the highest results found per stage
+and per environmental impact category among the analyzed products.
+
+PAGE 10/20
+ HOLCIM
+
+—— EPD
+
+ECOPact H35 and H35 AGILIA
+
+Potential environmental impact - mandatory indicators according to UNE-EN 15804:2014+A2:2019
+
+Manufacture Construction Use End of life Module
+A1-A3 A4 A5 B1 B2 | B3 | B4 | B5 | B6 | B7 C1 C2 C3 Ca D
+Climate change - Fossil kg CO2 eq 2,23E+02 1,70E+00 1,54ËE+00 | -2,59E-01 | O0 | 0 | 0 | 0 |0O|0 | 8,58E+00 1,74E+01 0,00E+00 5,93E-01 -9,60E+00
+Climate change - Biogenic kg CO2 eq 2,57E-01 7,26E-04 3,57E-03 0,00E+00 0101001010 3,22E-03 1,59E-02 0,00E+00 3,41E-04 -1,73E-01
+Climate change - Land use and LU change | kg CO2 eq 4,02E-02 1,79E-05 9,96E-04 0,00E+00 | 0 0100101|0 8,57E-04 6,96E-03 0,00E+00 2,02E-05 -1,85E-02
+Climate change kg CO2 eq 2,23E+02 1,70E+00 1,55E+00 -2,59Ë-01 | 0 | 0 |0|01|0|0 | 8,59E+00 1,74E+01 0,00E+00 5,93E-01 -9,79E+00
+Ozone depletion kg CFC11 eq 1,92E-05 5,25E-07 3,17E-07 0,00E+00 | 0 | 0 0 |0|01|0 | 1,83E-06 4,03E-06 | 0,00E+00 1,23E-07 -2,62E-07
+Acidification mol H+ eq 6,21E-01 4,21E-03 7,09E-03 0,00E+00 | O0 | 0 | 0 | 0 | 0 |0O | 8,92E-02 4,94E-02 | 0,00E+00 | 6,11E-03 -4,64E-02
+Eutrophication kg PO4--- eq 3,87E-02 3,97E-04 8,38E-04 0,00E+00 | O0 | 0 [0 | 0 |0|0O | 1,39E-02 5,16E-03 | 0,00E+00 | 9,37E-04 -3,76E-03
+Eutrophication, freshwater kg P eq 6,32E-03 1,13E-06 1,66E-05 0,00E+00 | 0 0100101|0 2,85E-05 1,24E-04 0,00E+00 2,11E-06 -7,67E-04
+Eutrophication, marine kg N eq 1,94E-01 6,41E-04 1,98E-03 0,00E+00 0101001010 3,95E-02 9,82E-03 0,00E+00 2,65E-03 -8,57E-04
+Eutrophication, terrestrial mol N eq 2,13E+00 7,10E-03 2,20E-02 0,00E+00 0101001010 4,33E-01 1,09E-01 0,00E+00 2,91E-02 -4,66E-02
+Photochemical ozone formation kg NMVOC eq 6,00E-01 2,59E-03 7,20E-03 0,00E+00 | 0 0100101|0 1,19E-01 4,21E-02 0,00E+00 8,11E-03 -8,97E-03
+*Resource use, minerals and metals kg Sb eq 2,88E-04 9,60E-08 4,62E-06 0,00E+00 | O0 0 | 0 | 0|0|0 | 4,42E-06 6,17E-05 0,00E+00 2,86E-08 -1,24E-04
+*Resource use, fossils MJ 1,76E+03 3,13E+01 2,80E+01 0,00E+00 0101001010 1,18E+02 2,64E+02 0,00E+00 7,90E+00 -1,45E+02
+*Water use m3 depriv. 3,79E+01 -5,24E-03 6,68E-01 0,00E+00 | O0 | 0 [0 | 0 |0O|0O | 1,84E-01 8,03E-01 | 0,00E+00 | 3,19E-03 -2,33E+01
+
+* Disclaimer: The results of this Environmental Impact Indicator should be used with caution as the uncertainties of these results are high or as there is limited experience with the Indicator.
+
+* The additional environmental indicators of EN 15804:2012+A2:2019 are not stated in this EPD.
+
+PAGE 11/20
+
+avais —— EPD
+
+Use of resources
+
+Manufacture Construction Use End of life Module
+A1-A3 A4 A5 B1 | B2 | B3 | B4 | B5 | B6 | B7 C1 C2 C3 C4 D
+Use of renewable primary energy,
+excluding the resources of non- M 4,60E+02 4,80E-02 | 78701 |o|ololo!lololo! 66201 | 3,77E+00 | 0,00E+00 | 3,31F-02 | -1,81E+01
+renewable primary energy used as a raw
+materials
+Use of renewable primary energy used M 0,00E+00 0,00E+00 | 0,00€+00 | 0 0 |o|o|o!o!o! 0,00€+00 | 0,00E+00 | 0,00E+00 | 0,00€+00
+as raw materials
+Total use a renewable primary energy
+(primary energy and resources of M 4,60E+02 4,80E-02 | 7,87E-01 |0|0o|ololololol 66201 | 3,77E+00 | 0,00E+00 | 3,31F-02 | -181F+01
+renewable primary energy used as raw
+materials)
+Use of non-renewable primary energy,
+excluding the resources of non- M 1,79E+03 3,33E+01 | 2,98E+01 | 0 |o|o|o!ololo! 125E+02 | 2,80E+02 | 0,00€+00 | 8,39E+00 | -1,54E+02
+renewable primary energy used as a raw
+materials
+Use of non-renewable primary energy M 0,00E+00 0,00E+00 | 0,00€+00 | 0 0 |o|o|o!o!o! 0,00€+00 | 0,00E+00 | 0,00E+00 | 0,00€+00
+used as raw materials
+Total use of non-renewable primary
+energy (primary energy and resources of M 1,79E+03 3,33E+01 | 3,06E+01 | 0 |o|o!olololo! 1,25E+02 | 2,80E+02 | 0,00E+00 | 8,39E+00 | -1,54€+02
+renewable primary energy used as raw
+materials)
+Use of secondary materials MJ 1,46E+02 0,00E +00 4,83E+00 010100101010 0,00E +00 0,00E+00 0,00E+00 0,00E+00
+Use of renewable secondary fuels MJ 0,00E+00 0,00E+00 0,00E+00 010101001010 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Use of non-renewable secondary fuels MJ 0,00E+00 0,00E+00 0,00E+00 010101001010 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+Net use of fresh water m3 1,29E+00 8,60E-05 2,66E-02 0100001010 6,72E-03 2,99E-02 0,00E+00 1,69E-04 -5,97E-01
+
+PAGE 12/20
+
+avais —— EPD
+
+Waste production and output flows
+
+Waste production
+
+Manufacture Construction Use End of life Module
+A1-A3 A4 A5 B1  B2|B3  B4 | B5 | B6 | B7 c1 C2 C3 ca D
+Hazardous waste disposed Kg 4,95E-03 8,23E-05 5,03E-05 0! 0] 0! O0] 0] O0! O!| 3,23E-04 6,88E-04 0,00E+00 1,99E-05 -2,71E-04
+Non-hazardous waste disposed Kg 4,61E+01 1,29E-03 5,89E+00 0! 0] 0! O0] 0] O0! O0! 1,57E-01 1,38E+01 0,00E+00 2,35E+02 -3,18E+00
+Radioactive waste disposed Kg 7,90E-03 2,24E-04 1,43E-04 0! 0] 0! O0] 0] 0! O0! 8,13E-04 1,78E-03 0,00E+00 5,45E-05 -6,36E-04
+Other output flows
+Manufacture Construction Use End of life Module
+A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 Ca D
+Components for re-use Kg 0 0 (e) 0 0 0 0 0 0 0 0 0 0 0 0
+Materials for recycling Kg 0 0 0 0 0 0 0 0 0 0 0 0 1,93E+03 0 0
+Materials for energy recovery Kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Exported energy M per vector 0 0 (e) 0 0 0 0 0 0 0 0 0 0 0 0
+
+Potential environmental impact - additional mandatory indicators
+
+Manufacture Construction Use End of life Module
+A1-A3 A4 A5 B1 B2 | B3 | B4 | B5 | B6 | B7 C1 C2 C3 C4 D
+Global warming (GWP100a)* kg CO2 eq 2,38E+02 1,69E+00 1,52E+00 -2,59E-01 | O0 | 0 | 0 | 0 | O0 |0O | 8,50E+00 1,73E+01 0,00E+00 5,83E-01 -9,37E+00
+
+*This indicator includes all greenhouse gases in Total Climate Change but excludes removals and emissions of biogenic carbon dioxide as well as biogenic carbon stored in the product.
+
+Therefore,
+this indicator is almost the same as the GWP indicator originally defined in EN 15804:2012+A1:2013.
+
+PAGE 13/20
+
+U HOLCIM
+
+—— EPD
+
+Information on biogenic carbon content
+
+Biogenic carbon content Unit  Quantity
+Biogenic carbon content in the product kg C  O,00E+00
+Biogenic carbon content in packaging kgC  O0,00E+00
+
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg CO:
+
+PAGE 14/20
+avais —— EPD
+
+Interpretarion of results
+
+As we can see in Table 6 and Figure 4, the product stage (A1-A3) is the life cycle stage with
+the greatest impact for all the impact categories analyzed, representing between 97,35%
+(Eutrophication freshwater) and 73,79% (Ozone layer depletion) of the total impact of the
+product life cycle.
+
+The module (A4-A5) represents an intermediate impact for all the impact categories analyzed.
+Transport (A4) represents between 0,02% (Eutrophication, freshwater) and 2,01% (Ozone
+depletion) of the total life cycle impact. On the other hand, A5-Installation stage represents
+less than 2% of the total impact for all impact indicators.
+
+In relation to End of life stages (C1-Cd4), the impact of C1 is between 15,89% (Eutrophication,
+marine) and 0,44% (Eutrophication, freshwater). C2 Transport represents between 3,95%
+(Eutrophication, marine) and 17,18% for Resource use, minerals and metals. Finally, C4
+Waste treatment represents an impact from 0,01% for abiotic depletion mineral and 1,07% for
+Eutrophication, marine.
+
+Table 6. Potential impact on the environment of the life cycle of one m° of product, in percentage.
+
+Global Warming 89,03% 0,63%  0,57% -0,10% 3,18% 6,46%  0,22%
+Ozone depletion 73,79%  2,01% 1,21% 0,00% 7,04%  15,47%  0,47%
+Acidification 79,92%  0,54%  0,91% 0,00% 11,48%  6,36%  0,79%
+Eutrophication, freshwater 97,35%  0,02%  0,26% 0,00% 0,44%  1,91% 0,03%
+Eutrophication, marine 78,03%  0,26%  0,80% 0,00% 15,89%  3,95% 1,07%
+Eutrophication, terrestrial 78,04%  0,26%  0,80% 0,00% 15,83%  4,00% 1,06%
+Photochemical ozone formation 77,02%  0,33%  0,92% 0,00% 15,28%  5,40%  1,04%
+Resource use, minerals and metals 80,27%  0,03%  1,29% 0,00% 1,23%  17,18%  0,01%
+Resource use, fossils 79,65%  1,42%  1,27% 0,00% 5,34%  11,96%  0,36%
+
+PAGE 15/20
+Pouce —— EPD
+
+100%
+
+80% | | | | | | | | | |
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+X D RQ
+Se S S x NS &e S 2 S
+& ES À o $ S ë Ô S
+o Où RQ X S LS RÈ SÈ \
+S ( À « OS" x «© S Ca
+
+SP Ss v° N À S Ga LE? g
+
+& sw oo LL & s rQ S
+À -C .
+«C Q Q NX RÈ S
+S S ° S A € LS
+© S = S ea
+& Ÿ © Ÿ
+< S S
+À S
+Co
+
+mA1-A3 MA4 A5 B1 - CO2 absortion C1 C2 mCa
+
+Figure 4. Potential impact on the environment of the life cycle of one m of product, in percentage.
+
+Additional information
+
+With the aim of achieving a positive contribution to nature and society, we develop our activity
+based on principles of sustainable development, through continuous improvement in our
+environmental behaviour and focused on these four fundamental principles: our Management
+System, control environmental impact, contribution to the circular economy and transparent
+relationship with the environment.
+
+Registry of carbon footprint, compensation and CO: absorption projects of the
+Ministerio para la Transiciôn Ecologica y el Reto Demogräfico de España.
+
+2016 2017 2018 (en fs
+Bee dem de me de me M
+
+Holcim Spain has registered its carbon footprint in section a) of the Carbon footprint and
+commitment to reduce greenhouse gas emissions for the years 2016, 2017, 2018, 2019 and
+2020.
+
+PAGE 16/20
+Pouce —— EPD
+
+The limits of the organization included in the calculation are: cement, concrete and mortar
+manufacturing activity carried out in all its facilities in Spain, central offices in Madrid and 63
+production centers
+
+Our commitment to the circular economy as the main way to take advantage of the
+waste life cycle
+
+The transition from a linear economy to a circular economy is one of the environmental
+priorities of our business. Within our activity, our objective is to reuse the value of waste as
+resources, that is, to maximize its life cycle.
+
+At Holcim, we achieve the transition to circularity by complementing the activity of Geocycle, a
+subsidiary of the Group that is dedicated to the pre-treatment of waste to turn it into fuel, and
+the cement factories that use it in their clinker production process (component cement base).
+
+Proactive restoration of our quarries
+
+At Holcim we have been working, for more than 30 years, for the restoration of our quarries
+with the aim of generating a net positive impact on biodiversity. We are committed to a
+participatory model of quarry rehabilitation in which the increase of biodiversity and natural
+capital is favoured.
+
+Our restoration model serves as a lever for change on the critical problem of biodiversity loss
+and its potential to reverse its current negative trend. This work, key when it comes to creating
+shared value with the communities in which we operate, has been recognized in 2018 with the
+first second prize in the "Company and Biodiversity" category in the latest edition of the
+European Business Awards for the Environment , promoted by the Biodiversity Foundation.
+
+PAGE 17/20
+Pouce —— EPD
+
+Information related to Sector EPD
+Individual EPD.
+
+Differences versus previous versions
+The EPD was updated considering the following changes:
+
+2"d version:
+
+The registration number of the first version of the EPD is S-P-03786.
+
+There is a new and specific EPD for ECOPlanet CEM I/A 42,5 N (S-P-05185),
+therefore the values for the impacts in (A1 — raw materials) were updated.
+
+The residual electricity mix used was from 2021 it means the impacts of electricity in
+(A3-manufacture) were updated.
+
+Transport consumptions for A4 have been updated according to specific consumptions
+of the trucks used.
+
+The grouping of concrete products is updated. On the first version of the EPD (S-P-
+03786), up to 11 products were included, but on this version of the EPD products have
+been separated in different EPDs.
+
+The PCR 2019:14 version 1.11 is used.
+
+3" version:
+
+A new logotype of Holcim is used.
+
+PAGE 18/20
+avais —— EPD
+
+References
+
++ General Programme Instruction of the International EPD® System. Version 3.01.
+
+e ISO 14020:2000 Environmental labels and declarations - General principles.
+
+e ISO 14025:2010 Environmental labels and declarations - Type Ill Environmental
+Declarations - Principles and procedures.
+
+e [SO 14040:2006 Environmental management - Life Cycle Assessment - Principles and
+framework.
+
+e ISO 14044:2006 Environmental management - Life Cycle Assessment - Requirements
+and guidelines.
+
+e  UNE-EN 12350-6:2020. Testing fresh concrete - Part 6: Density
+
+e Real Decreto 470/2021, 29th June, Spain
+
+e  UNE-EN 12390-3:2020 Testing hardened concrete - Part 3: Compressive strength of
+test specimens.
+
+e PCR 2019:14 Construction products (EN 15804:A2) version 1.11.
+
+e  UNE-EN 15804:2014+A2:2019 Sustainability of construction works - Environmental
+Product Declarations - Core rules for the product category of construction products.
+
+e _c-PCR-003 Concrete and concrete elements (EN 16757).
+
+e  Holcim ECOPlanet CEM IH/A 42,5N
+https://www.environdec.com/library/epd5185 https:/www.Holcim.es/ecoplanet-
+cemento-sostenible
+
+e The underlaying LCA report. Version 4, March 2023
+
+PAGE 19/20
+
+tecnal:a D — ©
+certification EPD
+
+VERIFICATION STATEMENT CERTIFICATE
+CERTIFICADO DE DECLARACIÔN DE VERIFICACION
+
+Certificate No. / Certificado n2: EPD04608
+
+TECNALIA R&l CERTIFICACION S.L, confirms that independent third-party verification has been conducted of the
+Environmental Product Declaration (EPD) on behalf of:
+
+TECNALIA R&I CERTIFICACION S.L., confirma que\se ha realizado verificaciôn de tercera parte independiente de la Declaraciôn
+Ambiental de Producto (DAP) en nombre de:
+
+HOLCIM ESPANA, S.A.U.
+Avd. Manoteras, 20
+28050 MADRID - SPAIN
+
+for the following product(s):
+para el siguiente(s) producto(s):
+
+ECOPact: H35 and H35 AGILIA.
+ECOPact: H35 y H35 AGILIA.
+
+with registration number S-P-08536 in the International EPD® System {www.environdec.com)
+con nümero de registro S-P-08536 en el Sistema International EPD® (www.environdec.com)
+
+it's in conformity with:
+es conforme con:
+
+* General Programme Instructions for the International EPD® System v.3.01.
+= PCR 2019:14 Construction products v1.11.
+
+“ c-PCR-003 Concrete and concrete elements (EN 16757).
+
+= UN CPC code: 375 Articles of concrete, cement and plaster.
+
+isiôn: 21/04/2023
+Issued date / Fecha de emisiôn /04/ Carlos Nazabal Alsua
+Update date / Fecha de actualizacién: 21/04/2023 Manager
+Valid until / Vélido hasta: 20/04/2028
+Serial N° / N£ Serie: EPD0460800-E
+
+This certificate is not valid without its related EPD.
+Este certificado no es vélido sin su correspondiente EPD. £
+CERTIFICACION
+El presente certificado est sujeto a modificaciones, suspensiones temporales y retiradas por TECNALIA R&I CERTIFICACION. ISO 17065
+
+This certificate is subject to modifications, temporary suspensions and withdrawals by TECNALIA R&I CERTIFICACION. N°125 / C-PR283
+
+El estado de vigencia del certificado puede confirmarse mediante consulta en www.tecnaliacertificacion.com.
+The validity of this certificate can be checked through consultation in www.tecnaliacertificacion.com.
+
+TECNALIA R&I CERTIFICACION S.L. Area Anardi, n° 5. 20730 AZPEITIA (Gipuzkoa) SPAIN. Tel.:+34 678 860 822 — www.tecnaliacertificacion.com
+
+www.environdec.com

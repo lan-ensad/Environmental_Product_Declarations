@@ -1,0 +1,1306 @@
+READY-MIX CONCRETE
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+BOMBAY - 40MPA 19MM PRECAST MIx
+
+Managed By: Holcim NZ Ltd Publication Date: 2024-11-20
+
+EPD Process Certificate No.: 1016 Version Date: 2024-11-20 Valid Until: 2029-11-20
+Verified Accreditation Body: Epsten Group, Inc. Revision Number: 1.0
+
+EPD Registration No.: EPD-IES-0017533 Geographical Scope: New Zealand
+
+| E P D ® l J ® In accordance with ISO 14025:2016 and
+E P D EN15804+A2:2019/AC:2021
+Programme Operator: EPD International AB
+Regional Programme: EPD Australasia Limited
+
+VERIFIED
+
+THE INTERNATIONAL EPD°? SYSTEM ENVIRONMENTAL PRODUCT DECLARATION
+
+CONTENTS
+
+INTRODUCTION
+
+ABOUT HOLCIM NEW ZEALAND
+
+HOLCIM NZ READY-MIX CONCRETE
+
+LCA INFORMATION
+
+EPD PRODUCT DESCRIPTION AND USE
+
+ENVIRONMENTAL PERFORMANCE
+
+PREVIOUS VERSION
+
+REFERENCES
+
+PROGRAMME-RELATED INFORMATION AND VERIFICATION
+
++ © NN HR
+
+10
+12
+19
+20
+21
+
+1.0 2024-11-20 N/A
+INTRODUCTION
+
+Worldwide, there is a growing expectation for Governments and organizations to increase
+transparency and disclosure regarding environmental impacts, particularly greenhouse gas (GHG)
+emissions. This trend has gained momentum since the landmark COP 21 Paris Agreement in 2015,
+where nations collectively committed to ambitious efforts to combat climate change.
+
+Simultaneously, the global demand for construction materials is on the rise due to population
+growth and increased urbanization. Concrete, the world's second most utilized commodity after
+water, significantly contributes to the embodied GHG emissions of infrastructure and property
+assets. In light of Aotearoa's commitment to achieving net zero by 2050, Holcim New Zealand is
+actively working towards a lower carbon footprint in the built environment.
+
+For Holcim, building progress entails offering a comprehensive range of low carbon, high-
+performance, and specialty concrete solutions tailored for Aotearoa's homes, buildings, and
+infrastructure. We provide guidance, tools, and resources to empower you to confidently specify
+your projects. Our commitment extends to delivering solutions that align with your needs
+consistently.
+
+This underscores the urgent need for construction materials both now and in the future,
+emphasizing the construction materials industry's pivotal role in addressing climate change. At
+Holcim, we acknowledge our responsibility to contribute to global emissions reduction targets.
+To guide our efforts, we have developed a roadmap outlining specific actions to align with these
+objectives.
+
+Together, we can build better
+to help decarbonise Aotearoa.
+
+BOMBAY — 40MPA 19MM PRECAST Mix EPD | Z
+ABOUT HOLCIM
+NEW ZEALAND
+
+BUILDING PROGRESS
+
+Holcim New Zealand (NZ) is a leading solutions
+provider for your design and construction needs in
+New Zealand, dating back to 1888. Today, we
+supply essential construction materials from
+cement terminals & depots, quarries and ready-mix
+concrete sites to customers. Our ready-mix
+concrete solutions offer a comprehensive range of
+low carbon, high-performance, and specialty
+concrete solutions tailored for Aotearoa's homes,
+buildings, and infrastructure throughout the
+country.
+
+Globally, Holcim is 60,000 people around the
+world who are passionate about building progress
+for people and the planet through four business
+segments: Cement, Ready-Mix Concrete,
+Aggregates and Solutions & Products.
+
+Sustainability is at the core of our global strategy,
+with our industry's first 2030 and 2050 net-zero
+targets validated by the Science Based Targets
+initiative for all scopes. We are leading the
+transition towards low-carbon construction and
+driving a circular economy by providing materials
+and solutions that are re-shaping the way our
+industry builds. Holcim NZ has developed a range
+of low carbon solutions specifically for the New
+Zealand market.
+
+This EPD provides our stakeholders with
+confidence about the environmental impact of our
+products.
+
+BOMBAY — 40MPA 19MM PRECAST Mix EPD | 2
+HOLCIM NZ READY-MIX
+CONCRETE
+
+Holcim NZ is committed to delivering project-specific Environmental Product Declarations (EPDs) on
+demand, a significant stride in our sustainability journey. This approach reflects our comprehensive
+commitment to integrating sustainability throughout our organization and operations. Utilizing third-
+party verified data, our concrete solutions empower us to collaborate seamlessly with customers,
+optimizing sustainability performance from tender to design and construction.
+
+Our concrete products from Holcim NZ come with the assurance of an EPD Process Certification. This
+certification signifies our ability to produce compliant EPDs in-house, providing substantial capability
+and flexibility in leveraging life cycle impact data for our operations and customer collaborations.
+
+Obtaining our EPD Process Certification involved a strategic investment in integrating Life Cycle
+Assessment (LCA) into our systems and processes. We underwent a rigorous third-party evaluation
+adhering to relevant ISO standards and guidelines set by the International EPD Programme and EPD
+Australasia. This ensures the credibility and reliability of the data supporting our commitment to
+sustainability.
+
+This EPD has been developed using our EPD Process Certification for 40MPa 19mm Precast Mix with
+production occurring at Bombay Plant.
+
+S822z,
+2:
+12 =
+
+LCA INFORMATION
+
+Declared Unit
+The declared unit adopted is 1m$ of ready-mix concrete in
+use.
+
+Time Representativeness
+
+The plant data for the LCA is based on 2022 calendar year
+production data. The mix data for the LCA is based on 2024
+calendar year production data.
+
+Databases and LCA Software Used
+
+The software used was SimaPro® LCA software (v 9.5.0.0).
+The inventory data for the processes are entered in the LCA
+software and linked to the pre-existing background data for
+upstream feedstocks and services. Inventory data was
+selected per the standards, in the following order of
+preference:
+
+e  Ecoinvent 3.9.1 database was used as the primary
+source for inventory data (Ecoinvent v3.9.1, 2023).
+At the time of this report, this Ecoinvent database
+version is less than 1 year old.
+
+° The Australian Life Cycle Inventory (AusLCI) v1.42
+was compiled by the Australian Life Cycle
+Assessment Society (ALCAS) - this data will comply
+with the AusLCI Data Guidelines (Australian Life
+Cycle Inventory Database Initiative (AUSLCI), 2023).
+At the time of this report, this AusLCI database
+version is less than 1 years old.
+
+° The Environmental Footprint (EF) database v3.1 is
+facilitated by the European Commission and
+developed by ecoinvent, Sphera, Blonk, CEPE, and
+Pré Sustainability (Developer Environmental
+Footprint (EF), 2022). At the time of this report, this
+EF database version is around 1 years old.
+
+The following impact categories were calculated manually
+for the foreground data:
+
+e Use of renewable primary energy resources used as
+raw materials (PERM)
+
+e Use of non-renewable primary energy resources
+used as raw materials (PENRM)
+
+e Materials for recycling
+
+e __Non-hazardous waste disposed
+
+Data quality
+
+Foreground data on raw material requirements,
+manufacture and distribution was provided as primary
+source by Holcim (NZ) for the year January 2022 -
+December 2022. Schemes for data quality assessment of
+generic and specific data from EN 15804+A2 are used to
+perform this data quality assessment activity.
+
+Upstream processes
+The upstream processes include those involved in Module
+A1 - raw material supply. This module includes:
+
+. Extraction, transport, and manufacturing of raw
+materials.
+
+e Generation of electricity from primary and
+secondary energy resources, also including their
+extraction, refining and transport for Modules A1
+and A3.
+
+Generic data from LCA databases were used to model all
+raw materials for ready-mix concrete, such as cement,
+additives, admixtures, aggregates and sand, water, fly ash
+and slag. The cellulose pulp is assumed to have 12.2 MJ/kg
+as renewable energy resource used as raw material, based
+on the energy density quoted for biomass municipal and
+industrial materials in the National Greenhouse Accounts
+Factors (Department of the Environment, 2021). À few
+exceptions apply where suppliers of raw materials publish
+product specific EPDs, which are incorporated in the
+background processes to better reflect the environmental
+impacts associated with these raw materials in processes
+(e.g., extraction, transportation, manufacturing) before
+arriving at Holcim (NZ) production plants.
+
+Core processes
+
+The core processes include those involved in Module A2
+and Module A3 - upstream raw material transport and
+manufacturing. They include:
+
+e External transportation of materials to the core
+processes and internal transport.
+
+e Manufacturing of concrete.
+
+e Transportation of materials for
+landfilling externally
+
+e Treatment of waste and wastewater generated
+from the manufacturing processes.
+
+recycling and
+
+Al the materials used for producing ready-mix concretes
+were transported via truck. Specifically, aggregates and
+cements were assumed to be transported by heavy trucks
+and other raw materials were assumed to be transported by
+medium trucks.
+
+Concrete manufacturing is undertaken at Holcim (NZ)
+branded concrete batching plants. Al plants have the same
+or similar site resource use profile, management systems
+and operating systems. The process of manufacturing
+concrete involves the careful proportioning and mixing of
+cement, supplementary cementitious materials (SCMs),
+aggregates, water, chemical admixtures and additives
+including colour oxides in some instances. These raw
+materials are mixed in batching plants according to the
+specific concrete mix designs.
+
+Site specific manufacturing data was collected during fiscal
+year 2022. These include inputs like energy (e.g., electricity,
+fuels, etc.) and outputs (e.g., waste to landfill, recyclables,
+etc). They are allocated to 1m of ready-mix concrete
+product based on the annual production volume in each
+batching plant. Electricity is modelled based on the
+
+BOMBAY — 40MPA 19MM PRECAST MIX EPD | 4
+electricity grid mix from New Zealand Ministry of Business,
+Innovation & Employment.
+
+Electricity for the manufacturing site is modelled based on
+the electricity mix published by the Ministry of Business,
+Innovation and Employment, with primary source from
+hydro (60%), geothermal (18%), wind (6.5%), gas (9.9%), and
+coal (2.88%). The electricity emission (GWP-GHG) is 0.0742
+kg COe/kWh.
+
+Downstream processes
+This includes deconstruction (Module C).
+
+Deconstruction (C1) is assumed to use drilling to break and
+remove the concrete. The distance for waste collecting from
+construction site (C2) to landfill plant is assumed 50km. Al
+products are assumed to be landfilled (C4) and there is no
+carbonation at the end of life. It's assumed that there is no
+recycling for the product at the end of life, so the C3 impact
+is O.
+
+No CO: uptake has taken place in any module declared.
+
+Allocation
+
+According to EN 15804+A2, in a process step where more
+than one type of product is generated, it is necessary to
+allocate the environmental stressors (inputs and outputs)
+from the process to the different products (functional
+outputs) in order to get product-based inventory data
+instead of process-based data. An allocation problem also
+occurs for multi-input processes. In an allocation
+procedure, the sum of the allocated inputs and outputs to
+the products shall be equal to the unallocated inputs and
+outputs of the unit process.
+
+The following stepwise allocation principles shall be
+applied for multi-input/output allocations:
+
+e __Theinitial allocation step includes dividing up the
+system sub-processes and collecting the input and
+output data related to these sub-processes.
+
+° The first (preferably) allocation procedure step for
+each sub-process is to partition the inputs and
+outputs of the system into their different products
+in a way that reflects the underlying physical
+relationships between them.
+
+e The second (worst case) allocation procedure step
+is needed when physical relationship alone cannot
+be established or used as the basis for allocation.
+In this case, the remaining environmental inputs
+and outputs from a sub-process must be allocated
+between the products in a way that reflects other
+relationships between them, such as the economic
+value of the products.
+
+Holcim (NZ) produces a range of concrete mixes at each of
+their concrete batching plants, with the range dependent
+on customer demand. Due to the random nature of which
+mixes are produced and the large number of concrete
+mixes, allocation was required to determine the amount of
+site resource use, discharges and emissions associated with
+each mix. Annual consumption of energy and resource were
+collected at each site. Allocation was carried out based on
+physical relationships - annual production amount, by
+volume in m%. Its assumed that all kinds of ready-mix
+concrete products consume the same amount of resource
+and energy during production.
+
+One exception is the fuel consumption for mixing and
+loading in manufacturing plants. Holcim (NZ) performed a
+
+fuel burn diagnostic report on a typical mixing truck they
+owned. The fuel consumption for mixing and loading or
+loading only (for some plants) for 1 m° product was
+diagnosed, calculated, and directly used without any
+allocation since it's measured per declared unit covered in
+this EPD.
+
+Cut-off Rules
+
+It is common practice in LCA/LCI protocols to propose
+exclusion limits for inputs and outputs that fall below a
+threshold % of the total, but with the exception that where
+the input/output has a “significant” impact it should be
+included. According to the PCR 2019:14, life cycle inventory
+data shall according to EN 15804+A2 include a minimum of
+95% of total inflows (mass and energy) per module. It should
+also include a minimum of 99% of renewable and non-
+renewable primary energy use as well as the total mass
+input of that unit process. Inflows not included in the LCA
+shall be documented in the EPD. Data gaps in included
+stages in the downstream modules shall be reported in the
+EPD, including an evaluation of their significance. In
+accordance with the PCR 2019:14, the following system
+boundaries are applied to manufacturing equipment and
+employees:
+
+. Environmental impact from infrastructure,
+construction, production equipment, and tools
+that are not directly consumed in the production
+process are not accounted for in the LCI. Capital
+equipment and buildings typically account for less
+than a few percent of nearly all LCIs and this is
+usually smaller than the error in the inventory data
+itself. For this project, it is assumed that capital
+equipment makes a negligible contribution to the
+impacts as per Frischknecht et al. with no further
+investigation (Frischknecht, 2007).
+
+e  Personnel-related impacts, such as transportation
+to and from work, are also not accounted for in the
+LCI. The impacts of employees are also excluded
+from inventory impacts on the basis that if they
+were not employed for this production or service
+function, they would be employed for another. It is
+very hard to decide what proportion of the impacts
+from their whole lives should count towards their
+employment. For this project, the impacts of
+employees are excluded.
+
+Based on this guidance, no energy or mass flows, except
+packaging of materials were excluded. Al materials
+required for manufacturing are delivered via trucks and
+ships without packaging.
+
+Comparability
+
+EPDs within the same product category but registered in
+different EPD programmes, or not compliant with EN
+15804, may not be comparable. For further information
+about comparability, see EN 15804 and ISO 14025.
+
+Address and Contact Information
+
+Holcim (New Zealand) Ltd
+23 Plumer Street, Central Auckland 1010
+New Zealand
+
+www.holcim.co.nz
+
+BOMBAY — 40MPA 19MM PRECAST Mix EPD | 5
+Key Assumptions
+
+AT
+
+AT
+
+A2
+
+A2
+
+A3
+
+C1
+
+C2
+
+Assumption or
+
+limitation
+
+Raw material packaging
+
+Most emission factors
+assigned to raw
+materials are generic
+
+Transport distance from
+raw material supplier to
+Holcim (NZ) production
+plants
+
+GreenStar and IS
+indicators for Holcim
+cement
+
+Waste production
+
+Deconstruction
+
+Transport to landfill
+
+Impact on LCA
+results
+
+Minor
+
+Significant
+
+Minor
+
+Minor
+
+Minor
+
+Minor
+
+Minor
+
+Table 1. Assumptions, choices, and limitations
+
+For simplicity and lacking comprehensive data, all
+raw material packaging is excluded in this study.
+
+The emission factors assigned to most raw
+materials covered in this calculator are generic that
+are available in the LCA databases. They are the
+closest proxy based on the available raw material
+information. If more specific impacts available from
+suppliers in the future, they should replace the
+current ones to better reflect the impacts of the raw
+material.
+
+Although transport distances are available for some
+raw materials, others that don’t have the data are
+estimated and assumed to be the average distance
+of the corresponding material type.
+
+This process EPD includes the GreenStar and IS
+indicators for their future use in reporting on these
+two platforms. However, the transport impacts in
+Holcim’'s published EPD for its cement product
+doesn't include these indicators. Thus, in the
+background calculation of these indicators, the
+tool uses the generic transport LCA background in
+ecoinvent 3.9.1 (heavy truck) and made
+assumptions that transport from Holcim terminal
+Auckland to depot is 200km (truck transport only),
+and transport from terminal Timaru to depot is
+50km (truck transport only) Based on these
+assumptions, the tool calculated the GreenStar and
+IS indicators.
+
+The amount of waste and wastewater produced are
+estimated by Holcim (NZ). If more specific data is
+available in the future, it could improve accuracy of
+the impacts for 1m of product.
+
+The deconstruction process is assumed to be the
+same for all products.
+
+Itis assumed 50km distance to landfill based on the
+distance from likely construction sites within major
+cities to main landfill sites for the area.
+
+BoMBAY - 40MPA 19MM PRECAST Mix EPD | 6
+Data Quality
+
+Foreground data on raw material requirements, manufacture and distribution was provided as primary source
+by Holcim (NZ) for the year January 2022 - December 2022. Schemes for data quality assessment of generic
+and specific data from EN 15804+A2 are used to perform this data quality assessment activity, as shown in
+table 2.
+
+Life Cycle
+
+Stage
+
+Collected Foreground
+Data
+
+Raw material types and
+
+Data Source and Year
+
+Supplied by Holcim (NZ),
+
+Data Quality
+
+Primary source data,
+
+AL ER mme EN characterizations 2022 very good
+R terial Location of material Primary and
+aW mareria suppliers Supplied by Holcim (NZ), ÿ
+A2 transport from Senssot mod trust 2022 secondary source
+suppliers ’ data, good
+PP information, and distances ë)
+Energy and water inputs 2 ledlby Hole NZ En _.
+A3 Manufacturing Estimated waste outputs. 2022 Een (Re? good SELUEE GELE)
+Annual production volumes
+c1 Deconstruction Inputs for deconstruction & Assumptions for Secondary source
+and demolition  demoblition deconstruction energy data, fair
+lee Distance to end-of-life : Secondary source
+C2 waste + General assumption .
+: destination data, fair
+processing
+Waste to landfill rate
+based on New Zealand Secondary source
+C4 Disposal End of life destination national GHG report from y
+
+Table 2. Data Quality Assessment
+
+Ministry for the
+Environment
+
+BoMBAY - 40MPA 19MM PRECAST Mix EPD | 7
+
+data, fair
+SYSTEM BOUNDARY
+
+The system boundary is shown in Figure 1 below. The scope of LCA for this EPD is cradle-to-gate with modules C1-C4, and
+module D. Emissions from construction installation (A5) was excluded as Holcim (NZ) does not have operational control
+over the installation of products at the construction site. In addition, the following life cycle stages were also excluded:
+distribution (A4) and use stages (B1-B7).
+
+Al modules included in this EPD are marked as X and those excluded are marked as ‘Not declared’ (ND) Table 3.
+
+A1 - Extraction and production of primary raw materials
+
+A2 - Transport
+
+C1 - Deconstruction
+
+D - Recovery/reuse/recycle
+
+C2 - Transport
+
+C3 - Waste processing
+
+C4 - Disposal
+
+System boundary
+
+Figure 1. System Boundary
+
+BOMBAY - 40MPA 19MM PRECAST Mix EPD | 8
+Product Stage
+
+Construction
+
+Stage
+
+Use Stage
+
+= È Ë
+© Q ro)
+ol Q + Q . Ca o
+à 5 25231) 31|$
+9 2 < S m Œ £ à 5
+a | te + | ÿ = 5 | = | #+l © | à
+2 G 3 © Là 3 S D & ©) < =
+SI S | SS 24 || EAU |Z
+& c g c 50 @ D + Se à #
+ü s 3 E 5 à © = 6 a] 5 6
+= FH & FH 9 & = ÊË 2Æ| £ D
+z > Ë ä s S a g S
+G a A a & ] [a] _
+œ s € œ <= œ a
+O Ko s O (e]
+Z ra
+Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7
+Module | x x x ND | ND ND | ND | ND | ND | ND | ND | Nb
+Declared
+Geography| NZ NZ NZ
+Specific 0
+data used 790%
+Variation - 10%
+products
+Variation -
+sites N/A
+
+Table 3. System Boundary declared in this EPD
+
+ND: Module not declared
+
+Benefits & loads
+for the next
+product system
+
+End of Life Stage
+
+BOMBAY - 40MPA 19MM PRECAST Mix EPD | 9
+EPD PRODUCT DESCRIPTION
+AND USE
+
+Product Description
+
+Ready-mix concrete is produced at batching plants where controlled operations allow precise mix designs resulting in a
+product that is delivered to construction sites in a freshly mixed, plastic, or unhardened state.
+
+Concretes categorised as Normal and Special are defined and made in accordance with NZS 3104:2003, to ensure that
+nominal strengths and performance requirements are achievedl.
+
+Concrete covered by this EPD are listed in Table 4.
+40MPa 19mm Precast Mix 40MPa Bombay 4019PR283 Precast concrete products
+
+Table 4. Concrete covered by this EPD
+
+Content Declaration
+
+The following table provides a summary of the materials included in Holcim ready-mix concrete and their relative
+composition by weight.
+
+Portland Cement Ÿ 5-25%
+
+Aggregate 60-90%
+Supplementary Cementitious materials Ÿ 0-20%
+
+Water 6-12%
+
+Admixture Ÿ <5%
+
+Table 5. Material Composition
+
+The product does not contain one or more substances that are listed in the “Candidate List of Substances of Very High
+Concern for Authorisation”.
+
+BOMBAY — 40MPA 19MM PRECAST Mix EPD | 10
+Manufacturing process and flow diagram
+
+Limestone Alumina Source Silica Source Iron Source
+
+Raw Material Preparation
+
+Clinker Preparation
+AlternativeFuels
+
+High Grade L
+
+Limestone U Electricity from Grid
+ñ Cement Milling
+T Electricity from Heat
+Recove
+Ground Granulated Blast a
+Furnace Slag
+Export Storage
+
+Coarse and Fine Aggregates Secondary Materials (fly ash, silica
+Extraction fume, GGBFS)
+
+Admixtures
+
+Ready-mix Concretes
+
+Concrete Mix Plants
+
+Fresh/Recycled . . Wastewater © = Transport
+water Landfill/Recycling Tr Fuel andElectricity
+
+Figure 2. Manufacturing Process Flow
+
+Packaging
+Holcim ready-mix concrete is delivered in bulk with no packaging.
+
+Recycled Material
+BS EN 16757:2017 specifically lists the following materials relevant to the study as co-products:
+
+e Fly ash;
+° Ground granulated blast furnace slag; and
+e Silica Fume.
+
+As such, the above materials are considered as co-products of their production process and the impacts for their
+production process are allocated according to PCR 2019:14 Construction Products and Construction Services (co-
+
+produced goods, multi-output allocation).
+
+There is no recycled materials used in producing the product.
+
+BOMBAY - 40MPA 19MM PRECAST Mix EPD | 11
+ENVIRONMENTAL
+
+PERFORMANCE
+
+The potential environmental impacts, use of resources and waste categories included in this EPD were calculated using
+the SimaPro v9.5.0.0 tool and are listed in the table below. All tables from this point will contain abbreviations only. The
+potential environmental performance is calculated based on the input data and the emission factors from Ecoinvent
+V3.9.1. The LCA results are relative expressions and do not predict impacts on category endpoints, the exceeding of
+
+thresholds and safety margins or risks.
+
+Long-term storage (>100 years) is not taken into consideration in the impact estimate.
+
+Impact Category
+
+Potential Environmental Impacts
+
+Abbreviation
+
+Measurement
+
+Assessment Method & Implementation
+
+Global warming potential (fossil)
+
+GWP-fossil
+
+kg CO: equivalents
+
+Baseline model of 100 years of the IPCC based on
+
+(GWP100) IPCC 2013
+: A . : Le : kg CO: equivalents Baseline model of 100 years of the IPCC based on
+
+Global warming potential (biogenic) GWP-biogenic (GWP100) IPCC 2013
+Galo warming potential (Land use/ land GWP-Luluc kg CO: equivalents Baseline model of 100 years of the IPCC based on
+
+transformation) (GWP100) IPCC 2013
+: A L kg CO: equivalents Baseline model of 100 years of the IPCC based on
+
+Total global warming potential GWP-total (GWP100) IPCC 2013
+
+Acidification potential AP mol H eq. Accumulated Exceedance, Seppälä et al. 2006,
+
+Posch et al., 2008
+
+Eutrophication - aquatic freshwater
+
+EP - freshwater
+
+kg P equivalent
+
+EUTREND model, Struijs et al., 2009b, as
+implemented in ReCiPe
+
+Eutrophication - aquatic marine
+
+EP - marine
+
+kg N equivalent
+
+EUTREND model, Struijs et al., 2009b, as
+implemented in ReCiPe
+
+Eutrophication - terrestrial
+
+EP - terrestrial
+
+mol N equivalent
+
+Accumulated Exceedance, Seppälä et al. 2006,
+Posch et al.
+
+LOTOS-EUROS, Van Zelm et al., 2008, as applied in
+
+Photochemical ozone creation potential POCP kg NMVOC equivalents ReCiPe
+Abiotic depletion potential (elements)* ADPE kg Sb equivalents CML (v4.1)
+Abiotic depletion potential (fossil fuels)* ADPF MJ net calorific value CML (v4.1)
+Ozone depletion potential ODP kg CFC 11 equivalents Steady-state ODPs, WMO 2014
+Water Depletion Potential* WDP m* equivalent deprived DnanaDe Water Remaining (AWARE) Boulay et al,
+Resource use
+Use of renewable primary energy excluding
+renewable primary energy resources used as PERE M9, net calorific value Manual for direct inputs {
+raw materials
+Use of renewable primary energy resources PERM M9, net calorific value Manual for direct inputs ?
+used as raw materials
+Sum of “Non-renewable, biomass”, “Renewable,
+Total use of renewable primary energy biomass”, “Renewable, wind, solar, geothe”, and
+resources (primary energy and primary PERT M9, net calorific value “Renewable, water” indicators from calculating
+energy resources used as raw materials) Cumulative Energy Demand based on fuels’ lower
+heating values
+Use of non-renewable primary energy
+excluding non-renewable primary energy PENRE M9, net calorific value Manual for direct inputs *
+resources used as raw materials
+Use of non- renewable primary energy PENRM M9, net calorific value Manual for direct inputs *
+resources used as raw materials
+. Sum of “Non-renewable fossil” and “Non-
+Total use of non- renewable primary energy nie qe .
+. . Lee renewable, nuclear” indicators from calculating
+resources (primary energy and primary PENRT M9, net calorific value : ,
+. Cumulative Energy Demand based on fuels’ lower
+energy resources used as raw materials) .
+heating values
+Use of secondary material SM kg Manual for direct inputs
+Use of renewable secondary fuels RSF M9, net calorific value Manual for direct inputs
+
+1 PERE = PERT - PERM
+
+2 Calculated based on the lower heating value (LHV) of renewable raw materials. LHV is taken from https://phyllis.nl/, as recommended by SimaPro in compliance with
+EN15804+A2: https://support.simapro.com/s/article/How-to-calculate-EN-15804-A2-indicators-in-desktop-SimaPro
+
+$ PENRE = PENRT - PENRM
+
+4 Calculated based on the lower heating value (LHV) of non-renewable raw materials. LHV is taken from https://phyllis.nl/, as recommended by SimaPro in compliance with
+EN15804+A2: https://support.simapro.com/s/article/How-to-calculate-EN-15804-A2-indicators-in-desktop-SimaPro
+
+BOMBAY — 40MPA 19MM PRECAST MIX EPD | 12
+Impact Category
+
+Abbreviation
+
+Measurement
+
+Assessment Method & Implementation
+
+Use of non-renewable secondary fuels NRSF M9, net calorific value Manual for direct inputs
+Use of net fresh water FW m$ ReCiPe 2016
+Waste categories and Output flows
+Hazardous waste disposed HWD kg EDIP 2003 (v1.05)
+Non-hazardous waste disposed NHWD kg EDIP 2003 (v1.05) ‘
+Radioactive waste disposed/stored RWD kg EDIP 2003 (v1.05)
+Hazardous waste disposed HWD kg EDIP 2003 (v1.05)
+Non-hazardous waste disposed NHWD kg EDIP 2003 (v1.05) 5
+Radioactive waste disposed/stored RWD kg EDIP 2003 (v1.05)
+Hazardous waste disposed HWD kg EDIP 2003 (v1.05)
+Non-hazardous waste disposed NHWD kg EDIP 2003 (v1.05)
+Additional environmental impacts
+Global warming potential, excluding CWP-CHG kg CO: equivalents Baseline model of 100 years of the IPCC based on
+biogenic uptake, emissions and storage (GWP100) IPCC 2013 ©
+
+Potential
+
+incidence of
+
+Particulate matter
+
+disease due to
+PM
+emissions (PM)
+
+Disease incidence
+
+SETAC-UNEP, Fantke et al. 2016
+
+lonising radiation - human health**
+
+Potential
+Human
+exposure
+efficiency
+relative to
+U235 (IRP)
+
+kBq U-235 eq.
+
+Human Health Effect model
+
+Eco-toxicity (freshwater)*
+
+Potential
+Comparative
+Toxic Unit for
+ecosystems
+(ETP-fw)
+
+CTUe
+
+USEtox
+
+Human toxicity potential - cancer effects*
+
+Potential
+Comparative
+Toxic Unit for
+humans (HTP-
+c)
+
+CTUh
+
+USEtox
+
+Human toxicity potential - non cancer
+effects*
+
+Potential
+Comparative
+Toxic Unit for
+humans (HTP-
+nc)
+
+CTUh
+
+USEtox
+
+Soil quality*
+
+5 Calculated as sum of Bulk waste and Slags/ash.
+$ Calculated as sum of Bulk waste and Slags/ash.
+7 Calculated as sum of Bulk waste and Slags/ash.
+
+Potential soil
+quality index
+(SQP)
+
+dimensionless
+
+Soil quality index (LANCA®)
+
+8 This indicator accounts for all greenhouse gases except biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. As such, the indicator is
+identical to GWP-total except that the CF for biogenic CO2 is set to zero; calculated as the sum of GWP-luluc and GWP-fossil in the LCA model.
+* Disclaimer 1 - The results of this environmental impact indicator shall be used with care as the uncertainties on these results are high or as there is limited experience with
+
+the indicator.
+
+** Disclaimer 2 - This impact category deals mainly with the eventual impact of low dose ionizing radiation on human health of the nuclear fuel cycle. It does not consider
+effects due to possible nuclear accidents, occupational exposure nor due to radioactive waste disposal in underground facilities. Potential ionizing radiation from the soil,
+from radon and from some construction materials is also not measured by this indicator.
+
+BOMBAY — 40MPA 19MM PRECAST MIX EPD | 13
+Impact Indicators
+
+Measurement Unit
+
+Life cycle impact, measurement, and methods for Green Star and IS Rating
+
+Assessment Method and
+
+Implementation
+
+(Fossil Fuels)
+
+Green Star
+
+Human toxicity cancer CTUR USEtox - cancer effect
+
+Human toxicity non-cancer CTUR USEtox - noncancer effect
+Land use kg C deficit eq. Soil Organic Matter method
+Resource depletion - water m$ Water Stress Indicator
+
+lonising radiation kBq U-235 eq. Human Health Effect model
+Particulate matter kg PM2.5 eq. RiskPoll
+
+IS Rating
+
+Global Warming Potential kg CO: eq. CML (v4.02) based on IPCC AR4
+Ozone Depletion Potential kg CFC-11 eq. CML (v4.02) based on WMO 1999
+Acidification Potential kg SO2 eq. CML (v4.02)
+
+Eutrophication Potential kg PO4* eq. CML (v4.02)
+
+Photochemical Ozone
+
+Creation Potential kg CoHla eq. CML (v4.2)
+
+ns 9 Potential kg Sb ea. CML (v4.2)
+
+Abiotic Depletion Potential MI net calorific value  CML (v4.2)
+
+BOMBAY - 40MPA 19MM PRECAST Mix EPD | 14
+
+BOMBAY - 4019PR283 (40MPA 19MM PRECAST MIX)
+
+Potential Environmental Impact - mandatory indicators according to EN 15804+A2
+
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+
+GWP-fossil kg CO? eq. 2.82E+02 8.99E+00 1.94E+01 0.00E+00 2.51E+01 0.00E+00
+GWP-biogenic kg CO? eq. 2.05E-01 3.87E-04 8.71E-04 0.00E+00 1.71E-01 0.00E+00
+GWP-luluc kg CO? eq. 4.80E-02 3.09E-04 5.67E-04 0.00E+00 1.19E-02 0.00E+00
+GWP-total kg CO? eq. 2.82E+02 8.99E+00 1.94E+01 0.00E+00 2.53E+01 0.00E+00
+ODP kg CFC-11 eq. | 8.68E-06 1.41E-07 2.60E-07 0.00E+00 6.66E-07 0.00E+00
+AP mol H+ ea. 1.67E+00 8.40E-02 5.27E-02 0.00E+00 2.86E-01 0.00E+00
+EP-freshwater kg P eq. 1.72E-01 7.34E-05 8.95E-04 0.00E +00 4.29E-02 0.00E+00
+EP-marine kg N eq. 2.63E-01 8.95E-02 1.92E-02 0.00E +00 7.18E-02 0.00E+00
+EP-terrestrial mol N eq 4.66E+00 4.33E-01 2.10E-01 0.00E+00 7.70E-01 0.00E+00
+POCP kg NMVOC eq. | 1.18E+00 1.29E-01 7.85E-02 0.00E+00 2.70E-01 0.00E+00
+ADP-minerals & metals kg Sb eq. 8.20E-04 8.76E-07 1.15E-06 0.00E +00 9.64E-06 0.00E+00
+ADP-fossil MI 1.52E+03 1.18E+02 2.59E+02 0.00E+00 5.80E+02 0.00E+00
+WDP m3 -8.54E+01 9.42E-02 2.40E-01 0.00E+00 -4.01E+02 0.00E+00
+
+Potential Environmental Impact - additional mandatory and voluntary indicators
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+GWP-GHG kg CO? eq. 2.82E+02 8.99E+00 1.94E+01 0.00E+00 2.53E+01 0.00E+00
+
+BOMBAY — 40MPA 19MM PRECAST Mix EPD | 15
+Resource use
+
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+PÈRE MI 1.36E+02 2.65E-01 4.22E-01 0.00E+00 5.31E+00 0.00E+00
+PERM MI 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+PERT MI 1.36E+02 2.65E-01 4.22E-01 0.00E+00 5.31E+00 0.00E+00
+PENRE MI 1.58E+03 1.18E+02 2.59E+02 0.00E+00 5.80E+02 0.00E+00
+PENRM MI 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+PENRT MI 1.58E+03 1.18E+02 2.59E+02 0.00E+00 5.80E+02 0.00E+00
+SM kg 7.05E+01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+RSF MI 1.03E+01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+NRSF MI 9.40E+01 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+FW m3 1.34E+01 8.71E-03 8.71E-03 0.00E+00 -9.83E+00 0.00E+00
+Waste Production
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+Hazardous waste disposed | kg 5.87E-03 8.12E-04 1.77E-03 0.00E+00 3.79E-03 0.00E +00
+Moser waste kg 4.47E+00 3.46E-03 1.11E-02 0.00E+00 2.52E+03 0.00E+00
+jones waste kg 1.91E-03 6.05E-06 9.32E-06 0.00E+00 | 9.22E-05 0.00E+00
+Output Flows
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+Components for re-use Kg 0.00E +00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Material for recycling Kg 1.46E-02 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+den for energy kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 | 0.00E+00 0.00E+00
+Exported energy, electricity | MJ 0.00E +00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+Exported energy, thermal MI 0.00E +00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+BOMBAY —- 40MPA 19MM PRECAST MIX EPD | 16
+Additional environmental impact indicators
+
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+
+Particulate matter disease 9.79E-06 2.41E-06 1.29E-06 0.00E+00 4.27E-06 | 0.00E+00
+incidence
+
+nn radiation - human | go U-235 eq. | 1.13E+03 2.52E-02 3.94E-02 0.00E+00 3.80E-01 | 0.00E+00
+
+Eco-toxicity (fresh-water) CTUe 7.58E+02 4.09E+00 1.71E+01 0.00E +00 5.97E+02 | 0.00E+00
+
+Human toxicity potential | crUh 4.59E-07 6.27E-10 1.63E-09 0.00E+00 3.42E-08 | 0.00E+00
+
+cancer effects
+
+Human toxicity potential = | Cru 1.42E-05 8.92E-09 1.28E-07 0.00E+00 7A7E-07 | 0.00E+00
+
+non cancer effects
+
+Soil quality dimensionless | 1.26E+03 2.51E-01 1.06E+00 0.00E +00 1.37E+03 | O.00E+00
+
+BOMBAY — 40MPA 19MM PRECAST MIX EPD | 17
+BOMBAY - 4019PR283 (40MPA 19MM PRECAST MIX)
+
+SUSTAINABILITY SCHEME INDICATORS
+
+GreenStar Indicators - Results are in Accordance with Greenstar V1.3
+
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+
+Human toxicity cancer CTUh 2.69E-08 6.27E-11 7.43E-10 0.00E+00 1.69E-09 0.00E+00
+Human toxicity noncancer CTUh 2.47E-07 8.36E-12 1.67E-11 0.00E+00 8.08E-10 0.00E+00
+Land use kg C deficit eq. | 9.23E+02 1.08E-01 5.24E-01 0.00E+00 3.20E+02 0.00E+00
+Resource depletion - water | m3 -8.17E-01 4.69E-03 1.26E-02 0.00E+00 -1.80E+01 0.00E+00
+lonising radiation kBq U-235 eq. 3.69E+00 2.52E-02 8.95E-02 0.00E+00 8.81E-01 0.00E+00
+parents matter - kg PM25eq. |2.18E-01 | 2.29E-02 1.19E-02 0.00E+00 5.09E-02 0.00E+00
+
+IS (Infrastructure Sustainability) Indicator - Results are in accordance with EN15804+A1:2013
+
+Impact Indicators Unit A1-A3 C1 C2 C3 C4 D
+
+Global Warming Potential kg CO? eq. 2.88E+02 8.99E+00 1.94E+01 0.00E+00 2.53E+01 0.00E+00
+Ozone Depletion Potential kg CFC-11 eq. 6.15E-06 1.12E-07 2.06E-07 0.00E+00 5.28E-07 0.00E+00
+Acidification Potential kg SO2 eq. 1.16E+00 5.89E-02 3.94E-02 0.00E+00 2.29E-01 0.00E+00
+Eutrophication Potential ST divalent 3.33E-01 | 1.35E-02 7.93E-03 0.00E+00 1.55E-01 0.00E+00
+pronenemieal Pzone kg C2H4 eq. 5.69E-02 1.50E-03 2.33E-03 0.00E+00 9.63E-03 0.00E+00
+Abiotic Depletion Potential | Le sb eq. 4.59E-04 | 3.77E-07 1.15E-06 0.00E+00 9.67E-06 0.00E+00
+(Elements)
+
+Abiotic Depletion Potential | MJ net 117E+03 | 1.38E+00 9.75E+00 0.00E+00 4.51E+01 0.00E+00
+
+(Fossil Fuels)
+
+calorific value
+
+BOMBAY — 40MPA 19MM PRECAST MIX EPD | 18
+PREVIOUS VERSION
+REFERENCES
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+Australian Life Cycle Inventory Database Initiative (AusLCI). (2023). Guidelines for Data Development for an
+Australian Life Cycle Inventory Database, Data Standard.
+
+British Standards Institution. (2019). Sustainability of construction works. Environmental product declarations.
+Core rules for the product category of construction products, BS EN 15804:2012+A2:2019. British Standards
+Institution.
+
+Department of the Environment. (2021). Watjional Greenhouse Accounts Factors - Australian National Greenhouse
+Accounts. Australian Government. Retrieved from www.environment.gov.au
+
+Developer Environmental Footprint (EF). (2022, July). Retrieved from European Platform on LCA | EPLCA:
+https://eplca.jrc.ec.europa.eu/LCDN/developerEF.xhtml
+
+Ecoinvent v3.9.1. (2023). Retrieved from Ecoinvent: https://ecoinvent.org/the-ecoinvent-database/data-
+releases/ecoinvent-3-9-1/
+
+EPD Australasia. (2018). /nstructions of the Australasian EPD Programme v3.0 - a Regional Annex to the General
+Programme Instructions of the International EPD8System. EPD Australasia.
+
+EPD International. (2023). c-PCR-003 Concrete and concrete elements (EN 16757).
+EPD International. (2023). Product Category Rules (PCR) 2019:14, Version 1.3.1.
+
+Frischknecht, R. (2007). The Environmental Relevance of Capital Goods in Life Cycle Assessments of Products
+and Services. /nt. J LCA.
+
+ISO. (2006). /SO 14025:2006 - Environmental labels and dectlarations - Type II! environmental declarations -
+Principles and procedures. Geneva: International Organization for Standardization (ISO).
+
+ISO. (2006). /SO 14040:2006. Environmental management - Life cycle assessment -— Principles and framework.
+Geneva: International Organization for Standardization.
+
+ISO. (2006). /SO 14044:2006. Environmental management - Life cycle assessment - Requirements and guidelines.
+Geneva: International Organization for Standardization.
+
+ISO. (2017). /SO 14044:2006/Amd 1:2017 Environmental management - Life cycle assessment (Requirements and
+guidelines). Geneva: International Organization for Standardization.
+
+ISO. (2020). /SO 14044:2006/Amd 2:2020 Environmental management - Life cycle assessment (Requirements and
+guidelines). Geneva: International Organization for Standardization.
+
+Ministry for the Environment. (2022). Measuring emissions: À guide for organisations: 2022 summary of emission
+factors.
+
+Ministry for the Environment. (2023). New Zealand's Greenhouse Gas Inventory 1990-2021.
+
+Ministry of Business, Innovation & Employment. (2023). Electricity. Retrieved from Ministry of Business, Innovation
+& Employment: https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-
+and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/energy-in-new-zealand-
+2023/electricity/
+
+BoMBAY - 40MPA 19MM PRECAST Mix EPD | 20
+PROGRAMME-RELATED
+
+INFORMATION AND VERIFICATION
+
+Declaration Owner
+
+EPD Programme Operator
+
+EPD Regional Programme
+
+ HOLCIM
+
+Holcim (New Zealand) Ltd
+23 Plumer Street, Central Auckland 1010, New Zealand
+
+= EPD'
+
+THE INTERNATIONAL EPD° SYSTEM
+
+EPD International AB
+
+Valhallavägen 81, 114 28 Stockholm, Sweden
+www.environdec.com | compliance@environdec.com
++46 10 788 65 00
+
+sms EPD°
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+EPD Australasia Limited
+315a Hardy Street Nelson 7010, New Zealand
+
+www.epd-australasia.com | info@epd-australasia.com
++64 9 889 2909
+
+Edge Impact Sustainability Consulting Inc
+269 Cordaville Road, Southborough, MA 01772, USA
+https://www.edgeimpact.global/
+
+EPD Produced by
+
+Jde impact
+
+Epsten Group
+EPD Process Certified by epstengroupæ Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA
+WWW. ngr .Ccom
+
+EPD Registration Number EPD-IES-0017533
+Valid From 2024-11-20
+T0
+Valid Until 2029-11-20
+Product category rules Product Category Rules (PCR) 2019:14 Construction products (EN 15804+A2), Version 1.3.2
+gory c-PCR-003 Concrete and concrete elements (EN 16757:2022)
+EPD type Specific EPD
+Product group classification UN CPC 375
+Geographical Scope New Zealand
+Reference Year for Data 2022 Plant Data, 2024 Mix/Materials Data
+
+CEN standard EN 15804:2012+A2:2019 served as the core Product Category Rules (PCR)
+
+PCR 2019:14 Construction Products and Construction Services, Version 1.3.2, 2023-12-08
+
+Product category rules c-PCR-003 Concrete and concrete elements (EN 16757:2022)
+
+The Technical Committee of the International EPDS System.
+
+SE ACUIC LEE EEE LS Review chair: Claudia A. Peña, University of Concepcién, Chile. Contact via info@environdec.com
+
+Independent third-party verification
+of the declaration and data,
+according to ISO 14025:2006:
+
+EPD process certification
+EPD verification
+
+Epsten Group, Inc.
+Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA
+Accredited by: A2LA, Certificate #3142.03
+
+EPD Process Certified by
+
+Procedure for follow-up of data
+during EPD validity involves third
+party verifier:
+
+Yes
+No
+
+BOMBAY - 40MPA 19MM PRECAST Mix EPD | 21
+Programme-related information and verification
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product category
+but from different programmes may not be comparable. EPDs of construction products may not be comparable if they do
+not comply with EN 15804.
+
+BoMBAY - 40MPA 19MM PRECAST Mix EPD | 22
+Contact your Holcim representative
+today for more information.
+
+Holcim (New Zealand) Ltd
+23 Plumer Street
+
+Central Auckland 1010
+New Zealand
+
+T 0800 465 246
+www.holcim.co.nz
+
+This publication supersedes all previous literature on this subject. As the specifications and details contained in this publication may change, please check
+with Holcim Customer Service for confirmation of current issue. This publication provides general information only and is no substitute for professional
+technical engineering advice. Users must make their own determination as to the suitability of this information or any Holcim product for their specific
+circumstances. Holcim accepts no liability for any loss or damage resulting from their specific circumstances. Holcim accepts no liability for any loss or
+damage resulting from any reliance on the information provided in this publication. Holcim is a registered trademark of Holcim Ltd.
+
+© November 2024 Holcim (New Zealand) Ltd
+Al rights reserved. This guide or any part of it may not be reproduced
+
+U’HOLCIM

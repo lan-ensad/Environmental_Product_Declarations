@@ -1,0 +1,86 @@
+{
+  "epd_metadata": {
+    "version_number": "3.0",
+    "revision_date": "24 April 2024",
+    "epd_registration_number": "S-P-02331",
+    "programme_operator": "Epsten Group",
+    "verification": {
+      "third_party_verifier": "Epsten Group, Inc., Katherine McFeaters",
+      "accredited_by": "A2LA, Certificate #3142.03"
+    },
+    "product_category_rules": "PCR 2019:14 Construction Products, Version 1.11, 2019-02-05",
+    "core_pcr": "CEN standard EN 15804:2012+A2:2019"
+  },
+  "product_description": {
+    "product_name": "ViroDecs™ Ready-mix concrete",
+    "manufacturer": "Holcim (Australia) Pty Ltd",
+    "address": "Level 7, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+    "contact": {
+      "web": "www.holcim.com.au",
+      "phone": "+61 2 9412 6600"
+    },
+    "product_use": "Ready-mix concrete for various construction applications",
+    "content_declaration": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "reference_service_life": "Not specified",
+    "time_representativeness": "Plant data based on 2017 calendar year, mix data based on 2024 calendar year",
+    "databases_and_software": [
+      "SimaPro® LCA software (v 9.1)",
+      "Australian National Life Cycle Inventory Database (AusLCI) (2018)",
+      "Ecoinvent 3.6 (2019)",
+      "Global Cement and Concrete (GCCA) EPD Tool Project Database version 3.1 (2021)"
+    ],
+    "allocation": "Physical and economic allocation based on weight and cost",
+    "cut_off_criteria": "No flows excluded",
+    "data_quality": "Medium or higher for all data sources"
+  },
+  "transport_and_installation": null,
+  "end_of_life": {
+    "scenarios": [
+      "Disposal of concrete at a landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete"
+    ]
+  },
+  "carbon_emission_context": {
+    "carbonation": "Concrete absorbs CO2 from the atmosphere through a chemical reaction, reducing net CO2 emissions over its lifetime"
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Silica fume",
+      "Fly ash",
+      "Ground granulated blast furnace slag"
+    ],
+    "allocation_approach": "AusLCI LCA database allocation as default"
+  },
+  "additional_info": {
+    "references": [
+      "Australasian EPD Programme (2019) Instructions of the Australasian EPD Programme V3.01",
+      "British Standards Institution. (2019). BS EN 15804:2012+A2:2019",
+      "Ecoinvent Centre. (2019). Ecoinvent version 3 database",
+      "EPD International. (2021). PCR2019:14 v1.11"
+    ],
+    "programme_related_information": {
+      "epd_owner": "Holcim (Australia) Pty Ltd",
+      "epd_australasia": {
+        "address": "315a Hardy Street Nelson, 7010, New Zealand",
+        "web": "www.epd-australasia.com",
+        "email": "info@epd-australasia.com",
+        "phone": "+61 2 8005 8206"
+      },
+      "epd_international": {
+        "address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+        "email": "info@environdec.com"
+      }
+    }
+  }
+}

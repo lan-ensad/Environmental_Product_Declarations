@@ -1,0 +1,100 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "epd_registration_number": "EPD-IES-20748:001",
+    "valid_from": "17/04/2025",
+    "valid_until": "17/04/2030",
+    "certified_epd_process_revision_number": 1,
+    "geographical_scope": "Australia",
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia",
+    "accreditation_body": "Epsten Group, Inc.",
+    "iso_standard": "ISO 14025 and EN15804+A2",
+    "website": "www.environdec.com"
+  },
+  "product_description": {
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2023 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+A2:2019/AC:2021",
+    "pcr": {
+      "construction_products": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+      "concrete_elements": "PCR-003 Concrete and Concrete Elements, 2024-04-30"
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "scope": "Cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D",
+    "reference_service_life": null,
+    "time_representativeness": {
+      "plant_data": "2022",
+      "mix_data": "2023"
+    },
+    "lca_software_used": "SimaPro® LCA software (v 9.5)",
+    "background_data_sources": [
+      "Product specific EPDs",
+      "AusLCI v1.42 (2023)",
+      "Ecoinvent 3.9.1 (2023)"
+    ],
+    "allocation": "Physical and economic allocation",
+    "cut-off_criteria": "Excludes environmental impact from infrastructure, personnel-related impacts",
+    "address_and_contact_information": {
+      "company_name": "Holcim (Australia) Pty Ltd",
+      "address": "Level 40, Northpoint Tower, 100 Miller St, North Sydney NSW 2060, Australia",
+      "website": "www.holcim.com.au",
+      "phone": "+61 2 9412 6600"
+    },
+    "data_quality": {
+      "geographic": "Good or very good",
+      "temporal": "Updated within 10 years"
+    }
+  },
+  "transport_and_installation": {
+    "fuel_use": {
+      "vehicle": "EUROS 28t — 32t trucks",
+      "average_load_factor": "50%"
+    },
+    "installation": {
+      "construction_inputs_and_waste": {
+        "concrete_losses_to_landfill": "3.00%",
+        "water_use": "669 L",
+        "electricity_use": "2.78 kWh",
+        "diesel_use": "1.67 L",
+        "wastewater": "0.669 L"
+      }
+    }
+  },
+  "end_of_life": {
+    "deconstruction": {
+      "diesel_use": "1.31E-01",
+      "transport_distance_to_processing": "25 km"
+    },
+    "waste_processing": {
+      "concrete_recycling": "1.92E+03 kg"
+    },
+    "final_disposal": {
+      "inert_waste_landfill": "4.80E+02 kg"
+    }
+  },
+  "carbon_emission_context": {
+    "carbonation_process": {
+      "description": "Concrete absorbs CO2 from the atmosphere through a chemical reaction",
+      "standard": "BS EN 16757:2017"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": "Co-products of production process, allocated based on PCR 2019:14"
+  },
+  "additional_info": {
+    "references": [
+      "AusLCI Database",
+      "EPD International GPI",
+      "EN 15804 and ISO 14025 standards"
+    ]
+  }
+}

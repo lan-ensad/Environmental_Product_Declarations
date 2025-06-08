@@ -1,0 +1,135 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "programme_operator": "EPD International AB",
+    "regional_programme_operator": "EPD Australasia Limited",
+    "epd_produced_by": "Edge Environment Pty Ltd",
+    "epd_process_certified_by": "Epsten Group",
+    "epd_registration_number": "EPD-IES-20407:001",
+    "valid_from": "15/04/2025",
+    "valid_until": "15/04/2030",
+    "revision_number": "1",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2025 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+A2:2019/AC:2021",
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+    "c_pcr": "c-PCR-003 Concrete and Concrete Elements, 2024-04-30",
+    "third_party_verification": "Epsten Group, Inc., Megan Blizzard",
+    "contact_information": {
+      "address": "Level 40, Northpoint Tower, 100 Miller St, North Sydney NSW 2060, Australia",
+      "web": "www.holcim.com.au",
+      "phone": "+61 2 9412 6600"
+    }
+  },
+  "product_description": {
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "product_name": "Ready-Mix Concrete",
+    "product_code": "VIC - Melbourne Metro - ECOPact- VE324E",
+    "production_sites": [
+      "Laverton",
+      "Truganina",
+      "Footscray",
+      "Epping",
+      "Keilor",
+      "Preston",
+      "Oaklands Junction",
+      "Melbourne Airport",
+      "Bayswater",
+      "Springvale",
+      "Lyndhurst",
+      "Seaford",
+      "Pakenham",
+      "Hastings",
+      "Rosebud"
+    ],
+    "content_declaration": {
+      "gross_weight": "2,400 kg per cubic meter",
+      "materials": [
+        {
+          "name": "General purpose cement",
+          "percentage": "5-21"
+        },
+        {
+          "name": "Aggregate",
+          "percentage": "67-84"
+        },
+        {
+          "name": "Supplementary cementitious materials",
+          "percentage": "0-11"
+        },
+        {
+          "name": "Water",
+          "percentage": "11.6-12"
+        }
+      ]
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "classification": "Non-Dangerous Goods"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "scope": "Cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D",
+    "reference_service_life": "Not specified",
+    "time_representativeness": "2022 calendar year production data for plant, 2025 for mix data",
+    "databases_and_software": [
+      "SimaPro® LCA software (v 9.5)",
+      "AusLCI v1.42 (2023)",
+      "Ecoinvent 3.9.1 (2023)"
+    ],
+    "allocation": "Based on weight or m³ of concrete; economic allocation for some materials",
+    "cut_off_criteria": "No energy or mass flows excluded except packaging of materials"
+  },
+  "transport_and_installation": {
+    "gate_to_site": {
+      "vehicle": "EUROS 28t — 32t trucks",
+      "transport_distance": "12.22 km",
+      "fuel_use": "1.97E-02 Diesel"
+    },
+    "installation": {
+      "concrete_losses": "3.00E+00 %",
+      "water_use": "6.69E+02 L",
+      "electricity_use": "2.78E+00 kWh",
+      "diesel_use": "1.67E+00 L",
+      "wastewater": "6.69E-01 L"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": {
+      "diesel": "1.31E-01",
+      "distance_to_processing": "2.50E+01 km",
+      "waste_processing": "Concrete recycling 1.92E+03 Kg",
+      "final_disposal": "Inert waste landfill 4.80E+02 kg"
+    },
+    "benefits_and_loads_beyond": {
+      "recycling_and_recovery_rate": "80%"
+    }
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions": "39% from building environment, 11% from construction materials",
+    "2030_target": "Embodied carbon needs to be at least 40% lower",
+    "2050_target": "All new construction materials need to be net zero"
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Flyash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": "AusLCI LCA database default for secondary data and processes"
+  },
+  "additional_info": {
+    "lifetime_absorption_of_co2": "Not considered in this EPD",
+    "references": [
+      "AusLCI Database — v1.42",
+      "Australasian EPD Programme",
+      "British Standards Institution",
+      "Department of Climate Change, Energy, the Environment and Water",
+      "Ecoinvent Centre",
+      "EPD International",
+      "European Committee for Standardization",
+      "ISO",
+      "Green Building Council of Australia",
+      "World Green Building Council"
+    ]
+  }
+}

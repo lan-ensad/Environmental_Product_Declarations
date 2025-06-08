@@ -1,0 +1,1843 @@
+® ECO PLATFORM
+] o AUSTRALASIA pre ml 2 P D E D D
+O C l Ï Ï Ï ENVIRONMENTAL PRODUCT DECLARATION
+
+Ê:
+
+ViroDecs'" Aggregates
+
+Holcim Australia Aggregates
+
+Environmental Product Declaration
+
+In accordance with ISO 14025 and EN 15804+A1
+
+Programme: The International EPD® System | www.environdec.com
+Programme operator: EPD Australasia Limited | www.epd-australasia.com
+EPD registration No. S-P-02332
+
+Valid from 18 May 2021 | Valid until 17 May 2026
+
+Version Date: 11 May 2023
+
+Version: 2
+
+Geographical scope: Australia
+
+Contents
+
+Introduction 3
+About Holcim 4
+ViroDecsT" - à first for raw aggregates in Australia 5
+Why have we developed this EPD? 6
+Aggregate products 7
+Strategy 2025 — “Accelerating Green Growth” 8
+Supporting sustainable construction 9
+How the EPD can be used in the IS and Green Star rating schemes 10
+Holcim’s management systems 11
+LCA information 12
+EPD product description 16
+Environmental performance 18
+Interpretation 22
+References 24
+Programme - related information and verification 25
+Contact information 26
+
+Version Revision Date Description of Changes
+
+Environmental impact results have been updated following a correction to the calculation
+2.0 11 May 2023 formulas, resulting in an increase to the overall environmental impact of the products.
+Recycled aggregate products have been removed from this EPD.
+
+ViroDecs'" Aggregates EPD | Holcim 2
+Introduction
+
+All around the world, the expectation for Governments
+and organisations to provide enhanced transparency
+and disclosure of environmental impacts, such as
+greenhouse gas (GHG) emissions, has been growing.
+This follows the landmark COP 21 Paris Agreement in
+2015 in which all nations agreed to ambitiously pursue
+efforts to combat climate change and its effects.
+
+Atthe same time, the global demand for construction
+materials is also growing due to worldwide population
+growth and an increase in urbanisation.
+
+This clearly demonstrates both the essential need for
+construction materials now and in the future, as well
+as the necessity for the construction materials industry
+to be a leading part of the solution addressing climate
+change.
+
+At Holcim, we recognise our responsibility to
+contribute to global emissions reduction targets and
+we have developed a roadmap with a number of
+actions to direct our efforts.
+
+Our ViroDecs'" range of aggregates represented by
+an Environmental Product Declaration (EPD) is one
+such initiative for Holcim in Australia.
+
+ViroDecs'" Aggregates EPD | Holcim
+
+=
+Q
+2
+©
+5
+D
+©
+Lu
+L 2
+=
+
+About Holcim
+
+Western
+Australia
+
+e Perth
+
+AUSTRALIAN OPERATIONS
+
+Quarries
+| 190" Concrete
+
+Precast pipe and product
+
+*Darwin
+Northern [nn]
+Territory
+Queensland [3
+e Brisbane
+South
+Australia
+rs. New South |.
+Wales] ACT FA
+a
+e Adelaide e Canberra ES
+Victoria
+* Melbourne Un.
+Tasmania E
+
+eHobart
+
+*The breakdown of Australian quarry operations is based on 2019 site data used for the EPD Life Cycle Assessment modelling.
+1 The breakdown of Australian concrete operations is based on the 2019 ViroDecs/" ready-mix concrete EPD). It includes tolling sites and excludes mobile or temporary sites.
+
+About Holcim
+
+Holcim Australia is a leading supplier of construction
+materials in Australia, dating back to 1901. Today
+Holcim continues to supply essential construction
+materials including aggregates, sand, ready-mix
+concrete, engineered precast concrete and
+prestressed concrete solutions to a range of
+customers and projects throughout Australia.
+
+Holcim operates right across the Australian continent
+supplying concrete from a network of concrete plants,
+quarries, precast and concrete pipe places, and
+mobile and on-site project facilities.
+
+Sustainability is at the core of our global strategy, with
+our industry's first 2050 net-zero targets, endorsed by
+the Science Based Targets initiative (SBTi).
+
+Globally, Holcim is 60,000 people around the world
+who are passionate about building progress for people
+and the planet through four business segments:
+Cement, Ready-Mix Concrete, Aggregates and
+Solutions & Products.
+
+Holcim builds progress for people and the planet. As a
+global leader in innovative and sustainable building
+solutions, Holcim is enabling greener cities, smarter
+infrastructure and improving living standards around
+the world. With sustainability at the core of its strategy
+Holcim is becoming a net zero company, with its
+people and communities at the heart of its success.
+The company is driving circular construction as a
+world leader in recycling to build more with less.
+
+ViroDecs'" Aggregates EPD | Holcim 4
+Holcim ViroDecs'"" Aggregates - a first
+for raw aggregates in Australia
+
+ViroDecs"" Aggregates at a glance
+
+The Holcim ViroDecs'" Aggregates initiative for
+Environmental Product Declarations (EPDs)
+constitutes a major investment in comprehensively
+analysing and communicating to customers the
+embodied environmental impacts of Holcim's
+products.
+
+Data collected from across Holcim's Australian
+operations, including 41 quarries, was fed into an
+1S014044-compliant Life Cycle Assessment (LCA)
+model by specialist practitioners to generate an
+Environmental Product Declaration (EPD) to ISO
+14025 and EN 15804, which have been independently
+reviewed by an approved, third-party verifier.
+
+The development of a raw aggregates EPD is a
+“missing” piece to having all key infrastructure and
+building materials represented by an EPD in Australia.
+Its publication will support our customers to drive
+improved sustainable procurement and materials
+selection. Holcim's ViroDecs'" also have the potential
+to challenge common beliefs of environmental
+sustainability, by supporting the standardisation and
+transparency of environmental claims.
+
+Holcim's ViroDecsTM will help shape the way the
+construction industry analyses the environmental
+impact of buildings and infrastructure now and in the
+future. Advancing from generic environmental
+information to product, company and geographically-
+specific information will allow for deeper, broader
+and more customised analysis with greater
+confidence in the results.
+
+Beyond providing greater transparency, Holcim's
+ViroDecs'" also provide a rigorous, science-based
+framework for driving environmental improvement
+throughout Holcim's sites and supply chains.
+
+As a result, Holcim's ViroDecs'T" will offer an
+advantage to customers wanting to be leaders in the
+sustainable infrastructure and building industry.
+Holcim hopes it will lead the way for other providers
+to follow suit, fostering a whole-of-life approach in
+the Australian construction materials industry.
+
+ViroDecs'" Aggregates EPD | Holcim
+
+5
+
+Why have we developed this EPD?
+
+EPD and project life cycle models
+
+Landfill Decommissioning
+
+Recovery & | Demand
+processing
+
+Raw material
+extraction (A1)
+
+Demolition
+Operation = Optioneering
+Use &maintenance Project
+
+ViroDecs” # ‘| life cycle /
+
+Transport ofraw
+materials (A2)
+
+Manufacture (A3) crane Concept&approvals
+
+FT * Transport Pa NN
+tosite Design
+
+Developed in conjunction with Edge Environment
+
+Note: ViroDecs TM Aggregates EPD only covers EPD lifecycle stages A1 to A3
+
+One significant means of providing transparency at
+the product level is the publication of Environmental
+Product Declarations.
+
+In simple terms, an EPD is a comprehensive
+disclosure of a product's environmental impacts. An
+EPD can cover the different stages of a products life
+cycle, from its creation and use to disposal, as well as
+other relevant information in accordance with
+recognised international standards.
+
+The ViroDecs'" Aggregates EPD covers EPD
+lifecycle stages from raw material extraction (Stage
+A1), through to manufacturing of the aggregates
+(Stage A3).
+
+EPDSs provide credible transparency because they rely
+on an objective, scientifically accepted approach,
+defined in international and European standards, and
+are third party verified and publicly available.
+
+ViroDecs'" Aggregates EPD | Holcim 6
+Aggregate products
+
+Load and Haul
+
+Crushing and
+Screening
+
+Stockpiling and Distribution
+
+Summary of aggregate products
+
+In simple terms, Aggregates, generally consisting of
+crushed stone, gravel, and sand, are mainly used in
+the construction of roads, rail track beds, the
+manufacturing of concrete, concrete products, and
+asphalt. Aggregates are rock fragments extracted
+from earth deposits as in the case of natural sand and
+gravel or quarried from hard rock formations. The
+extracted materials are then processed by crushing,
+shaping, and screening, including washing where
+required, into final products. The processed
+aggregates can be combined with cementitious
+materials in the manufacturing of concrete or bitumen
+as a binder in the production of asphalt.
+
+Concrete aggregates
+
+Concrete aggregates are an integral component of
+producing quality concrete. These aggregates and
+subsequent concrete supply support our community in
+meeting its requirements of roads, housing,
+commercial and infrastructure needs.
+
+Asphalt aggregates
+
+The production of high quality asphalt aggregates is a
+critical component in the production of quality asphailt.
+Holcim quarrying operations supports its customers in
+producing quality aggregates throughout each region.
+
+Roadbase materials
+
+Are an integral part of the construction of road
+projects including, major infrastructure, road
+duplications, residential sub-divisions, commercial
+developments and local councils/shires.
+
+Armour rock
+
+Weatherproofing and natural barriers need to be
+created to prevent coastal and river erosion. Armour
+rock is produced with specific objectives outlined in
+each specification. The product typically ranges in
+size from 200mm-1.0m dependent on each
+specification.
+
+Rail ballast
+
+Holcim is a leading supplier of rail ballasts in
+Australia, working closely with customers,
+consultants and specifies to best suit their needs.
+Rail ballast is a specifically engineered product
+designed to support railway sleepers underneath a
+rail line. The product is produced to a high
+performance specification.
+
+ViroDecs'" Aggregates EPD | Holcim
+
+7
+
+n
+fa
+(s)
+_
+G
+©
+Le
+©
+rm
+ré
+œ
+ü
+D
+2
+D
+D
+<
+
+Strategy 2025 - “Accelerating Green Growth”
+
+si
+
+£0ù
+ND
+
+Accelerating Expanding
+SOLUTIONS &
+Shi PRODUCTS
+
+To Become the Global Leader in
+Innovative & Sustainable Building
+Solutions
+
+Sustainability is not new to Holcim. For decades,
+Holcim has embedded the triple bottom line approach
+to sustainability with a focus on responsible utilisation
+of our planet's natural resources, safety and
+environmental performance, and social.
+
+Globally Holcim, is reinventing how the world builds
+for people and the planet. On our way to becoming a
+net zero company, We are accelerating green
+construction by joining the net zero pledge with
+science-based targets.
+
+With “Strategy 2025 — Accelerating Green Growth,”
+
+Holcim will become the global leader in innovative and
+
+sustainable building solutions.
+
+With “Accelerating Green Growth,” Holcim will achieve
+
+growth across all our businesses, fueled by
+sustainability and innovation. We will accelerate the
+expansion of our Solutions & Products business to
+reach 30% of Group sales.
+
+(7$
+
+Leading in
+INNOVATION &
+SUSTAINABILITY
+
+Delivering
+SUPERIOR
+PERFORMANCE
+
+Sustainability is at the core of our global strategy, with
+our industry's first 2050 net-zero targets, endorsed by
+the Science Based Targets initiative (SBTi). Holcim
+will remain at the forefront of green building solutions,
+with at least 25% of ready-mix net sales coming from
+ECOPact, ranging from 30% to 100% lower CO;
+footprint.
+
+Holcim is part of a global response to these
+challenges through sustainable products and
+solutions, supported by four fields of action — climate,
+circular economy, water, and nature — in order to
+improve quality of life for communities and employees.
+
+ViroDecs'" Aggregates EPD | Holcim
+
+8
+
+En)
+x
+=
+
+œ
+=
+
+ü
++
+
+ü
+
+5
+2]
+où
+£
+©
+
+(Q]
+pe
+
+Supporting sustainable construction
+
+Supporting sustainable construction
+
+The Holcim Foundation for Sustainable Construction
+was created in 2003 to raise awareness of the
+important role that architecture, engineering, urban
+planning and the building industry have in achieving a
+more sustainable future. It is the mission of the
+Foundation to select and support initiatives that
+combine sustainable construction solutions with
+architectural excellence and enhanced quality of life
+beyond technical solutions.
+
+Through the non-commercial promotion and
+development of sustainable construction at national,
+regional, and global levels, the Holcim Foundation
+encourages sustainable responses to the
+technological, environmental, socioeconomic, and
+cultural issues affecting building and construction.
+The Foundation is an independent legal entity that is
+supported by Holcim.
+
+Holcim Forum
+
+The Holcim Forum is a tri-annual series of
+conferences on the topic of sustainable construction
+conducted by the Foundation. The multi-day Forum,
+including workshops and site visits, is an academic
+platform for architects, engineers, construction
+professionals and specialists of all generations to
+exchange information on creating a sustainable built
+environment and thus advancing sustainable
+development.
+
+The Forum supports sustainable construction in the
+scientific field, among experts in the construction
+sector, business and society, and promotes
+interdisciplinary dialogue, brings forward new ideas,
+and examines potential solutions.
+
+Holcim Awards for Sustainable
+Construction
+
+The Flagship of the Foundation is the Holcim Awards
+for Sustainable Construction. It is a significant
+worldwide competition for sustainable design. It
+rewards projects and visionary concepts that go
+beyond balancing environmental performance, social
+responsibility, and economic growth, thereby
+exemplifying architectural excellence and a high
+degree of transferability.
+
+A total of USD 1 million in prize money is awarded
+and projects and visionary concepts in the fields of
+architecture, engineering, urban planning, material
+and construction technology and related fields are
+eligible for entry.
+
+ViroDecs'" Aggregates EPD | Holcim
+
+9
+
+En)
+=
+©
+
+œ
+=
+
+œ
++
+
+o
+
+5
+(2)
+où
+£
+©
+
+O
+ue
+
+How the EPD can be used in the
+IS and Green Star rating schemes
+
+The Infrastructure Sustainability (IS) and Green Star rating schemes are the most commonly applied
+sustainability rating schemes for infrastructure and property assets in Australia, respectively. Both schemes are
+run by industry bodies the Infrastructure Sustainability Council and the Green Building Council of Australia with
+strong support from the built environment sector, government and academia.
+
+Rating schemes
+
+TheIS rating scheme
+
+TheIS rating scheme scores infrastructure assets on a broad range of sustainability areas, from
+greenhouse gas (GHG) emissions to community health and well-being, for each major project stage. Holcim's
+ViroDecs'" may help IS registered projects gain points in four key credits:
+
+- - IS rating - IS rating -
+Credit topic Purpose
+vi.1 and 1.2 ZA
+
+Material environmental impacts Mat-1 Rso-6 LIGA EEE nets
+p environmental impacts associated with materials
+
+: To reward the use of materials with
+
+Environmental labels Mat-2 Rso-7 environmental labels
+
+Innovation — improving on To reward pioneering initiatives in sustainable
+
+Inn-1 Inn-1
+
+credit benchmarks design, process or advocacy
+Innovation — market Inn-1 Inn-1 To reward pioneering initiatives in sustainable
+transformation design, process or advocacy
+
+Green Star
+
+The Green Star rating scheme provides a framework for understanding and | communicating the sustainability
+performance of a property, master plan or building re-fit. Holcim's ViroDecs" may help Green Star registered
+projects gain points in three key credits:
+
+Green Star - Green Star _
+
+To reward the reduction of life cycle
+
+Life Cycle Assessment environmental impact
+
+To reward the use of products with
+
+Environmental labels 21C 21 environmental labels
+
+Innovation challenge:
+sustainable sourcing of 19B.1 =
+concrete aggregates
+
+To reward the sustainable sourcing of concrete
+aggregates
+
+ViroDecs " Aggregates EPD | Holcim 10
+Holcim’'s management systems
+
+Safety, Health & Environment Management System
+
+Introduction to the SHEMS
+
+Risk Management Safety Specific
+
+Accountability
+Planning & People
+
+Holcim Australia is committed to providing positive
+contributions to the community, the environment,
+and our business by continuously improving
+environmental performance and focusing on
+sustainable development.
+
+Holcim's Safety, Health and Environment
+Management System (SHEM) has been developed
+in alignment with the fundamental management
+principles as set out in the following International
+Standards:
+
+e ASINZS 4801: Occupational Health and
+Safety Management Systems - Specification
+with guidance for use
+
+e ASINZS 4804: Occupational Health and
+Safety Management Systems - General
+Guidelines on principles, systems and
+supporting techniques
+
+e ASINZS ISO 14001: Environmental
+Management Systems - Requirements with
+guidance for use*
+
+e ASINZS ISO 14004: Environmental
+Management Systems - General Guidelines
+on principles, systems and support
+techniques.
+
+e ASINZS 1S0O 31000: Risk management —
+Principles and guidelines*
+
+Environment
+Specific
+
+Health Specific Review & Improve
+
+Holcim's SHEM is used to support sites and areas
+across Holcim Australia and New Zealand to
+implement, maintain and continually improve an
+effective Safety, Health and Environment program.
+The SHEM is an interrelated collection of policies,
+processes, programs, procedures, accountabilities
+and activities designed to provide the foundation for
+successful safety, health and environment
+management. Holcim sets corporate objectives and
+targets and undertake regular audits of
+environmental performance to monitor progress.
+
+*Note: Holcim's Safety, Health and Environment Management System (SHEM) is not certified to ISO 14001 or ISO 31000 etc.
+
+ViroDecs " Aggregates EPD | Holcim 11
+
+er)
+=
+©
+£
+a
+>”
+A
+=
+=
+©
+=
+©
+D
+œ
+=
+G
+=
+
+LCA information
+
+Declared unit Allocation
+
+on
+o
+>
+œ
+=
+<
+2
+©
+>
+©
+£
+=
+
+1 tonne of aggregate. Allocation was necessary to proportion inputs and
+outputs to intermediate flows at the quarry level.
+As much as possible, intermediate flows were
+
+Reference service life (RSL) allocated physically based on weight. At the quarry
+level, whenever physical allocation was not possible,
+
+The RSL is not specified as the scope is from cradle economic allocation was carried out based on
+
+to gate, and there is a variety of applications of Holcim's internal cost system.
+
+aggregates with different anticipated RSLSs.
+Regarding inputs, it was assumed that fly ash is a
+waste product and therefore burden-free. Please refer
+
+Time representativeness to the “Recycled Material” section for further detail.
+The primary data for the LCA is based on 2019 |
+calendar year production data. Product grouping
+A total of 762 products were modelled and grouped
+Databases and LCA software used according to Holcim's product classification system. …A
+representative product was selected from each
+SimaPro (v9.1.1.1) was used for the LCA modelling, product group to represent the group in the LCA
+using background data from: results section.
+1. The Australian National Life Cycle Inventory
+Database (AusLCI) (2019); and The representative product was selected through the
+2. ecoinvent 3.6 (2019). following process:
+1. Calculate the median global warming potential
+The following impact categories were calculated (GWP) value for each product group.
+manually for the foreground data: 2. Identify the product/s with the median GWP
+e Use of renewable primary energy resources value.
+used as raw materials. 3. lfthe median GWP value corresponds to only
+e Use of non-renewable primary energy one product, that product is selected as the
+excluding non-renewable primary representative product and the process ends.
+energy resources used as raw materials. 4. lfthe median GWP value corresponds to
+° Use of secondary material. multiple products, the product with the highest
+° Use of renewable secondary fuels. value in one or more of the other impact
+
+categories was selected and the process
+ends.
+
+5. lfthe median does not correlate to a specific
+product (due to an even dataset) then the
+product with the next GWP value higher than
+the median was selected.
+
+e Use of non-renewable secondary fuels.
+
+Cut-off criteria
+
+No flows were excluded on the basis of cut-off criteria.
+
+ViroDecs " Aggregates EPD | Holcim 12
+Data quality
+
+Data quality for the foreground data was assessed in terms of geographic and temporal representativeness.
+All data sources were scored at medium or higher. Background data sources were also assessed with respect
+to their timeliness, with all data sources being last updated within the 10 years required under the PCR
+
+2012:01.
+
+AT
+Fine aggregate
+Coarse
+Aggregate
+Cement
+Cement Flyash
+Blend
+Precoat oil
+
+Internal
+transport
+
+Transport of
+precoat oil
+
+Transport of
+cementitious
+materials
+
+Transport of
+explosives
+
+Aggregate
+production
+plant
+
+Electricity
+
+Diesel
+Petrol
+
+Pollutants
+
+Explosives (gravel
+only)
+
+Modelled data used
+— selected
+representative
+product for results of
+this LCA sudy
+
+Background data
+used to model
+
+Diesel
+
+Background data
+used to model
+
+Background data
+used to model
+
+Electricity
+
+Diesel
+Petrol
+Mains water
+
+Water — other
+sources (lakes,
+groundwater,
+rainwater)
+
+Water discharge
+from site
+
+Solid waste
+
+Electricity provider
+invoices
+
+Supplier invoices
+
+National Pollution
+Inventory (NPI) data
+
+Invoices
+
+Holcim Breakdown of
+Materials (BOM)
+inventory used for QTY
+of material blended with
+aggregates.
+
+Holcim Breakdown of
+Materials (BOM)
+inventory used for QTY
+of material blended with
+aggregates
+
+Diesel burned by site
+vehicles for internal
+transport within the
+
+aggregate site is
+included in the site
+resource use data based
+on supplier invoices
+
+Background data
+includes ‘transport to
+customer’
+
+Conservative
+assumptions on distance
+and transport mode as
+provided by Holcim
+technical team
+
+Electricity provider
+invoices
+
+Supplier invoices
+
+Water utility invoices
+
+Estimate based on water
+balance
+
+Estimate based on
+Holcim site performance
+metrics
+
+Waste data reports
+based on waste service
+provider invoices
+
+2019 All states High
+2019 All states High
+2019 All states High
+All states (excluding
+the Kalgoorlie
+Quarry in WA which ;
+arS purchases raw feed QEL
+from an external
+source)
+2019 All states High
+2019 All states High
+2019 All states High
+2019 All states Medium
+2019 All states Medium
+2019 All states High
+2019 All states High
+2019 All states High
+2019 All states Medium
+2019 All states Medium
+2019 All states High
+
+ViroDecs " Aggregates EPD | Holcim 13
+
+on
+o
+>
+œ
+=
+<
+2
+©
+>
+©
+£
+=
+
+Assumptions and Limitations
+
+The key assumptions and limitations of the study are summarised in the table below.
+
+Impact on LCA
+
+Assumption or limitation
+results
+
+Cost of production data was assessed to be the most accurate proxy for
+the physical relationships underlying the processes. Cost of production
+
+Use of internal cost of data is linked to Holcim's cost of production data and is therefore unlikely
+production data to allocate Medium to have significant errors. Outliers in the results were investigated and
+energy inputs determined to be justified based on real differences between sites, such
+
+as the different degrees of rock blasting and quarrying activity at each
+
+Transport distances
+assumed or generic for all
+raw materials barring quarry
+materials
+
+Low
+
+System diagram
+
+site.
+
+Conservative assumptions regarding transport distance were made
+
+based on country of origin and transport mode information.
+
+The processes included in the LCA are presented in a process diagram in the figure below.
+
+Raw material extraction
+
+Cement plant
+
+On-site
+transport
+
+Processing
+and
+blending
+
+Quarrying
+
+On-site
+transport
+
+Processing
+and
+blending
+
+ViroDecs " Aggregates EPD | Holcim
+
+14
+
+on
+o
+>
+œ
+=
+<
+2
+©
+>
+©
+£
+=
+
+Description of system boundaries and excluded lifecycle stages
+
+The scope of the LCA and EPD is from crade to gate. Life cycle stages beyond Holcim's gate are excluded
+from the LCA (see figure below).
+
+on
+o
+>
+œ
+=
+<
+2
+©
+>
+©
+£
+=
+
+Environmental impacts relating to personnel, infrastructure and production equipment not directly consumed in
+the process are excluded from the system boundary as per the Product Category Rules (2012:01 Construction
+products and construction services).
+
+Benefits &
+
+Construction Use Stage End of Life Stage loads for the
+
+Product Stage
+
+Stage next product
+
+system
+
+u
+u
+= =
+> = Q E Q a a = =
+S S Œ © a L D 3 e D &
+œ > = G es G c > = E = = En
+3 © © = 2 Ë È [e)] © D = me o
+(9) € E € = — = + . = = TD e O a M —
+— © 5 e] œ — œ Ts D 2 Q ES © D El ©
+G Q 2 Q = œ D = O e = Z Q @ es
+Sn ra) œ ra) S D £ = £E £ CR = D E = 2 5
+— —
+
+LS SN CN MEN ON MOMENT ME Eu MON LE Ne 88
+> FF  & # = S = Ê E ELLE E) F 7 C D +
+= = © e S ] S & œ à d il œ
+ü © 2 © e = G a] C œ d
+œ D = œ = Le es © S Ca
+
+E à D 5 O  ? œ
+
+D I © 5 © & si]
+
+= (4 D 8 œ
+
+O
+AT A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 CS C4 D
+X X X ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+* Not declared (ND)
+
+ViroDecs " Aggregates EPD | Holcim 15
+EPD product description
+
+This EPD covers Holcim's range of aggregates sold in Australia. The following table outlines the
+
+product groups covered in this EPD.
+
+Aggregate
+type
+
+Cement
+treated
+
+Product Group
+
+Natural Sand
+
+Manufactured
+Sand
+
+Drainage Filter
+
+Dust
+
+Customer Spec.
+Roadbase
+
+Other Roadbase
+
+Recycled
+Products
+
+Ballast
+
+Concrete
+Aggregates
+
+Asphalt
+Aggregates
+
+Sealing
+Aggregates
+
+Other Aggregates
+
+Precoat
+Aggregates
+
+Cement-treated
+Products
+
+Component Products
+
+Fine sand
+Mortar sand
+Coarse sand
+Fill sand
+
+Manufactured sand
+
+Drainage filter
+
+Dust
+
+Asphalt dust
+
+NSW Roads and Maritime Services (RMS) Densely Graded Base (DGB)
+QLD Transport and Main Roads (TMR) Unbound Pavement (UBP)
+VicRoads specified aggregate product
+
+WA Main Roads Department (MRD) specified aggregate product
+SA Department for Infrastructure and Transport specified aggregate
+product
+
+Base material
+
+Crusher run
+
+Scalps
+
+Processed fill
+
+Subbase material
+
+Recycled fill
+
+Recycled concrete
+
+Ballast
+
+Concrete aggregate 5mm
+Concrete aggregate 7 mm
+Concrete aggregate 10 mm
+Concrete aggregate 14mm
+Concrete aggregate 20mm
+Concrete aggregate other
+
+Asphalt aggregate 5mm
+Asphalt aggregate 7 mm
+Asphalt aggregate 10 mm
+Asphalt aggregate 14mm
+Asphalt aggregate other
+Sealing aggregate 7 mm
+Sealing aggregate 10 mm
+Sealing aggregate 14mm
+Sealing aggregate other
+Armour rock
+
+Decorative rock
+
+Round pebbles
+Overburden
+
+Shot rock
+
+Size graded rock
+
+Spalls
+
+Precoat aggregate 5mm
+Precoat aggregate 7 mm
+Precoat aggregate 10 mm
+Precoat aggregate 14mm
+Precoat aggregate other
+Cement-treated roadbase
+Cement-treated dust
+
+ViroDecs " Aggregates EPD | Holcim
+
+[=
+S
+£
+
+©.
+"EC
+
+O
+
+(A
+
+©
+T
+e
+
+e
+
+_
+T
+
+[e)
+
+Le
+CE
+
+16
+Content declaration
+
+The following table provides a summary of the materials included in Holcim's aggregate
+products groups and their relative composition by weight.
+
+[=
+(e]
+=
+©.
+=
+©
+7]
+cQ
+L°)
+—
+©
+=]
+T
+[e)
+=
+©
+
+Aggregate 94%-100%
+Cementitious material 0-6%
+Pre-coat oil 0-2%
+Packaging Default background data from LCA databases was
+
+used to model fly ash. The AusLCI process for fly ash
+treats it as a waste material and only includes
+
+Holcim aggregate is delivered in bulk with no -
+transport impacts.
+
+packaging.
+
+The allocation approach of the AusLCI LCA database
+was adopted as a default for secondary data and
+processes (e.g. secondary fuel in cement production).
+The AusLCI dataset conforms to EN 15804 when
+
+Recycled material
+
+BS EN 16757:2017 specifically lists the following applying allocation to its various processes and sub-
+materials relevant to the study as co-products: processes.
+e Fly ash;
+
+As such, the above materials are considered as co-
+products of their production process and the impacts
+for their production process are allocated according to
+PCR 2012:01 Construction Products and Construction
+Services (co-produced goods, multi-output allocation).
+
+ViroDecs " Aggregates EPD | Holcim 17
+Environmental performance
+
+The environmental impacts considered in this EPD are listed in the table below. AIl further
+tables from this point will contain the abbreviation only.
+
+Impact Category Abbreviation Measurement Unit
+
+Global warming potential WP kg CO equivalents (GWP100)
+Ozone depletion potential ODP kg CEC 11 equivalents
+Acidification potential AP kg SO2 equivalents
+Eutrophication Potential EP kg PO4S- equivalents
+Photochemical ozone creation potential POCP kg C2H2 equivalents
+Abiotic depletion potential (elements) ADPE kg Sb equivalents
+Abiotic depletion potential (fossil fuels) ADPF MJ net calorific value
+
+Use of renewable primary energy excluding renewable primary energy
+
+. PERE M9, net calorific value
+resources used as raw materials
+Use of renewable primary energy r r raw material ”
+p y gyresources usedas)ra alerlars PERM MJ, net calorific value
+Total use of renewable primary energy r rl rimary ener n ee
+| p ÿ gy esources Guen EU PERT MJ, net calorific value
+primary energy resources used as raw materials)
+Use of non-renewable primary ener xcluding non-renewable prim u
+p ÿ ergy € een neneneselR names PENRE MJ, net calorific value
+energy resources used as raw materials
+f non- renewable primar i e
+Use of non- renewable primary energy resources used as raw materials PENRM dE mi eite ve lue
+
+Total use of non- renewable primary energy resources (primary energy
+
+and primary energy resources used as raw materials) PENRT M9, net calorific value
+Use of secondary material SM kg
+Use of renewable secondary fuels RSF M9, net calorific value
+Use of non-renewable secondary fuels NRSF M9, net calorific value
+Use of net fresh water FW m3
+RTE
+Hazardous waste disposed HWD kg
+Non-hazardous waste disposed NHWD kg
+Radioactive waste disposed/stored RWD kg
+Components for reuse CRU kg
+Materials for recycling MER kg
+Materials for energy recovery MER kg
+Exported energy EE MJ per energy carrier
+
+A representative product was selected from each product group to represent the group in the environmental impact
+results. The criteria for selection are outlined in the LCA information section. Variability for results within the product
+groups was greater than + 10%.
+
+ViroDecs " Aggregates EPD | Holcim 18
+
+@
+(=)
+=
+œ
+=
+©
+€
+©
+©
+œ
+fe
+=
+©
+=
+=
+[e]
+=
+>
+€
+LU
+
+Australia Wide
+
+Holcim ViroDecs'" Aggregates - Fine (1 tonne) $
+8
+GWP kg CO, eq. 6.52 3.10 6.01 5.98
+
+ODP kg CFC 11 eq. 6.51E-08 3.59E-10 2.29E-08 4.15E-08
+
+AP kg SO, eq. 4.46E-02 1.86E-02 3.22E-02 2.87E-02
+
+EP kg PO. eq. 1.23E-02 4.83E-03 8.67E-03 7.60E-03
+
+POCP kg C,H, eq. 1.38E-03 3.64E-04 7.74E-04 7.62E-04
+
+ADPE kg Sb eq. 6.19E-06 8.31E-08 2.46E-06 3.12E-06
+
+ADPF MJ 7.77E+01 4.58E+01 7.56E+01 6.48E+01
+
+Resource Use
+
+PERE MINCV 2.47E+00 2.65E-02 1.92E+00 1.42E+00
+PERM MINCV 0.00E +00 0.00E+00 0.00E+00 0.00E+00
+PERT MINCV 2.47E+00 2.65E-02 1.92E+00 1.42E+00
+PENRE MINCV 7.78E+01 4.58E+01 7.56E+01 6.48E+01
+PENRM MINCV 0.00E +00 0.00E+00 0.00E+00 0.00E+00
+PENRT MINCV 7.78E+01 4.58E+01 7.56E+01 6.48E+01
+SM Le] 0.00E +00 0.00E+00 0.00E+00 7.4T7E-01
+RSF MINCV 0.00E +00 0.00E+00 0.00E+00 0.00E+00
+NRSF MINCV 0.00E +00 0.00E+00 0.00E+00 0.00E+00
+FW m° 3.46E-02 4.38E-04 8.61E-03 1.01E-02
+
+Output categories
+
+HWD Le] 4.68E-04 3.09E-07 1.36E-04 1.69E-04
+NHWD Le] 3.55E-01 4.26E-03 2.82E-01 2.17E-01
+RWD Le] 3.83E-07 3.45E-09 1.28E-07 1.62E-07
+CRU Le] 0.00E +00 0.00E +00 0.00E+00 0.00E+00
+MER kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+MER kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+EE MJ 0.00E+00 0.00E+00 0.00E +00 0.00E+00
+
+ViroDecs " Aggregates EPD | Holcim 19
+Holcim ViroDecs'" Aggregates - Course (1 tonne)
+
+8
+
+Impact Ballast Other Asphalt Sealing Concrete Precoat Other Spec. £
+
+Category Aggregates Aggregates Aggregates Aggregates Aggregates Roadbase Roadbase cs
+
+Potential Environmental Impacts BR 3
+
+GWP kg CO, eq. 7.81 6.12 9.24 8.16 7.98 31.71 6.17 3.26 a
+
+ODP kg CFC 11 eq. 3.97E-08 2.62E-08 3.94E-08 1.67E-08 2.51E-08 4.15E-08 2.38E-08 6.26E-09 8
+AP kg SO, eq. 2.22E-02 2.82E-02 3.85E-02 4.86E-02 4.21E-02 1.52E-01 2.66E-02 2.65E-02
+EP kg PO* eq. 6.29E-03 7.59E-03 1.05E-02 1.28E-02 1.13E-02 1.74E-02 7.25E-03 6.97E-03
+POCP kg C,H, eq. 7.16E-04 7.11E-04 9.78E-04 1.08E-03 9.16E-04 6.64E-03 6.58E-04 5.48E-04
+ADPE kg Sb eq. 4.11E-06 2.44E-06 4.17E-06 1.89E-06 2.76E-06 6.51E-06 2.63E-06 7.10E-07
+ADPE MJ 9.78E+01 8.51E+01 1.13E+02 1.17E+02 1.05E+02 2.78E+03 7.75E+01 4.46E+01
+PÈRE MINCV 2.47E+00 6.97E-01 2.23E+00 9.23E-01 1.45E+00 1.04E+00 1.96E+00 5.14E-01
+PERM MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 1.76E+00 0.00E+00 0.00E+00
+PERT MINCV 2.47E+00 6.97E-01 2.23E+00 9.23E-01 1.45E+00 2.81E+00 1.96E+00 5.14E-01
+PENRE MINCV 9.78E+01 8.51E+01 1.13E+02 1.17E+02 1.05E+02 5.46E+01 7.75E+01 4.46E+01
+PENRM MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 2.73E+03 0.00E+00 0.00E+00
+PENRT MINCV 9.78E+01 8.51E+01 1.13E+02 1.17E+02 1.05E+02 2.78E+03 7.75E+01 4.46E+01
+SM kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 9.51E-05 0.00E+00 0.00E+00
+RSF MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+NRSF MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+1.27E-02 6.12E-03 2.02E-02 8.27E-03 3.43E-02 1.02E-01 9.00E-03 2.57E-03
+
+EE
+
+2.67E-04 1.91E-04 2.10E-04 1.15E-04 1.52E-04 1.36E-04 1.51E-04 3.79E-05
+NHWD Le] 3.60E-01 9.90E-02 4.55E-01 7.45E-02 2.57E-01 4.62E-01 2.87E-01 7.62E-02
+RWD Le] 2.33E-07 1.56E-07 8.10E-07 1.06E-07 1.41E-07 3.41E-07 1.39E-07 3.69E-08
+CRU Le] 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+MER Le] 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+MER kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+EE MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+ViroDecs " Aggregates EPD | Holcim 20
+Holcim ViroDecs'" Aggregates - Cement Treated (1 tonne)
+
+rl
+
+2
+
+œ
+
+D
+
+Cement- £
+
+0.5% Cement- 1% 1.5% 2% 2.5% treated 3% 3.5% 4% 5% 6% Ex
+
+Impact Cement- treated Cement- Cement- Cement- Cement- Creternen Cement- Cement- Cement- Cement- Cement- Cement- «
+
+Category treated Other treated treated treated treated AT treated treated treated treated Dust treated treated Fe
+
+Roadbase | Roadbase | Roadbase | Roadbase | Roadbase | Roadbase Ro bise Roadbase | Roadbase | Roadbase Roadbase | Roadbase 7
+
+©
+
+€
+
+GWP kg CO, eq. 7.77 8.12 10.11 12.51 13.67 14.74 14.74 17.52 19.21 22.21 21.16 24.34 33.88 Ê
+
+ODP kg CFC 11 6.01E-08 3.88E-08 8.60E-08 1.13E-07 1.21E-07 1.31E-07 1.31E-07 1.30E-07 1.81E-07 1.68E-07 1.69E-07 2.25E-07 2.71E-07 ô
+AP kg SO, eq. 2.52E-02 4.89E-02 3.06E-02 3.55E-02 3.78E-02 4.00E-02 4.00E-02 4.58E-02 4.90E-02 5.53E-02 4.98E-02 5.93E-02 7.84E-02
+EP kg PO,” eq. 6.40E-03 1.23E-02 7.64E-03 8.69E-03 9.19E-03 9.66E-03 9.66E-03 1.08E-02 1.16E-02 1.28E-02 1.15E-02 1.38E-02 1.80E-02
+POCP kg C,H, eq. 6.98E-04 1.01E-03 8.53E-04 9.90E-04 1.05E-03 1.11E-03 1.11E-03 1.24E-03 1.37E-03 1.49E-03 1.36E-03 1.64E-03 2.10E-03
+ADPE kg Sb eq. 3.61E-06 1.86E-06 4.69E-06 5.75E-06 6.15E-06 6.59E-06 6.59E-06 7.61E-06 8.57E-06 9.35E-06 8.59E-06 1.05E-05 1.33E-05
+ADPF MJ 7.06E+01 7.80E+01 8.69E+01 1.02E+02 1.08E+02 1.15E+02 1.15E+02 1.28E+02 1.43E+02 1.56E+02 1.40E+02 1.73E+02 2.26E+02
+PERE MINCV 1.49E+00 5.20E-01 1.77E+00 2.01E+00 2.12E+00 2.23E+00 2.23E+00 4.78E+00 2.67E+00 5.22E+00 2.67E+00 3.17E+00 4.10E+00
+PERM MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+PERT MINCV 1.49E+00 5.20E-01 1.77E+00 2.01E+00 2.12E+00 2.23E+00 2.23E+00 4.78E+00 2.67E+00 5.22E+00 2.67E+00 3.17E+00 4.10E+00
+PENRE MINCV 7.06E+01 7.80E+01 8.69E+01 1.02E+02 1.08E+02 1.15E+02 1.15E+02 1.28E+02 1.43E+02 1.56E+02 1.40E+02 1.73E+02 2.26E+02
+PENRM MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+PENRT MINCV 7.06E+01 7.80E+01 8.69E+01 1.02E+02 1.08E+02 1.15E+02 1.15E+02 1.28E+02 1.43E+02 1.56E+02 1.40E+02 1.73E+02 2.26E+02
+SM kg 0.00E+00 0.00E+00 1.50E+00 3.00E+00 2.75E+00 3.13E+00 3.13E+00 0.00E+00 6.00E+00 0.00E+00 0.00E+00 6.50E+00 0.00E+00
+RSF MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+NRSF MINCV 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+3.70E-02 7.48E-03 4.24E-02 4.59E-02 4.75E-02 4.90E-02 4.90E-02 3.15E-02 5.57E-02 3.83E-02 3.26E-02 6.27E-02 7.51E-02
+
+nee RS PS PS PS PE PS PE
+
+1.43E-04 9.85E-06 1.57E-04 1.62E-04 1.64E-04 1.66E-04 1.66E-04 1.19E-04 1.75E-04 1.27E-04 1.46E-04 1.83E-04 1.97E-04
+
+NHWD kg 1.84E-01 9.84E-02 2.39E-01 2.92E-01 3.12E-01 3.34E-01 3.34E-01 3.52E-01 4.33E-01 4.41E-01 4.76E-01 5.33E-01 6.80E-01
+RWD Kg 1.68E-07 5.81E-08 2.05E-07 2.36E-07 2.48E-07 2.61E-07 2.61E-07 5.15E-07 3.19E-07 5.65E-07 3.53E-07 3.78E-07 4.67E-07
+CRU kg 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+MER Le] 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+MER Le] 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+EE MJ 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+
+ViroDecs " Aggregates EPD | Holcim 21
+Interpretation
+
+Holcim ViroDecs'" Aggregates
+
+Care should be taken when comparing EPDs. The EPD of construction products may not be comparable if they
+do not comply with the requirements of comparability set in EN 15804. EPDs within the same product category
+but from different programmes may not be comparable.
+
+Holcim's aggregates have a range of greenhouse gas (GHG) emissions, across the different product groups
+covered by the EPD. The following section presents the GHG emissions associated with 1 tonne of Holcim
+aggregates in Australia. To evaluate the performance of Holcim's ViroDecsTM Aggregates range, the EPD results
+can be benchmarked against the IS materials calculator default base case aggregates and the Australian National
+Life Cycle Inventory Database (AusLCI). Benchmarking in Green Star can be done as per the guidance for credit
+19B.1 (Life Cycle Impacts).
+
+The global warming potential data produced by the study indicate varying degrees of impact across the 24
+product groups modelled in this LCA study. Medium sized coarse aggregates such as ballast, other aggregates
+and asphalt aggregates had the lowest median global warming potential impacts per tonne of aggregate (as
+determined by the ‘representative product’ selected for each product group per the process outlined earlier in this
+EPD). This is likely due to the reduced processing requirements for these products. The cementitious products
+had a significantly higher impact (even at 0.5% cement content). Graphs of the cradle to gate global warming
+potential results for the representative product of each product group are presented in figures below.
+
+7.0
+5.98
+6.0
+5.0
+4.0
+
+3.0
+
+2.0
+
+Greenhouse gas emissions (kg CO.-e / tonne aggregate)
+
+1.0
+
+0.0
+Drainage Filter Natural Sand Manufactured Sand Dust
+
+Holcim ViroDecs'" Aggregates - Fine - Cradle to gate global warming potential (kg CO-e / per tonne)
+
+ViroDecs " Aggregates EPD | Holcim 22
+
+=
+(°]
+=
+©
+&
+©
+=
+Q
+=
+©
+o
+=
+
+35.0
+
+31.71
+
+uone)91d19ju]
+
+a
+S
+m
+
+Customer
+
+Other
+Roadbase
+
+6.17
+E .
+
+Precoat
+Aggregates
+
+7.98
+
+Concrete
+Aggregates
+
+8.16
+Sealing
+Aggregates
+
+9.24
+Asphalt
+
+Aggregates
+
+6.12
+Other
+
+Aggregates
+
+7.81
+Ballast
+
+Holcim ViroDecs'" Aggregates — Coarse - Cradle to gate global warming potential (kg CO-e / per tonne)
+
+a o a o a a
+LOQ [e] LQ [®] LO [e]
+[NI NN El i
+
+(ex6a166e auuo] / 28-709 6x) suoissiuse se esnouuse1o
+
+Spec.
+Roadbase
+
+33.88
+
+aseqpeoy palea1]-JU2LU8D 9
+
+aseqpeoy pareal-JUOUU2D 96G
+
+24.34
+
+1snq perau-Juauua
+
+21.16
+
+22.21
+
+aseqpeoy pareal-JUOUUSD
+
+aseqpeoy parea1]-JUOU8D 9SG'E
+
+19.21
+
+aseqpeoy pareal-JUOU2D €
+
+17.52
+
+eseqpeoy ‘2edS 18L0]SN9 p212211-JU8I99
+
+aseqpeoy pareal-lUOU8D SZ
+
+14.74
+
+14.74
+
+aseqpeoy pareal-JUOUUSD 2
+
+aseqpeoy parea1-JUOUU8D GT
+
+12.51
+
+13.67
+
+aseqpeoy palea1}-JUELUED TI
+
+10.11
+
+eseqpeoy 19UJO Palea1j-IUSLUSD
+
+8.12
+
+FF
+R eseqpeox pa]ea1]-JUSU9) %G'0
+FF
+
+Q Q Q Q Q Q Q Q
+
+LO [e] LO [e] LQ [e] LO [e}
+
+om om [IN NN Lau) Lau)
+
+(exe6a166e euuo] / 3-09 6x) suoissiuse se ssnoyuss1s
+
+Holcim ViroDecs'" Aggregates - Cement Treated - Cradle to gate global warming potential (kg CO-e / per tonne)
+
+23
+
+ViroDecs " Aggregates EPD | Holcim
+References
+
+Australasian EPD Programme. (2017). Guidance
+on the use of INA in EPDs.
+
+Australasian EPD Programme. (2018). Guidance
+on the use of background LCI data.
+
+Australasian EPD Programme. (2018). Instructions
+of the Australasian EPD Programme V3.0.
+
+Australian Life Cycle Inventory Database Initiative
+(AuSLCI). (2015). Guidelines for Data Development for
+an Australian Life Cycle Inventory Database, Data
+Standard.
+
+British Standards Institution. (2014). Sustainability of
+construction works. Environmental product
+declarations. Core rules for the product category of
+construction products, BS EN 15804:2012+A1:2013.
+British Standards Institution.
+
+British Standards Institution. (2017). Sustainability of
+construction works — Environmental product
+declarations
+
+— Product Category Rules for concrete and concrete
+elements, BS EN 16757:2017. British Standards
+Institution.
+
+Ecoinvent Centre. (2019). ecoinvent version 3
+database. Zurich: ETH, Agroscope, EMPA, EPFL,
+PSI. Retrieved from www.ecoinvent.org
+
+EPD International. (2017). General Programme
+Instructions (GP) for the International EPD System
+V3.0. Retrieved from www.environdec.com
+
+References
+
+EPD International. (2018). Product Category
+Rules for Construction Products and
+Construction Services, PCR2012:01 v2.3.
+Stockholm: EPD International.
+
+ISO. (2006). Environmental labels and declarations
+
+-- Type Ill environmental declarations -- Principles
+and procedures, ISO 14025:2006. Geneva:
+International Organization for Standardization.
+
+ISO. (2006). Environmental management -- Life cycle
+assessment -- Principles and framework, ISO
+14040:2006. Geneva: International Organization for
+Standardization.
+
+ISO. (2018). Environmental management. Life cycle
+assessment. Requirements and guidelines, ISO
+14044:2006+A1:2018. Geneva: International
+Organization for Standardization.
+
+AusLCI (2019). AusLCI Database. Retrieved from
+AUSLCI: www.auslci.com.au/
+
+ViroDecs " Aggregates EPD | Holcim 24
+Programme-related information and verification
+
+Holcim
+
+sms" E PD
+
+Declaration Owner
+
+EPD Programme Operator
+
+EPD Produced by
+
+Product category rules
+
+Product group classification
+Geographical Scope
+
+Reference Year for Data
+
+Holcim (Australia) Pty Ltd
+Level 7 Tower B,
+
+799 Pacific Highway
+Chatswood NSW 2067,
+Australia
+
+Web: www.holcim.com.au
+Phone: +61 2 9412 6600
+
+EPD Australasia Limited
+
+315a Hardy Street Nelson
+
+7010
+
+New Zealand
+
+Web: www.epd-australasia.com Email:
+info@epd-australasia.com Phone: 02
+8005 8206
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+(à EDGE
+
+PCR 2012:01 Construction Products and Construction Services, Version
+2.3, 2018-11-15
+
+UN CPC 54
+
+Edge Environment Pty Ltd
+
+Web: www.edgeenvironment.com
+Phone: +612 9438 0100
+
+Email: info@edgeenvironment.com
+
+SP-02332
+
+2021-05-18
+
+2.0 Version | Revision date 2023-05-11
+2026-05-17
+
+Australia
+
+2019
+
+CEN standard EN 15804:2012+A1:2013 served as the core PCR
+
+Product category rules
+
+PCR review was conducted by
+
+Independent third-party
+verification of the declaration
+and data, according to ISO
+14025:2006:
+
+Third Party Verifier
+
+Procedure for follow-up of
+data during EPD validity
+involves third party verifier:
+
+PCR 2012:01 Construction Products and Construction Services, Version
+2.3, 2018-11-15
+
+The Technical Committee of the International EPD® System. Chair:
+Massimo Marino. Contact via info@environdec.com
+
+CO] EPD process certification
+X EPD verification
+
+Jane Anderson ConstructionLCA
+Limited Approved by: EPD
+Australasia
+
+ConstructionLCA
+
+Programme-related information and verification:
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product
+category but from different programmes may not be comparable. EPDSs of construction products may not be
+comparable if they do not comply with EN 15804.
+
+ViroDecs " Aggregates EPD | Holcim 25
+Holcim
+
+Contact your local customer service team Australia-wide on 1300 555 277
+
+Holcim (Australia) Pty Ltd
+
+Level 7 Tower B, 799 Pacific Highway
+Chatswood NSW 2067 Australia
+
+ABN 87 099 732 297
+
+www.holcim.com.au
+
+This publication supersedes all previous literature on this subject. As the specifications
+and details contained in this publication may change please check with Holcim Customer
+Service for confirmation of current issue. This publication provides general information
+only and is no substitute for professional technical engineering advice. Users must make
+their own determination as to the suitability of this information or any Holcim product for
+their specific circumstances. Holcim accepts no liability for any loss or damage resulting
+from any reliance on the information provided in this publication. Holcim is a registered
+trademark of Holcim Ltd. “Strength. Performance. Passion.” and “ViroDecs” are
+trademarks of Holcim (Australia) Pty Ltd.
+
+© 2023 Holcim (Australia) Pty Ltd ABN 87 099 732 297. All rights reserved. This guide or
+any part of it may not be reproduced without prior written consent of Holcim.

@@ -1,0 +1,64 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "epd_version": "3",
+    "epd_registration_number": "S-P-08538",
+    "publication_date": "2023-04-21",
+    "revision_date": "2023-05-29",
+    "valid_until": "2028-04-20",
+    "third_party_verification": "TECNALIA R&I Certificaciôn S.L.",
+    "auditor": "Cristina Gazulla Santos",
+    "accredited_by": "ENAC",
+    "accreditation_number": "125/C-PR283"
+  },
+  "product_description": {
+    "product_name": "ECOPact: ULTRA SERIES PROYECTADO",
+    "product_description": "Holcim is a leading manufacturer and supplier of high quality concrete and mortar, and has projects and activities on road and network, collective housing.",
+    "intended_application": "flooring and paving",
+    "un_cpc_code": "375 Articles of concrete, cement and plaster"
+  },
+  "lca_information": {
+    "functional_unit": "One m3 of ready-mix of concrete/mortar",
+    "reference_service_life": "100 years",
+    "time_representativeness": "2021",
+    "system_boundaries": "Cradle to grave and Module D (A+B+C+D)",
+    "databases_and_software": "Ecoinvent database version 3.8, Simapro 9.3",
+    "impact_models": "UNE-EN 15804:2014+A2:2019"
+  },
+  "transport_and_installation": {
+    "transport": {
+      "fuel_type": "Truck of 16-32 tn. Fuel consumption: 43 L/100 Km",
+      "distance": "10.3 km",
+      "capacity_utilisation": "according to Ecoinvent database"
+    },
+    "installation": {
+      "auxiliary_materials": "No auxiliary material used",
+      "water_use": "Not used",
+      "other_resources": "No other resource consumption",
+      "product_losses": "2%"
+    }
+  },
+  "end_of_life": {
+    "deconstruction_demolition": "use of diesel during the demolition process",
+    "transport_to_waste_processing": {
+      "model": "16-32 tn truck. Fuel consumption: 25 1/100 Km",
+      "distance": "50 km"
+    },
+    "waste_processing": "89% recycled",
+    "disposal": "11% landfilled"
+  },
+  "carbon_emission_context": {
+    "carbon_footprint_registry": "Registered for 2016, 2017, 2018, 2019, 2020",
+    "co2_absorption_projects": "Ministerio para la Transición Ecológica y el Reto Demográfico de España"
+  },
+  "recycled_materials_handling": {
+    "recycling_potential": "89% recycled",
+    "avoided_product": "crushed gravel"
+  },
+  "additional_info": {
+    "sustainable_development_principles": "Management System, control environmental impact, contribution to the circular economy, transparent relationship with the environment",
+    "circular_economy_commitment": "Reuse the value of waste as resources",
+    "quarry_restoration": "Proactive restoration for more than 30 years"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "epd_metadata": {
+    "owner": "Holcim (Australia) Pty Ltd",
+    "owner_address": "Level 40, Northpoint Tower, 100 Miller St, North Sydney NSW 2060, Australia",
+    "owner_phone": "+61 2 9412 6600",
+    "owner_website": "www.holcim.com.au",
+    "programme": "The International EPD® System",
+    "programme_website": "www.environdec.com",
+    "epd_registration_number": "EPD-IES-20761:001",
+    "valid_from": "17/04/2025",
+    "valid_until": "17/04/2030",
+    "revision_number": 1,
+    "accreditation_body": "Epsten Group, Inc.",
+    "process_certification_body": "Epsten Group",
+    "process_certification_contact": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+    "process_certification_website": "www.epstengroup.com",
+    "regional_programme": "EPD Australasia",
+    "regional_programme_website": "www.epd-australasia.com",
+    "regional_programme_contact_email": "info@epd-australasia.com",
+    "regional_programme_contact_phone": "+61 2 8005 8206",
+    "epd_produced_by": "Edge Environment Pty Ltd",
+    "epd_produced_by_address": "Level 3, Greenhouse, 180 George Street, Sydney NSW 2000 Australia",
+    "epd_produced_by_website": "www.edgeimpact.global",
+    "epd_produced_by_phone": "+61 2 9438 0100",
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2023 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+A2:2019/AC:2021",
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+    "product_category_rules": "c-PCR-003 Concrete and Concrete Elements, 2024-04-30",
+    "third_party_verifier": "Epsten Group, Inc., Megan Blizzard",
+    "third_party_verifier_accreditation": "A2LA, Certificate #3142.03"
+  },
+  "product_description": {
+    "product_name": "Ready-Mix Concrete",
+    "product_code": "QZ502EEZY",
+    "production_site": "Murarrie",
+    "functional_unit": "1 m3 of ready-mix concrete",
+    "product_use": "General use concrete including footpaths, slabs, foundations, normal class concrete",
+    "product_weight_per_m3": 2400,
+    "material_composition_percent_by_weight": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%"
+    },
+    "post_consumer_recycled_material_percent": 0.0,
+    "biogenic_material_kg_per_m3": 0.0,
+    "dangerous_goods_classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail",
+    "hazardous_substances": "None listed in Candidate List of Substances of Very High Concern for authorisation",
+    "packaging": "Delivered in bulk with no packaging"
+  },
+  "lca_information": {
+    "declared_unit": "1 m3 of ready-mix concrete",
+    "scope": "Cradle to gate (modules A1-A3) with options (modules A4-A5), modules C1-C4 and module D",
+    "reference_service_life": null,
+    "time_representativeness": {
+      "plant_data": "2022 calendar year",
+      "mix_data": "2023 calendar year"
+    },
+    "databases_and_software_used": [
+      "SimaPro® LCA software (v 9.5)",
+      "Australian National Life Cycle Inventory Database (AusLCI v1.42) (2023)",
+      "Ecoinvent 3.9.1 (2023)"
+    ],
+    "allocation": {
+      "method": "Physical allocation based on weight or m3 of concrete; economic allocation used when physical allocation not possible",
+      "fly_ash_and_silica_fumes": "Assumed waste products and burden-free",
+      "ground_granulated_blast_furnace_slag": "Allocated economically"
+    },
+    "cut_off_criteria": {
+      "excluded": [
+        "Environmental impact from infrastructure, construction, production equipment, and tools not directly consumed",
+        "Personnel-related impacts such as transportation to and from work"
+      ],
+      "included": "All materials required for manufacturing delivered via trucks and ships without packaging"
+    },
+    "data_quality": {
+      "geographic_representativeness": "Good to very good",
+      "temporal_representativeness": "Data updated within 10 years as required",
+      "background_data_sources": "Assessed as good or very good"
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "EUROS 28t - 32t trucks",
+      "average_transport_distance_km": 11.89,
+      "fuel_type": "Diesel",
+      "fuel_use_l_per_km": 0.0197,
+      "carrying_capacity_tonnes": 28,
+      "density_kg_per_m3": 2400,
+      "volume_capacity_utilization_percent": 50
+    },
+    "installation": {
+      "operational_control": "No operational control by Holcim",
+      "assumptions": "Based on industrial expertise and GCCA tool",
+      "inputs": {
+        "concrete_losses_to_landfill_percent": 3.0,
+        "water_use_liters": 669,
+        "electricity_use_kWh": 2.78,
+        "diesel_use_liters": 1.67,
+        "wastewater_liters": 0.669
+      },
+      "activities_included": "Pouring concrete from truck and pump, manual finishing; excludes pre-installation activities"
+    }
+  },
+  "end_of_life": {
+    "control": "No control by Holcim over end-of-life fate",
+    "assumptions": {
+      "deconstruction": {
+        "method": "Physical process of drilling and removing concrete using hydraulic excavator",
+        "diesel_use_liters": 0.131
+      },
+      "collection": {
+        "separate_collection_percent": 100,
+        "delivery_distance_km": 25
+      },
+      "processing": {
+        "recycling_rate_percent": 80,
+        "recycled_material_kg": 1920
+      },
+      "final_disposal": {
+        "landfill_type": "Inert waste landfill",
+        "waste_kg": 480
+      }
+    }
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions_building_environment_percent": 39,
+    "global_co2_emissions_construction_materials_percent": 11,
+    "targets": {
+      "2030_embodied_carbon_reduction_percent": 40,
+      "2050_net_zero_construction_materials": true
+    },
+    "carbonation": {
+      "description": "Natural process of CO2 absorption by concrete over its lifetime",
+      "considered_in_epd": false,
+      "standard_for_calculation": "BS EN 16757:2017"
+    },
+    "electricity_mix_by_state": {
+      "NSW_ACT": {
+        "black_coal": 75,
+        "photovoltaic": 17,
+        "natural_gas": 3,
+        "hydropower": 3,
+        "others": 2,
+        "kg_co2_eq_per_kWh": 0.72
+      },
+      "QLD": {
+        "black_coal": 71,
+        "natural_gas": 12,
+        "photovoltaic": 8,
+        "oil": 4,
+        "others": 5,
+        "kg_co2_eq_per_kWh": 0.8
+      },
+      "SA": {
+        "wind_power": 61,
+        "natural_gas": 34,
+        "photovoltaic": 4,
+        "others": 1,
+        "kg_co2_eq_per_kWh": 0.3
+      },
+      "VIC": {
+        "natural_gas": 44,
+        "brown_coal": 41,
+        "wind_power": 8,
+        "hydropower": 3,
+        "others": 4,
+        "kg_co2_eq_per_kWh": 0.84
+      },
+      "WA": {
+        "natural_gas": 65,
+        "wind_power": 26,
+        "black_coal": 8,
+        "others": 1,
+        "kg_co2_eq_per_kWh": 0.57
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_method": {
+      "fly_ash": "Treated as waste material; only transport impacts included",
+      "ground_granulated_blast_furnace_slag": "Economic allocation due to significant economic value",
+      "silica_fume": "Treated as waste material; only transport impacts included"
+    },
+    "database_allocation_approach": "AusLCI LCA database allocation approach conforming to EN 15804",
+    "recycling_rate_end_of_life_percent": 80,
+    "recycled_aggregate_use": "Recycled aggregate replaces virgin coarse aggregate depending on product performance requirements"
+  },
+  "additional_info": {
+    "environmental_impact_indicators": {
+      "primary_indicators": {
+        "GWP_Total_kg_CO2_eq": 2.04,
+        "GWP_Fossil_kg_CO2_eq": 2.04,
+        "GWP_Biogenic_kg_CO2_eq": 0.985,
+        "GWP_Luluc_kg_CO2_eq": 0.0195,
+        "ODP_kg_CFC11_eq": 4.25e-06,
+        "AP_mol_H_eq": 1.35,
+        "EP_F_kg_PO4_eq": 0.0393,
+        "EP_M_kg_P_eq": 0.153,
+        "EP_T_kg_N_eq": 3.23,
+        "POCP_mol_N_eq": 0.83,
+        "ADPE_kg_NMVOC_eq": 0.0322,
+        "ADPF_MJ": 1681,
+        "WDP_MJ": 63.1
+      },
+      "resource_use_parameters": {
+        "PERE_MJ": 51.9,
+        "PERM_MJ": 0,
+        "PERT_MJ": 51.9,
+        "PENRE_MJ": 1699,
+        "PENRM_MJ": 0,
+        "PENRT_MJ": 1699,
+        "SM_kg": 304,
+        "RSF_MJ": 3.56,
+        "NRSF_MJ": 0,
+        "EW_m3": 1.35
+      },
+      "waste_categories_and_output_flows": {
+        "HWD_kg": 0.00208,
+        "NHWD_kg": 76.8,
+        "RWD_kg": 5.96e-05,
+        "CFR_kg": 0,
+        "MER_kg": 0,
+        "MFE_kg": 0,
+        "EE_e_MJ": 0,
+        "EE_t_MJ": 0
+      },
+      "additional_environmental_impact_indicators": {
+        "GWP_GHG_kg_CO2_eq": 2.67,
+        "PM_disease_incidence": 1.99e-05,
+        "IRP_kBq_U235_eq": 831,
+        "ETP_fw_CTUe": 846,
+        "HTP_c_CTUh": 3.89e-07,
+        "HTP_nc_CTUh": 1.14e-05,
+        "SQP_dimensionless": 455
+      },
+      "additional_green_star_indicators": {
+        "HTc_GS_CTUh": 8.73e-09,
+        "HTnc_GS_CTUh": 1.4e-09,
+        "LU_GS_kg_C_deficit_eq": 12.0,
+        "IR_GS_kBq_U235_eq": 0.253,
+        "PM_GS_kg_PM2.5_eq": 1.99e-05,
+        "WSI_GS_m3": 2.63
+      }
+    },
+    "excluded_lifecycle_stages": [
+      "Material emissions from usage (B1)",
+      "Maintenance (B2)",
+      "Repair (B3)",
+      "Replacement (B4)",
+      "Refurbishment (B5)",
+      "Operational energy use (B6)",
+      "Operational water use (B7)"
+    ],
+    "references": [
+      "AusLCI Database v1.42 (2023)",
+      "Australasian EPD Programme Guidance documents (2017, 2018, 2024)",
+      "Australian Life Cycle Inventory Database Initiative Guidelines (2023)",
+      "British Standards Institution BS EN 15804:2012+A2:2019 and BS EN 16757:2017",
+      "Department of Climate Change, Energy, the Environment and Water National Waste Report 2022",
+      "Ecoinvent version 3.9.1 database (2023)",
+      "EPD International General Programme Instructions and PCR documents (2024)",
+      "European Committee for Standardization EN 16757:2022",
+      "ISO 14025:2006, ISO 14040:2006, ISO 14044:2006+A1:2018",
+      "Green Building Council of Australia (2022)",
+      "World Green Building Council (2019)",
+      "Scientific articles on carbon footprint of Australia's construction sector"
+    ]
+  }
+}

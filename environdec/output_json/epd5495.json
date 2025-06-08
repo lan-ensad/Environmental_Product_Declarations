@@ -1,0 +1,93 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim (Australia) Pty Ltd",
+    "epd_produced_by": "Holcim",
+    "epd_process_certified_by": "Epsten Group",
+    "epd_registration_number": "S-P-05495",
+    "valid_from": "17 March 2023",
+    "valid_until": "17 March 2028",
+    "product_category_rules": "PCR 2019:14 Construction Products, Version 1.11, 2021-02-05",
+    "product_group_classification": "UN CPC 54",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2017 Plant Data, 2023 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+A2:2019"
+  },
+  "product_description": {
+    "product_name": "ViroDecs Ready-mix concrete",
+    "region": "Western Australia — South West Region — ECOPact Range",
+    "strength_classes": [
+      "S20 20mm ECOPact 100mm SLUMP",
+      "S20 14mm ECOPact 100mm SLUMP",
+      "S25 20mm ECOPact 100mm SLUMP",
+      "S25 14mm ECOPact 100mm SLUMP",
+      "S25 10mm ECOPact 100mm SLUMP",
+      "S32 20mm ECOPact 100mm SLUMP",
+      "S32 14mm ECOPact 100mm SLUMP",
+      "S32 10mm ECOPact 100mm SLUMP",
+      "S40 20mm ECOPact 100mm SLUMP",
+      "S40 14mm ECOPact 100mm SLUMP",
+      "S40 10mm ECOPact 100mm SLUMP",
+      "S32 14mm ECOPact 180mm SLUMP",
+      "S32 10mm ECOPact BLOCKMIX",
+      "S32 10mm ECOPact KERB AND Channel"
+    ],
+    "content_declaration": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    }
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "reference_service_life": null,
+    "time_representativeness": "2017 calendar year production data, 2023 mix data",
+    "databases_and_software_used": [
+      "SimaPro® LCA software (v 9.1)",
+      "Australian National Life Cycle Inventory Database (AusLCI) (2018)",
+      "Ecoinvent 3.6 (2019)",
+      "Global Cement and Concrete (GCCA) EPD Tool Project Database version 3.1 (2021)"
+    ],
+    "allocation": "Fly ash and silica fumes are waste products and burden-free. Ground granulated blast furnace slag allocated economically.",
+    "cut_off_criteria": "No flows were excluded on the basis of cut-off criteria."
+  },
+  "transport_and_installation": null,
+  "end_of_life": {
+    "scenarios": [
+      "Disposal of concrete at a landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete"
+    ]
+  },
+  "carbon_emission_context": {
+    "carbonation": "Concrete absorbs CO2 from the atmosphere through a chemical reaction, partially offsetting emissions."
+  },
+  "recycled_materials_handling": {
+    "materials": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": "AusLCI LCA database allocation approach adopted as default."
+  },
+  "additional_info": {
+    "references": [
+      "Australasian EPD Programme. (2017). Guidance on the use of INA in EPDs.",
+      "Australasian EPD Programme. (2018). Guidance on the use of background LCI data.",
+      "Australasian EPD Programme (2019) Instructions of the Australasian EPD Programme V3.01.",
+      "Australian Life Cycle Inventory Database Initiative (AusLCI). (2018). Guidelines for Data Development for an Australian Life Cycle Inventory Database, Data Standard.",
+      "British Standards Institution. (2019). Sustainability of construction works. Environmental product declarations. Core rules for the product category of construction products, BS EN 15804:2012+A2:2019.",
+      "British Standards Institution. (2017). Sustainability of construction works — Environmental product declarations — Product Category Rules for concrete and concrete elements, BS EN 16757:2017.",
+      "Ecoinvent Centre. (2019). Ecoinvent version 3 database. Zurich: ETH, Agroscope, EMPA, EPFL, PSI.",
+      "EPD International. (2019). General Programme Instructions (GP) for the International EPD System V3.01.",
+      "EPD International. (2021). Product Category Rules for Construction Products, PCR2019:14 v1.11.",
+      "ISO. (2006). Environmental labels and declarations — Type III environmental declarations — Principles and procedures, ISO 14025:2006.",
+      "ISO. (2006). Environmental management — Life cycle assessment — Principles and framework, ISO 14040:2006.",
+      "ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines, ISO 14044:2006+A1:2018.",
+      "AusLCI. (2018) AusLCI Database.",
+      "Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Tait, ‘The Carbon Footprint of Australia’s Construction Sector’, Procedia Engineering, Volume 180, 2017, Pages 211-220, ISSN 1877-7058."
+    ]
+  }
+}

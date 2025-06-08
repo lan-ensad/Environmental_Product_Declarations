@@ -1,0 +1,684 @@
+ECO PLATFORM
+
+Y? HOLCIM SAR) = EPD'
+
+VERIFIED
+
+EPD Dorosol®- Holcim Romania
+
+ISO 14020; ISO 14025; ISO 14040; ISO 14044; EN 15804; EN 16908; ISO 21930
+Edition 1; Revision 2: April 2025
+Environmental Product Declaration in accordance with ISO 14025:2006 and EN 15804:2012+A2:2019/AC:2021
+
+1. Programme information
+
+Programme Operator: The International EPDe System
+EPD International AB
+
+Box 210 60
+
+SE-100 31 Stockholm
+Sweden
+www.environdec.com
+info@environdec.com
+
+Declaration Holder Holcim (Romania) SA
+
+no.46D-46E-48 Pipera street,
+
+OREGON PARK: building B, floor 6, District 2, RO 020308
+Bucharest, Romania
+
+Phone: +4021 2317708/09
+Contact person: Georgiana Vatui
+Email: alexandrageorgiana.vatui@holcim.com
+
+Company identification information:
+Trade Register No: J2002000399403
+VAT number: RO 12253732
+
+nn
+
+LCA consultant ERM, exchequer court, 33 St Mary Axe,
+London EC3A 8AA, United Kingdom
+Www.erm.com
+
+Contact person: Emma Green
+Email'emma.green@erm.com
+
+EPD:Registration number. Een TCyer:
+
+Publication Date 2022-08-18
+Version Date 2025-04-11
+Valid Until 2027-08-17
+
+© 2022 Holcim (Romania) SA
+
+L
+EPD DOROSOLS® Road Binder — Holcim Romania
+
+Product group classification: UN CPC 3744 CEMENT
+
+Product category rules (PCR): CEN Standard EN 15804:2012+A2:2019 served as the core
+PCR. PCR 2019:14-c-PCR-001 c-PCR-001 Cement and building lime (EN 16908) (2022-05-
+18)
+
+PCR review was conducted by: The Technical Committee of the International EPD System.
+Chair:
+Massimo Marino. Contact via
+
+Independent third-party verification of the declaration and data, according to ISO 14025:2006:
+C1 EPD process certification X EPD verification
+
+Third party verifier: Dr Hüdai Kara PhD
+Approved by: The International EPDe System
+
+Procedure for follow-up of data during EPD validity involves third party verifier:
+
+[ Yes x No
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD. EPDs within the same product category
+but from different programmes may not be comparable. EPDs of construction products may not be comparable if they do
+not comply with EN 15804.
+
+EPDSs within the same product category but registered in different EPD programmes, or not compliant with EN 15804, may not be
+comparable. For two EPDs to be comparable, they must be based on the same PCR (including the same version number) or be based on
+fully-aligned PCRSs or versions of PCRSs; cover products with identical functions, technical performances and use (e.g. identical
+declared/functional units); have equivalent system boundaries and descriptions of data; apply equivalent data quality requirements, methods
+of data collection, and allocation methods; apply identical cut-off rules and impact assessment methods (including the same version of
+characterisation factors); have equivalent content declarations; and be valid at the time of comparison. For further information about
+comparability, see EN 15804 and ISO 14025.
+
+2. Company Information
+
+This cradle-to gate environmental product declaration is for 1 tonne of average Dorosol® special binder
+production from the locations fully owned and operated by Holcim in Romania, as follows:
+
+Alesd Cement Plant Pitesti Road Binder Plant
+Street Viitorului, No.2, Postal code 417022 Postal code 110138, Str. Depozitelor 10,
+Chistag Village, Bihor County, Romania Pitesti, Romania
+
+Holcim Romania is the study commissioner and EPD owner.
+
+To respect the principles of Sustainability strategy
+sustainable development, the company Holcim Romania sustainability strategy is
+implemented, maintained and continuously gevennes by ol Claus este ei
+improves an effective integrated management becoming a NET ZERO company and
+system, in accordance with the applicable spearheading the transition towards low-
+reference standards: SR EN ISO 9001:2015, SR ROMEO
+
+EN ISO 14001:2015, SR ISO 45001:2023: BES circular none from alternative fuels to
+concrete recycling.
+6001:2022.
+
+Dorosol® is one of Holcim Romania’s hydraulic road binders. Further information is publicly available on
+https://econcept.holcim.ro/sustenabilitate
+
+© 2022 Holcim (Romania) SA 1
+EPD DOROSOL® Binder — Holcim Romania
+
+3. Product Information
+
+This EPD provides information concerning Dorosol® special binder produced by Holcim in Romania as
+detailed in Table 1.
+
+DOROSOLS are Holcim Romania special binders for improving cohesive soils. produced as a
+combination of hydraulic compounds, Portland cement clinker and quicklime, in accordance with the
+technical specifications in force.
+
+The geographical scope of this EPD is Romanian.
+
+3.1 Technical Specification of Product
+
+Table 1: Technical specification and usage
+
+Details
+
+For improving and stabilizing the cohesive soils used for the
+construction of embankments, foundation layers and form layers in
+geotechnical works and road construction.
+
+The range of DOROSOLS special binders includes several
+products, depending on their CaO content:
+
+e  DOROSOL® C30
+e  DOROSOLS C50
+e  DOROSOLSF
+
+Technical and As stipulated in the Technical Agreement
+Functional
+
+Characteristics
+
+Identification
+
+For special geotechnical works, civil works, and communication
+Ways to:
+
+e improve the soil with reduced mechanical strength (soil
+
+Intended Application sensitive to humidity, compressible, swampy etc.)
+
+e _stabilize embankments and slopes
+
+e increase the bearing capacity of capping layers for road
+construction
+
+© 2025 Holcim (Romania) SA 2
+EPD DOROSOL® Binder — Holcim Romania
+
+3.2 Content declaration
+
+53— 57%
+
+10—11%
+
+drated Lime 17-18%
+Bypass 15 - 20%
+
+Table 2: DOROSOL® composition
+
+The product composition for the product is provided in the Tables below. The binder does not meet the
+criteria for PBT (Persistent, Bio-accumulative and Toxic) or vPvV (very Persistent and very Bio-
+accumulative) in accordance with Annex XIII of Regulation (EC) No. 1907/2006 of the European
+Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals
+(REACH). Furthermore, cement/cementitious binders are a mixture, and it is exempted from REACH
+registration.
+
+3.3 Manufacturing Process
+
+The main steps in the binder manufacturing process are as follows, andillustrated in Figure 1:
+Quarrying and raw material preparation
+
+Clinker production
+
+Cement grinding and distribution.
+Binder production
+
+Figure 1: Process flow diagram
+
+CEM — cement
+Qt -Quickirne
+FA — Fiy Ash
+
+BP-Bypass aust
+
+© 2025 Holcim (Romania) SA 3
+Quarrvyinqg
+Natural raw materials used for the clinker manufacture are calcareous materials like limestone or marl,
+and argillaceous materials like clay. These materials are extracted using drilling and blasting techniques.
+
+rusher
+The quarried material is then reduced in size by compression and / or impact in various mechanical
+crushers. Crushed rock is reduced in size from 120 cm to between 1.2 and 8 ca. Drying of raw material
+may also be necessary for efficient crushing and pre-blending.
+
+nveyor
+Raw material is then transported from the quarry to the plant using conveyors.
+
+Mixing bed
+The crushed limestone and clay is homogenized by stacking and reclaiming in a long layered stockpile.
+This material is then ready for milling and drying in the kiln.
+
+Raw Mill
+
+The raw materials are milled and dried in a vertical roller mill in Campulung Plant and in a horizontal ball
+mill in the Alesd Plant. In the case of the vertical roller mill, heavy rollers are held over a rotating table,
+and in the horizontal ball mill, balls are rolled over until the coarse material is milled fine enough to be
+carried by air to a homogenizing silo.
+
+Preheater
+
+Cyclone preheaters enable the raw material of cement production to be preheated before entry into the
+kiln. This increases the energy efficiency of the kiln as the material is about 20-40% calcined at the point
+of entry into the kiln. Additionally, calciners are integrated in both plants kiln systems, further increasing
+the efficiency of the process.
+
+Kiln
+
+The kiln is designed to maximise the efficiency of heat transfer from fuel burning to the raw material. In
+the preheater tower the raw materials are heated rapidly to a temperature of about 10000C, where the
+limestone decarbonisation occurs. In the rotating kiln, the temperature reaches up to 20000C. At this
+high temperature, minerals fuse together to form predominantly calcium silicate crystals — cement
+clinker.
+
+Binder Pr ion
+
+The cement is mixed with other minor constituents in the road binder plants of Holcim Romania. The
+cement produced in Alesd is mixed with additional constituents on site and the cement produced at
+Campulung is transported to Pitesti for mixing.
+
+No packaging is associated with Dorosol®. The products are delivered only in bulk, with cement trucks.
+3.4 Additional Information
+
+More information about binders’ environmental stewardship and occupational health and safety
+aspects are detailed within the SDS made publicly available on Holcim Romania portal
+https://www.holcim.ro/ro/produse-si-servicii/produse . AI SDS have been developed by Holcim
+Romania in compliance with the requirements of Regulation (EU) 2020/878 amending the annex Il of
+Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration,
+Evaluation, Authorisation and Restriction of Chemicals (REACH) and according to Regulation (EC) No
+1272/2008 on the Classification, Labelling and Packaging of substances and mixtures (CLP).
+
+© 2025 Holcim (Romania) SA 4
+EPD DOROSOL® Binder — Holcim Romania
+
+4.LCA Information
+4.1 Goal of Study
+
+The goal of this study was to generate an environmental profile of DOROSOLS binder produced and
+delivered from the locations fully owned and operated by Holcim Romania, to better understand the
+associated lifecycle environmental impacts and to allow a Type III EPD to be generated and made public
+via the International EPD System.
+
+4.2 Declared Unit
+
+The declared unit of the EPD is 1 tonne of DOROSOLS produced and delivered from the locations
+fully owned and operated by Holcim Romania. This EPD is established for the weighted average
+product of theses manufacturing plants. The average is based on the mass of binder produced
+
+at each plant.
+
+4.3 System Boundary
+
+System boundaries determine the unit processes to be included in the LCA study and which data
+as “input” and/or “output” to/from the system can be omitted.
+
+This EPD covers the cradle to gate stage (A to A3), because other life cycle stages are
+dependent on scenarios and are better developed for specific building or construction
+works.
+
+System boundaries are according to the modular approach and the cradle to gate stage is divided
+into the upstream (A1) and core (A2 and A3) phases, as outlined in Figure 2. Life cycle stage that
+are not covered by the EPD are indicated as MND (Module Not Declared).
+Information modules pet EPD |
+
+a) Cradle to gate with b} Cradle to gate <) Cradle to grave and f) Construction service
+
+module C1-C4 and with module C1-C4, module D EPD: Cradle to gate with
+
+module D !! module D and optional modules At-A5 and
+optional modules
+
+modules ional
+A1-A3 Product Mandatory Mandatory Mandatory Mandatony
+stage
+
+A4-A5 Optional for goods Mandatory Mandatory
+Construction Mandatory for services
+process stage A5) Construction installation (see alternative A
+
+Recommended if a
+
+defaut scenario can be
+
+defined
+
+B Use stage — Optional Mandatory Optional
+B4) Replacement
+B5) Refurbishment
+B8) Operational energy use
+B7) Operational water use
+
+C End of life C1) Deconstruction. demolition Mandatory Mandatory Optional
+stage
+
+D Benefits and D} Reuse, recovery, recychng, Mandatory Mandatory
+
+ioads beyond potential
+
+the system
+
+boun:
+
+Deciared or functional unit
+
+inclusion of reference service life (RSL) Optional Mandatory if any module | Mandatory
+
+in B is included
+
+Figure 2: Modules included in the DOROSOLS® LCA
+
+© 2025 Holcim (Romania) SA 5
+EPD DOROSOL® Binder — Holcim Romania
+4.4 Data sources and quality
+
+The geographical system boundary of the LCA is Romania. All processes are valid for the production sites
+in Romania. The two cement plants account for 100% of total DOROSOLS produced by Holcim in
+Romania.
+
+All material flows of the processes are based on company and site-specific data gathered for one
+year of operation, for the period 1st January 2021 — 30 September 2021.
+
+Modelling of the life cycle of Holcim Romania DOROSOL® binder was performed using SimaPro v.9.1 LCA
+software from PRé.
+
+All relevant background LCI datasets are taken from the Ecolnvent database v3.8 (cut-off)
+released in 2021.
+
+The foreground data has been collected on site and validated based on mass balances. The
+background data is based on reviewed data from life cycle inventories. As all datasets are
+validated, the data quality for the entire study can be judged as very good.
+
+4.5 Allocation
+
+The foreground data has been collected on site and validated based on mass balances. The allocation is
+performed according to the basic rules from EN15804:2012+A2:2019. As no co-products are produced, the
+flow of materials and energy and also the associated release of substances and energy into the
+environment is therefore related exclusively to the binder produced.
+
+All data is included based on measured data for each plant. To ensure high representativeness
+for calculation of the DOROSOL® this specific data has been weighted based on the production
+mass of each plant, as follows:
+
+36,077.77
+
+43,607.32
+
+79,685.09
+
+55% 45%
+
+Table 3: Holcim Romania —- DOROSOL® Production
+
+4.6 Cut-off Criteria and assumptions
+
+In the process of building an LCI it is typical to exclude items considered to have a negjligible (aka relatively
+inconsequential or immaterial) contribution to results. To do this in a consistent and robust manner there
+must be confidence that the exclusion is fair and reasonable. To this end, cut-off criteria were defined in
+this study, which allow items to be neglected if they meet the criteria. In accordance with EN15804,
+exclusions could be made if they were expected to be within the below criteria and the total neglected input
+flows per module do not exceed 5% of energy usage and mass:
+
++ Mass: when using mass as a cut-off criterion, it is appropriate to require the inclusion in the study of
+all inputs that cumulatively contribute more than a defined percentage to the mass input of the product
+system being modelled.
+
+© 2025 Holcim (Romania) SA 6
+EPD DOROSOL® Binder — Holcim Romania
+
+° _ Energy: similarly, an appropriate decision, when using energy as a criterion, is to require the inclusion
+in the study of those inputs that cumulatively contribute more than a defined percentage of the product
+system's energy inputs.
+
+° __ Environmental significance: decisions on cut-off criteria should be made to include inputs that
+contribute more than an additional defined amount of the estimated quantity of individual data of the
+product system that are specially selected because of environmental relevance.
+
+The production of the materials that have been excluded from the product system under study are listed in
+Table 4. These materials are either waste derived or excluded due to their low economic value. While the
+production of these materials are excluded the material masses are part of the calculation and they are
+considered as secondary materials.
+
+Material Considered as
+
+Alternative Raw Material (slag / fly ash) Secondary Material
+By-bass dust Secondary Material
+Fly ash / acidic fly ash (ARSN) Secondary Material
+Granulated blast furnace slag Secondary Material
+Table 4: Secondary materials excluded from the product system
+
+The clinker production process uses non-renewable secondary fuels (Table 6). According to the PCR,
+secondary fuels are modelled to enter the studied system free of environmental loads. They are displayed
+as a resource use and all emissions occurring during the production process are allocated to the produced
+products.
+
+Fuel Considered as
+
+Mixed industrial waste Non-Renewable Secondary fuel
+Petroleum sludges Non-Renewable Secondary fuel
+Used / Waste oils Non-Renewable Secondary fuel
+Other biomass Non-Renewable Secondary fuel
+Sewage sludge Non-Renewable Secondary fuel
+Fresh saw dust Non-Renewable Secondary fuel
+Used tyres Non-Renewable Secondary fuel
+Table 5: Secondary fuels excluded from the product system
+
+In addition to the above, during the LCA several assumptions were made, which have been
+documented below for transparency:
+
+e No waste is produced during the clinker production process.
+
+e _ Thereis a difference between the mass of the raw meal consumed and the clinker produced which
+is due to the water (remaining humidity of raw materials) that evaporates and mainly CO2that is
+released from decarbonation.
+
+4.7 Comparability
+
+EPDs within the same product category but from different programmes may not be comparable.
+EPDs of construction products may not be comparable if they do not comply with EN 15804.
+
+© 2025 Holcim (Romania) SA 7
+EPD DOROSOL® Binder — Holcim Romania
+
+5. Environmental Performance
+The environmental impacts are declared and reported using the parameters and units shown in
+the Tables below. Baseline characterisation factors are taken from EF 8.0 methodology (dated November
+2019)
+The impact categories presented in the following table refer to 1 tonne of DOROSOL®
+
+produced from the locations fully owned and operated by Holcim in Romania.
+
+Parameter Unit Aî A2 A3 A1-A3
+
+Parameters describing environmental impacts
+
+GWP-total: Global Warming
+Potential total! kg CO2 eq. 161 7.73 191 360
+
+GWP - GHG kg COZ eq. 159 7.62 190 356.6
+GWP — Fossil: Global
+Warming Potential fossil fuels
+
+GWP-biogenic: Global
+Warming Potential biogenic
+GWP-luluc: Global Warming
+Potential land use and land kg COZ eq. | 387E-02 | 4.64E-03 | 9.26E-03 5.26E-02
+use change?
+
+ODP: Depletion potential of kg CFC 11
+the stratospheric ozone layer ed.
+
+kg COZ eq. 161 7.71 191 360
+
+kg COZ2 eq. | 7.62E-02 | 1.67E-02 | -1.43E-02 7.86E-02
+
+9.38E-06 | 1.62E-06 7.86E-06 1.89E-05
+
+AP: Acidification potential mol H+ eq. 2.42E-01 3.87E-02 2.70E-01 5,51E-01
+
+EP-freshwater:
+
+Eutrophication potential,
+fraction of nutrients reaching ICRA 4.85E-03 | 1.04E-03 | 5.83E-02 | 6.42E-02
+freshwater end compartment
+(EP-freshwater)
+
+EP-marine: Eutrophication
+
+potential, fraction of nutrients kg N ea.
+
+RCE HET CRE 5.14E-02 | 1.23E-02 1.48E-01 0.212
+compartment
+EP-terrestrial: Eutrophication
+potential, Accumulated mol N eq. 0.570 0.134 0.593 1.30
+Exceedance
+
+.: kg NMVOC
+POCP: Formation potential of 0.210 0.041 0.409 0.660
+
+tropospheric ozone eq.
+
+1 The total global warming potential (GWP-total) is the sum of
+— GWP-fossil
+
+— GWP-biogenic
+
+— GWP-luluc
+
+2Itis permitted to omit GWP-luluc as separate information if its contribution is < 5 % of GWP-total over the
+declared modules excluding module D.
+
+© 2025 Holcim (Romania) SA 8
+EPD DOROSOL® Binder — Holcim Romania
+
+ADP
+ADIO aepleltio
+O O ie
+ADP-TO ADIO
+Or 10 ie
+potentila
+DP aie
+deprivalion poie
+deprivailo eiq
+O DIIO
+D » DA
+enerq ed a
+» » Dana
+D a SO
+onte eg a
+PER otal re
+D a SO
+D D O a
+D a ie
+enero arrie
+D D O
+D a SO
+onte eg a
+P h oÏa
+D a SO
+econda
+DA N
+h ab
+D O a
+econda e
+of ne A ate
+D azardo
+asie dISposec
+
+kg Sb eq. 6.00E-05 | 2.15E-05 | 4.43E-05 1-26E-04
+
+My, net ;
+
+calorific 759 117 1140 2016
+
+value
+
+m3 world
+
+eq. 6.55 0.583 36.7 43.8
+
+deprived
+
+a ele Qe D e 6e O 650 e
+MJ 41.0 3.04 96.1 140
+MJ 1.33 0.468 3.28 5.08
+MJ 42.3 3.51 99.4 145
+MJ 761 119 1310 2190
+MJ 0 0 0 0
+MJ 761 119 1310 2190
+Kg 351 0 0 351
+MJ 0 0 0.167 0.167
+MJ 0 0 0.222 0.222
+ms -1.45E-02 | 1.70E-02 0.988 0.991
+
+a ete Qe D e a e DrOû O
+kg 5.87E-03 | 1.03E-03 8.57E-03 1.55E-02
+
+3 The abiotic depletion potential is calculated and declared in two different indicators:
+— ADP-minerals&metals include all non-renewable, abiotic material resources (i.e. excepting fossil
+
+resources);
+
+— ADP-fossil include all fossil resources and includes uranium.
+
+4 ultimate reserve model of the ADP-minerals&metals model
+
+© 2025 Holcim (Romania) SA 9
+
+EPD DOROSOL® Binder — Holcim Romania
+
+Parameter
+
+NHWD: Non-hazardous
+
+waste disposed 4.74 9.11 2.91 16.8
+
+RWD: Radioactive waste
+disposal
+
+4.91E-03 | 7.60E-04 | 8.21E-03 | 39-02
+
+Parameters describing outputs flows
+
+CRU: Components for reuse
+
+MR: Material for recycling
+
+MER: Materials for energy
+recovery
+
+ÉËÉE: Exported energy,
+electrical
+
+EET: Exported energy,
+thermal
+
+© 2025 Holcim (Romania) SA 10
+6. References
+
+Boulay et al (2017). The WULCA consensus characterization model for water scarcity footprint: assessing
+impacts of water consumption bases on available water remaining (AWARE). Water Use in LCA, 23.
+
+Centrum voor Milieuwetenschappen Leiden (CML) (2012). CML-IA baseline v4.1 / EU25 characterisation
+factors. CML, Leiden.
+
+PCR 2019_14 Construction Products (EN 15804+2)
+Cement and Building Lime (EN 16908:2017) C-PCR-001 (To PCR 2019:14) Version: 2019-12-20
+
+Ecoinvent (2017). Ecoinvent v3.4, Swiss Centre for Life Cycle Inventories. Available from
+www.ecoinvent.ch
+
+Guo (2012). Life Cycle Assessment (LCA) of Light-Weight Eco-composites. Springer, Berlin
+Huïjbregts, Steinmann, Elshout, Stam, Verones, Vieira, Zijp, Hollander, van Zelm. ReCiPe 2016: a
+harmonized life cycle impact assessment method at midpoint and endpoint level. International Journal
+of LCA, DOI 10.1007/s11367-016-1246-y.
+
+ISO (2000), ISO 14020:2000, Environmental labels and declarations — General principles
+
+ISO (2004), ISO 8601:2004 Data elements and interchange formats — Information interchange —
+Representation of dates and times
+
+ISO (2006a), ISO 14025:2006, Environmental labels and declarations — Type Il environmental
+declarations — Principles and procedures
+
+ISO (2006b), ISO 14040:2006, Environmental management — Life cycle assessment — Principles and
+framework ISO (2006c)
+
+ISO 14044: 2006, Environmental management — Life cycle assessment — Requirements and guidelines
+ISO (2013)
+
+ISO/TS 14067:2013, Greenhouse gases — Carbon footprint of products — Requirements and guidelines for
+quantification and communication
+
+ISO (2014), ISO 14046:2014, Environmental management — Water footprint — Principles, requirements
+and guidelines
+
+IPCC (2007). Working Group | Contribution to the IPCC Fourth Assessment Report Climate Change 2007:
+The Physical Science Basis, Summary for Policymakers. Intergovernmental Panel on Climate Change,
+Geneva
+
+IPCC (2006). 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 4: Agriculture,
+Forestry and Other Land Use. IPCC, Geneva
+
+JRC (2011). ILCD Handbook: recommendations for life cycle impact assessment in the European context.
+European Commission Joint Research Centre Institute for Environment and Sustainability.
+
+http://eplea.jrc.ec.europa.eu/?page id=86
+
+Pre Consultants (2019). SimaPro v9. Pre Consultant, Amersfoort
+
+Weidema B P, Bauer C, Hischier R, Mutel C, Nemecek T, Reinhard J, Vandenbo C O, Wernet G (2013).
+Overview and methodology: data quality guideline for the ecoinvent database version 3 (final). Swiss
+Centre for Life Cycle Inventories: St Gallen
+
+© 2025 Holcim (Romania) SA 11

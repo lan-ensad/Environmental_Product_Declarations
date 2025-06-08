@@ -1,0 +1,866 @@
+—— EPD
+
+THE INTERNATIONAL EPD® SYSTEM
+
+9 HOLCIM
+
+Environmental Product Declaration
+
+Under PCR 2019:14 Construction products (EN 15804:A2); Version 1.3.3; 2024-03-01
+and c-PCR-001 Cement and Building Lime (EN 16908:2019); 2022-05-18
+
+PRODUCT GROUP CLASSIFICATION: UN CPC 3744
+
+in accordance with 1S014025:2006 and 15804:2012+A2:2019/AC:2021 for:
+
+ECOPlanet
+
+Program: The International EPD® System www.environdec.com
+Program operator: EPD International AB
+
+EPD registration number: REF: S-P-08036
+
+Issue date: 2024-05-27
+
+Validity date: 2029-05-27
+
+An EPD should provide current information and may be updated if conditions
+change. The stated validity is therefore subject to the continued registration
+and publication at www.environdec.com.
+
+Geographical scope: Europe
+
+À
+e
+A
+/
+Æ
+
+4 ECO PLATFORM
+
+VERIFIED
+
+a
+LS
+
+nier)
+FAIRÈREERRER CTI rein
+
+( HOLCIM —… FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+PRESENTATION
+
+This declaration contains the environmental performance of the production of cement ECOPlanet
+
+I1/A 42.5 N /SRC manufactured by Holcim España, S.A.U. in Spain, in the plant located in Sagunto,
+Valencia.
+
+This EPD has been conducted according to the International EPD System regulation. This
+regulation is a system for the international use of Type III Environmental Declarations, according to
+ISO 14025:2010. Not only the system but also its applications are described in the General
+Programme Instructions (GPI 4). The report has been made following the specifications given in the
+CEN standard EN 15804:2012+A2:2019/AC:2021 and the Product Category Rule c-PCR-001
+Cement and Building Lime EN 16908:2019.
+
+The assessed life cycle includes all the stages needed to manufacture the product and have it
+ready for the customer at the exit gate of the factory.
+
+The EPD owner has the sole ownership, liability and responsibility for the EPD.
+
+EPDs within the same product category but from different programs may not be comparable. EPDs
+of construction products may not be comparable if they do not comply with EN 15804.
+
+Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+GENERAL INFORMATION
+
+Programme-related information and verification
+
+PROGRAMME
+
+This Environmental Product Declaration has been developed under the programme:
+The International EPDS System. https://environdec.com/
+
+Address: EPD International AB, Box 210 60, SE-100 31 Stockholm, Sweden.
+
+VERIFICATION
+
+ISO standard ISO 21930 and CEN standard EN 15804 serves as the core Product Category Rules
+(PCR).
+
+Product category rule:
+2019:14 Construction products (EN 15804:A2), Version 1.3.3 2024-03-01 and c-PCR-001
+Cement and Building Lime (EN 16908:2019) 2022-05-18.
+
+PCR review was conducted by:
+
+The Technical Committee of the International EPDS System. See www.environdec.com/TC for
+a list of members. Review chair: No chair has been appointed. The review panel may be
+contacted via the Secretariat www.environdec.com/contact.
+
+Independent verification of the declaration and data, according to ISO 14025:2006:
+
+& External Internal
+
+covering
+
+EPD process certification & EPD verification
+
+Third party verifier:
+
+Marcel Gômez
+
+Accredited by:
+Approved by The International EPD®S System Technical Committee, supported by the
+Secretariat.
+
+Procedure for follow-up during EPD validity involves third part verifier:
+Yes &XNo
+
+COMPARABILITY
+
+EPDs within the same product category but from different programmes may not be comparable.
+EPDs of construction products may not be comparable if they do not comply with EN 15804.
+Environmental declarations published within the same product category, though originating from
+different programs, may not be comparable. For two EPDs to be comparable, they must be based
+on the same PCR (including the same version number) or be based on PCR or fully aligned PCR
+versions; cover products with identical functions, technical performance and use (e.g. identical
+
+3 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+HOLCIM
+
+— EPD
+
+THE INTERNATIONAL EPD® SYSTEM
+
+declared/functional units); have equivalent system limits and data descriptions; apply equivalent
+data quality requirements, data collection methods, and allocation methods; apply identical cut-
+off rules and impact assessment methods (including the same version of characterization factors);
+have equivalent content statements; and be valid at the time of comparison. For more information
+on comparability, see EN 15804 and ISO 14025.
+
+The owner of this EPD, Holcim España, S.A.U., has the sole ownership, liability and responsibility on
+
+this EDP.
+
+CONTACT INFORMATION
+
+EPD owner:
+
+Holcim España, S.A.U.
+
+Avda. de Manoteras, 20; Edificio Tokyo, 1° Planta
+28050 Madrid, Spain
+
+www.holcim.es
+
+Tel + 91 213 31 00
+
+marketing.spain@holcim.com
+
+LCA author:
+
+Solid Forest S.L.
+
+Plaza Santa Maria Soledad Torres Acosta 1, 4°
+28004 Madrid, Spain
+
+www.solidforest.com
+
+info@solidforest.com
+
+Programme operator:
+
+The International EPDS System
+
+EPD International AB, Box 210 60, SE-100 31 Stockholm, Sweden.
+www.environdec.com
+
+info@environdec.com
+
+Verifier:
+
+Marcel Gémez Ferrer
+wWww.marcelgomez.com
+info@marcelgomez.com
+Tel: +34 630 64 35 93
+
+EPD-related information
+
+Version
+
+This is the first version of the EPD.
+
+Sectorial EPD
+
+This is not a sectorial EPD.
+
+Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM —… FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+COMPANY INFORMATION
+
+Product Provider
+
+ps e
+
+Holcim España, S.A.U.
+Avda. de Manoteras, 20
+
+28050 Madrid
+
+España
+
+Holcim España owns five cement factories in Spain, with an installed capacity of more than seven
+million tons per year, more than 20 concrete plants, two mortar plants, six terminals and one waste
+recovery plant, employing more than 700 people.
+
+Holcim España has a Research and Development Center for New Concretes and Mortars, where
+products are designed to meet the specific needs of customers. It also has a Central Quality
+Laboratory with an exclusive area dedicated to the analysis of alternative fuels.
+
+Holcim España is part of Holcim, a world leader in innovative and sustainable construction
+solutions. Holcim is enabling the development of greener cities, smarter infrastructure and
+improving living standards around the world. With sustainability at the heart of its strategy, Holcim
+is creating the path to becoming a net-zero company, with its people and communities at the heart
+of its success. The company is driving the circular economy as a global leader in recycling to build
+more with lessi,
+
+Holcim España sustainable practices
+
+Sustainability is at the heart of our strategy. Holcim España will continue to be at the forefront of
+sustainable construction solutions. On our journey to net zero, we are decarbonizing our business
+end-to-end, from our operations and products to the built environment.
+
+Decarbonizing our operations: Through our Geocycle business we recycle materials at the end of
+their life cycle as a source of alternative fuels.
+
+1 Holcim Climate Report 2023
+
+5 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = F PD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Decarbonizing our products: We offer the widest range of sustainable solutions, enabling low-
+carbon production at scale.
+
+Decarbonizing our built environment: Working towards a built environment with zero net
+emissions, we play an essential role in the entire construction lifecycle?.
+
+We care about nature: We work to generate a measurable and positive impact on water and
+biodiversity, protecting and recovering the natural resources that surround us$.
+
+From our ECOPlanet Low-CO2 Cement to our ECOPact Low-CO2 Concrete, we offer the world's
+first global range of low-carbon building materials. With the industry's broadest formulation
+expertise, we tailor our solutions to local needs by enabling low-carbon construction at scale.
+
+Product-related or management system-related
+certifications
+
+Holcim España has an integrated management system certified according to ISO 9001:2015
+“Quality Management” and ISO 14001:2015 “Environmental Management” standards.
+
+The Greenhouse Gases Emissions Inventory of Holcim España is verified every year according to
+the requirements of the ISO 14064-1:2018 “Green House Gases” standard and is included in the
+Carbon Footprint National Registry of the Ministerio para la Transicién Ecolégica y el Reto
+Demogräfico of Spain, obtaining the labels “Calculo”, for calculated carbon footprint and
+“Reduzco” for achieving a substantial GHG emissions reduction in the last five years.
+
+2 Holcim Net Zero Journey
+3 Holcim Nature Policy
+
+6 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+PRODUCT INFORMATION
+
+Product identification
+
+The system analyzed in this Declaration comprises the life cycle of the production of the cement
+ECOPlanet II/A 42.5 N /SRC (CPC 3744: “Portland cement, aluminous cement, slag cement and
+similar hydraulic cements, except in the form of clinkers“) manufactured by Holcim España in Spain,
+in the factory located in Sagunto, Valencia.
+
+Information about the product
+
+The Declared Unit of this LCA is one ton (1 000 kg) of product ready to be sent to the customer. The
+product included in this declaration is ECOPlanet III/A 42.5 N /SRC from Sagunto factory. All
+environmental impacts and use of resources, both direct and indirect, are reported to this unit.
+
+This assessment has been done using the production data of 2022.
+
+Composition
+D Es Je Post-consumer recycled Renewable
+material, weight% material, weight%
+Clinker 1% 0%
+Blast furnace slag 206 0% 0%
+Natural gypsum ï 0% 0%
+Minor additional constituents 0% 0%
+
+(e]
+
+*Including main components and additional constituents
+
+This product are marketed in bulk, so there are no packaging materials.
+
+Technical characteristics according to UNE-EN 197-1
+Mechanical and physical properties [Amount [Unit
+
+Compressive strength 2 days > 10 MPa
+Compressive strength 28 days > 42.5 y < 62.5 MPa
+Initial setting time > 60 min
+Soundness < 10 mm
+
+During the life cycle of the product any hazardous substance listed in the “Candidate List of
+Substances of Very High Concern (SVHO) for authorization” has not been used in a percentage
+higher than 0.1% of the weight of the product.
+
+7 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+LCA INFORMATION
+
+Declared Unit
+
+This EPD represents the environmental impacts of one ton (1 000 kg) of ECOPlanetIll/A 42.5 N /SRC
+manufactured by Holcim España in Sagunto, ready to send to customers.
+
+A reference service life is not relevant due to this cradle-to-gate boundary conditions.
+
+System boundaries
+
+This EPD covers all product stages from “cradle to gate” (modules A1-A3), since the product fulfils
+all the conditions required by EN 15804:2012+A2:2019/AC:2021 regarding the exclusion of
+modules B1 to D:
+
+1. The product is physically integrated with other products during installation so they
+cannot be physically separated at the end of life.
+
+2. The product is no longer identified at the end of life as a result of a physical-
+chemical transformation process.
+
+8. The product does not contain biogenic carbon.
+
+This means that all processes up to the output gate of
+the manufacturer are included, from quarry works and
+components manufacturing to transports of materials
+and fuels, factory process and final preparation. All direct
+and indirect environmental impacts have been
+calculated and are reported in this document.
+
+Holcim España has a complete control over all the
+processes within the factory and the quarry of main raw
+materials.
+
+The LCI includes, in accordance with EN 15804, a minimum of 95% of the total input flows (mass
+and energy) per module (e.g. A1-A3). In addition, the PCR applies the expanded cut-off rule of the
+ISO 21930 standard, which establishes at least 95% of the environmental impact per module.
+
+The only processes that are not controlled directly by the company are the production of main
+fuels, electricity and additions, the transport of the raw materials, and minor inputs excluded
+according to the cut-off rules.
+
+According to the PCR, the following elements or processes have also been excluded:
+
+e Manufacture of the equipment used in the production, buildings or any other capital goods.
+° Transport of people to the manufacturing plants.
+
+e Transport of people inside the manufacturing plants.
+
+e  R+D activities.
+
+e _Long-term emissions.
+
+8 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+n
+
+U’ HOLCIM
+
+“—— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+The specific electricity mix of the supplier, demonstrated by a guaranty of origin, has been used for
+processes occurring in the plants. This electricity mix has a Climate Change impact of 0.04 kg
+CO2e/kWh (GWP100-GHG).
+
+A simplified model of the process of cement manufacturing is described in the following diagrams,
+enumerating the main activities included in the system boundaries. The process and installations
+are also linked to the phases of the product life cycle (A1-A3).
+
+Etapa Etapa
+Etapa de Producto Proceso Etapa de Uso Etapa de Fin de Vida recuperaciôn
+Construcciôn de recursos
+[=
+:©
+[e]
+&
+o S
+œ @ c
+£ = 2 pe)
+= O O 7
+[ex [= "= = [=
+a S & | 8 | © 8 | 8 S 2,
+œ ] a] © £ 5 S ©
+= =) a > D D D & ©
+© D c & Q o ‘o N ©
+“ È o o 1 ro) © 5 ©
+£ ce œ c c = = 3 =
+re] (e] 5 œ «© d (0) v >
+(] © + [= œ = Le) D Le
+D c @ & = 2 S S 8 (] = CR]
+[e) 2 Ns) 2 D = 6 £ © € D S (o) É 6 LES
+5 É ‘6 É £E 2 :© © o] & E É S © =
+2 8 & 8 a = 8 S = œ œ a à | € cl © &
+£ a 2 a g no) 5 £ 8 Le) Le) 5 2 5 £ S 2
+56/15) 8 S|[S 25/8/1818 1|5S|%S|E£ 8 3
+@) FH LL FH (os = œ @) œ D D Q F F il à ®
+Médulo | A1 | A2 | A3 | A4 | A5 | B1 | B2 | B3 | B4 | B5 | B6 c1|C2|0c D
+Médulos
+X X X ND ND ND ND
+declarados
+Geografia | GLO | GLO | EU - = =
+Uso de datos
+à >95% GWP -
+especficos
+Variantes -
+productos
+Variantes - "
+us 1 sitio -
+sitios
+
+Product Stage
+
+Internal transports
+
+Quarry operation Production
+
+Manufactring or recovery of other Transport of external materials
+
+raw materials
+
+A3
+
+Manufacturing
+
+AT
+
+Raw material supply
+
+Transport
+
+In the A1 module the components and materials are extracted in a quarry or manufñfactured in a
+third-party location (i.e. manufacture of fuels). Raw materials that are not produced in the plant are
+transported to the plant by ship and/or truck (A2 module). In the manufacturing stage (A3), the
+
+9 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = F PD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+components of the clinker are heated and, once the clinker is produced, it is mixed with the
+additions and grinded to produce the final cement.
+
+This declaration is referred to the product marketed in bulk.
+
+The scenarios included are currently in use and are representative for one of the most probable
+alternatives.
+
+Technical Information
+
+Calculation Methodology
+
+This EPD represents Type Ill Environmental Declarations according to ISO 14025 2010. The inherent
+Life Cycle Assessment (LCA) has been developed according to ISO 14040 and ISO 14044
+International Standards, and following the International EPD System General Programme
+Instruction (GPI 4), the PCR 2019:14 Construction products (EN 15804:A2), Version1.3.3 2024-03-01
+and c-PCR-001 Cement and Building Lime (EN 16908:2019) 2022-05-18.
+
+Version 3.16 of software Air.e LCATM with Ecoinvent®" 3.9.1 database has been used for LCA
+modelling and impacts calculations.
+
+The following characterization models have been used:
+
+Impact Model Unit
+
+Baseline model of 100 years of the IPCC
+
+Global Warming Potential (GWP Total) (based on IPCC 2013)
+
+kg of CO equivalent
+
+Baseline model of 100 years of the IPCC
+
+Global Warming Potential (GWP Fossil) (based on IPCC 2013)
+
+kg of CO equivalent
+
+Baseline model of 100 years of the IPCC
+
+Global Warming Potential (GWP Biogenic) (based on IPCC 2013)
+
+kg of CO equivalent
+
+Baseline model of 100 years of the IPCC
+
+Global Warming Potential (GWP LULUC) (based on IPCC 2013)
+
+kg of CO equivalent
+
+Steady-state ODPs as in (WMO 2014 +
+
+Ozone depletion integrations)
+
+kg of CFC11 equivalent
+
+Accumulated Exceedance (Seppälä et al
+
+Acidification 2006, Posch et al, 2008)
+
+mol of H+ equivalent
+
+EUTREN, Struijs et al, 2009b, as implemented
+
+Eutrophication fresh water in ReCiPe
+
+kg of P equivalent
+
+EUTREN, Struijs et al, 2009b, as implemented
+
+Eutrophication marine water in ReCiPe
+
+kg of N equivalent
+
+Accumulated Exceedance (Seppälä et al
+
+Eutrophication terrestrial 2006, Posch et al, 2008)
+
+mol of N equivalent
+
+LOTOS-EUROS model (Van Zelm et al, 2008) as
+
+Photochemical ozone creation implemented in ReCiPe 2008
+
+kg of NMVOC equivalent
+
+CML 2002 (Guinée et al. 2002) and van Oers et
+
+Depletion of abiotic resources (elements) al 2002
+
+kg of Sb equivalent
+
+CML 2002 (Guinée et al. 2002) and van Oers et
+
+al. 2002 MJ net calorific value
+
+Depletion of abiotic resources (fossil fuels)*
+
+Available WAter REmaining (AWARE) as
+
+3 :
+recommended by UNEP, 2016 m” world equivalent
+
+Water scarcity*
+
+* The result of this environmental impact indicator shall be used with care as the uncertainties on these results are high or
+as there is limited experience with the indicator.
+
+10 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = F PD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+All processes related to the product have been included in the assessment.
+
+According to EN 15804:2012+A2:2019/AC:2021 and EN 16908:2017, some components with less
+than 1% impact or use of co-products with no significant economic value have been excluded from
+the assessment.
+
+AL transportation and components have been included in this LCA, considering real loads and
+distances traveled by the materials used between January 2022 and December 2022. The main
+means of transportation have been included for the purchase of fuel and external raw materials.
+Operations in the port have been excluded.
+
+The distances by road and sea have been mainly provided by the factory according to its own
+records.
+
+Assignments have been avoided where possible. Allocation was only used for verified direct
+emissions of the furnace, where the clinker produced can subsequently be used to produce
+different cements.
+
+Cut-off rules: more than 95% of the total input flows (mass and energy) per module (e.g. A1-A3)
+have been included. In addition, the PCR applies the expanded cut-off rule of the ISO 21930
+standard, which establishes at least 95% of the environmental impact per module.
+
+The recycled components are considered from the selection and processing plant of the recovered
+materials.
+
+The Polluter Payer Principle and the Modularity Principle had been followed.
+
+Emission Factors and Tools
+
+The emission factors and environmental impacts of the elements in the life cycles that are not
+controlled by Holcim España, or direct emissions that has not measured or calculated, come from
+Ecoinvent database, version 3.9.1, using the EN 15804 cut-off criteria of that database.
+
+The LCA has been developed using the software Air.e LCA v3.16.
+
+Data quality
+
+According to the environmental footprint product category rules quality data criteria, and
+considering that the data used for the processes is representative of the geography scope declared,
+that there was no need to significantly modify technical aspects and that the data is from the last
+complete year, and considering that the direct emissions of the manufacturing plant are third-party
+verified and included in the PRTR (Spanish National Emissions and Contaminant Sources Registry)
+and specifically the GHG emissions are included in the EU Emissions Trade System, the data quality
+is considered as high.
+
+11 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+ENVIRONMENTAL PERFORMANCE
+
+The following tables present the results of totalized potential environmental impacts and for each
+stage of the life cycle of "one ton (1 000 kg) of ECOPlanet III/A 42.5 N /SRC manufactured by
+Holcim España S.A.U. in Sagunto, marketed in bulk, ready to send to customers”. The estimated
+impact results are only relative statements that do not indicate the end points of the impact
+
+categories exceeding threshold values, safety margins or risks.
+
+Potential Environmental Impact
+
+AT A2 A3 Total
+@ | Total 72.32 65.69 371.39 509.41*
+Global Warming Potential Fossil 72.18 65.57 371.31 509.06*
+(GWP100)
+(kg of CO2 equivalent) Biogenic 0.12 0.07 0.03 0.22
+LULUC 0.02 0.05 0.05 0.12
+Ozone depletion 06 06 07 06
+& (kg of CFC11 equivalent) 6.66e 2.59e 1.32e 9.38e
+@ Acidification
+(mol of H+ equivalent) 0.38 1.13 0.74 2.24
+Eutrophication fresh water
+LR (kg of P equivalent) 1.22e 72 3.38e°2 2.40e 1.79e 2
+Eutrophication marine water L . . :
+LR (Kg OfN equivalent 7.61e 2.59e 1 3.75e°: 7.106":
+Eutrophication terrestrial
+LR (mol of N equivalent) 0.82 2.88 4.16 7.85
+Photochemical ozone creation
+[@% (kg of NMVOC equivalent) 0.65 0.84 1.01 2.51
+Depletion of  abiotic resources
+NT: (elements) 1.00e 04 1.166 0 3.156 % 5.32e%
+(kg of Sb equivalent)
+Depletion of abiotic resources (fossil
+LE fuels) 4355.41 940.23 33.86 5329.50
+(MJ net calorific value)
+Water depletion
+al (m3 world equivalent) 24.60 4.81 2.94 32.35
+
+*Net Emissions. Gross Emissions (including secondary fuels) = 536.47 kg CO2e
+**Net Emissions. Gross Emissions (including secondary fuels) = 536.12 kg CO2e
+
+12 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM _— FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Use of resources
+
+M9, net calorific value
+
+Use of RENEWABLE primary energy excluding renewable
+
+. . 15.07 9.77 3862.63 3887.47
+primary energy resources used as raw materials (PÈRE)
+Use of RENEWABLE primary energy resources used as raw <0.01 <0.01 <0.01 <0.01
+materials (PERM)
+Total use of RENEWABLE primary energy resources (primary 16.07 977 3862.63 3888.47
+
+energy and primary energy resources used as raw materials)
+
+M9, net calorific value
+
+Use of NON-RENEWABLE primary energy excluding non-
+
+. . 357.79 889.11 3394.05 4640.96
+renewable primary energy resources used as raw materials
+Use of NON-RENEWABLE primary energy resources used as <0.01 <0.01 <0.01 <0.01
+raw materials
+Total use of NON-RENEWABLE primary energy resources
+(primary energy and primary energy resources used as raw 357.79 889.11 3394.05 4640.96
+
+materials)
+
+2
+
+Le
+
+Use of secondary material 0.35 0.43 0.01 0.79*
+
+*The amount of secondary material in the product is that showed in AG. Stages A1 and A2 shows the amount of secondary
+material used to produce raw materials and transport services, but not included in the product.
+
+Use of net fresh water 0.29 0.12 0.16 0.57
+
+13 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+2
+
+CG HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Additional environmental information
+
+Additional mandatory environmental impacts
+
+Results per declared unit
+
+Indicator Total A1-A3
+
+GWP-GHG* kg CO: eq. 536.25
+* The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon
+dioxide uptake and emissions and biogenic carbon stored in the product. This indicator is thus
+almost equal to the GWP indicator originally defined in EN 15804:2012+A1:2015. Gross emissions
+(including secondary fuels).
+
+Waste production
+
+Results per declared unit
+
+Indicator Total A1-A3
+
+Hazardous waste disposed Kg 0.05
+
+Non-hazardous waste disposed Kg 2.32
+
+Radioactive waste disposed Kg (0)
+Output flows
+
+Results per declared unit
+
+Components for re-use (CRU) Kg (0)
+Materials for recycling (MFR) Kg (0)
+Materials for energy recovery (MER) Kg (0)
+Exported electrical energy (ÉEE) MI (e)
+Exported thermal energy (ETE) MI (e)
+
+Information on biogenic carbon content
+
+Results per declared unit
+
+Indicator Total A1-A3
+
+Biogenic carbon content in product kg C
+
+Biogenic carbon content in packaging kg C
+
+4 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+
+H
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+Interpretation
+
+As shown in the following chart, most of the environmental impacts related to emission to air occur
+during the manufacturing stage (A3). This is due to the energy required in the furnace and the
+chemical processes occurring in it (mainly decarbonation of limestone).
+
+Thanks to the use of alternative materials and fuels and to the high efficiency of the furnace, the
+emissions usually linked to the traditional processes can be reduced significantly, mainly those
+related to the direct GHG emissions in the manufacturing of Portland clinker.
+
+Relative impacts per stage
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+GWP 100 Total Ozone depletion Acidification  Eutrophication Eutrophication Eutrophication Ph. Ozone Depletion Depletion (fossil Depletion
+(fresh w.) (marine w.) (terrestrial) creation (elements) fuels) (water)
+
+mA mA2 nA3
+
+The impacts where the raw materials stage (A1) is more relevant are those related to the extraction
+of fuels: depletion of abiotic resources (fossil fuels) and ozone depletion. Those impacts are not
+relevant in the A3 stage because no CFCs are present during the manufacturing process and the
+extraction of fossil fuels are accounted in the A1 stage.
+
+In this cement, the transport of material is relevant in some impacts, mainly due to the distance
+from the origin of some raw materials, not available near the factory.
+
+15 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto
+( HOLCIM = FPD°
+
+THE INTERNATIONAL EPD° SYSTEM
+
+This declaration has been developed according to the General Programme Instructions of the
+International EPDS System. Version 4.
+
+PCR 2019:14 Construction products (EN 15804:A2), Version 1.3.3 2024-03-01.
+
+European standard EN 15804:2012+A2:2019/AC:2021 Sustainability of construction works -
+Environmental product declarations - Core rules for the product category of construction products
+c-PCR-001 Cement and Building Lime (EN 16908:2019) 2022-05-18.
+
+ISO 14040:2006 Environmental management - Life Cycle Assessment - Principles and framework.
+
+ISO 14044:2006 Environmental management - Life Cycle Assessment - Requirements and
+guidelines.
+
+ISO 14020:2000 Environmental statements and programmes for products - Principles and general
+requirements.
+
+ISO 14025:2006 Environmental labels and declarations - Type Ill environmental declarations -
+Principles and procedures.
+
+Registro Estatal de Emisiones y Fuentes Contaminantes (prtr-es.es).
+
+Holcim Climate Report 2023 (https://www.holcim.com/sites/holcim/files/2023-03/31032023-
+holcim-climate-report-2023-7392605829.pdf).
+
+Holcim Net Zero Journey (https://www.holcim.com/sustainability/climate-action/our-net-zero-
+journey).
+
+Holcim Nature Policy (https://www.holcim.com/sites/holcim/files/2022-
+06/holcim_nature_policy.pdf).
+
+Software: Air.e LCA rev. 3.16 (www.solidforest.com).
+Main database: Ecoinvent 3.9.1 (www.ecoinvent.org).
+Geographical scope of the EPD: Europe.
+
+Note: Environmental declarations published within the same product category, though originating from different programs,
+may not be comparable. For two EPDs to be comparable, they must be based on the same PCR (including the same version
+number) or be based on PCR or fully aligned PCR versions; cover products with identical functions, technical performance
+and use (e.g. identical declared/functional units); have equivalent system limits and data descriptions; apply equivalent
+data quality requirements, data collection methods, and allocation methods; apply identical cut-off rules and impact
+assessment methods (including the same version of characterization factors); have equivalent content statements; and be
+valid at the time of comparison. For more information on comparability, see EN 15804 and ISO 14025.
+
+Y) HOLCIM
+
+16 Environmental Product Declaration of ECOPlanet III/A 42.5 N /SRC - Sagunto

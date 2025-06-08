@@ -1,0 +1,236 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "registration_number": "S-P-05006",
+    "publication_date": "2021-11-02",
+    "validity_date": "2026-11-01",
+    "geographic_scope": "Costa Rica",
+    "standards": [
+      "ISO 14025",
+      "EN 15804:2012+A2:2019",
+      "PCR 2019:14",
+      "c-PCR-001"
+    ],
+    "verification": {
+      "verified": true,
+      "verifier": "Marcel Gémez Ferrer",
+      "verification_body": "Consultoria Ambiental"
+    }
+  },
+  "product_description": {
+    "product_name": "Cemento Holcim Industrial",
+    "product_type": "Cemento Portland tipo II (ASTM C150) de moderada resistencia a los sulfatos",
+    "product_classification": "CPC 3744 \"Portland cement, aluminous cement, slag cement and similar hydraulic cements, except in the form of clinkers\" (UN CPC v2.1)",
+    "presentation": [
+      "Bolsas 50 kg",
+      "Granel"
+    ],
+    "recommended_uses": [
+      "Concretos de tipo estructural",
+      "Concretos resistentes a la agresión",
+      "Estructuras prefabricadas y pretensadas",
+      "Concretos premezclados",
+      "Producción de mampostería y elementos prefabricados",
+      "Concretos impermeables",
+      "Dora en contacto con aguas o suelos",
+      "Plantas de tratamiento",
+      "Canales y obra hidráulicas"
+    ],
+    "product_description": "Cemento de alta resistencia temprana para ingeniería civil, aplicaciones de construcción, concreto premezclado y productos de concreto. Contenido optimizado de clinker para mejor desempeño ambiental. Contenido controlado de Aluminato tricálcico (C:A) menor al 8% para moderado calor de hidratación y reducción de agrietamiento superficial. Inclusión de puzolana Holcim para concretos más densos y durables, resistentes a medios agresivos, sulfatos, cloruros y agua de mar."
+  },
+  "lca_information": {
+    "declared_unit": "1 tonelada de cemento, a granel o en bolsa",
+    "reference_service_life": "Superior a 50 años como componente del concreto y morteros; tiempo recomendado para comercializar cemento es 45 días",
+    "temporal_representativeness": "Datos de producción del 1 de enero al 31 de diciembre de 2020; datos de referencia de Ecoinvent 3.6",
+    "databases_and_software": {
+      "database": "Ecoinvent 3.6",
+      "software": "GCCA Industry EPD tool for cement and concrete (V3.0)"
+    },
+    "system_boundaries": "De la cuna a la puerta (módulos A1-A3) según PCR 2019:14 y EN 15804:2012+A2:2019. Excluye módulos C1-C4 y D. Producto cumple condiciones para exclusión: material integrado físicamente, no identificable al final de vida útil, no contiene carbono biogénico.",
+    "processes_included": [
+      "Extracción y abastecimiento de materias primas",
+      "Consumos de energía y materiales",
+      "Procesos de manufactura primarios y secundarios",
+      "Producto terminado y/o empacado al final de fabricación"
+    ],
+    "data_quality": "Datos registrados diariamente por lotes de producción, con informes semanales, mensuales y anuales. Consumos medidos con equipos automatizados bajo control metrológico. Poder calorífico de combustibles analizado según normas ASTM. Sistema de gestión certificado ISO 9001:2015, ISO 14001:2015, ISO 14064-1:2019, INTE B5:2016.",
+    "allocation_rules": "Producción dividida en procesos Clinker y Cemento. Asignación por propiedades físicas (masa) cuando no es posible asignar directamente. Consumo de energía eléctrica asignado según producción específica. Consumos comunes asignados en función de producción total anual de Clinker. Material de embalaje excluye peso de productos a granel sin embalaje.",
+    "impact_assessment_methods": [
+      "IPCC (EF)",
+      "WMO",
+      "ReCiPe",
+      "CML",
+      "AWARE",
+      "SETAC-UNEP",
+      "USEtox",
+      "LANCA"
+    ],
+    "exclusions": [
+      "Impacto ambiental de infraestructura, construcción, equipos y herramientas no consumidos directamente",
+      "Impactos relacionados con personal (transporte al trabajo)"
+    ],
+    "lca_developer": "BIOMATECH Engineering Ltda"
+  },
+  "transport_and_installation": {
+    "transport_of_raw_materials": {
+      "description": "Estimaciones de distancias para abastecimiento desde instalaciones del productor o distribuidor. Considera transporte terrestre y marítimo para materiales fuera del país. Incluye distancias de viaje y retorno para transporte terrestre por carretera.",
+      "transport_modes": [
+        "Transporte terrestre",
+        "Transporte marítimo"
+      ],
+      "specifics": "Transporte marítimo de combustibles primarios desde Costa del Golfo, EE. UU."
+    },
+    "installation": null
+  },
+  "end_of_life": {
+    "excluded_modules": [
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "D"
+    ],
+    "reason_for_exclusion": "Producto cumple condiciones de integración física, no identificabilidad y ausencia de carbono biogénico que permiten exclusión según EN 15804:2012+A2:2019."
+  },
+  "carbon_emission_context": {
+    "gwp_total": {
+      "bulk": 775,
+      "packaged": 783
+    },
+    "gwp_fossil": {
+      "bulk": 775,
+      "packaged": 782
+    },
+    "gwp_biogenic": {
+      "bulk": 0.0985,
+      "packaged": 0.13
+    },
+    "gwp_luluc": {
+      "bulk": 0.181,
+      "packaged": 0.229
+    },
+    "odp": {
+      "bulk": 1.18e-05,
+      "packaged": 1.25e-05
+    },
+    "ap": {
+      "bulk": 1.38,
+      "packaged": 1.44
+    },
+    "ep_freshwater": {
+      "bulk": 0.0258,
+      "packaged": 0.0345
+    },
+    "ep_marine": {
+      "bulk": 0.00842,
+      "packaged": 0.00107
+    },
+    "ep_terrestrial": {
+      "bulk": 0.000651,
+      "packaged": 5.88
+    },
+    "pocp": {
+      "bulk": 1.43,
+      "packaged": 1.47
+    },
+    "adp_minerals_metals": {
+      "bulk": 0.00012,
+      "packaged": 0.000153
+    },
+    "adp_fossil": {
+      "bulk": 989,
+      "packaged": 1100
+    },
+    "wdp": {
+      "bulk": 39,
+      "packaged": 45.5
+    },
+    "carbon_emissions_calc_notes": "Emisiones de CO2 y metano por uso de energía eléctrica y combustibles son principales fuentes de GWP. GWP-fossil representa >99% del total. Emisiones por calcinación y combustión de residuos no renovables representan cerca del 15% de emisiones por calcinación."
+  },
+  "recycled_materials_handling": {
+    "secondary_materials_used": 5.88,
+    "packaging_materials": {
+      "wood_pallets": 12.5,
+      "kraft_paper": 2.3,
+      "total_packaging": 14.8
+    },
+    "waste_generation": {
+      "hazardous_waste": 0,
+      "non_hazardous_waste": 0.026,
+      "radioactive_waste": 0
+    },
+    "output_flows": {
+      "components_for_reuse": 0.00417,
+      "materials_for_recycling": {
+        "bulk": 0.124,
+        "packaged": 0.17
+      },
+      "materials_for_energy_recovery": {
+        "bulk": 0.129,
+        "packaged": 0.13
+      },
+      "energy_exported_electricity": 0,
+      "energy_exported_thermal": 0
+    },
+    "carbon_biogenic_content": {
+      "product": 0,
+      "packaging": {
+        "bulk": 0,
+        "packaged": 5.78
+      }
+    },
+    "waste_management_notes": "Residuos peligrosos gestionados internamente como combustibles alternativos en horno de clinker, no registrados como salida a relleno o incineración. Residuos no peligrosos eliminados en relleno sanitario local. Alta recuperación y valorización energética de residuos."
+  },
+  "additional_info": {
+    "company_information": {
+      "owner": "Holcim (Costa Rica) S.A.",
+      "contact": "Catalina Mora, catalina.morar@holcim.com",
+      "company_profile": "Empresa con trayectoria desde 1964, enfocada en construcción sostenible, con metas Net Zero y compromiso con Business Ambition for 1.5°C y Science Based Targets initiative (SBTi).",
+      "sustainability_focus_areas": [
+        "Proteger el clima reduciendo emisiones de Gases de Efecto Invernadero",
+        "Conservar recurso hídrico y biodiversidad",
+        "Adoptar economía circular y optimización de recursos",
+        "Mejorar calidad de vida de grupos de interés y comunidad"
+      ],
+      "actions_to_reduce_impact": [
+        "Uso de combustibles alternos para sustituir combustibles fósiles",
+        "Automatización para eficiencia energética",
+        "Recuperación de calor para reducir consumo térmico",
+        "Uso de minerales adicionados (puzolana y caliza)",
+        "Mejora del desempeño con aditivos de molienda",
+        "Control exhaustivo de combustibles y materias primas",
+        "Monitoreo continuo de emisiones",
+        "Mantenimiento preventivo y correctivo de filtros y equipos"
+      ],
+      "certifications": [
+        "ISO 9001:2015",
+        "ISO 14001:2015",
+        "ISO 14064-1:2006 (verified)",
+        "ISO 14067 (product carbon footprint, third party verified)",
+        "INTE/ISO 17025:2017 (quality control laboratory accreditation)"
+      ],
+      "production_site": "Planta de Cemento Holcim, Agua Caliente de Cartago, Costa Rica"
+    },
+    "raw_materials_origin": {
+      "limestone": "Agua Caliente de Cartago",
+      "pozzolana": "Llano Grande de Cartago (17 km from plant)",
+      "high-grade limestone": "Azul de Turrialba (45 km from plant)",
+      "note": "Materiales representan 94% de materias primas consumidas, reduciendo impactos por transporte."
+    },
+    "volatile_organic_compounds_emissions": "Cemento considerado fuente inherentemente no emisora de COV. No se requieren pruebas de emisiones de COV para mantener esta condición.",
+    "differences_from_previous_versions": "Primera versión de la DAP de cemento Holcim Industrial de Holcim Costa Rica.",
+    "references": [
+      "PCR 2019:14. Construction Products, version 1.11.",
+      "C-PCR-001 to PCR 2019:14. Cement and building lime, version 2019-12-20",
+      "EN 15804:2012+A2:2019. Sustainability of construction works — Environmental product declarations — Core rules for the product category of construction products.",
+      "GCCA. Industry EPD Tool for Cement and Concrete - LCA Model, International version. Version 3.0. Quantis Intl for Global Cement and Concrete Association (GCCA). 2020",
+      "General Programme Instructions of the International EPD® System. Version 4.0.",
+      "Instituto Costarricense de Electricidad. (2021). Informes Anuales. Centro Nacional de Control de Energia.",
+      "ISO 14025:2006. Environmental labels and declarations — Type III environmental declarations — Principles and procedures.",
+      "ISO 14040:2008 — Environmental management — Life cycle assessment — Principles and framework.",
+      "ISO 14044:2008 — Environmental management — Life cycle assessment — Requirements and guidelines.",
+      "LCA Report for Cement Products by Holcim Costa Rica. Biomatech Engineering Ltd. Costa Rica. 2021."
+    ]
+  }
+}

@@ -1,0 +1,656 @@
+mu EPD
+
+THE INTERNATIONAL EPD SYSTEM EDPD
+VERIFIED
+*EPD
+
+Environmental Product Declaration
+
+In accordance with ISO 14025 and EN 15804:2012+A2:2019 for:
+
+Cement CLC (A) 45
+
+from
+LafargeHolcim
+Lafarge Holcim Maroc Maroc
+Programme: The International EPD8 System, www.environdec.com
+Programme operator: EPD International AB, EPD MENA
+
+EPD registration number: | S-P-07863
+
+Publication date: 2023-08-11
+
+Valid until: 2028-08-10
+
+An EPD should provide current information and may be updated if conditions change. The stated validity is therefore subject
+to the continued registration and publication at www.environdec.com
+
+1 Table of content
+
+1 Table of content 2
+2 Generalinformation 3
+2.1 Programme information 3
+2.2 Manufacturer information 4
+3 Product information 4
+3.1 Product description a
+3.2 Product application a
+3.3 Technical specifications 5
+3.4 Additional technical information 5
+3.5 Material content 5
+3.6 Substances, reach - very high concern 5
+4  Lca information 5
+4.1  Life-cycle assessment information 5
+4.2  Declared and functional unit 6
+4.3  Biogenic carbon content 6
+4.4 System boundaries 6
+4.5  Cut-off criteria 7
+4.6 Allocation, estimates and assumptions 7
+4.7  Averages and variability 7
+4.8 Manufacturing and packaging (a1-a3) 7
+4.9 Transport andinstallation (a4-a5) 8
+4.10 Product use and maintenance (b1-b7) 8
+4.11 Product end of life (c1-c4, d) 8
+5 Environmental Information 9
+5.1  Potential environmental impact - mandatory indicators according to EN 15804 9
+5.2 Information on biogenic carbon content 9
+6 Additional information 11
+7 References 11
+=TTEPD _n ALTG=KO
+€ INTERNATIO aroc ;
+
+Cement CLC(A) 45
+2 Generalinformation
+
+2.1 Programme information
+
+Programme: The International EPDS System
+EPD International AB
+Box 210 60
+
+Address: SE-100 31 Stockholm
+Sweden
+
+Website: www.environdec.com
+
+E-mail: infon@environdec.com
+
+Accountabilities for PCR, LCA and independent, third-party verification
+
+Product Category Rules (PCR)
+
+CEN standard EN 15804 serves as the Core Product Category Rules (PCR)
+
+Product Category Rules (PCR):
+PCR 2019:14 Construction products version 1.2.5
+EN 16908:2017+A:2022
+
+PCR review was conducted by: The Technical Committee of the International EPD® System.
+Contact via info@environdec.com .
+PCR  moderator Martin Erlandsson, IVL Swedish Environmental Research Institute,
+
+martin.erlandsson@ivl.se
+PCR review was conducted by: CEN
+
+Life Cycle Assessment (LCA)
+
+LCA accountability: Lafarge Holcim Maroc
+
+Third-party verification
+
+Independent third-party verification of the declaration and data, according to ISO 14025:2006, via:
+EPD verification by individual verifier
+Third-party verifier: Barbara M Civit
+
+Approved by: The International EPDS® System
+
+Procedure for follow-up of data during EPD validity involves third party verifier:
+
+[ Yes No
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD.
+
+EPDs within the same product category but from different programmes may not be comparable. EPDs
+of construction products may not be comparable if they do not comply with EN 15804. For further
+information about comparability, see EN 15804 and ISO 14025.
+
+== EPD Li ALT@=KO
+
+LafargeHolcim
+THE INTERNATIONAL EPD SYSTEM Maroc
+
+3
+Cement CLC(A) 45
+2.2 Manufacturer information
+
+Manufacturer
+
+Lafarge Holcim Morocco
+
+Address
+
+LafargeHolcim Maroc Casablanca BD de la mecqua
+CASABLANCA Morocco
+
+Contact details
+
+ADIL.HAMIMAZ@Lafargeholcim.com
+
+Website
+
+lafargeholcim.com
+
+Owner of the EPD
+
+Lafarge Holcim Maroc
+
+Description of the
+organisation
+
+Cement producer company
+
+Product-related or
+management
+system-related
+certifications
+
+ISO 14001, ISO 9001, ISO 50001
+
+Name and
+location of
+production site(s)
+
+LafargeHolcim Oujda
+Km 45, Route Oujda-Casablanca
+BP 44 code postal 60000 Oujda OUJDA Morocco
+
+LafargeHolcim BOUSKOURA
+RS 109,à30Km au Sso de casablanca et à 17 km de bouskoura
+BP 80 CASABLANCA - BOUSKOURA Morocco
+
+3 Productinformation
+
+Product name
+
+Cement CLCA 45 APM (PMES)
+
+Product number / reference
+
+Place(s) of production
+
+Ouijda plant /Bouskoura plant
+
+CPC code
+
+37440
+
+Geographical scope
+
+Marocco
+
+3.1 Product description
+
+Cement CLC 45 PMES in accordance with the standards as follows
+
+NM 10.1.004-2019
+NM 10.1.156-2007
+NM 10.1.157-2007
+NM 10.1.158-2007
+
+3.2 Product application
+
+The cement is used as raw material for the production of concrete and mortar to be used in
+construction of buildings or public works. The cement PMES is designed to work in seaside and high
+
+sulphate content environment.
+
+mu. EPD
+
+THE INTERNATIONAL EPD SYSTEM
+
+L ALT@=KO
+
+LafargeHolcim
+Maroc
+
+Cement CLC(A) 45
+
+4
+3.3 Technical specifications
+
+The test methods are described in the standard “NM 10.1.005 : Liants hydrauliques : Technique des
+
+essais”.
+RC2J RC7J RC28)J
+mini max | mini max mini max
+14 18 23,5 30,5 38 44
+
+initial setting time final setting Blaine
+time surface
+mini | max | mini max mini max mini | max
+28 30 180 260 3800 | 4400
+Sieve45u% Hidration heat CaO S2-
+mini | max | mini max < <
+5 9 260 50 2
+
+3.4 Additional technical information
+
+Further information can be found at: www.lafargeholcim.com
+
+3.5 Material content
+
+Product Material Weight, kg Country Region of
+origin
+Clinker 400-600 Morocco
+Gypsum 0-50 Morocco
+Puzzolana+fly ashes 180-300 Morocco
+Slag 180-300 France
+Additives <10 Morocco
+
+3.6 Substances, reach - very high concern
+
+The product does not contain any REACH SVHC substances in amounts greater than 0,1 % (1000
+ppm).
+
+4  Lca information
+4.1 Life-cycle assessment information
+
+2021
+
+This Environmental Product Declaration and the LCA were created
+with One Click LCA software
+
+Period for data
+Software used
+
+Upstream databases The upstream databases are from ecoinvent database 3.6.
+
+ALT@=KO
+5
+
+sum EPD Li
+
+LafargeHolcim
+THE INTERNATIONAL EPD SYSTEM Maroc
+
+Cement CLC(A) 45
+4.2 Declared and functional unit
+
+Declared unit
+
+Mass per declared unit
+
+Functional unit
+
+Reference service life
+
+1 ton
+1000 kg
+n/a
+
+n/a
+
+4.3 Biogenic carbon content
+
+There is not biogenic carbon in this product
+
+4.4 System boundaries
+
+This EPD covers the cradle to gate scope with the following modules; AÂ (Raw material supply), A2
+(Transport) and A3 (Manufacturing).
+
+Processing of
+materials and fuels
+
+mu EPD
+
+THE INTERNATIONAL EPO SYSTEM
+
+AI
+
+Product stage Assembly Use stage End of life stage Beyond the system
+stage boundaries
+A1 | A2 | A3 | A4 | A5 B1 B2 B3 Ba B5 B6 B7 c1 c2 c3 ca D D D
+x x x MN MN MN MN MN MN MN MN MN MN MN MN MN MN MN MN
+D D D D D D D D D D D D D D D D
+Geographical scope.
+MA MA MA MN MN MN MN MN MN MN MN MN MN MN MN MN MND
+D D D D D D D D D D D D D
+2 On Se on 2 Se 2 2» » » © 9 9 = + © » |» |?
+8 8 8 8 8 8 Se $ 6 |$ 5 | 8 |8 |à | 2 | |
+à 5 S |£ 3 Es Si à S 5 d 3 $ 5 E ® < Es
+D © o © Ex 5 ® ni = = a 8 D D p 5
+= 3 Q 3 Z > 3 5 9 9 5 3 8 2 da
+3. £ à 5 3 > E es 8
+D, 5 ® + ® ® mo)
+m œ 4 3 D,
+[e] 35
+Lu ga
+Modules not declared - MND. Modules not relevant = MNR.
+Clinker upstream
+Extraction of ,
+Extraction of natural
+resources for >
+Production , cement on
+upstream products 2 =
+o n
+g , Production of 8 = mn d
+. . . »
+Extraction primary ° clinker £ rocessing an
+e — S blending of clinker
+fuels = 2 >
+= . G and other
+£ Secundary materials . = constituents
+[e] [on
+Waste - & and fuels ë
+& Ê
+H Co-products from ,
+Extraction primary other industries
+fuels lus
+Storage and dispatch
+
+A2 A3
+
+Li
+
+LafargeHolcim
+Maroc
+
+ALT@=KO
+
+6
+Cement CLC(A) 45
+4.5 Cut-off criteria
+
+The study does not exclude any modules or processes which are stated mandatory in the EN
+15804:2012+A2:2019 and the applied PCR. The study does not exclude any hazardous materials or
+substances.
+
+This is a cradle to gate EPD. The product is exempted of declaring modules C1-C4 and D becausse it
+fullfils the 3 conditions stated in EN 15804. End of life scenarios can be found in EPD for concrete and
+mortar.
+
+The study includes all major raw material and energy consumption. All inputs and outputs of the unit
+processes, for which data is available for, are included in the calculation. There is no neglected unit
+process more than 1% of total mass or energy flows. The module specific total neglected input and
+output flows also do not exceed 5% of energy usage or mass.
+
+4.6 Allocation, estimates and assumptions
+
+Allocation is required if some material, energy, and waste data cannot be measured separately for the
+product under investigation.
+
+In this study, as per EN 15804, allocation is conducted in the following order;
+1. Allocation should be avoided.
+
+2. Allocation should be based on physical properties (e.g. mass, volume) when the difference in revenue
+is small.
+
+3. Allocation should be based on economic values.
+In this study allocation is made by mass.
+
+Allocation used in Ecoinvent 3.6 environmental data sources follows the methodology ‘allocation, cut-
+off by classification’. This methodology is in line with the requirements of the EN 15804 -standard.
+
+4.7 Averages and variability
+The values are a weighted average of the two production sites. The variabiity is less than 5%
+48 Manufacturing and packaging (a1-a3)
+
+The environmental impacts considered for the product stage cover the manufacturing of raw materials
+used in the production.
+
+In this stage, we consider as raw materials clinker, gypsum, limstone, fly ashes, slag and pouzzolana
+and additive. We do not consider packaging material as the dispatch is done by truck.
+
+The electricity used is coming from the national network.
+The water is used in a closed circuit and is allocated to clinker production.
+
+Waste in the cement blending and crushing process are recirculated inside tha factory.
+
+== EPD Li ALT@=KO
+
+LafargeHolcim
+THE INTERNATIONAL EPD SYSTEM aroc
+
+7
+Cement CLC(A) 45
+Cement Production
+
+re
+
+es TS
+
+N
+
+9
+More information: You can find more information in: https://www.lafargeholcim.ma/fr/ciment
+4.9 Transport and installation (a4-a5)
+
+Modules not evaluated.
+
+4.10 Product use and maintenance (b1-b7)
+
+Modules not evaluated.
+
+4.11 Product end of life (c1-c4, d)
+
+Modules not evaluated.
+
+jm FPD Li ALT@=KO
+
+LafargeHolcim
+THE INTERNATIONAL EPD SYSTEM Maroc
+
+8
+Cement CLC(A) 45
+5 Environmental Information
+
+5.1 Potential environmental impact - mandatory indicators according to EN
+
+15804
+
+CORE ENVIRONMENTAL IMPACT INDICATORS -— EN 15804+A2, PEF
+
+Impact category
+GWP — total
+
+GWP — fossil
+
+GWP — biogenic
+
+GWP — LULUC
+
+Ozone depletion pot.
+Acidification potential
+EP-freshwateri)
+EP-marine
+EP-terrestrial
+
+POCP (“smog”)
+ADP-minerals & metals
+ADP-fossil resources
+
+Water use?)
+
+Unit
+
+kg CO2e
+kg CO2e
+kg CO2e
+kg CO2e
+kg CFCue
+mol Hte
+kg Pe
+
+kg Ne
+mol Ne
+kg NMVOCe
+kg Sbe
+
+MJ
+
+mée depr.
+
+A1-A3
+5,23E2
+5,37E2
+5,66E-2
+2,51E-1
+2,17E-5
+1,58E0
+6,37E-3
+4,41E-1
+5,08E0
+1,29E0
+5,32E-2
+2,58E3
+
+5,89E1
+
+1) GWP = Global Warming Potential; EP = Eutrophication potential; POCP = Photochemical ozone formation; ADP = Abiotic depletion
+potential. 2) EN 15804+A2 disclaimer for Abiotic depletion and Water use and optional indicators except Particulate matter and lonizing
+radiation, human health. The results of these environmental impact indicators shall be used with care as the uncertainties on these results
+are high or as there is limited experienced with the indicator. 3) Required characterisation method and data are in kg P-eq. Multiply by
+
+3,07 to get POze.
+
+ADDITIONAL (OPTIONAL) ENVIRONMENTAL IMPACT INDICATORS -— EN
+
+15804+A2, PEF
+
+Impact category
+Particulate matter
+lonizing radiation‘)
+Ecotoxicity (freshwater)
+Human toxicity, cancer
+Human tox. non-cancer
+
+SOP
+
+Unit
+Incidence
+kBq U235e
+CTUe
+CTUh
+CTUh
+
+A1-A3
+1,27E-5
+1,09E1
+6.41E3
+1,44E-7
+5.69E-6
+
+2,12E3
+
+4) SQP = Land use related impacts/soil quality. 5) EN 15804+A2 disclaimer for lonizing radiation, human health. This impact category deals
+mainly with the eventual impact of low dose ionizing radiation on human health of the nuclear fuel cycle. It does not consider effects due
+to possible nuclear accidents, occupational exposure nor due to radioactive waste disposal in underground facilities. Potential ionizing
+radiation from the soil, from radon and from some construction materials is also not measured by this indicator.
+
+USE OF NATURAL RESOURCES
+
+Impact category Unit A1-A3
+Renew. PER as energy MJ 1,92E2
+Renew. PER as material MJ 0EO
+Total use of renew. PER MJ 1,92E2
+Non-re. PER as energy MJ 2,58E3
+Non-re. PER as material MJ 0EO
+Total use of non-re. PER MJ 2,58E3
+Secondary materials kg OEO
+Renew. secondary fuels MI OEO
+
+= FPD Li ALT@=KO
+
+LafargeHolcim
+THE INTERNATIONAL EPD SYSTEM Maroc
+
+Cement CLC(A) 45
+Non-ren. secondary fuels MI
+
+Use of net fresh water mi
+
+6) PER = Primary energy resources
+
+END OF LIFE — WASTE
+
+Impact category Unit
+Hazardous waste kg
+Non-hazardous waste kg
+Radioactive waste kg
+
+END OF LIFE — OUTPUT FLOWS
+
+Impact category Unit
+Components for re-use kg
+Materials for recycling kg
+Materials for energy rec kg
+Exported energy MI
+
+0E0
+3.13
+
+A1-A3
+3,59E1
+2,89E2
+1,16E-2
+
+A1-A3
+MND
+MND
+MND
+
+MND
+
+ENVIRONMENTAL IMPACTS — GWP-GHG - THE INTERNATIONAL EPD SYSTEM
+
+Impact category Unit
+GWP-GHG kg COe
+
+A1-A3
+
+5,37E2
+
+8) This indicator includes all greenhouse gases excluding biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the
+product as defined by IPCC AR 5 (IPCC 2013) This indicator Is almost equal to the GWP indicator originally defined in EN
+
+15804:2012+A1:2013.
+
+se EPD L1
+
+LafargeHolcim
+THE INTERNATIONAL EPD SYSTEM Maroc
+
+Cement CLC(A) 45
+
+ALT@=KO
+
+10
+5.2 Information on biogenic carbon content
+
+There is no biogenic carbon in this cement.
+
+6 Additional information
+
+Prolonged physical contact with non-low chromate cements can cause allergic skin reactions. The limit
+of chromium VI content to be considered as low chromate content is 2mg/kg
+
+More information about the efforts towards a sustainable development from Lafarge Holcim Maroc,
+can be find in: https://www.latargeholcim.ma/fr/developpement-durable.
+
+7 References
+
+EN 16908:2017+A1:2022 Cement and building lime. Environmental product declaration. Product
+category rules complementary to EN 15804
+
+ISO 14025:2010 Environmental labels and declarations — Type III environmental declarations.
+Principles and procedures.
+
+ISO 14040:2006 Environmental management. Life cycle assessment. Principles and frameworks.
+ISO 14044:2006 Environmental management. Life cycle assessment. Requirements and guidelines.
+Ecoinvent database v3.6 (2019) and One Click LCA database.
+
+EN 15804:2012+A2:2019 Sustainability in construction works — Environmental product declarations —
+Core rules for the product category of construction products.
+
+Intl EPD System PCR 2019:14 Construction products version 1.2.5
+Cement CLCA 45 APM (PMES) LCA background report

@@ -1,0 +1,102 @@
+{
+  "epd_metadata": {
+    "epd_registration_no": "EPD-IES-0013569:001",
+    "version": "1.0",
+    "publication_date": "2024-07-29",
+    "valid_until": "2029-07-29",
+    "geographical_scope": "Australia",
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "regional_programme_operator": "EPD Australasia",
+    "reference_year_for_data": "2022-01-01 - 2022-12-31",
+    "core_pcr": "CEN standard EN 15804",
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.3, 2024-03-01",
+    "c_pcr": "c-PCR-003 (to 2019:14) Concrete and concrete elements, version 2023-01-02",
+    "epd_produced_by": "START2SEE",
+    "third_party_verifier": "Jeff Vickers, thinkstep-anz",
+    "accredited_by": "EPD Australasia"
+  },
+  "product_description": {
+    "product_name": "Reinforced Concrete Pipes (RCP)",
+    "manufacturer": "Humes",
+    "location": "Blacktown, Australia",
+    "applications": [
+      "Non-pressure stormwater drainage pipelines",
+      "Sewerage and pressure pipe applications",
+      "Jacking and shaft components of access chambers"
+    ],
+    "composition": {
+      "general_purpose_cement": "10 - 19%",
+      "fly_ash": "0 - 7%",
+      "coarse_and_fine_aggregates": "70 - 78%",
+      "water": "5 - 8%",
+      "reinforcement_steel": "0.1 - 7.2%",
+      "rubber_rings": "<0.1%"
+    },
+    "technical_compliance": "AS/NZS 4058:2007 - Precast concrete pipes (pressure and non-pressure)"
+  },
+  "lca_information": {
+    "scope": "Cradle-to-gate with options (A1-A3, A4, A5), modules C1-C4, and module D",
+    "methodology": "EN 15804:2012+A2:2019",
+    "software": "SimaPro v9.5.0.0",
+    "allocation": "Mass-based for concrete products, economic for fly ash and BFS",
+    "cut_off_criteria": "1% of renewable and non-renewable primary energy usage, 1% of total mass input",
+    "key_assumptions": [
+      "Concrete compositions from Humes internal systems",
+      "Use of EPDs from cement suppliers where possible",
+      "Reinforcement steel modeled with ecoinvent data"
+    ],
+    "electricity": "0.91 kg CO2e / KWh, based on Australian Energy Statistics 2023"
+  },
+  "transport_and_installation": {
+    "transport_to_site": {
+      "mode": "Road",
+      "average_distance": "50 km"
+    },
+    "installation": {
+      "processes": [
+        "Excavation of the trench",
+        "Placement and compaction of bedding materials",
+        "Placement of RCP",
+        "Filling of the trench"
+      ],
+      "bedding_types": [
+        "H1",
+        "H2",
+        "HS1",
+        "HS2",
+        "HS3",
+        "U"
+      ]
+    }
+  },
+  "end_of_life": {
+    "scenarios": [
+      "Left in the ground, abandoned",
+      "Exhumed and recycled"
+    ],
+    "deconstruction_demolition": "Included in recycling scenario",
+    "waste_processing": "Crushing of waste pipes into concrete rubble and steel scrap",
+    "disposal": "Emissions from concrete waste disposed to landfill considered"
+  },
+  "carbon_emission_context": {
+    "gwp_total": "2.25E+02 kg CO2-eq",
+    "gwp_fossil": "2.27E+02 kg CO2-eq",
+    "gwp_biogenic": "-1.36E+00 kg CO2-eq",
+    "gwp_luluc": "5.36E-02 kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "reuse_recovery_recycling_potential": "Concrete rubble and steel scrap can replace natural aggregates and virgin steel",
+    "module_d": "Relevant when pipes are exhumed and recycled"
+  },
+  "additional_info": {
+    "safety_health_environment": "High environmental standards monitored by Holcim executive committee",
+    "infrastructure_sustainability": "Member of Infrastructure Sustainability Council (ISC)",
+    "contact_information": {
+      "national_sales": "1300 361 601",
+      "paul_adams": "0429790481",
+      "website": "humes.com.au",
+      "email": "info@humes.com.au"
+    }
+  }
+}

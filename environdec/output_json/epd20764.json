@@ -1,0 +1,263 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "epd_owner_address": "Level 40, Northpoint Tower, 100 Miller St, North Sydney NSW 2060, Australia",
+    "epd_owner_website": "www.holcim.com.au",
+    "epd_owner_phone": "+61 2 9412 6600",
+    "programme_operator": "EPD International AB",
+    "programme_operator_address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+    "programme_operator_email": "info@environdec.com",
+    "regional_programme_operator": "EPD Australasia Limited",
+    "regional_programme_operator_address": "315a Hardy Street Nelson 7010, New Zealand",
+    "regional_programme_operator_website": "www.epd-australasia.com",
+    "regional_programme_operator_email": "info@epd-australasia.com",
+    "regional_programme_operator_phone": "+61 2 8005 8206",
+    "epd_produced_by": "Edge Environment Pty Ltd",
+    "epd_produced_by_address": "Level 3, Greenhouse, 180 George Street, Sydney NSW 2000 Australia",
+    "epd_produced_by_website": "www.edgeimpact.global",
+    "epd_produced_by_phone": "+61 2 9438 0100",
+    "epd_process_certified_by": "Epsten Group",
+    "epd_process_certified_by_address": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+    "epd_process_certified_by_website": "www.epstengroup.com",
+    "epd_registration_number": "EPD-IES-20764:001",
+    "valid_from": "17/04/2025",
+    "valid_until": "17/04/2030",
+    "revision_number": 1,
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2023 Mix/Materials Data",
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "program": "The International EPD® System",
+    "program_website": "www.environdec.com",
+    "regional_program": "EPD Australasia",
+    "regional_program_website": "www.epd-australasia.com",
+    "accreditation_body": "Epsten Group, Inc.",
+    "iso_standards": [
+      "ISO 14025",
+      "EN 15804+A2"
+    ],
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+    "product_category_rules": "c-PCR-003 Concrete and Concrete Elements, 2024-04-30",
+    "third_party_verifier": "Epsten Group, Inc., Megan Blizzard",
+    "third_party_verifier_accreditation": "A2LA, Certificate #3142.03"
+  },
+  "product_description": {
+    "product_name": "Ready-Mix Concrete",
+    "product_code": "QZ651E200",
+    "product_range": "Normal-class and Special-class concrete",
+    "functional_unit": "1 m³ of ready-mix concrete",
+    "product_use": "General use including foot paths, slabs, foundations, normal class concrete",
+    "production_site": "Burleigh",
+    "product_weight_per_m3": 2400,
+    "product_weight_unit": "kg",
+    "material_composition_percent_by_weight": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%"
+    },
+    "post_consumer_recycled_material_percent": 0.0,
+    "biogenic_material_kg_per_m3": 0.0,
+    "hazardous_substances": "None listed in Candidate List of Substances of Very High Concern (SVHC)",
+    "packaging": "Delivered in bulk with no packaging",
+    "classification": "Non-Dangerous Goods according to Australian Code for the Transport of Dangerous Goods by Road and Rail"
+  },
+  "lca_information": {
+    "scope": "Cradle to gate (modules A1-A3) with options modules A4-A5, modules C1-C4 and module D",
+    "reference_service_life": null,
+    "time_representativeness": "Plant data from 2022, Mix data from 2023",
+    "databases_and_software": {
+      "lca_software": "SimaPro® LCA software (v 9.5)",
+      "background_data_preferences": [
+        "Product specific EPDs for cements, admixtures, pigments and fibres",
+        "Australian National Life Cycle Inventory Database (AusLCI v1.42) (2023)",
+        "Ecoinvent 3.9.1 (2023)"
+      ]
+    },
+    "allocation": {
+      "method": "Physical allocation based on weight or m³ of concrete; economic allocation used when physical allocation not possible",
+      "fly_ash": "Assumed waste product, burden-free",
+      "silica_fume": "Assumed waste product, burden-free",
+      "ground_granulated_blast_furnace_slag": "Allocated economically"
+    },
+    "cut_off_criteria": {
+      "excluded": [
+        "Environmental impact from infrastructure, production equipment, and tools not directly consumed",
+        "Personnel-related impacts such as transportation to/from work"
+      ],
+      "included": "All materials required for manufacturing delivered without packaging"
+    },
+    "data_quality": {
+      "geographic_representativeness": "Good to very good for all data sources",
+      "temporal_representativeness": "All data updated within 10 years as required",
+      "specific_data_sources": {
+        "cement_supplier_data": "2022, all states, very good",
+        "cementitious_supplementary_materials": "2022, national, good",
+        "electricity": "2022, all states, very good",
+        "diesel": "2022, all states, very good",
+        "lpg": "2022, all states, very good",
+        "water": "2022, all states, very good",
+        "recycled_aggregates": "2023, national, good",
+        "admixtures": "2023, national, good",
+        "oxides": "2023, national, good",
+        "fibres": "2023, national, good",
+        "transport": "2022, all states, very good"
+      }
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "EUROS 28t - 32t trucks",
+      "average_transport_distance_km": 11.89,
+      "fuel_type": "Diesel",
+      "fuel_use_l_per_tkm": 0.0197,
+      "carrying_capacity_t": 28,
+      "density_kg_per_m3": 2400,
+      "volume_capacity_utilization_percent": 50
+    },
+    "installation": {
+      "operational_control": "Holcim does not have operational control over installation",
+      "assumptions": {
+        "concrete_losses_to_landfill_percent": 3.0,
+        "water_use_l": 669,
+        "electricity_use_kwh": 2.78,
+        "diesel_use_l": 1.67,
+        "wastewater_l": 0.669
+      },
+      "installation_process": "Pouring concrete from ready-mix truck and pump; manual finishing; excludes pre-installation activities"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": {
+      "process": "Physical drilling and removal using hydraulic excavator",
+      "diesel_use_l": 0.131,
+      "collection_rate_percent": 100,
+      "transport_distance_km": 25,
+      "recycling_rate_percent": 80,
+      "waste_processing": "Concrete recycling",
+      "waste_processing_quantity_kg": 1920,
+      "final_disposal": "Inert waste landfill",
+      "final_disposal_quantity_kg": 480
+    },
+    "benefits_and_loads_beyond_system_boundary": {
+      "recycling_and_recovery_rate_percent": 80,
+      "recycled_aggregate_use": "Replaced with virgin coarse aggregate for various applications depending on product performance"
+    }
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions_building_environment_percent": 39,
+    "construction_materials_co2_emissions_percent": 11,
+    "targets": {
+      "2030": "Embodied carbon of all construction materials to be at least 40% lower",
+      "2050": "All new construction materials to be net zero"
+    },
+    "carbonation": {
+      "description": "Natural process where concrete absorbs CO2 from atmosphere through chemical reaction",
+      "consideration": "Not included in this EPD; recommended to consider in whole-of-life building studies per BS EN 16757:2017"
+    }
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_method": {
+      "fly_ash": "Treated as waste material, only transport impacts included",
+      "ground_granulated_blast_furnace_slag": "Economic allocation due to significant economic value",
+      "silica_fume": "Treated as waste material, only transport impacts included"
+    },
+    "background_data_allocation": "AusLCI LCA database allocation approach adopted for secondary data and processes",
+    "recycled_materials_percent_by_weight": 0.0
+  },
+  "additional_info": {
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2023 Mix/Materials Data",
+    "standards_and_pcr": {
+      "cen_standard": "EN 15804:2012+A2:2019/AC:2021",
+      "pcr": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+      "product_category_rules": "c-PCR-003 Concrete and Concrete Elements, 2024-04-30"
+    },
+    "environmental_impact_indicators": {
+      "primary_indicators": [
+        "GWP-Total",
+        "GWP-Fossil",
+        "GWP-Biogenic",
+        "GWP-Luluc",
+        "ODP",
+        "AP",
+        "EP-Freshwater",
+        "EP-Marine",
+        "EP-Terrestrial",
+        "POCP",
+        "ADPE",
+        "ADPF",
+        "WDP"
+      ],
+      "resource_use_parameters": [
+        "PERE",
+        "PERM",
+        "PERT",
+        "PENRE",
+        "PENRM",
+        "PENRT",
+        "SM",
+        "RSF",
+        "NRSF",
+        "EW"
+      ],
+      "waste_categories_and_output_flows": [
+        "HWD",
+        "NHWD",
+        "RWD",
+        "CRU",
+        "MER",
+        "MERE",
+        "EE-e",
+        "EE-t"
+      ],
+      "additional_indicators": [
+        "GWP-GHG",
+        "PM",
+        "IRP",
+        "ETP-fw",
+        "HTP-c",
+        "HTP-nc",
+        "SQP"
+      ],
+      "green_star_indicators": [
+        "HTc (GS)",
+        "HTnc (GS)",
+        "LU (GS)",
+        "IR (GS)",
+        "PM (GS)",
+        "WSI (GS)"
+      ]
+    },
+    "excluded_lifecycle_stages": [
+      "Material emissions from usage (B1)",
+      "Maintenance (B2)",
+      "Repair (B3)",
+      "Replacement (B4)",
+      "Refurbishment (B5)",
+      "Operational energy use (B6)",
+      "Operational water use (B7)"
+    ],
+    "contact_information": {
+      "customer_service_centre": "131 188",
+      "company_name": "Holcim (Australia) Pty Ltd",
+      "address": "Level 40/100 Miller St, North Sydney NSW 2060, Australia",
+      "phone": "02 9412 6600",
+      "abn": "87 099 732 297",
+      "website": "www.holcim.com.au"
+    },
+    "disclaimers": [
+      "This publication supersedes all previous literature on this subject.",
+      "Specifications and details may change; check with Holcim Customer Service for current issue.",
+      "Provides general information only; not a substitute for professional technical engineering advice.",
+      "Users must determine suitability for their circumstances; Holcim accepts no liability for loss or damage from use.",
+      "Holcim is a registered trademark of Holcim Ltd.",
+      "No reproduction without prior written consent of Holcim."
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "address": "Level 8, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+    "phone": "+61 2 9412 6600",
+    "website": "www.holcim.com.au",
+    "epd_produced_by": "Holcim",
+    "epd_process_certified_by": "Epsten Group, Inc., Katherine McFeaters",
+    "epd_process_certification_accredited_by": "A2LA, Certificate #3142.03",
+    "epd_registration_number": "S-P-02334",
+    "valid_from": "2021-07-23",
+    "valid_until": "2026-07-23",
+    "program_operator": "EPD Australasia Limited",
+    "program_operator_address": "315a Hardy Street Nelson 7010 AUSTRALASIA New Zealand",
+    "program_operator_website": "www.epd-australasia.com",
+    "program_operator_email": "info@epd-australasia.com",
+    "program_operator_phone": "02 8005 8206",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2017 Plant Data, 2021 Mix/Materials Data",
+    "version_number": "v1.0",
+    "version_date": null,
+    "description_of_changes": null,
+    "product_category_rules": "PCR 2012:01 Construction Products and Construction Services, Version 2.3, 2018-11-15",
+    "product_group_classification": "UN CPC 54",
+    "cen_standard": "EN 15804:2012+a1:2013",
+    "independent_third_party_verification": "EPD process certification and data, according to ISO 14025:2006",
+    "third_party_verifier": "Epsten Group, Inc., Katherine McFeaters"
+  },
+  "product_description": {
+    "product_name": "ViroDecs\" Ready-mix concrete - Dubbo Rail Maintenance Facility",
+    "product_use": "Ready-mix concrete for construction projects",
+    "mix_code": "NS402FM30 S40 20mm RE 30% MAN",
+    "material_composition_by_weight": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail",
+    "hazard_information": "Safety data sheet for pre-mixed concrete lists all associated hazard phrases"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "reference_service_life": "Not specified (scope is from cradle to gate)",
+    "time_representativeness": "Plant data based on 2017 calendar year production data; mix data based on 2021 calendar year production data",
+    "databases_and_software_used": [
+      "SimaPro (v8.4)",
+      "Australian National Life Cycle Inventory Database (AusLCI) (2017)",
+      "Ecoinvent 3.4 (2017)",
+      "World Business Council for Sustainable Development (WBCSD) Cement Sustainability Initiative (CSI) Tool Project Database (International Version) (2018)",
+      "Product specific EPDs for admixtures and fibres"
+    ],
+    "allocation": "Inputs and outputs allocated physically based on weight (quarries) or m² of concrete (batching plant); economic allocation used when physical allocation not possible; fly ash and silica fumes assumed burden-free; ground granulated blast furnace slag allocated economically",
+    "cut_off_criteria": "No flows excluded on the basis of cut-off criteria",
+    "data_quality": {
+      "foreground_data": "Medium or higher geographic and temporal representativeness",
+      "background_data": "Updated within 10 years as required under PCR 2012:01"
+    },
+    "system_boundaries": "Cradle to gate; excludes life cycle stages beyond Holcim's gate; excludes environmental impacts relating to personnel, infrastructure and production equipment not directly consumed in the process"
+  },
+  "transport_and_installation": {
+    "transport_modes": [
+      "Transoceanic freight ship",
+      "Rigid truck",
+      "Domestic freight ship"
+    ],
+    "on_site_transport": "Included",
+    "packaging_waste": "Included in background data; packaging waste researched and modeled"
+  },
+  "end_of_life": {
+    "description": "Not included in the LCA scope; described for whole-of-life building studies",
+    "scenarios": [
+      "Disposal of concrete at landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete: substitution of primary material or natural aggregates in fresh concrete"
+    ],
+    "note": "Scenarios 2, 3 and 4 can result in benefits and loads outside system boundary and should be considered in whole-of-life studies"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": "Provided in detailed tables per mix code (e.g., kg CO2 eq values)",
+    "carbonation": "Not considered in this EPD; carbonation is natural CO2 absorption by concrete over its lifetime which can offset cement manufacturing emissions",
+    "note": "Carbonation calculation standardized in BS EN 16757:2017 and recommended for whole-of-life studies"
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": "According to PCR 2012:01; fly ash and silica fume treated as waste with transport impacts only; slag allocated economically due to significant economic value",
+    "background_data": "Default background data from LCA databases used; AusLCI dataset conforms to EN 15804 allocation requirements"
+  },
+  "additional_info": {
+    "environmental_impact_categories": {
+      "potential_environmental_impacts": [
+        "Global warming potential (GWP)",
+        "Ozone depletion potential (ODP)",
+        "Acidification potential (AP)",
+        "Eutrophication potential (EP)",
+        "Photochemical ozone creation potential (POCP)",
+        "Abiotic depletion potential (elements) (ADPE)",
+        "Abiotic depletion potential (fossil fuels) (ADPF)"
+      ],
+      "resource_use": [
+        "Use of renewable primary energy excluding renewable primary energy resources used as raw materials (PERE)",
+        "Use of renewable primary energy resources used as raw materials (PERM)",
+        "Total use of renewable primary energy resources (PERT)",
+        "Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials (PENRE)",
+        "Use of non-renewable primary energy resources used as raw materials (PENRM)",
+        "Total use of non-renewable primary energy resources (PENRT)",
+        "Use of secondary material (SM)",
+        "Use of renewable secondary fuels (RSF)",
+        "Use of non-renewable secondary fuels (NRSF)",
+        "Use of net fresh water (FW)"
+      ],
+      "output_categories": [
+        "Hazardous waste disposed (HWD)",
+        "Non-hazardous waste disposed (NHWD)",
+        "Radioactive waste disposed/stored (RWD)",
+        "Components for reuse (CRU)",
+        "Materials for recycling (MFR)",
+        "Materials for energy recovery (MER)",
+        "Exported energy (EE)"
+      ],
+      "optional_green_star_indicators": [
+        "Human Toxicity (HT)",
+        "Land use (LU)",
+        "Water stress indicator (WSI)",
+        "Ionising radiation (IR)",
+        "Particulate matter (PM)"
+      ]
+    },
+    "references": [
+      "Australasian EPD Programme. (2017). Guidance on the use of INA in EPDs.",
+      "Australasian EPD Programme. (2018). Guidance on the use of background LCI data.",
+      "Australasian EPD Programme (2018) Instructions of the Australasian EPD Programme V3.0.",
+      "Australian Life Cycle Inventory Database Initiative (AusLCI). (2015). Guidelines for Data Development for an Australian Life Cycle Inventory Database, Data Standard.",
+      "British Standards Institution. (2014). Sustainability of construction works. Environmental product declarations. Core rules for the product category of construction products, BS EN 15804:2012+A1:2013.",
+      "British Standards Institution. (2017). Sustainability of construction works — Environmental product declarations — Product Category Rules for concrete and concrete elements, BS EN 16757:2017.",
+      "Ecoinvent Centre. (2017). Ecoinvent version 3 database.",
+      "EPD International. (2017). General Programme Instructions (GPI) for the International EPD System V3.0.",
+      "EPD International. (2018). Product Category Rules for Construction Products and Construction Services, PCR2012:01 v2.3.",
+      "ISO. (2006). Environmental labels and declarations — Type III environmental declarations — Principles and procedures, ISO 14025:2006.",
+      "ISO. (2006). Environmental management — Life cycle assessment — Principles and framework, ISO 14040:2006.",
+      "ISO. (2018). Environmental management. Life cycle assessment. Requirements and guidelines, ISO 14044:2006+A1:2018.",
+      "AusLCI. (2017) AusLCI Database.",
+      "Man Yu, Thomes Wiedmann, Robert Crawford, Catriona Taiït, ‘The Carbon Footprint of Australia’s Construction Sector, Procedia Engineering, Volume 180, 2017, Pages 211-220."
+    ],
+    "disclaimer": "This publication supersedes all previous literature on this subject. Specifications and details may change; users must confirm current issue with Holcim Customer Service. Provides general information only and is no substitute for professional technical engineering advice. Holcim accepts no liability for loss or damage resulting from reliance on this information."
+  }
+}

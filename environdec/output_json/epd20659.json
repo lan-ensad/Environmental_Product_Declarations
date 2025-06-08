@@ -1,0 +1,87 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "programme_operator": "EPD International AB",
+    "regional_programme_operator": "EPD Australasia Limited",
+    "epd_produced_by": "Edge Environment Pty Ltd",
+    "epd_process_certified_by": "Epsten Group",
+    "epd_registration_number": "EPD-IES-20659:001",
+    "valid_from": "17/04/2025",
+    "valid_until": "17/04/2030",
+    "revision_number": "1",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2022 Plant Data, 2023 Mix/Materials Data",
+    "cen_standard": "EN 15804:2012+A2:2019/AC:2021",
+    "pcr": "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)"
+  },
+  "product_description": {
+    "product_name": "Ready-Mix Concrete",
+    "production_sites": "Byron Bay",
+    "content_declaration": {
+      "gross_weight": "2,400 kg per cubic meter",
+      "materials": {
+        "general_purpose_cement": "5-21%",
+        "aggregate": "67-84%",
+        "supplementary_cementitious_materials": "0-11%",
+        "water": "11.6-12%"
+      }
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "classification": "Non-Dangerous Goods"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "scope": "Cradle to gate (modules A1-A3) with options, modules A4-A5, modules C1-C4 and module D",
+    "reference_service_life": "Not specified",
+    "time_representativeness": "2022 calendar year production data for plant, 2023 for mix data",
+    "databases_and_lca_software_used": "SimaPro® LCA software (v 9.5), AusLCI v1.42 (2023), Ecoinvent 3.9.1 (2023)",
+    "allocation": "Based on weight or m³ of concrete, economic allocation for some materials",
+    "cut_off_criteria": "No energy or mass flows excluded except packaging of materials"
+  },
+  "transport_and_installation": {
+    "gate_to_site": {
+      "vehicle": "EUROS 28t — 32t trucks",
+      "transport_distance": "11.77 km",
+      "fuel_use": "1.97E-02 Diesel"
+    },
+    "installation": {
+      "concrete_losses": "3.00E+00 %",
+      "water_use": "6.69E+02 L",
+      "electricity_use": "2.78E+00 kWh",
+      "diesel_use": "1.67E+00 L",
+      "wastewater": "6.69E-01 L"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": {
+      "diesel": "1.31E-01",
+      "distance_to_processing": "2.50E+01 km",
+      "concrete_recycling": "1.92E+03 Kg",
+      "inert_waste_landfill": "4.80E+02 kg"
+    },
+    "benefits_and_loads_beyond_system_boundary": {
+      "recycling_and_recovery_rate": "80%"
+    }
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions": "39% from building environment, 11% from construction materials",
+    "embodied_carbon_reduction_targets": "40% lower by 2030, net zero by 2050"
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Flyash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": "AusLCI LCA database default for secondary data and processes"
+  },
+  "additional_info": {
+    "lifetime_absorption_of_co2": "Not considered in this EPD",
+    "references": [
+      "AusLCI Database — v1.42",
+      "Ecoinvent version 3.9.1 database",
+      "General Programme Instructions (GPI) for the International EPD System V4.0"
+    ]
+  }
+}

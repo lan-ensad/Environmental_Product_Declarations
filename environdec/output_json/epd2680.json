@@ -1,0 +1,91 @@
+{
+  "epd_metadata": {
+    "program": "The International EPDS System",
+    "program_administrator": "EPD International AB",
+    "registration_number": "EPD-IES-0002680",
+    "publication_date": "2021-02-04",
+    "revision_date": "2024-07-30",
+    "valid_until": "2026-02-03",
+    "third_party_verification": {
+      "verifier": "TECNALIA R&I Certificación S.L.",
+      "auditor": "Cristina Gazulla Santos",
+      "accredited_by": "ENAC",
+      "accreditation_number": "125 / C-PR283"
+    }
+  },
+  "product_description": {
+    "product_name": "Hormigones H25 (Estándar, Agilia y Artevia), Hormigones H30 (Estándar, Agilia y Artevia), Hormigones H35 (Estándar y Agilia)",
+    "cpc_code": "375",
+    "manufacturer": "Holcim España",
+    "manufacturing_locations": [
+      "ALCOBENDAS - Madrid",
+      "ALGEMESI- Valencia",
+      "ALMENARA-Castellón",
+      "BETERA- Valencia",
+      "COLMENAR- Madrid",
+      "CONSTANTI- Tarragona",
+      "FONCALENT- Madrid",
+      "FUENCARRAL- Madrid",
+      "LA ROCA- Barcelona",
+      "MAJADAHONDA- Madrid",
+      "MONTCADA- Barcelona",
+      "PAPIOL- Barcelona",
+      "POLOP- Valencia",
+      "TORTOSA- Tarragona",
+      "VALENCIA- Valencia",
+      "VALLECAS- Madrid",
+      "VILLAVERDE- Madrid",
+      "ZARAGOZA- Zaragoza",
+      "ZONA FRANCA- Barcelona"
+    ]
+  },
+  "lca_information": {
+    "declared_unit": "1 m3 of concrete",
+    "reference_service_life": "100 years",
+    "temporal_representativeness": "2019",
+    "electricity_mix": "Residual mix of Spain 2018",
+    "lca_study": "Marcel Gómez Consultoria Ambiental",
+    "lca_software": "Simapro 9.1",
+    "lca_database": "Ecoinvent version 3.5",
+    "system_boundary": "Cradle to grave and Module D",
+    "modules_declared": "A1-A3, A4, A5, B1-B7, C1-C4, D"
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "Truck 16-32 ton",
+      "fuel_consumption": "31.1 L/100 km",
+      "average_distance": "12.16 km"
+    },
+    "installation": {
+      "waste": "2% product loss",
+      "auxiliary_materials": "None",
+      "water_use": "None",
+      "energy_use": "None"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": "Diesel use included",
+    "transport_to_waste_treatment": "50 km",
+    "waste_treatment": {
+      "recycling": "89%",
+      "landfilling": "11%"
+    }
+  },
+  "carbon_emission_context": {
+    "carbonation": "Included as per EN 16757",
+    "carbon_footprint_registration": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ]
+  },
+  "recycled_materials_handling": {
+    "circular_economy": "Reutilize waste as resources",
+    "geocycle_activity": "Pretreatment of waste for fuel"
+  },
+  "additional_info": {
+    "biodiversity_restoration": "Proactive quarry restoration for biodiversity",
+    "awards": "Second prize in 'Empresa y Biodiversidad' category at European Business Awards for the Environment 2018"
+  }
+}

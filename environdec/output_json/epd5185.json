@@ -1,0 +1,222 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "program_operator_address": "Box 210 60, SE-100 31 Stockholm, Sweden",
+    "epd_registration_number": "REF: S-P-05185",
+    "issue_date": "2021-12-22",
+    "update_date": "2023-11-23",
+    "epd_version": "3.1",
+    "validity_date": "2027-05-03",
+    "geographical_scope": "Global",
+    "product_group_classification": "UN CPC 3744",
+    "product_category_rule": [
+      "2019:14 Construction products (EN 15804:A2); Version 1.11; 2021-02-05",
+      "c-PCR-001 Cement and Building Lime (EN 16908:2017) 2019-12-20"
+    ],
+    "verification": {
+      "type": "External",
+      "epd_process_certification": true,
+      "epd_verification": true,
+      "third_party_verifier": "Marcel Gómez",
+      "accredited_by": "Approved by The International EPD® System Technical Committee",
+      "follow_up_procedure": true
+    },
+    "standards": [
+      "ISO 14025:2010",
+      "EN 15804:2012+A2:2019",
+      "ISO 21930",
+      "ISO 14025:2006",
+      "ISO 14040",
+      "ISO 14044"
+    ]
+  },
+  "product_description": {
+    "product_name": "ECOPlanet CEM II/A 42,5 N and III/A 42,5 N/SRC",
+    "manufacturer": "Holcim España, S.A.U.",
+    "manufacturing_location": "Rambla Olivera s/n, 04140, Carboneras, Almeria, Spain",
+    "product_range": "ECOPlanet",
+    "product_type": "Portland slag cements",
+    "functional_unit": "One ton (1000 kg) of product ready to be sent to the customer",
+    "application": "Used in ready-mix concrete plants for a large variety of concretes when normal compressive strength is required; improves performance in sulphate or sea water environments; recommended for concretes with potential reactive aggregates",
+    "composition": {
+      "Clinker": {
+        "percentage_mass": 59,
+        "post_consumer_material_weight_percent": 3,
+        "renewable_material_weight_percent": 0
+      },
+      "Blast_furnace_slag": {
+        "percentage_mass": 39,
+        "post_consumer_material_weight_percent": 100,
+        "renewable_material_weight_percent": 0
+      },
+      "Minor_additional_constituents": {
+        "percentage_mass": 2,
+        "post_consumer_material_weight_percent": 0,
+        "renewable_material_weight_percent": 0
+      },
+      "total": 100,
+      "total_post_consumer_material_weight_percent": 41,
+      "total_renewable_material_weight_percent": 0
+    },
+    "technical_characteristics": {
+      "standard": "UNE-EN 197-1",
+      "compressive_strength_2_days": "> 10 MPa",
+      "compressive_strength_28_days": "> 42.5 and < 62.5 MPa",
+      "initial_setting_time": "> 60 min",
+      "soundness": "< 10 mm"
+    },
+    "hazardous_substances": "No hazardous substance listed in the Candidate List of Substances of Very High Concern (SVHC) for authorization used in percentage higher than 0.1% of product weight",
+    "production_data_year": 2020
+  },
+  "lca_information": {
+    "declared_unit": "One ton (1000 kg) of product ready to send to customers",
+    "reference_service_life": "Not relevant due to cradle-to-gate boundary conditions",
+    "system_boundaries": "Cradle to gate (modules A1 to A3)",
+    "modules_declared": [
+      "A1",
+      "A2",
+      "A3"
+    ],
+    "modules_excluded": [
+      "B1",
+      "B3",
+      "B4",
+      "B5",
+      "B6",
+      "B7",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "D"
+    ],
+    "exclusion_reason": "Product physically integrated with other products during installation and cannot be physically separated at end of life; product no longer identified at end of life due to physical-chemical transformation; product does not contain biogenic carbon",
+    "processes_included": [
+      "Quarry works",
+      "Components manufacturing",
+      "Transport of materials and fuels",
+      "Factory process",
+      "Final preparation"
+    ],
+    "processes_not_directly_controlled": [
+      "Production of main fuels",
+      "Transport of raw materials",
+      "Minor inputs excluded by cut-off rules"
+    ],
+    "electricity_mix": "National electricity mix for Spain",
+    "transport_modes": [
+      "Ship",
+      "Truck"
+    ],
+    "packaging": "No packaging, product marketed in bulk",
+    "calculation_methodology": {
+      "lca_standards": [
+        "ISO 14040",
+        "ISO 14044"
+      ],
+      "epd_system_instructions": "International EPD System General Programme Instruction (GPI 3.01)",
+      "software_used": "Air.e LCA v3.12",
+      "database_used": "Ecoinvent 3.7.1",
+      "allocation": "Avoided when possible; used only for verified direct emissions of furnace",
+      "cut_off_rules": "More than 99% of materials and energy consumption included; capital equipment production and maintenance, employee transports excluded",
+      "data_quality": "High; data representative of declared geography; direct emissions third-party verified and included in PRTR and EU Emissions Trade System"
+    },
+    "impact_assessment_methods": {
+      "global_warming_potential": "IPCC 2013 100 years",
+      "ozone_depletion": "WMO 2014 integrations",
+      "acidification": "Accumulated Exceedance (Seppälä et al. 2006, Posch et al. 2008)",
+      "eutrophication_fresh_water": "EUTREN, Struijs et al., 2009b",
+      "eutrophication_marine_water": "EUTREN, Struijs et al., 2009b",
+      "eutrophication_terrestrial": "Accumulated Exceedance (Seppälä et al. 2006, Posch et al. 2008)",
+      "photochemical_ozone_creation": "LOTOS-EUROS model (Van Zelm et al, 2008)",
+      "abiotic_depletion_elements": "CML 2002 (Guinée et al., 2002) and van Oers et al. 2002",
+      "abiotic_depletion_fossil": "CML 2002 (Guinée et al., 2002) and van Oers et al. 2002",
+      "water_scarcity": "Available WAter REmaining (AWARE) UNEP 2016"
+    }
+  },
+  "transport_and_installation": {
+    "transport_modes": [
+      "Ship",
+      "Truck"
+    ],
+    "transport_distances": "Calculated using Google Maps for road and MarineTraffic Voyage Planner for maritime",
+    "packaging": "No packaging, product marketed in bulk",
+    "installation": "Not applicable or not included due to cradle-to-gate boundary"
+  },
+  "end_of_life": {
+    "modules_excluded": [
+      "B1",
+      "B3",
+      "B4",
+      "B5",
+      "B6",
+      "B7",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "D"
+    ],
+    "reason_for_exclusion": "Product physically integrated with other products during installation and cannot be physically separated at end of life; product no longer identified at end of life due to physical-chemical transformation; product does not contain biogenic carbon"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential_total": 490.34,
+    "global_warming_potential_fossil": 490.22,
+    "global_warming_potential_biogenic": 0.12,
+    "global_warming_potential_luluc": "<0.01",
+    "gwp_ghg_including_secondary_fuels": 533.88,
+    "gwp_ghg_excluding_biogenic_carbon": 533.88,
+    "hazardous_waste_disposed": "<0.01 kg",
+    "non_hazardous_waste_disposed": "1.54 kg",
+    "radioactive_waste_disposed": "<0.01 kg",
+    "components_for_reuse": "0 kg",
+    "material_for_recycling": "0 kg",
+    "materials_for_energy_recovery": "0 kg",
+    "exported_electrical_energy": "0 MJ",
+    "exported_thermal_energy": "0 MJ",
+    "biogenic_carbon_content_in_product": null,
+    "biogenic_carbon_content_in_packaging": null
+  },
+  "recycled_materials_handling": {
+    "use_of_secondary_material": "410 kg per functional unit",
+    "post_consumer_material_percentage": 41,
+    "renewable_material_percentage": 0,
+    "recycled_components_considered_from": "Sorting and processing plant of recovered materials",
+    "alternative_fuels": "Use of alternative fuels via Geocycle business for recycling materials at end of life"
+  },
+  "additional_info": {
+    "company_information": {
+      "company_name": "Holcim España, S.A.U.",
+      "address": "Avda. de Manoteras 20, 28050 Madrid, Spain",
+      "contact": {
+        "phone": "+91 213 31 00",
+        "email": "marketing.spain@holcim.com",
+        "website": "www.holcim.es"
+      },
+      "description": "Holcim España owns five cement factories in Spain with capacity over seven million tons per year, 19 concrete plants, one mortar plant, six terminals, one waste recovery plant, employing over 700 people. It has a New Concrete and Mortars R&D Center with exclusive alternative fuels laboratory. Part of Holcim global group focused on sustainability and circular economy."
+    },
+    "sustainability_practices": {
+      "decarbonizing_operations": "Recycling materials at end of life as alternative fuels via Geocycle",
+      "decarbonizing_products": "Offering broad range of sustainable low-carbon building materials",
+      "decarbonizing_built_environment": "Working towards net-zero built environment across building life cycle",
+      "environmental_care": "Positive impact on water and biodiversity by protecting and restoring natural resources"
+    },
+    "certifications": [
+      "ISO 9001:2015 Quality Management",
+      "ISO 14001:2015 Environmental Management",
+      "ISO 14064-1:2012 Greenhouse Gases verified",
+      "Carbon Footprint National Registry of Spain with labels 'Calculo' and 'Reduzco'"
+    ],
+    "references": [
+      "General Programme Instructions of the International EPD® System Version 3.01",
+      "PCR 2019:14 Construction products (EN 15804:2012+A2:2019)",
+      "c-PCR-001 Cement and Building Lime (EN 16908:2017)",
+      "ISO 14040:2006",
+      "ISO 14044:2006",
+      "LCA Report by Solid Forest S.L.",
+      "Software: Air.e LCA rev. 3.12",
+      "Database: Ecoinvent 3.7.1"
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "epd_metadata": {
+    "owner": "Holcim (Australia) Pty Ltd",
+    "owner_contact": {
+      "address": "Level 40, Northpoint Tower, 100 Miller St, North Sydney NSW 2060, Australia",
+      "phone": "+61 2 9412 6600",
+      "web": "www.holcim.com.au"
+    },
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia",
+    "regional_programme_operator": "EPD Australasia Limited",
+    "epd_registration_number": "EPD-IES-18547:001",
+    "valid_from": "22/4/2025",
+    "valid_until": "22/4/2030",
+    "revision_date": "22/4/2025",
+    "revision_number": 1,
+    "geographical_scope": "Australia",
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "reference_year_for_data": {
+      "plant_data": 2022,
+      "mix_materials_data": 2025
+    },
+    "standards": [
+      "ISO 14025",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+      "c-PCR-003 Concrete and Concrete Elements, 2024-04-30"
+    ],
+    "third_party_verification": {
+      "type": "Process certification",
+      "certification_body": "Epsten Group, Inc.",
+      "verifier": "Megan Blizzard",
+      "accreditation": "A2LA, Certificate #3142.03"
+    }
+  },
+  "product_description": {
+    "product_name": "Ready-Mix Concrete",
+    "product_code": "NSW - Coffs Coast - ECOPact- NE321LBX",
+    "functional_unit": "1 m³ of ready-mix concrete",
+    "product_use": "General, Block fill",
+    "production_sites": [
+      "Coffs Harbour",
+      "Woolgoolga",
+      "Grafton"
+    ],
+    "material_composition": {
+      "cement": "5-21% by weight",
+      "aggregate": "67-84% by weight",
+      "supplementary_cementitious_materials": "0-11% by weight",
+      "water": "11.6-12% by weight",
+      "biogenic_material_weight_percent": 0,
+      "recycled_material_weight_percent": 0
+    },
+    "classification": {
+      "normal_class": "Designed for everyday applications such as residential and commercial foundations, driveways and footpaths",
+      "special_class": "High-strength/high-performance concrete, high durability, marine application, post-tensioned, high-pumpability, super workable, piling concrete, architectural off-form finishes and decorative applications"
+    },
+    "dangerous_goods_classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail",
+    "hazardous_substances": "None listed in the Candidate List of Substances of Very High Concern for authorisation",
+    "packaging": "Delivered in bulk with no packaging"
+  },
+  "lca_information": {
+    "scope": "Cradle to gate (modules A1-A3) with options modules A4-A5, modules C1-C4 and module D",
+    "reference_service_life": "Not specified (scope is cradle to delivery)",
+    "time_representativeness": {
+      "plant_data": 2022,
+      "mix_data": 2025
+    },
+    "databases_and_software": {
+      "software": "SimaPro® LCA software (v 9.5)",
+      "background_data_preferences": [
+        "Product specific EPDs for cements, admixtures, pigments and fibres",
+        "Australian National Life Cycle Inventory Database (AusLCI v1.42) (2023)",
+        "Ecoinvent 3.9.1 (2023)"
+      ]
+    },
+    "allocation": {
+      "method": "Physical allocation based on weight or volume; economic allocation used when physical allocation not possible",
+      "fly_ash_and_silica_fumes": "Assumed waste products and burden-free",
+      "ground_granulated_blast_furnace_slag": "Allocated economically"
+    },
+    "cut_off_criteria": {
+      "excluded": [
+        "Environmental impact from infrastructure, construction, production equipment, and tools not directly consumed",
+        "Personnel-related impacts such as transportation to and from work"
+      ],
+      "included": "All materials required for manufacturing delivered without packaging except packaging of materials"
+    },
+    "data_quality": {
+      "geographic_representativeness": "Good to very good",
+      "temporal_representativeness": "Data updated within 10 years as required",
+      "specific_data_sources": {
+        "cement_supplier_data": "2022, all states, very good",
+        "cementitious_supplementary_materials": "2022, national, good",
+        "electricity": "2022, all states, very good",
+        "diesel": "2022, all states, very good",
+        "LPG": "2022, all states, very good",
+        "pollutants_data": "2022, all states, very good",
+        "water": "2022, all states, very good",
+        "explosives": "2022, all states, very good",
+        "recycled_aggregates": "2023, national, good",
+        "admixtures": "2023, national, good",
+        "oxides": "2023, national, good",
+        "fibres": "2023, national, good",
+        "transport": "2022, all states, very good"
+      }
+    }
+  },
+  "transport_and_installation": {
+    "transport": {
+      "vehicle_type": "EUROS 28t — 32t trucks",
+      "average_distance_km": 11.77,
+      "fuel_type": "Diesel",
+      "fuel_use_l_per_km": 0.0197,
+      "load_capacity_tonnes": 28,
+      "carrying_factor": 0.5,
+      "density_kg_per_m3": 2400
+    },
+    "installation": {
+      "operational_control": "No operational control by Holcim",
+      "assumptions": {
+        "concrete_losses_to_landfill_percent": 3,
+        "water_use_liters": 669,
+        "electricity_use_kWh": 2.78,
+        "diesel_use_liters": 1.67,
+        "wastewater_liters": 0.669
+      },
+      "activities_included": "Pouring concrete from truck and pump, manual finishing; excludes pre-installation site work and forms"
+    }
+  },
+  "end_of_life": {
+    "deconstruction": {
+      "method": "Physical process of drilling and removing concrete using hydraulic excavator",
+      "diesel_use_liters": 0.131
+    },
+    "transport": {
+      "distance_to_processing_km": 25
+    },
+    "waste_processing": {
+      "recycling_rate_percent": 80,
+      "recycled_material_kg": 1920
+    },
+    "final_disposal": {
+      "landfill_type": "Inert waste landfill",
+      "waste_kg": 480
+    },
+    "notes": "Holcim has no control over end-of-life fate; assumptions based on common scenarios and National Waste Report 2022"
+  },
+  "carbon_emission_context": {
+    "global_co2_emissions_building_environment_percent": 39,
+    "construction_materials_co2_emissions_percent": 11,
+    "targets": {
+      "2030": "Embodied carbon of all construction materials to be at least 40% lower",
+      "2050": "All new construction materials to be net zero"
+    },
+    "carbonation": {
+      "description": "Natural process of CO2 absorption by concrete over its lifetime, reducing net CO2 emissions",
+      "considered_in_epd": false,
+      "reference_standard": "BS EN 16757:2017"
+    }
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_method": {
+      "fly_ash": "Treated as waste material, only transport impacts included",
+      "ground_granulated_blast_furnace_slag": "Economic allocation due to significant economic value",
+      "silica_fume": "Treated as waste material, only transport impacts included"
+    },
+    "background_data": "AusLCI LCA database allocation approach adopted as default for secondary data and processes",
+    "recycling_rate_end_of_life_percent": 80,
+    "recycled_aggregate_use": "Recycled aggregate replaces virgin coarse aggregate depending on product performance requirements"
+  },
+  "additional_info": {
+    "product_group_classification": "UN CPC 375 (Articles of concrete, cement and plaster)",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": {
+      "plant_data": 2022,
+      "mix_materials_data": 2025
+    },
+    "standards_and_pcr": [
+      "ISO 14025",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "PCR 2019:14 Construction Products, Version 1.3.4, 2024-04-30",
+      "c-PCR-003 Concrete and Concrete Elements, 2024-04-30"
+    ],
+    "environmental_impact_indicators": {
+      "primary": [
+        "Global warming potential (GWP-T)",
+        "Global warming potential (biogenic) (GWP-B)",
+        "Ozone depletion potential (ODP)",
+        "Eutrophication - aquatic freshwater (EP-freshwater)",
+        "Eutrophication - terrestrial (EP-terrestrial)",
+        "Abiotic depletion potential (elements) (ADPE)",
+        "Water depletion potential (WDP)"
+      ],
+      "resource_use": [
+        "Use of renewable primary energy excluding renewable primary energy resources used as raw materials",
+        "Total use of renewable primary energy resources",
+        "Use of non-renewable primary energy resources",
+        "Use of secondary material",
+        "Use of non-renewable secondary fuels"
+      ],
+      "waste_categories": [
+        "Hazardous waste disposed",
+        "Non-hazardous waste disposed",
+        "Radioactive waste disposed/stored",
+        "Components for reuse",
+        "Materials for recycling",
+        "Materials for energy recovery",
+        "Exported energy"
+      ],
+      "additional_indicators": [
+        "Human toxicity potential - cancer effects",
+        "Human toxicity potential - non cancer effects",
+        "Soil quality",
+        "Particulate matter",
+        "Ionising radiation",
+        "Eco-toxicity (freshwater)"
+      ],
+      "green_star_indicators": [
+        "Human Toxicity cancer Green Star",
+        "Human Toxicity non-cancer Green Star",
+        "Land use Green Star",
+        "Ionising radiation Green Star",
+        "Particulate Matter Green Star",
+        "Water Scarcity Indicator Green Star"
+      ]
+    },
+    "disclaimers": [
+      "Results are relative statements and do not indicate endpoints, thresholds, safety margins or risks",
+      "Some impact categories have high uncertainties or limited experience",
+      "Ionising radiation indicator excludes effects from nuclear accidents, occupational exposure, and radioactive waste disposal underground"
+    ],
+    "references": [
+      "AusLCI Database v1.42 (2023)",
+      "Australasian EPD Programme Guidance documents (2017, 2018, 2024)",
+      "Australian Life Cycle Inventory Database Initiative Guidelines (2023)",
+      "British Standards Institution BS EN 15804:2012+A2:2019 and BS EN 16757:2017",
+      "Department of Climate Change, Energy, the Environment and Water National Waste Report 2022",
+      "Ecoinvent version 3.9.1 database (2023)",
+      "EPD International General Programme Instructions and PCR documents (2024)",
+      "European Committee for Standardization EN 16757:2022",
+      "ISO 14025:2006, ISO 14040:2006, ISO 14044:2006+A1:2018",
+      "Green Building Council of Australia (2022)",
+      "World Green Building Council (2019)",
+      "Scientific articles on carbon footprint of Australia's construction sector"
+    ]
+  }
+}

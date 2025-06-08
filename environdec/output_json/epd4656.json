@@ -1,0 +1,302 @@
+{
+  "epd_metadata": {
+    "epd_owner": "Holcim (Australia) Pty Ltd",
+    "address": "Level 8, 799 Pacific Highway, Chatswood NSW 2067, Australia",
+    "phone": "+61 2 9412 6600",
+    "website": "www.holcim.com.au",
+    "epd_produced_by": "Epsten Group",
+    "epd_produced_by_address": "Suite 2600, 101 Marietta St NW, Atlanta, Georgia 30303, USA",
+    "epd_produced_by_website": "www.epstengroup.com",
+    "epd_registration_number": "S-P-04656",
+    "valid_from": "2022-01-11",
+    "valid_until": "2027-01-11",
+    "version": "v1.0",
+    "version_date": "03/12/2021",
+    "program_operator": "EPD Australasia Limited",
+    "program_operator_address": "315a Hardy Street Nelson 7010, New Zealand",
+    "program_operator_website": "www.epd-australasia.com",
+    "program_operator_email": "info@epd-australasia.com",
+    "program_operator_phone": "02 8005 8206",
+    "product_category_rules": "PCR 2012:01 Construction Products and Construction Services, Version 2.3, 2018-11-15",
+    "product_group_classification": "UN CPC 54",
+    "geographical_scope": "Australia",
+    "reference_year_for_data": "2017 Plant Data, 2021 Mix/Materials Data",
+    "core_pcr_standard": "CEN standard EN 15804:2012+a1:2013",
+    "independent_third_party_verification": {
+      "type": "EPD process certification and data, according to ISO 14025:2006",
+      "verifier": "Epsten Group, Inc., Katherine McFeaters",
+      "accreditation": "A2LA, Certificate #3142.03"
+    },
+    "procedure_for_follow_up": "Involves third party verifier"
+  },
+  "product_description": {
+    "product_name": "ViroDecs Special Ready-mix concrete ECOPact Product Range - Illawarra & Nowra",
+    "product_type": "Ready-mix concrete",
+    "description": "Concrete prepared by mixing cement, coarse and fine aggregates, water, with or without auxiliary agents and additives. Placed on site or prefabricated, compacted and hardened by hydration of cement.",
+    "classes": {
+      "normal_class": "Designed for residential applications, low rise buildings, paving and driveways. Specification and ordering simplified.",
+      "special_class": "For major and high-end construction projects including high-rise buildings, dams, roads, bridges, public infrastructure. Specified for technical parameters and performance requirements such as high strength, durability, marine application, post-tensioned, high pumpability, architectural finishes."
+    },
+    "mix_descriptions": [
+      {
+        "mix_code": "NE202E164 / NZ202E164",
+        "strength_mpa": 20,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE202E364 / NZ202E364",
+        "strength_mpa": 20,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE252E164 / NZ252E164",
+        "strength_mpa": 25,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE252E364 / NZ252E364",
+        "strength_mpa": 25,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE322E164 / NZ322E164",
+        "strength_mpa": 32,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE322E364 / NZ322E364",
+        "strength_mpa": 32,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE402E164 / NZ402E164",
+        "strength_mpa": 40,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE402E364 / NZ402E364",
+        "strength_mpa": 40,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE502E164 / NZ502E164",
+        "strength_mpa": 50,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE502E364 / NZ502E364",
+        "strength_mpa": 50,
+        "max_aggregate_size_mm": 20,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE201E164 / NZ201E164",
+        "strength_mpa": 20,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE201E364 / NZ201E364",
+        "strength_mpa": 20,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE251E164 / NZ251E164",
+        "strength_mpa": 25,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE251E364 / NZ251E364",
+        "strength_mpa": 25,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE321E164 / NZ321E164",
+        "strength_mpa": 32,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE321E364 / NZ321E364",
+        "strength_mpa": 32,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE401E164 / NZ401E164",
+        "strength_mpa": 40,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE401E364 / NZ401E364",
+        "strength_mpa": 40,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE501E164 / NZ501E164",
+        "strength_mpa": 50,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 100,
+        "description": "ECOPACT CONCRETE"
+      },
+      {
+        "mix_code": "NE501E364 / NZ501E364",
+        "strength_mpa": 50,
+        "max_aggregate_size_mm": 10,
+        "slump_mm": 140,
+        "description": "ECOPACT CONCRETE"
+      }
+    ],
+    "content_declaration": {
+      "general_purpose_cement": "5-21%",
+      "aggregate": "67-84%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "11.6-12%",
+      "admixtures": "0.01-0.02%"
+    },
+    "packaging": "Delivered in bulk with no packaging",
+    "dangerous_goods_classification": "Non-Dangerous Goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail"
+  },
+  "lca_information": {
+    "declared_unit": "1 m³ of ready-mix concrete",
+    "reference_service_life": "Not specified (scope is cradle to gate)",
+    "time_representativeness": {
+      "plant_data": "2017 calendar year production data",
+      "mix_data": "2021 calendar year production data"
+    },
+    "databases_and_software_used": {
+      "lca_software": "SimaPro (v8.4)",
+      "background_data_sources": [
+        "Australian National Life Cycle Inventory Database (AusLCI) (2017)",
+        "Ecoinvent 3.4 (2017)",
+        "World Business Council for Sustainable Development (WBCSD) Cement Sustainability Initiative (CSI) Tool Project Database (International Version) (2018)",
+        "Product specific EPDs for admixtures and fibres"
+      ]
+    },
+    "allocation": {
+      "method": "Physical allocation based on weight (quarries) or m² of concrete (batching plant); economic allocation used when physical allocation not possible",
+      "fly_ash_and_silica_fumes": "Assumed waste products and burden-free",
+      "ground_granulated_blast_furnace_slag": "Allocated economically"
+    },
+    "cut_off_criteria": "No flows excluded on basis of cut-off criteria",
+    "data_quality": {
+      "foreground_data": "Medium or higher geographic and temporal representativeness",
+      "background_data": "Updated within 10 years as required under PCR 2012:01"
+    },
+    "system_boundaries": "Cradle to gate; excludes personnel, infrastructure and production equipment not directly consumed in process; excludes life cycle stages beyond Holcim's gate",
+    "excluded_lifecycle_stages": [
+      "Construction Use Stage",
+      "End of Life Stage"
+    ]
+  },
+  "transport_and_installation": {
+    "transport_modes": [
+      "Transoceanic freight ship",
+      "Rigid truck",
+      "Domestic freight ship"
+    ],
+    "transport_allocation": "Included in LCA; allocation based on physical or economic criteria as described",
+    "installation": null
+  },
+  "end_of_life": {
+    "scenarios": [
+      "Disposal of concrete at landfill site",
+      "Reuse of recovered concrete elements in new construction works",
+      "Use of concrete debris in land restoration",
+      "Crushing/recycling of concrete: crushed concrete substitutes primary material without further processing or substitutes natural aggregates in fresh concrete"
+    ],
+    "note": "Scenarios 2, 3 and 4 can result in benefits and loads outside system boundary and should be considered in whole-of-life building studies or functional comparisons"
+  },
+  "carbon_emission_context": {
+    "carbonation_process": "Concrete absorbs CO2 from atmosphere through chemical reaction with hydration products; can offset CO2 emitted during cement manufacturing",
+    "carbonation_consideration": "Not considered in this EPD and not reflected in EPD results tables; recommended to consider in whole-of-life building studies per BS EN 16757:2017",
+    "importance": "Commonly known and considered by engineers when specifying special-class concrete"
+  },
+  "recycled_materials_handling": {
+    "co_products": [
+      "Fly ash",
+      "Ground granulated blast furnace slag",
+      "Silica fume"
+    ],
+    "allocation_approach": {
+      "fly_ash": "Treated as waste material; only transport impacts included",
+      "ground_granulated_blast_furnace_slag": "Allocated based on economic value",
+      "silica_fume": "Treated as waste material; only transport impacts included"
+    },
+    "database_conformance": "AusLCI dataset conforms to EN 15804 for allocation",
+    "note": "Allocation approach of AusLCI LCA database adopted as default for secondary data and processes"
+  },
+  "additional_info": {
+    "environmental_impact_categories": {
+      "global_warming_potential": "kg CO2 equivalents (GWP100)",
+      "ozone_depletion_potential": "kg CFC 11 equivalents",
+      "acidification_potential": "kg SO2 equivalents",
+      "eutrophication_potential": "kg PO4 equivalents",
+      "photochemical_ozone_creation_potential": "kg C2H4 equivalents",
+      "abiotic_depletion_potential_elements": "kg Sb equivalents",
+      "abiotic_depletion_potential_fossil_fuels": "MJ net calorific value",
+      "resource_use": {
+        "renewable_primary_energy_excluding_raw_materials": "MJ net calorific value",
+        "renewable_primary_energy_raw_materials": "MJ net calorific value",
+        "total_renewable_primary_energy": "MJ net calorific value",
+        "non_renewable_primary_energy_excluding_raw_materials": "MJ net calorific value",
+        "non_renewable_primary_energy_raw_materials": "MJ net calorific value",
+        "total_non_renewable_primary_energy": "MJ net calorific value",
+        "secondary_material_use": "kg",
+        "renewable_secondary_fuels_use": "MJ net calorific value",
+        "non_renewable_secondary_fuels_use": "MJ net calorific value",
+        "net_fresh_water_use": "m3"
+      },
+      "output_categories": {
+        "hazardous_waste_disposed": "kg",
+        "non_hazardous_waste_disposed": "kg",
+        "radioactive_waste_disposed_stored": "kg",
+        "components_for_reuse": "kg",
+        "materials_for_recycling": "kg",
+        "materials_for_energy_recovery": "kg",
+        "exported_energy": "MJ per energy carrier"
+      },
+      "optional_green_star_indicators": {
+        "human_toxicity": "CTUh",
+        "land_use": "m2",
+        "water_stress_indicator": "m3",
+        "ionising_radiation": "kBq U235 eq",
+        "particulate_matter": "kg PM2.5 eq"
+      }
+    },
+    "note_on_comparability": "EPDs within the same product category but from different programmes may not be comparable. EPDs of construction products may not be comparable if they do not comply with EN 15804.",
+    "disclaimer": "This publication supersedes all previous literature on this subject. Specifications and details may change; users must determine suitability for their circumstances. Holcim accepts no liability for loss or damage resulting from reliance on this information."
+  }
+}

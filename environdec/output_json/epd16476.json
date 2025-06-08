@@ -1,0 +1,142 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD System",
+    "program_operator": "EPD International AB",
+    "epd_registration_number": "EPD-IES-0016476:001",
+    "issue_date": "2024-12-03",
+    "validity_date": "2029-12-02",
+    "geographical_scope": "Europe",
+    "verification": {
+      "third_party_verifier": "Marcel Gomez, Marcel Gómez Consultoria Ambiental S.L.",
+      "verification_type": "External and independent (‘third-party’) verification",
+      "approved_by": "The International EPD System",
+      "procedure_for_follow_up": null
+    },
+    "pcr": {
+      "pcr_reference": "PCR 2019:14 Construction products (EN 15804:A2); Version 1.3.4; 2024-04-30 and c-PCR-001 Cement and Building Lime (EN 16908:2019); 2024-04-30",
+      "pcr_review_conducted_by": "The Technical Committee of the International EPD System",
+      "review_chair": "Claudia A. Peña, University of Concepción, Chile",
+      "pcr_url": "https://www.environdec.com/"
+    },
+    "epd_version": "First version",
+    "sectorial_epd": false,
+    "standards": [
+      "ISO 14025:2006",
+      "EN 15804:2012+A2:2019/AC:2021",
+      "EN 16908:2019",
+      "ISO 14040",
+      "ISO 14044",
+      "ISO 14020:2000"
+    ]
+  },
+  "product_description": {
+    "product_name": "ECOPlanet CEM V/A (Q-S) 42.5 N",
+    "product_group_classification": "UN CPC 3744",
+    "product_category": "Portland cement, aluminous cement, slag cement and similar hydraulic cements, except in the form of clinkers",
+    "manufacturer": "Holcim España, S.A.U.",
+    "manufacturing_location": "Sagunto, Valencia, Spain",
+    "declared_unit": "One ton (1,000 kg) of product ready to be sent to the customer",
+    "product_composition": {
+      "Clinker": "1.85%",
+      "Blast furnace slag": "70%",
+      "Natural calcined pozzolana": "22.2%",
+      "Natural gypsum": "0%",
+      "Minor constituents": "100%"
+    },
+    "packaging": "Product marketed in bulk, no packaging materials",
+    "technical_characteristics": {
+      "Compressive strength 2 days": "> 10.0 MPa",
+      "Compressive strength 28 days": "> 42.5 and < 62.5 MPa",
+      "Initial setting time": "> 60 min",
+      "Soundness": "< 10 mm"
+    },
+    "hazardous_substances": "No substances listed in the Candidate List of Substances of Very High Concern (SVHC) used above 0.1% by weight"
+  },
+  "lca_information": {
+    "declared_unit": "One ton (1,000 kg) of ECOPlanet CEM V/A (Q-S) 42.5 N manufactured by Holcim España in Sagunto, marketed in bulk, ready to send to customers",
+    "reference_service_life": "Not relevant due to cradle-to-gate boundary conditions",
+    "system_boundaries": "Cradle to gate (modules A1-A3) including quarry works, component manufacturing, transport of materials and fuels, factory process and final preparation; excludes modules B1 to D",
+    "excluded_processes": [
+      "Manufacture of equipment, buildings, or capital goods",
+      "Transport of people to and inside manufacturing plants",
+      "R+D activities",
+      "Long-term emissions"
+    ],
+    "electricity_mix": "100% renewable sources with Climate Change impact of 0.079 kg CO2e/kWh (GWP100-GHG)",
+    "lca_software": "Air.e LCA v3.17",
+    "lca_database": "Ecoinvent 3.10 (system model Allocation, cut-off, EN15804)",
+    "impact_assessment_method": "EF 3.1",
+    "data_quality": "High; data representative of declared geographical scope, recent data, third-party verified emissions",
+    "cut_off_rules": "At least 95% of total input flows (mass and energy) per module included; expanded cut-off rule of ISO 21930 applied",
+    "allocation": "Only for verified direct emissions of furnace clinker production",
+    "transport_included": "All transportation and components included with real loads and distances for 2023; port operations excluded",
+    "polluter_payer_and_modularity_principles": true
+  },
+  "transport_and_installation": {
+    "transport": {
+      "included": true,
+      "details": "Transport of raw materials by ship and truck included; distances provided by factory records; port operations excluded"
+    },
+    "installation": {
+      "information": null
+    }
+  },
+  "end_of_life": {
+    "information": "Product physically integrated with other products during installation and cannot be physically separated at end of life; product undergoes physical-chemical transformation and is no longer identified at end of life; product does not contain biogenic carbon",
+    "modules_excluded": [
+      "B1 to D"
+    ]
+  },
+  "carbon_emission_context": {
+    "global_warming_potential_total": "380.85 kg CO2 equivalent per ton (net emissions)",
+    "global_warming_potential_fossil": "380.53 kg CO2 equivalent per ton",
+    "biogenic_carbon": "Net near zero (biogenic carbon uptake and release balanced)",
+    "lulu_c": "0.25 kg CO2 equivalent",
+    "ozone_depletion": "2.37e-06 kg CFC11 equivalent",
+    "acidification": "1.29 mol H+ equivalent",
+    "eutrophication_freshwater": "5.32e-04 kg P equivalent",
+    "eutrophication_marine_water": "4.66e-04 kg N equivalent",
+    "eutrophication_terrestrial": "5.19 mol N equivalent",
+    "photochemical_ozone_creation": "1.49 kg NMVOC equivalent",
+    "depletion_abiotic_resources_elements": "3.64e-04 kg Sb equivalent",
+    "depletion_abiotic_resources_fossil_fuels": "1738.30 MJ net calorific value",
+    "water_scarcity": "12.26 m3 world equivalent",
+    "greenhouse_gas_emissions_inventory": {
+      "gross_emissions_including_secondary_fuels": "417.08 kg CO2 equivalent",
+      "net_emissions": "417.01 kg CO2 equivalent"
+    }
+  },
+  "recycled_materials_handling": {
+    "use_of_secondary_material": "0.31 kg per ton",
+    "use_of_renewable_secondary_fuels": "167.94 MJ per ton",
+    "use_of_non_renewable_secondary_fuels": "1243.61 MJ per ton",
+    "recycled_components_considered": "From selection and processing plant of recovered materials"
+  },
+  "additional_info": {
+    "company_information": {
+      "company_name": "Holcim España, S.A.U.",
+      "address": "Avda. de Manoteras, 20, 28050 Madrid, Spain",
+      "contact_email": "marketing.spain@Holcim.com",
+      "contact_phone": "+34 91 213 31 00",
+      "company_profile": "Holcim España owns five cement factories in Spain with over seven million tons per year capacity, multiple concrete and mortar plants, terminals, and a waste recovery plant; employs over 700 people; part of Holcim global group focused on sustainable construction and net-zero strategy",
+      "sustainability_practices": "Decarbonizing operations via recycling alternative fuels, offering low-carbon products, working towards zero net emissions built environment, positive impact on water and biodiversity",
+      "certifications": [
+        "ISO 9001:2015 Quality Management",
+        "ISO 14001:2015 Environmental Management",
+        "ISO 14064-1:2018 Greenhouse Gases Emissions Inventory verified annually",
+        "Carbon Footprint National Registry of Spain with 'Calculo' and 'Reduzco' labels"
+      ]
+    },
+    "references": [
+      "Holcim Climate Report 2023",
+      "Holcim Net Zero Journey",
+      "Holcim Nature Policy",
+      "Registro Estatal de Emisiones y Fuentes Contaminantes (prtr-es.es)"
+    ],
+    "software_and_databases": {
+      "lca_software": "Air.e LCA rev. 3.17",
+      "lca_database": "Ecoinvent 3.10"
+    },
+    "notes_on_comparability": "EPDs within the same product category but from different programs may not be comparable unless based on the same PCR version, identical functions, system limits, data quality, cut-off rules, and impact assessment methods"
+  }
+}

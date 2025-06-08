@@ -1,0 +1,68 @@
+{
+  "epd_metadata": {
+    "managed_by": "Holcim NZ Ltd",
+    "valid_from": "6 June 2023",
+    "valid_to": "6 June 2028",
+    "epd_process_certificate_no": "1012",
+    "revision_date": "6 June 2023",
+    "verified_accreditation_body": "Epsten Group, Inc.",
+    "revision_number": "1.0",
+    "epd_registration_no": "S-P-08440",
+    "geographical_scope": "New Zealand"
+  },
+  "product_description": {
+    "product_name": "ENVIROCORE 201",
+    "locations": [
+      "Auckland",
+      "Wellington",
+      "Dunedin"
+    ],
+    "product_use": "Cementitious materials for construction",
+    "manufacturing_process": "Cement blend production with supplementary materials"
+  },
+  "lca_information": {
+    "declared_unit": "1 tonne of cement blend",
+    "reference_service_life": null,
+    "time_representativeness": "2021 calendar year production data",
+    "databases_and_software": {
+      "software": "SimaPro® LCA software (v 9.4)",
+      "databases": [
+        "Australian Life Cycle Inventory Database (AusLCI v1.39) (2022)",
+        "Ecoinvent 3.8 (2021)"
+      ]
+    },
+    "allocation": "Intermediate flows allocated physically based on weight; economic allocation for ground granulated blast furnace slag",
+    "cut_off_criteria": "No flows were excluded on the basis of cut-off criteria",
+    "data_quality": "Foreground data assessed as medium or higher; background data updated within 10 years required under PCR 2019:14"
+  },
+  "transport_and_installation": {
+    "system_boundaries": "Cradle to gate (A1-A4)",
+    "excluded_stages": "Life cycle stages beyond Holcim's gate"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "annual_cement_usage": "1.5 million tonnes",
+    "annual_co2_emissions": "1.23 million tonnes",
+    "co2_emission_factor": "0.82 tonnes of CO2 per tonne of cement"
+  },
+  "recycled_materials_handling": {
+    "materials": [
+      "Fly ash",
+      "Ground granulated blast furnace slag"
+    ],
+    "allocation_method": "Economic value for slag; AusLCI process for fly ash"
+  },
+  "additional_info": {
+    "contact_information": {
+      "address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+      "website": "www.holcim.co.nz",
+      "phone": "0800 465 246"
+    },
+    "program_related_information": {
+      "epd_program_operator": "EPD Australasia Limited",
+      "epd_produced_by": "Holcim (New Zealand) Ltd",
+      "epd_process_certified_by": "Epsten Group",
+      "product_category_rules": "PCR 2019:14 Construction Products and Construction Services, Version 1.2.5, 2022-06-22"
+    }
+  }
+}

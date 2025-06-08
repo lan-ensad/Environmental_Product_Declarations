@@ -1,0 +1,80 @@
+{
+  "epd_metadata": {
+    "managed_by": "Holcim NZ Ltd",
+    "publication_date": "2025-02-17",
+    "epd_process_certificate_no": "1016",
+    "version_date": "2025-02-17",
+    "valid_until": "2030-02-17",
+    "verified_accreditation_body": "Epsten Group, Inc.",
+    "revision_number": "1.0",
+    "epd_registration_no": "EPD-IES-0019921",
+    "geographical_scope": "New Zealand",
+    "programme_operator": "EPD International AB",
+    "regional_programme": "EPD Australasia Limited"
+  },
+  "product_description": {
+    "product_name": "New Plymouth - 45MPa 13mm Ultimate Mix",
+    "product_type": "Ready-mix concrete",
+    "product_category": "Concrete and concrete elements",
+    "product_group_classification": "UN CPC 375",
+    "content_declaration": {
+      "portland_cement": "5-25%",
+      "aggregate": "60-90%",
+      "supplementary_cementitious_materials": "0-11%",
+      "water": "6-12%",
+      "admixture": "0.01-0.02%"
+    },
+    "manufacturing_process": "Ready-mix concrete is produced at batching plants where controlled operations allow precise mix designs resulting in a product that is delivered to construction sites in a freshly mixed, plastic, or unhardened state."
+  },
+  "lca_information": {
+    "declared_unit": "1m³ of ready-mix concrete in use",
+    "time_representativeness": "2022 plant data, 2025 mix data",
+    "databases_and_software_used": {
+      "software": "SimaPro LCA software (v9.6)",
+      "databases": [
+        "Ecoinvent 3.10",
+        "Australian Life Cycle Inventory (AusLCI) v1.42",
+        "Environmental Footprint (EF) database v3.1"
+      ]
+    },
+    "impact_categories_calculated": [
+      "Use of renewable primary energy resources used as raw materials (PERM)",
+      "Use of non-renewable primary energy resources used as raw materials (PENRM)",
+      "Materials for recycling",
+      "Non-hazardous waste disposed"
+    ],
+    "data_quality": "Foreground data on raw material requirements, manufacture and distribution was provided as primary source by Holcim (NZ) for the year January 2022 - December 2022."
+  },
+  "transport_and_installation": {
+    "transportation": "All materials used for producing ready-mix concretes were transported via truck. Aggregates and cements were assumed to be transported by heavy trucks and other raw materials by medium trucks.",
+    "installation": "Emissions from construction installation (A5) were excluded as Holcim (NZ) does not have operational control over the installation of products at the construction site."
+  },
+  "end_of_life": {
+    "deconstruction": "Deconstruction (C1) is assumed to use drilling to break and remove the concrete.",
+    "transport_to_landfill": "The distance for waste collecting from construction site (C2) to landfill plant is assumed 50km.",
+    "disposal": "All products are assumed to be landfilled (C4) and there is no carbonation at the end of life."
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "fossil": "8.78E+02 kg CO2 eq.",
+      "biogenic": "5.68E-02 kg CO2 eq.",
+      "luluc": "2.76E-01 kg CO2 eq.",
+      "total": "8.78E+02 kg CO2 eq."
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "There is no recycled materials used in producing the product."
+  },
+  "additional_info": {
+    "address_and_contact": {
+      "company": "Holcim (New Zealand) Ltd",
+      "address": "23 Plumer Street, Central Auckland 1010, New Zealand",
+      "website": "www.holcim.co.nz"
+    },
+    "key_assumptions": [
+      "Raw material packaging is excluded.",
+      "Emission factors assigned to most raw materials are generic.",
+      "Transport distances are estimated for some raw materials."
+    ]
+  }
+}

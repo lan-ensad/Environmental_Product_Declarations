@@ -1,0 +1,75 @@
+{
+  "epd_metadata": {
+    "programme": "The International EPD® System",
+    "programme_operator": "EPD International AB",
+    "epd_reg_number": "S-P-01431",
+    "ecoplatform_ref_number": "00000777",
+    "publication_date": "2018-12-12",
+    "validity_date": "2023-12-12",
+    "geographical_scope": "Europe",
+    "independent_verification": "External verification",
+    "lca_performed_by": "Inèdit Innovacié SL",
+    "third_party_verifier": "Gorka Benito Alonso — IK inginieria",
+    "third_party_verifier_accredited_by": "The International EPD® System"
+  },
+  "product_description": {
+    "product_name": "Non-reinforced EPDM membranes for waterproofing",
+    "manufacturer": "Holcim Solutions and Products Spain",
+    "production_plant": "C/ Libra 17, E-08228 Terrassa",
+    "manufacturing_site_country": "Spain",
+    "material_composition": {
+      "Base resin (EPDM)": "34.0%",
+      "Carbon Black": "30.0%",
+      "Plasticizer (paraffinic oil)": "20.5%",
+      "White filler (aluminium silicate)": "11.5%",
+      "Activators (zinc stearate)": "1.5%",
+      "Vulcanization system (sulphur based crosslinking)": "1.5%",
+      "Processing aids (stearic acid)": "1.0%"
+    },
+    "substances_of_concern": "The EPDM membrane does not use Substances of Very High Concern, as stated in REACH legislation."
+  },
+  "lca_information": {
+    "goal": "Assess the cradle-to-gate with options of the environmental impacts of non-reinforced EPDM membranes for waterproofing.",
+    "standards": [
+      "ISO 14040",
+      "ISO 14044",
+      "ISO 14025",
+      "EN 15804 +A1"
+    ],
+    "declared_unit": "1 m² packaged EPDM for waterproofing",
+    "reference_service_life": "30 years",
+    "system_boundaries": "Cradle to gate with options",
+    "impact_categories": [
+      "Abiotic depletion potential, elements (ADPe)",
+      "Abiotic depletion potential, fossil fuels (ADPf)",
+      "Acidification potential (AP)",
+      "Eutrophication potential (EP)",
+      "Global warming potential (GWP)",
+      "Ozone layer depletion potential (ODP)",
+      "Photochemical ozone creation potential (POCP)"
+    ],
+    "software_and_database": "Simapro, Gabi, Ecoinvent V3.2"
+  },
+  "transport_and_installation": {
+    "transport": "Distribution of the product and installation.",
+    "installation": "Assumes installation in roofing and facades with synthetic adhesive, and manual installation for other uses."
+  },
+  "end_of_life": {
+    "end_of_life_scenario": "The membrane is assumed to be sent to energy recovery, material recovery or landfill."
+  },
+  "carbon_emission_context": {
+    "electricity_mix": {
+      "2017": {
+        "global_warming_potential": "4.88E-01 kg CO2eq.",
+        "renewable_sources": "2.54E-01 kg CO2eq."
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "recycling": "EPDM scrap generated during manufacturing can be directly looped back as a material input before curing."
+  },
+  "additional_info": {
+    "company_commitment": "Holcim Solutions and Products Spain commitment with sustainability is shown by its environmental policy and vision.",
+    "certifications": "ISO 14001:2015"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "epd_registration_number": "REF: S-P-08036",
+    "issue_date": "2024-05-27",
+    "validity_date": "2029-05-27",
+    "geographical_scope": "Europe",
+    "version": "First version",
+    "sectorial_epd": false
+  },
+  "product_description": {
+    "product_name": "ECOPlanet III/A 42.5 N /SRC",
+    "manufacturer": "Holcim España, S.A.U.",
+    "location": "Sagunto, Valencia, Spain",
+    "product_group_classification": "UN CPC 3744",
+    "declared_unit": "One ton (1,000 kg) of product",
+    "composition": {
+      "clinker": "1%",
+      "blast_furnace_slag": "20%",
+      "natural_gypsum": "1%",
+      "minor_additional_constituents": "0%"
+    },
+    "technical_characteristics": {
+      "compressive_strength_2_days": "> 10 MPa",
+      "compressive_strength_28_days": "> 42.5 y < 62.5 MPa",
+      "initial_setting_time": "> 60 min",
+      "soundness": "< 10 mm"
+    },
+    "hazardous_substances": "None above 0.1% of weight"
+  },
+  "lca_information": {
+    "declared_unit": "One ton (1,000 kg) of ECOPlanet III/A 42.5 N /SRC",
+    "system_boundaries": "Cradle to gate (modules A1-A3)",
+    "lca_software": "Air.e LCA v3.16",
+    "database": "Ecoinvent 3.9.1",
+    "data_quality": "High",
+    "cut_off_rules": "More than 95% of total input flows per module",
+    "allocation": "Used for verified direct emissions of the furnace"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_total": "509.41 kg CO2 equivalent",
+    "gwp_fossil": "509.06 kg CO2 equivalent",
+    "gwp_biogenic": "0.22 kg CO2 equivalent",
+    "gwp_luluc": "0.12 kg CO2 equivalent",
+    "gwp_ghg": "536.25 kg CO2 equivalent"
+  },
+  "recycled_materials_handling": {
+    "use_of_secondary_material": "0.79 kg"
+  },
+  "additional_info": {
+    "company_information": {
+      "name": "Holcim España, S.A.U.",
+      "address": "Avda. de Manoteras, 20; Edificio Tokyo, 1° Planta, 28050 Madrid, Spain",
+      "contact": "marketing.spain@holcim.com",
+      "website": "www.holcim.es"
+    },
+    "lca_author": {
+      "name": "Solid Forest S.L.",
+      "address": "Plaza Santa Maria Soledad Torres Acosta 1, 4°, 28004 Madrid, Spain",
+      "contact": "info@solidforest.com",
+      "website": "www.solidforest.com"
+    },
+    "verifier": {
+      "name": "Marcel Gómez Ferrer",
+      "contact": "info@marcelgomez.com",
+      "website": "www.marcelgomez.com"
+    },
+    "sustainability_practices": {
+      "decarbonizing_operations": "Recycling materials as alternative fuels",
+      "decarbonizing_products": "Offering low-carbon production solutions",
+      "decarbonizing_built_environment": "Working towards zero net emissions"
+    },
+    "certifications": {
+      "iso_9001": "Quality Management",
+      "iso_14001": "Environmental Management",
+      "iso_14064_1": "Greenhouse Gases"
+    }
+  }
+}

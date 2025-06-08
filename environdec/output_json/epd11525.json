@@ -1,0 +1,227 @@
+{
+  "epd_metadata": {
+    "program": "The International EPD® System",
+    "program_operator": "EPD International AB",
+    "epd_registration_number": "REF: S-P-11525",
+    "issue_date": "2023-11-21",
+    "validity_date": "2028-11-21",
+    "geographical_scope": "Global",
+    "product_group_classification": "UN CPC 3744",
+    "pcr": [
+      "2019:14 Construction products (EN 15804:A2); Version 1.8.1; 2023-06-20",
+      "c-PCR-001 Cement and Building Lime (EN 16908:2019); 2022-05-18"
+    ],
+    "verification": {
+      "iso_standards": [
+        "ISO 21930",
+        "EN 15804"
+      ],
+      "pcr_version": "2019:14 Construction products (EN 15804:A2); Version 1.3.1; 2023-06-20 and c-PCR-001 Cement and Building Lime (EN 16908:2019) 2022-05-18",
+      "review_conducted_by": "The Technical Committee of the International EPDS System",
+      "review_chair": "No chair has been appointed",
+      "third_party_verifier": "Marcel Gômez",
+      "accredited_by": "Approved by The International EPD®S System Technical Committee, supported by the Secretariat",
+      "verification_type": [
+        "External",
+        "Internal"
+      ],
+      "follow_up_procedure": "Yes"
+    },
+    "comparability": "EPDs within the same product category but from different programmes may not be comparable. For comparability, EPDs must be based on the same PCR version, cover products with identical functions, technical performance and use, have equivalent system limits and data descriptions, apply equivalent data quality requirements, data collection and allocation methods, identical cut-off rules and impact assessment methods, and be valid at the time of comparison."
+  },
+  "product_description": {
+    "product_name": "ECOPlanet CEMII/B-M (S-L) 42.5R",
+    "manufacturer": "Holcim España, S.A.U.",
+    "manufacturing_locations": [
+      "Rambla Olivera s/n, 04140 Carboneras, Almeria, Spain",
+      "Calle Isaac Newton 120, 46520 Sagunto, Valencia, Spain"
+    ],
+    "product_group_classification": "UN CPC 3744: Portland cement, aluminous cement, slag cement and similar hydraulic cements, except in the form of clinkers",
+    "declared_unit": "One ton (1,000 kg) of product ready to be sent to the customer",
+    "composition": {
+      "Clinker": {
+        "weight_percent": 69,
+        "post_consumer_recycled_material_percent": 1,
+        "renewable_material_percent": 0
+      },
+      "Blast furnace slag": {
+        "weight_percent": "12-16",
+        "post_consumer_recycled_material_percent": 100,
+        "renewable_material_percent": 0
+      },
+      "Limestone": {
+        "weight_percent": "9-13",
+        "post_consumer_recycled_material_percent": 0,
+        "renewable_material_percent": 0
+      },
+      "Natural gypsum": {
+        "weight_percent": "4-5",
+        "post_consumer_recycled_material_percent": 0,
+        "renewable_material_percent": 0
+      },
+      "Minor additional constituents": {
+        "weight_percent": "1-2",
+        "post_consumer_recycled_material_percent": 0,
+        "renewable_material_percent": 0
+      }
+    },
+    "packaging": "Product is marketed in bulk; no packaging materials",
+    "technical_characteristics": {
+      "standard": "UNE-EN 197-1",
+      "compressive_strength_2_days": "> 20.0 MPa",
+      "compressive_strength_28_days": "> 42.5 and < 62.5 MPa",
+      "initial_setting_time": "> 60 min",
+      "soundness": "< 10 mm"
+    },
+    "hazardous_substances": "No hazardous substances listed in the Candidate List of Substances of Very High Concern (SVHC) used in percentage higher than 0.1% of product weight"
+  },
+  "lca_information": {
+    "declared_unit": "One ton (1,000 kg) of ECOPlanet CEM II/B-M (S-L) 42.5 R",
+    "system_boundary": "Cradle to gate (modules A1-A3) including quarry works, component manufacturing, transport of materials and fuels, factory process and final preparation; excludes modules B1 to D due to product integration and transformation at end of life and no biogenic carbon",
+    "data_year": 2021,
+    "data_quality": "High; data representative of declared geography, recent, third-party verified direct emissions included in PRTR and EU Emissions Trade System",
+    "cut_off_rules": "At least 95% of total input flows (mass and energy) per module included; expanded cut-off rule of ISO 21930 applied",
+    "allocation": "Only used for verified direct emissions of furnace where clinker is used for different cements",
+    "excluded_processes": [
+      "Manufacture of equipment, buildings, capital goods",
+      "Transport of people to and inside manufacturing plants",
+      "R+D activities",
+      "Long-term emissions",
+      "Operations in the port"
+    ],
+    "electricity_mix": {
+      "source": "Supplier specific, demonstrated by guarantee of origin",
+      "climate_change_impact": "0.12 kg CO2e/kWh (GWP100-GHG)"
+    },
+    "lca_software": "Air.e LCA v3.15",
+    "database": "Ecoinvent 3.8",
+    "impact_assessment_methods": {
+      "GWP_total": "IPCC 2013 100 years",
+      "GWP_fossil": "IPCC 2013 100 years",
+      "GWP_biogenic": "IPCC 2013 100 years",
+      "GWP_LULUC": "IPCC 2013 100 years",
+      "Ozone_depletion": "WMO 2014+",
+      "Acidification": "Accumulated Exceedance (Seppälä et al 2006, Posch et al 2008)",
+      "Eutrophication_fresh_water": "EUTREN, Struijs et al 2009b",
+      "Eutrophication_marine_water": "EUTREN, Struijs et al 2009b",
+      "Eutrophication_terrestrial": "Accumulated Exceedance (Seppälä et al 2006, Posch et al 2008)",
+      "Photochemical_ozone_creation": "LOTOS-EUROS model (Van Zelm et al 2008)",
+      "Depletion_abiotic_resources_elements": "CML 2002 (Guinée et al. 2002) and van Oers et al. 2002",
+      "Depletion_abiotic_resources_fossil_fuels": "CML 2002 (Guinée et al. 2002) and van Oers et al. 2002",
+      "Water_scarcity": "Available Water Remaining (AWARE) UNEP 2016"
+    }
+  },
+  "transport_and_installation": {
+    "transport_included": "Yes, transport of raw materials and fuels by ship and truck included (A2 module)",
+    "transport_excluded": "Operations in the port excluded",
+    "transport_data_source": "Distances by road and sea provided by each factory based on own records",
+    "installation": "Not applicable; product physically integrated and cannot be separated at end of life"
+  },
+  "end_of_life": {
+    "boundary": "Excluded (modules B1 to D) because product is physically integrated during installation and undergoes physical-chemical transformation, no longer identifiable at end of life",
+    "biogenic_carbon": "Product does not contain biogenic carbon"
+  },
+  "carbon_emission_context": {
+    "total_global_warming_potential": {
+      "A1": 20.36,
+      "A2": 4.07,
+      "A3": 527.98,
+      "total": 552.36,
+      "unit": "kg CO2 equivalent",
+      "variation_percent": 13
+    },
+    "global_warming_potential_fossil": {
+      "A1": 20.34,
+      "A2": 4.07,
+      "A3": 527.46,
+      "total": 551.87,
+      "unit": "kg CO2 equivalent",
+      "variation_percent": 3
+    },
+    "global_warming_potential_biogenic": {
+      "total": 0.08,
+      "unit": "kg CO2 equivalent",
+      "variation_percent": 4
+    },
+    "global_warming_potential_LULUC": {
+      "total": 0.42,
+      "unit": "kg CO2 equivalent",
+      "variation_percent": 11
+    },
+    "additional_GWP_GHG": {
+      "value": 552.28,
+      "unit": "kg CO2 eq.",
+      "variation_percent": 3,
+      "note": "Includes all greenhouse gases except biogenic carbon dioxide uptake and emissions and biogenic carbon stored in product"
+    }
+  },
+  "recycled_materials_handling": {
+    "use_of_secondary_material": 145.86,
+    "unit": "kg",
+    "variation_percent": 12,
+    "post_consumer_recycled_material_content": {
+      "Clinker": 1,
+      "Blast_furnace_slag": 100,
+      "Others": 0
+    },
+    "renewable_material_content": {
+      "All_components": 0
+    }
+  },
+  "additional_info": {
+    "company_information": {
+      "company_name": "Holcim España, S.A.U.",
+      "address": "Avda. de Manoteras, 29, Edificio B, 1° Planta - 28050 Madrid, Spain",
+      "website": "www.holcim.es",
+      "phone": "+91 213 31 00",
+      "email": "marketing.spain@holcim.com",
+      "description": "Holcim España owns five cement factories in Spain with over seven million tons per year capacity, more than 20 concrete plants, two mortar plants, six terminals, and one waste recovery plant, employing over 700 people. It has R&D and quality laboratories and is part of Holcim, a global leader in sustainable construction solutions.",
+      "sustainability_practices": "Decarbonizing operations via recycling materials as alternative fuels, offering low-carbon products, working towards net zero built environment, protecting water and biodiversity.",
+      "certifications": [
+        "ISO 9001:2015 Quality Management",
+        "ISO 14001:2015 Environmental Management",
+        "ISO 14064-1:2018 Greenhouse Gases verified",
+        "Included in Spanish Carbon Footprint National Registry with 'Calculo' and 'Reduzco' labels"
+      ]
+    },
+    "waste_production": {
+      "hazardous_waste_disposed": 2.54,
+      "unit": "kg",
+      "variation_percent": 67,
+      "non_hazardous_waste_disposed": 96.98,
+      "radioactive_waste_disposed": 0
+    },
+    "output_flows": {
+      "components_for_reuse": 0,
+      "materials_for_recycling": 0,
+      "materials_for_energy_recovery": 0,
+      "exported_electrical_energy": 0,
+      "exported_thermal_energy": 0
+    },
+    "use_of_resources": {
+      "renewable_primary_energy_excluding_raw_materials": 947.0,
+      "unit": "MJ net calorific value",
+      "variation_percent": 18,
+      "renewable_primary_energy_raw_materials": "<0.01",
+      "non_renewable_primary_energy_excluding_raw_materials": 1423.69,
+      "non_renewable_primary_energy_raw_materials": "<0.01",
+      "total_non_renewable_primary_energy": 1423.69,
+      "secondary_material_use": 145.86,
+      "net_fresh_water_use": 0.11,
+      "water_unit": "m3 world equivalent",
+      "water_variation_percent": 70
+    },
+    "references": [
+      "Holcim Climate Report 2023",
+      "Holcim Net Zero Journey",
+      "Holcim Nature Policy",
+      "ISO 14040:2006",
+      "ISO 14044:2006",
+      "ISO 14020:2000",
+      "ISO 14025:2006",
+      "Registro Estatal de Emisiones y Fuentes Contaminantes (prtr-es.es)",
+      "Software: Air.e LCA rev. 3.15",
+      "Main database: Ecoinvent 3.8"
+    ]
+  }
+}

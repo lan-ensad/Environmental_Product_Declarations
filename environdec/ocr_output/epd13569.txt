@@ -1,0 +1,2014 @@
+numes "ÆPD "fr
+
+ENVIRONMENTAL PRODUCT DECLARATION THE INTERNATIONAL EPD° SYSTEM
+
+Environmental Product Declaration
+
+Reinforced Concrete Pipes (RCP)
+
+manufactured by Humes in Blacktown
+
+æ
+
+F _N
+
+In accordance with ISO 14025:2006 and'EN#5804°2012+A2:20197AC:2021
+Programme: The International EPD® System Ÿ
+Programme operator: EPD International AB www.environdec.com ., "/#N ‘1
+Regional Programme: EPD Australasia www.epd-australasia.com
+
+|
+EPD Registration no. EPD-IES-0013569:001 | Version 1.0
+Publication date 2024-07-29] Valid until 2029-07-29
+Geographical scope: Australia
+EPD of multiple concrete pipe products from one location, based on à representative product.
+The products declared in this EPD are listed on pages 20-22
+
+An EPD should provide currentinformation‘and may be updated if conditions “change.
+The stated validity is therefore'subject to the'continued registration and publication atwww.epd-australasia. com
+
+Contents
+
+Programme information and verification 1
+Humes 2
+Product description 3
+Technical compliance 4
+Scope of EPD 5
+Product stages 6
+Life cycle assessment (LCA) methodology 12
+Background data 12
+Allocation 12
+Cut-off criteria 13
+Key assumptions 13
+Electricity 13
+Declared unit 13
+Life cycle assessment (LCA) results 14
+Additional environmental information 26
+References 27
+Contact information 28
+
+Disclaimer
+
+EPDs within the same product category but registered in different EPD programmes, or not compliant with EN
+15804 may not be comparable. For two EPDs to be comparable, they must be based on the same PCR
+{including the same version number) or be based on fully-aligned PCRS or versions of PCRS; cover products
+with identical functions, technical performances and use (eg. identical declared/functional units}; have
+equivalent system boundaries and descriptions of data; apply equivalent data quality requirements, methods
+of data collection, and allocation methods; apply identical cut-off rules and impact assessment methods
+{including the same version of characterisation factors); have equivalent content declarations; and be valid at
+the time of comparison. For further information about comparability, see EN 15804 and ISO 14025.
+riumes
+
+Programme information and verification
+
+An Environmental Product Declaration (EPD) is a standardised way of quantifying the potential environmental impacts of a product or system. EPDs
+are produced according to a consistent set of rules - Product Category Rules (PCR) -— that define the requirements within a given product category.
+These rules are a key part of ISO 14025 as they enable transparency and comparability between EPDs. This EPD provides environmental indicators for
+Humes steel-reinforced concrete drainage pipes manufactured at Blacktown in Australia. This EPD is a “cradle-to-gate with options (A1-A3, A4, A5),
+modules C1-C4, and module D" declaration covering production, distribution, and end-of-life. Information regarding the installation and use of pipes
+is provided in the section “Other environmental information". This EPD is verified to be compliant with EN 15804. EPDs of construction products may
+not be comparable if they do not comply with specific requirements, as per the disclaimer on the previous page. Holcim (Australia) Pty Ltd, as the EPD
+owner, has the sole ownership, liability, and responsibility for the EPD.
+
+Holcim (Australia) Pty Ltd
+Level 7, 799 Pacific Highway
+Chatswood NSW 2067, Australia
+Web: www.holcim.com.au
+Phone: +61 2 9412 6600
+
+Declaration Owner
+
+Holcim
+
+EPD International AB
+Box 210 60, SE-100 31
+
+Programme Operator
+
+Regional Programme
+Operator
+
+Stockholm, Sweden,
+E-mail: info@environdec.com
+
+— EPD
+
+THE INTERNATIONAL EPD° SYSTEM
+
+EPD Australasia Limited
+Address: 315a Hardy Street
+Nelson 7010, New Zealand
+Web: www.epd-australasia.com
+Email: info@epd-australasia.com
+
+LL
+AUSTRALASIA
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Phone: +61 2 8005 8206 (AU)
+
+start2see Pty Ltd
+
+36 Renaissance Bvd,
+
+Mernda, VIC 3754, Australia
+
+Web: www.start2see.com.au
+
+Email: Rob.Rouwette@start2see.com.au
+
+Phone: +61 403 834 470
+
+Reference year for data: 2022-01-01 - 2022-12-31
+
+CEN standard EN 15804 served as the core PCR
+
+PCR 2019:14 Construction Products, Version 1.3.3, 2024-03-01 (valid until 2024-12-20)
+c-PCR-003 (to 2019:14) Concrete and concrete elements, version 2023-01-02
+
+. . : ®
+atedeore oceile The Technical Committee of the International EPD" System.
+
+Chair: No chair appointed. Contact via info@environdec.com
+
+EPD Produced by:
+(LCA accountability)
+
+START2SEE
+
+LIFE CYCLE ASSESSMENTS
+
+Independent verification of
+the declaration and data,
+according to ISO 14025:
+
+© EPD process certification
+& EPD verification (External)
+
+Jeff Vickers, thinkstep-anz
+
+Web: www.thinkstep-anz.com
+
+Email: jeff.vickers@thinkstep-anz.com
+Phone: +61 2 8007 5770
+
+Third party verifier:
+Accredited or approved by: EPD
+Australasia
+
+thinkstep
+
+anz
+
+Procedure for follow-up of
+data during EPD validity
+involves third-party verifier:
+
+O Yes
+Æ No
+
+Reinforced Concrete Pipe
+riumes
+
+Humes
+
+Humes Concrete Products (Humes) is a division of
+Holcim (Australia) Pty Ltd, one of the world's leading
+suppliers of cement and aggregates. Humes is the
+largest civil precast concrete manufacturer in Australia,
+employing over 600 people.
+
+We have a number of Humes factories around Australia,
+with spun or dry cast reinforced concrete pipes
+produced in nine locations. This EPD covers pipes
+manufactured at Blacktown.
+
+Humes has a long history of engineering precast and
+prestressed concrete solutions and, after 100 years of
+manufacture, our product range has never been more
+diverse, more competitive, or more in-tune with our
+clients’ needs than it is today.
+
+We offer a range of solutions for bridges and platforms,
+road and rail infrastructure, tunnels and shafts, retaining
+walls, pipeline systems, water treatment, reuse and
+detention, and traffic management. We can customise
+our solutions to ensure they create maximum value for
+your project, accommodating your site conditions,
+design requirements and construction factors.
+
+The quality and reliability of Humes' products and
+services are the foundation of our success. Our ability to
+deliver to client specifications on major projects across
+Australia has established Humes as a valuable and
+reliable partner.
+
+Our Strategy
+
+Our vision is to become the global leader in
+innovative and sustainable building solutions.
+Through three strategic levers - Accelerating
+
+Growth, Expanding Solutions & Products, and
+
+Leading in Sustainability — we are transforming
+and Delivering Superior Performance.
+
+Sustainability is at the core of our growth
+strategy. We are decarbonizing construction
+with innovative low-carbon and circular
+solutions. We are accelerating demand and
+capturing above-market profitable growth by
+engaging with partners across our value chain.
+
+Figure 1 - Location of Humes’ precast production
+
+facilities
+
+(Note: pipes are not produced at Echuca and
+Tamworth)
+
+Reinforced Concrete Pipe
+
+Introduction
+
+riumes
+
+Product description
+
+As the leading manufacturer of reinforced concrete
+pipes (RCPS) and associated precast products in
+Australia, Humes pipes are available in a wide range
+of diameters, lengths and load and exposure classes
+with varying applications.
+
+The primary application for RCP is for non-pressure
+stormwater drainage pipelines. Other uses for our
+RCP products are in sewerage and pressure pipe
+applications, or as jacking and shaft components of
+access chambers. Suitability in these conditions is
+project specific. Further details on product use and
+design for different applications can be found in
+Humes' Concrete pipe reference manual (see
+www.humes.com.au).
+
+RCPs are made from coarse and fine aggregates,
+cement, water, and hard-drawn deformed steel
+reinforcement. Other materials used can include
+supplementary cementitious materials (SCMs) and
+chemical admixtures which have varied effects on
+the concrete depending on the admixture used.
+
+RCPs are manufactured with varying joint types,
+including the two most common basic joint types -
+Flush Joint (FJ) and Rubber Ring Joint (RRJ) - to our
+jacking pipe and shaft range.
+
+FJ pipes provide an interlocking joint which allows
+for a small degree of flexibility in the pipeline
+alignment. RRJ pipes, either belled-socket or in-wall
+joint depending on the diameter of the pipe andits
+application, are designed to accommodate change
+in pipeline alignment and settlement in a pipeline
+whilst still maintaining a watertight joint.
+
+Figure 2 - Schematic of steel cage in a RRJ
+concrete pipe
+
+The majority of Humes’ pipe is manufactured in 2.44
+metre effective lengths in the DN300 to DN2100
+diameter range. Effective length is used to define an
+RCP's length as the physical length of the pipe
+includes the overlap of the joint. The standard
+effective lengths vary slightly at vertical cast
+factories due to manufacturing limitations. Other
+lengths and diameters of pipe can be manufactured
+to suit project requirements. RCPSs are available in
+standard-strength (class 2-4) and super-strength
+(class 6-10).
+
+Table 1: Summary of the reinforced concrete drainage pipe product range
+
+Factory location Blacktown
+
+Representative product
+
+Our Class 4 DN 600 Freshwater pipes were chosen as the representative product for this site because it
+
+makes up a substantial portion of total production by weight.
+
+Reinforced Concrete Pipe
+
+3
+riumes
+
+Product composition
+
+The product as supplied is non-hazardous. The products included in this EPD do not contain any substances of
+very high concern (SVHOC) as defined by European REACH regulation* in concentrations >0.1% (m/m).
+
+Dust from this product is classified as Hazardous according to the Approved Criteria for Classifying Hazardous
+Substances 3rd Edition (NOHSC 2004). Precast concrete products and pipes are classified as non-dangerous
+goods according to the Australian Code for the Transport of Dangerous Goods by Road and Rail. When concrete
+products are cut, sawn, abraded or crushed, dust is created which contains crystalline silica, some of which may
+be respirable (particles small enough to go into the deep parts of the lung when breathed in), and which is
+hazardous. Exposure through inhalation should be avoided.
+
+RCPs form part of the UN CPC 375 — “Concrete” industry classification and the ANZSIC 2034 — "Concrete Product
+Manufacturing” product group classification.
+
+=
+ee
+ce]
+Q
+EE
+O
+un
+[0]
+Le)
+ce]
+O
+ee]
+TD
+[e)
+Le
+©
+
+* Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning
+the Registration, Evaluation, Authorisation and Restriction of Chemicafs.
+
+Table 2: Product content
+
+Post-consumer Biogenic Biogenic
+RCP constituent Proportion (% t/t) material, material, material, kg C
+weight % weight % per tonne pipe
+General Purpose Cement ” 10 - 19% 0% 0%
+Fly Ash t,+ 0 - 7% 0% 0%
+
+Ground granulated blast
+
+furnace slag (GGBFS) t, # : o o Ù
+Coarse & Fine aggregates 70 - 78% 0% 0% 0
+Water 5 -8% 0% 0% 0
+Admixtures = 0% 0% 0
+Reinforcement steel 0.1 - 72% 0% 0% 0
+Rubber rings <0.1% 0% <0.1% <0.3
+Sum 100% 0% <0.1% <0.3
+
+© Cement in concrete contains traces of Chromium VI (hexavalent).
+
++ Crystalline-silica (quartz) may be à constituent of sand, crushed stone, gravel, blast furnace slag and
+fly ash used in any particular concrete mix.
+
++ Cementitious additives may contain traces of metals.
+
+Technical Compliance
+
+Humes' RCPs are manufactured, and proof tested to comply with AS/NZS 4058:2007 - Precast concrete pipes
+(pressure and non-pressure). Our RCP products have a service life of 100 years, when manufactured in
+accordance with AS/NZS 4058:2007 and installed in accordance with AS/NZS 3725: Design for Installation of
+Buried Concrete Pipes. AS/NZS 4058:2007 also covers performance requirements, e.g. load testing, water
+tightness, pressure testing, water absorption, etc.
+
+Reinforced Concrete Pipe 4
+riumes
+
+Scope of the Environmental Product Declaration
+
+This EPD covers life cycle modules A1-3, A4, A5, B3, B4, C1-4 and D. Life cycle modules A5, B3 and B4
+are better modelled on a per metre basis. We have included more information on these three modules
+in the section “Additional environmental information”. Stages B1-2 and B5-7 have not been included.
+
+Table 3: Scope of EPD
+
+=
+.Q [e)]
+ro] È£ =
+5 y 5,
+> D © 5
+2) © A o) Ce
+MONS NE £ à
+Lo) @ + = v = .Q u v
+= Ÿ 5 £ = = © o 8
+ü € 5 EL 6 5 ë E = [= D + © Ÿ
+& © 5 O + S 9 % 2 2 D e 2 E 5 &
+Z Q =) Q = 2 = Un © œ G S ss 2 5 5 =
+MU | EN M © ES, NN NT, SNS NS NS MO MC EN NE NS NC
+© RE ps fe a a © ) En à à © œ ta] Do +
+œ F à À £ > Z &@ œ@ æœ © © a F Z à œ Q
+Modules A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+Scenario Scenario Scenario Scenario
+Module
+X X X X X ND ND ND ND ND ND ND X X X X X
+Declared
+Geography AU AU AU AU AU AU AU AU AU AU
+Specific Data 71%
+Variation
+-20% to 46%
+Products
+Variation Sites 0%
+
+Module Declared indicates when a module is included in this study (marked by X). When a module is not accounted for, the
+stage is marked with "ND" (Not Declared). ND is used when we cannot define a typical scenario.
+
+Geography indicates the geographical representation per module reported by ISO country code(s)
+
+Specific data indicates the share of the GWP-GHG indicator results in A1-A3 coming from product-specific LCI data.
+
+Reinforced Concrete Pipe
+riumes
+
+Figure 3 - Product lifecycle of steel reinforced concrete pipes
+
+A3 - Manufacturing
+Waste concrete, diesel,
+electricity, natural gas
+
+| |
+: +
+U
+
+A1 - Raw materials
+Aggregate, sand,
+cement, water, steel,
+admixture, rubber rings
+
+æ Ps
+
+LS
+C-End of life
+
+D - Resource recovery
+
+Recycling potential
+Deconstruction,
+transport, waste
+
+processing, disposal
+
+A2 - Transport to factory
+
+Sea, road, rail A4 - Transport to site
+
+Road
+
+A5 - Installation
+
+Bedding materials,
+earth moving
+equipment
+
+B- Use*
+
+Maintenance, repair,
+replacement, refurbishment
+
+“Module B (B1-B7) is shown for illustrative purposes but has been excluded from this EPD as it requires à reference service
+
+life (RSL) to be defined!
+
+Product Stage
+
+Raw Material - Module A1
+
+All raw materials used in the production of RCP comply
+with the following standards as required by AS 4058:
+
+e AS 3972 General purpose and blended cements
+
+e AS 3582 Supplementary cementitious materials
+Parts 1, 2 and 3 Supplementary cementitious
+materials
+
+e  AS/NZS 4671 Steel reinforcing materials
+
++ AS 2758.1 Aggregates and rock for engineering
+purposes Part 1: Concrete Aggregates
+
+e AS 1478 Chemical admixtures for concrete, mortar
+and grout
+
+e AS 1646 Elastomeric seals for waterworks
+purposes
+
+Transportation - Module A2
+
+Raw materials are typically transported to site via rigid
+or articulated trucks. The impact of transportation is
+determined from the specific supply sources for the
+manufacturing site.
+
+Manufacturing - Module A3
+
+The manufacturing process of RCP at Blacktown is a
+centrifugal spun process in the majority of Humes’ pipe
+factories. Concrete is poured inside a spinning mould
+where the water in the concrete is slowly drawn to the
+interior of the pipe. Once the mould is filed with
+concrete the bore of the pipe is smoothed and the
+compaction process is complete.
+
+RCP is cured in a curing chamber designed to accelerate
+the setting and strength gain of the pipes immediately
+after casting. Once RCPs have cured enough to be
+handled with lifting equipment, they are transferred to
+the outdoor yard storage area and continue to cure until
+they are transported to the installation site.
+
+Reinforced Concrete Pipe
+
+6
+riumes
+
+Construction stage
+
+Transportation - Module A4
+
+Average distribution distances vary from site to site.
+Transportation to the construction site is based on the
+weighted average delivery scenario for RCP products
+
+by site. Return-transport is empty.
+
+Table 4: Transport to site parameters
+
+Installation - Module A5
+
+The installation of RCPSs in a storm-water system is
+included in the LCA on the basis of a typical scenario.
+This EPD contains a range of scenarios as the
+installation scenario can have a significant impact on
+the environmental profile. Only trench type installation
+was considered due to the predictability of trench
+dimensions. The type of support is selected depending
+on the application (required performance) of the
+pipeline system. The required strength of a concrete
+pipe depends on both the load to be carried by the
+installed pipe, and the supporting ground installation
+conditions.
+
+Installation processes include:
+
+- Excavation of the trench
+-* Placement and compaction of bedding materials
+-* Placement of RCP
+
+- Filing of the trench
+
+Transport of imported and surplus materials is also
+included as per the installation scenarios. The values
+are expressed per metre of RCP of a particular
+diameter, regardless of the class of pipe or whether the
+pipe is made using the spun or dry-cast process. The
+environmental impacts correlate strongly to the pipe
+diameter.
+
+Bedding types for pipes are H1, H2, HS1, HS2, HS3, and
+U. Where U denotes an unsupported fill, H denotes
+Haunch support, HS denotes Haunch and Side support,
+and 1, 2, and 3 denotes the level of support
+(compaction of fill) in the material used, see Figure 4.
+Further details are available in AS/NZS 3725: Design for
+Installation of Buried Concrete Pipes.
+
+Further information on trench dimensions for the
+installation of RCP can be found in Humes’ Concrete
+pipe reference manual (see www.humes.com.au).
+
+Reinforced Concrete Pipe
+riumes
+
+Figure 4 - Type H and type HS support
+
+U
+00
+[a
+h
+un
+=
+ee
+=)
+e]
+=)
+el
+ce)
+un
+=
+[e]
+O
+
+150 mm
+
+2 0.5 OD
+
+0.10 x OD (HS1)
+
+0.30 x OD (HS2, HS3)
+Compact 50% (H1)
+Compact 60% (H2)
+Compact 70% (H3)
+
+Side zone
+
+Haunch zone
+
+Bed zone
+
+RE
+
+Trench
+
+Table 5: Installation parameters (DN600 pipes)
+
+Scenario information Unit (expressed per functional unit or per declared unit)
+
+Trench width: 1,000 mm
+
+Bed zone: 0.110 m°/m -> 0.056 m°/tonne
+
+Haunch zone: 0.055 m°/m -> 0.028 m°/tonne
+
+Side + Overlay zone: 0.457 m°/m -> 0.234 m°/tonne
+
+Backfill: 1.000 m°/m -> 0.513 m°/tonne
+
+334 kg/m (= 171 kg/t pipe) sand (Sand. at mine/CH U/AusSD ÙU)
+for bed zone and haunch zone. The sand is assumed to be
+imported over a distance of 50 km (transport truck, 16 to 28t fleet
+average/AU Ù..
+
+n/a
+
+Diesel for installation equipment (Excavation, hydraulic digger/RER
+U): assumed 0.13 L/t for excavation of the trench and 0.13 kg/t
+diesel for placing of the pipe.
+
+Excess soil (in case of new installations) equals the volume taken
+up by the bed zone, haunch zone, and pipe. This is estimated at
+876 kg/m (= 449 kg/t pipe). The excess soil is assumed to be
+transported off-site over a distance of 50 km (transport truck, 16
+to 281 fleet average/AU ÙV).
+
+n/a
+
+2
+ns
+
+Reinforced Concrete Pipe 8
+riumes
+
+Use Stage
+
+Pipework which is installed correctly is relatively inert and does not consume energy or water to operate. As
+such, the life-cycle modules for use (B1), maintenance (B2), repair (B3), replacement (B4), refurbishment (B5),
+operational energy use (B6), and operational water use (B7) are not declared.
+
+Note regarding Repair and Replacement - Modules B3 and B4
+
+Based on anecdotal evidence, in our original RCP EPD (S-P-00998) we conservatively assumed that 1% of pipes
+require repair or replacement over a 100-year period. This was split evenly into 0.5% of pipes requiring repair
+and 0.5% of pipes requiring replacement.
+
+Repair of RCP involves injecting an epoxy resin into cracks that exceed 30 cm in length and/or are greater than
+0.15 mm wide (BCC 2016). Smaller cracks are assumed to re-seal under the natural action of the concrete's
+autogenous healing process. The impact of repair was shown to be marginal only.
+
+Replacement of RCP involves impacts associated with all the other life cycle stages: product stage (A1-A3),
+transport to site (A4), installation (A5), and end-of-life (C1-C4).
+
+Reinforced Concrete Pipe
+
+9
+riumes
+
+End of life stage
+
+At the end of their functional life, RCP pipes can enter
+into various disposal options. The two most likely
+scenarios are:
+
+e  leftin the ground, abandoned
+
+° _exhumed and recycled
+
+This EPD covers two options for the end-of-life stage, so
+that the reader can select the applicable scenario for
+their situation.
+
+Deconstruction/Demolition - Module C1
+
+When pipes are left in-ground, there is no activity
+attributed to module C1. In the recycling scenario, it is
+assumed that when the pipe is exhumed it is replaced
+with another new product, the excavation and back-
+filling of the trench is part of the next pipe's life cycle
+and is not included in the replaced pipe's end-of-life
+scenario. Removal of pipes is included.
+
+Table 6: End-of-life scenario parameters
+
+Processes
+
+Quantity per
+
+tonne of RCP -
+left in ground
+scenario
+Collection process 0
+specified by type 0
+Transport from demolition 0
+
+site to recovery sites
+Recovery system specified
+
+by type
+
+0
+
+0
+
+0
+Disposal to landfill** 1,000
+
+0
+
+Assumptions for scenario
+development
+
+Transport - Module C2
+
+When pipes are left in-ground, there is no activity
+attributed to module C2. In the recycling scenario,
+the transportation includes taking the discarded
+pipe to a recycling site or transportation of waste to
+a final sorting yard or disposal site.
+
+Waste Processing - Module C3
+
+The waste processing includes crushing of waste
+pipes (recycling) into concrete rubble and steel
+scrap.
+
+Disposal - Module C4
+
+Waste disposal includes physical pre-treatment and
+management of the disposal site. For pipes that are
+left in-ground, emissions from concrete waste
+disposed to landfill are considered. Pipes that are
+left in the ground are assumed not to need any
+further waste processing.
+
+Quantity per
+tonne of RCP -
+exhumed and
+recycled scenario
+1,000 kg collected separately
+
+kg collected with mixed construction
+waste
+
+km transport (transport, truck 16 to 28t
+fleet average/AU Ù)
+
+kg for re-use
+
+1000 kg for recycling*
+
+kg for energy recovery
+kg product or material for final deposition
+
+Assumed 1 m of excavation (£xcavation,
+hydraulic digger/RER U/AusSD U) per
+tonne of pipe (in module C1). This equates
+to 0.13 kg diesel use.***
+
+* The process used to model recydling is “recydling brick rubble and concrete at plant/AU U”
+#** We assumed abandoning pipes equals landfilling (Disposal concrete 5% water, to inert material landfill/CH U/AusSD UV
+
+minus energy used for management of the landfil! site).
+
+*#*# The process relates to the removal of the pipe (excluding digging ofthe trench), where we conservatively assumed digging
+one m3 equals removing one tonne of pipe. This approach assumes that (if the pipe is removed at end of life) à new pipe will
+be installed (je. as part of an upgrade or replacement rather than removal). The excavation is considered part of module A5
+{ofthe next life cycle) and as such it has not been double-counted in module CT of this life cycle.
+
+Reinforced Concrete Pipe
+
+10
+riumes
+
+Resource recovery stage
+
+Reuse, recovery, recycling potential - Module D
+
+The information in module D includes environmental benefits or loads resulting from recyclable materials
+leaving a product system. The concrete rubble and steel scrap produced in module C3 can replace natural
+coarse aggregates (crushed rock) and virgin steel (after further processing), respectively. Module D is only
+relevant when pipes are exhumed and recycled.
+
+Table 7: Assumptions relating to Module D, pipe recycling scenario
+
+Parameter
+MMR out =
+100%
+100%
+MR in =
+0%
+70%
+EmR after EOW out —
+n/a
+
+transport + recycling
+
+Evmsub out = Virgin materials
+
+virgin aggregates
+virgin steel
+
+QR out
+Qsub
+QR out / Qsub = 1
+
+Unit / effect
+
+Amount of material exiting the system that will be recycled in a
+
+subsequent system:
+concrete
+steel
+Amount of recycled input material:
+concrete
+steel
+
+Specific emissions and resources consumed per unit of analysis arising
+from material recovery processes of a subsequent system after the end-of-
+
+waste state:
+concrete
+steel
+
+transport: 50 km transport, truck, 28t, fleet average/AU U
+recycling process Steel, low-alloyed {RoW} | steel
+production, electric, low-alloyed | Cut-off, U
+specific emissions and resources consumed per unit of analysis arising
+from acquisition and pre-processing of the primary material, or average
+input material if primary material is not used, from the cradle to the point
+of functional equivalence where it would substitute secondary material
+
+that would be used in a subsequent system
+
+concrete: Gravel, crushed, at mine/CH U/AusSD U
+steel: Steel, low-alloyed {RoW/}] steel production, converter, low-
+
+alloyed | Cut-off, U
+quality of the outgoing recovered material
+
+quality of the substituted material
+
+quality ratio between outgoing recovered material and the substituted
+
+material is assumed to be 1 (equal quality)
+
+Reinforced Concrete Pipe
+
+11
+riumes
+
+Life Cycle Assessment (LCA) Methodology
+
+Background Data
+
+Primary data covers the 2022 calendar year and has
+been sourced from each of the Humes factories that
+manufacture RCP. The life cycle model has been built in
+SimaPro software v9.5.0.0.
+
+Data for cement has been sourced from our supplier's
+EPD (EPD S-P-07449).
+
+Data for reinforcing steel wire is based on our supplier's
+EN 15804+A1 compliant EPDs (S-P-00855 and S-P-
+00858). To calculate the EN 15804+A2 indicator results,
+ecoinvent v3 ("Reinforcing steel {RoW}] reinforcing steel
+production | Cut-off, U") data have been used, and
+GWP-GHG and ADP-fossil indicators have been
+adjusted to align with the published EPD. Our second
+supplier of reinforcement steel does not have an EPD.
+We have used ecoinvent v3.9.1 data without adjustment
+to model this steel. Data for steel that we use to make
+jacking pipe collars are sourced from our supplier (EPD
+S-P-00557).
+
+Data for admixtures has been sourced from three EPDs
+published by EFCA (European Federation of Concrete
+Admixtures Associations) (EFCA 2021a, 2021b, 2023).
+Other background data is predominantly sourced from
+AusLCI and the AusLCI shadow database v1.42. Primary
+data is less than five years old as at the date of
+publication. Background data used is less than 10 years
+old or has been reviewed within this period.
+
+Methodological choices have been applied in line with
+EN 15804:2012+A2:2019 deviations have been
+recorded.
+
+Allocation
+
+The processes and materials that require allocation are:
+
+e Production of concrete pipes and other precast
+concrete products: All shared processes are
+attributed to concrete products based on their mass.
+
+e Steel scrap leaving the pipe manufacturing process:
+the steel scrap generated at our sites has a negligible
+contribution to our revenue and therefore has been
+allocated with zero value.
+
+e Fly ash: Economic allocation has been applied to fly
+ash (value of $0), meaning that all environmental
+impacts of the power plant have been allocated to
+electricity as the main product. Fly ash has only
+received the burdens of the transport to our sites.
+Sensitivity analysis confirmed that this choice does
+not have a significant effect on the GWP results.
+
+e Steel slag: BFS is a by-product from steel-making.
+We have used the AusLCI data for BFS (‘Blast Furnace
+Slag allocation, at steel plant / AU U'}, which contain
+impacts from pig iron production allocated to blast
+furnace slag using economic allocation.
+
+e Silica fume: silica-fume is a by-product of silicon
+metal or ferrosilicon alloys production. Economic
+allocation is used to attribute impacts between silica
+fume and ferrosilicon production.
+
+e Use of steel scrap in reinforcement steel: Recycling
+allocation has followed the polluter pays principle in
+line with EN 15804. See InfraBuild's EPD (S-P-00855)
+of reinforcing rod and wire. Scrap entering ecoinvent
+datasets does not carry any environmental impacts
+either. Strictly speaking, this does not comply with
+the latest scrap requirements in PCR 2019:14 v1.3.3,
+but it is not possible to alter the underlying data in a
+meaningful manner. The treatment of scrap entering
+(in module A1) and leaving (in modules A3, C3) the
+product system is consistent within this LCA.
+
+Reinforced Concrete Pipe
+
+12
+
+>
+en
+©
+©
+D
+re)
+€
+5
+a
+>=
+<
+O
+—
+
+riumes
+
+Cut-off criteria
+
+e The cut-off criteria applied are 1% of
+renewable and non-renewable primary energy
+usage, 1% of the total mass input of a process
+and 1% of environmental impacts.
+
+° The amount of packaging used for admixtures,
+rubber rings and mould oil is well below the
+materiality cut-off and packaging materials
+and quantities have therefore been estimated
+only.
+
+° The rubber ring lubricant applied to the socket
+lead-in for skid joints is excluded from the LCA,
+as the amount used is negligible.
+
+e Capital goods (production equipment and
+infrastructure) and personnel is excluded from
+the LCA as these processes are non-
+attributable, lack agreed definitions for
+inclusion, and they contribute less than 10% to
+GWP-GHG.
+
+Key assumptions
+
+e The concrete compositions at each site are
+taken from Humes internal operating systems.
+
+e For cement, we have used EPDs from our
+cement suppliers where possible. Where data
+gaps existed (including missing EN 15804+A1
+results), these have been filled using AusLCI
+data for general purpose cement. For missing
+EN 15804+AT results, greenhouse gas
+emissions are matched to our supplier's EPD
+data as best as possible.
+
+e For reinforcement steel, we have used
+ecoinvent data, with GWP-GHG and ADP-fossil
+indicators adjusted to align with our supplier's
+published EN 15804+A1 compliant EPDs
+where relevant.
+
+e Allocation approaches may have a material
+effect on concrete products containing fly ash,
+ground granulated blast furnace slag and/or
+silica fume.
+
+° Additional environmental impact indicators
+are not declared in the admixture EPDs, which
+results in underreporting of these indicators.
+
+Electricity
+
+Electricity has been modelled for core processes
+using adjusted AusLCI data to represent the
+estimated residual electricity grid mix in Australia.
+This is done by removing renewables from the
+Australian Energy Statistics 2023 data (Table 01.1).
+The GWP-GHG of the electricity is 0.91 kg CO2e /
+KWh (aligned with NGA 2023). The proxy residual
+grid mix is made up of black coal (53.9%), brown
+coal (17.3%), natural gas (26.3%), and oil products
+(2.5%). The contribution of electricity to cradle-to-
+gate (A1-A3) GWP-GHG emissions is approximately
+5-15%. Therefore, the choice for market-based or
+location-based electricity accounting will have a
+noticeable effect on the results
+
+Declared unit
+
+Reinforced concrete pipes are available in various
+classes (wall thickness related), diameters, lengths and
+joint types. After considering various options, it
+became clear that there is no reasonable option that
+allows different pipes to be grouped or averaged in a
+meaningful way that is clear for the EPD user.
+Therefore, we have opted to present the results (for
+modules A1-A3, A4, A5, C1-C4, and D) for a
+representative product for the production site, based
+on the functional unit of:
+
+e 1 tonne of reinforced concrete pipe (RCP),
+including rubber rings, installed using the H1
+bedding type.
+
+For installation module AS results are best expressed
+per metre of pipe length for a certain diameter, as
+results per tonne of pipe are not easily interpreted. As
+the use of multiple declared units are no longer
+accepted in EPDs, the GWPs for various module A5
+scenarios are included in the section “Additional
+environmental information”. Even then, care should be
+taken when comparing environmental impacts of
+installation processes across EPDs.
+
+Reinforced Concrete Pipe
+
+13
+riumes
+
+Life Cycle Assessment (LCA) results
+
+An LCA serves as the foundation for this EPD. An LCA analyses the production systems of a product. It
+provides comprehensive evaluations of all upstream and downstream energy inputs and outputs. The results
+
+are provided in a form which covers à range of environmental impact categories.
+
+Table 8: Environmental indicators legend (EN 15804+A2)
+
+Climate change -— total GWP-total kg CO: equivalent
+
+Climate change -— fossil GWP-fossil kg CO: equivalent
+
+Climate change — biogenic GWP-biogenic kg CO: equivalent
+
+Climate change - land use and land use change GWP-luluc kg CO: equivalent
+Ozone layer depletion ODP kg CFC-11 equivalent
+
+Acidification AP mol H* equivalent
+
+Eutrophication aquatic freshwater
+Eutrophication aquatic marine
+
+Eutrophication terrestrial
+
+EP-freshwater
+EP-marine
+
+EP-terrestrial
+
+kg P equivalent
+kg N equivalent
+
+mol N equivalent
+
+Photochemical ozone formation POCP kg NMVOC equivalent
+Abiotic depletion potential - elements! ADP minerals & metals kg Sb equivalent
+Abiotic depletion potential — fossil fuels! ADP fossil M), net calorific value
+Water use! WDP m° world equivalent deprived
+Global Warming Potential - Greenhouse gases GWP-GHG kg CO: eq
+Particulate matter emissions PM disease incidence
+lonising radiation, human health? IRP kBq U235 equivalent
+Ecotoxicity (freshwater)! ETP-fw CTUe
+Human toxicity, cancer effects! HTP-c CTUR
+Human toxicity, non-cancer effects! HTP-nc CTUR
+Land use related impacts / soil quality" SQP - (dimensionless)
+Carbon footprint in line with IPCC AR5 GWP-GHG (IPCC ARS) kg CO: eq
+
+Note regarding various GWP indicators.
+
+GWP-total is calculated using the European Union's Joint Research Centre's URC) characterisation factors (CFs) based on the
+‘EF 3.0 package” for CFs to be used in the EU's Product Environmental Footprint (PEF) framework. CFs listed by JRC include
+indirect radiative forcing, which results in higher numerical Global Warming Potential (GWP) values than the CFs in the
+internationally accepted (IPCC 2013).
+
+The GWP-GHG indicator is identical to GWP-total except that the CFs for biogenic CO: are set to zero. The GWP-GHG
+indicator in PCR 2019:14 v1.3 differs from the GWP-GHG in earlier PCR 2019:14 versions.
+
+The GWP-GHG IPCC AR 5 indicator is determined using the IPCC ARS Global Warming Potentials (GWP) with a 100-year
+time horizon. This indicator is aligned with Australia's greenhouse gas reporting frameworks.
+
+1 The results of this environmental impact indicator shall be used with care as the uncertainties on these results are high or as there is limited
+experienced with the indicator.
+
+2 This impact category deals mainly with the eventual impact of low dose ionizing radiation on human health of the nuclear fuel cycle. It does not
+consider effects due to possible nuclear accidents, occupational exposure nor due to radioactive waste disposal in underground facilities. Potential
+ionizing radiation from the soil, from radon and from some construction materials is also not measured by this indicator.
+
+Reinforced Concrete Pipe 14
+riumes
+
+Table 9: Legend for parameters describing resource use, waste and output flows
+
+Use of renewable primary energy excluding renewable primary energy resources used as raw PÈRE Mincv
+materials
+Use of renewable primary energy resources used as raw materials PERM Mincv
+Total use of renewable primary energy resources PERT Mincv
+Use of non-renewable primary energy excluding non-renewable primary energy resources used as PENRE Mincv
+raw materials
+Use of non-renewable primary energy resources used as raw materials PENRM Mincv
+Total use of non-renewable primary energy resources PENRT Mincv
+Use of secondary material SM kg
+Use of renewable secondary fuels RSF Mincv
+Use of non-renewable secondary fuels NRSF Mincv
+Use of net fresh water FW m°
+Hazardous waste disposed HWD kg
+Non-Hazardous waste disposed NHWD kg
+Radioactive waste disposed RWD kg
+Components for re-use CRU kg
+Materials for recycling MFR kg
+Materials for energy recovery MER kg
+Exported energy EE MJ
+
+Table 10: Legend for EN 15804+A1 indicators
+
+Global warming potential GWP kg CO: equivalent
+Ozone layer depletion potential ODP kg CFC-11 equivalent
+Acidification potential AP kg SO2 equivalent
+Eutrophication potential EP kg PO: equivalent
+Photochemical oxidation (Photochemical ozone creation) potential POCP kg ethylene equivalent
+Abiotic depletion potential - elements ADPE kg Sb equivalent
+Abiotic depletion potential — fossil fuels ADPF Minicv
+
+The estimated impact results are only relative statements, which do not indicate the endpoints of the
+impact categories, exceeding threshold values, safety margins and/or risks.
+
+The use of the results of modules A1-A3 (A1-A5 for services) without considering the results of
+module C is discouraged.
+
+Reinforced Concrete Pipe 15
+riumes
+
+Table 11: EN 15804+A2 indicators, Class 4, DN600, Fresh water RRJ pipe, Blacktown, abandonment scenario
+
+Environmental
+Indicator
+
+Core Indicators
+
+GWP-total kg COz-eq,. 2.25E +02 4.85E +01 3.86E +01 0.00E +00 0.00E +00 0.00E +00 4.37E+00 8.97E +00
+GWP-fossil kg COz-eq,. 2.27E +02 4.85E +01 3.86E +01 0.00E +00 0.00E +00 0.00E +00 0.00E +00 8.97E +00
+GWP-biogenic kg COz-eq,. -1.36E+00 3.32E-03 1.15E-02 0.00E +00 0.00E +00 0.00E +00 4.08E+00 -3.28E-04
+GWP-luluc kg COz-eq,. 5.36E-02 2.25E-05 1.71E-05 0.00E +00 0.00E +00 0.00E +00 0.00E +00 -6.25E-05
+ODP kg CECI 1-eq. 5.70E-06 7.52E-06 5.64E-06 0.00E+00 0.00E +00 0.00E +00 0.00E +00 -2.06E-08
+AP mol H+ eq. 1.07E+00 4.19E-01 3.26E-01 0.00E +00 0.00E +00 0.00E +00 0.00E +00 3.10E-02
+EP-freshwater kg P eq. 2.79E-02 2.87E-06 4.76E-06 0.00E +00 0.00E +00 0.00E +00 0.00E +00 4.08E-04
+EP-marine kg N eq. 1.25E-01 1.32E-01 1.09E-01 0.00E +00 0.00E +00 0.00E +00 0.00E +00 5.A6E-03
+EP-terrestrial mol N eq. 2.40E +00 145E+00 1.20E +00 0.00E +00 0.00E +00 0.00E +00 0.00E +00 6.55E-02
+POCP kg NMVOC eq.  7.67E-01 3.52E-01 2.91E-01 0.00E +00 0.00E +00 0.00E +00 5.11E-02 2.59E-02
+PONS & kg Sb eq. 1.68E-04 5.54E-08 5.06E-07 0.00E +00 0.00E +00 0.00E +00 0.00E +00 3.66E-06
+ADP fossil! MJ (NC) 2.24E +03 6.55E +02 5.26E +02 0.00E +00 0.00E +00 0.00E +00 0.00E +00 9.51E+01
+soir m° world eq. 1.04E +02 4.20E+00 7.37E+01 0.00E+00 0.00E +00 0.00E+00 0.00E+00 2.15E+02
+deprived
+
+Additional indicators
+GWP-GHG kg COz-eq,. 2.27E +02 4.85E +01 3.86E +01 0.00E +00 0.00E +00 0.00E +00 3.82E +00 8.97E +00
+PM To 1.11E-05 2.36E-06 3.38E-06 0.00E+00 0.00E +00 0.00E+00 0.00E+00 2.89E-07
+IRP2 kBqU235 eq.  1.15E+03 9.57E-04 9.46E-04 0.00E +00 0.00E +00 0.00E +00 0.00E +00 -2.38E-01
+ETP-fw' CTUe 4.99E +02 1.68E+02 1.28E+02 0.00E +00 0.00E +00 0.00E +00 5.08E-01 2.29E +02
+HTP-c! CTUh 7.01E-07 2.05E-10 5.06E-10 0.00E+00 0.00E +00 0.00E +00 0.00E +00 -5.44E-08
+HTP-nc! CTUh 8.90E-06 2.27E-08 4.12E-08 0.00E +00 0.00E +00 0.00E +00 1.07E-08 -1.77E-06
+SQP' - 8.63E +02 2.94E +00 1.59E+02 0.00E +00 0.00E +00 0.00E +00 0.00E +00 7.95E +00
+
+Carbon Footprint
+
+GWP-GHG (IPCC
+AR5)
+
+kg CO>-eq.
+
+224
+
+47.7
+
+38.0
+
+0.0
+
+0.0
+
+0.0
+
+2.9
+
+8.5
+
+Reinforced Concrete Pipe
+
+16
+riumes
+
+Table 12: Parameters, Class 4, DN600, Fresh water RR]J pipe, Blacktown, abandonment scenario
+
+Environmental
+
+Indicator
+
+PERE
+PERM
+PERT
+PENRE
+PENRM
+PENRT
+SM
+RSF
+NRSF
+FW
+HWD
+NHWD
+RWD
+CRU
+MER
+MER
+EE
+
+Mincv
+Mincv
+Mincv
+Mincv
+Mincv
+Mincv
+kg
+Mincv
+Mincv
+
+m°
+
+kg
+kg
+kg
+kg
+kg
+kg
+M)
+
+6.19E+01
+2.11E+01
+8.30E+01
+2.14E+03
+0.00E+00
+2.14E+03
+4.02E+01
+2.42E+00
+4.22E+01
+1.86E+00
+1.59E-07
+1.23E+01
+1.12E-03
+0.00E+00
+1.03E+01
+9.67E-03
+0.00E+00
+
+9.40E-01
+
+0.00E+00
+9.40E-01
+
+6.55E+02
+0.00E+00
+6.55E+02
+0.00E+00
+0.00E+00
+0.00E+00
+9.49E-02
+0.00E+00
+2.78E-03
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+0.00E+00
+
+3.24E+00
+0.00E +00
+3.24E+00
+5.26E+02
+0.00E +00
+5.26E+02
+0.00E +00
+0.00E +00
+0.00E +00
+1.71E+00
+0.00E +00
+9.57E-03
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+1.00E+03
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+
+-1.77E-01
+0.00E +00
+-1.77E-01
+9.51E+01
+0.00E +00
+9.51E+01
+0.00E +00
+0.00E +00
+0.00E +00
+5.95E-02
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+0.00E +00
+
+Reinforced Concrete Pipe
+
+17
+riumes
+
+Please note: stage A1-A3 values reported in
+this EPD incorporate the full production
+process of the precast elements. This includes
+concrete, steel, rubber rings, and precast
+production processes including reinforcement
+cage manufacture, casting, curing (steaming
+and other curing methods), internal transport
+checks and storage as well as routine
+consumables used in the manufacturing
+process. Therefore, these values should not
+be directly compared to A1-A3 values per
+tonne of concrete supplied by ready-mix, as
+these values do not account for additional
+embodied carbon in the precast production
+process, steel reinforcement and rubber.
+
+Reinforced Concrete Pipe 18
+riumes
+
+Variation (A1-A3) per impact category
+
+The variations in the results for module A1-A3 is declared in the following table, based on the largest variation in GWP
+between products manufactured at Blacktown and the representative product.
+
+The variation is determined using the tables thereafter, which show the GWP values for each product manufactured
+at this site as an example for how the environmental impacts vary by product type. The tables cover freshwater
+pipes, marine pipes, jacking pipes and shafts, respectively.
+
+[=
+(e]
+5
+©
+Le
+Q
+>
+
+Table 13: Variation in core EN 15804+A2 indicators
+
+The large variations (e.g. in EP-freshwater and ADP minerals & metals) are caused by jacking pipe products
+with a stainless-steel collar.
+
+Reinforced Concrete Pipe 19
+riumes
+
+Table 14: GWP-total, modules A1-A3, kg CO: eq per tonne of FRESH WATER pipe, Blacktown
+
+Do UN ON
+| Class Class? Clas3 Class4 Classé Clas8 Clas10 Class? Clas3 Class4 Classé
+Mix S LES S LCS S LCS M S M S M S S LCS S LCS S LCS M S
+
+DN300 224 207 230 213 247 230 234 211 247 224 253 231 209 191 250 233
+DN375 219 202 230 212 251 234 241 219 246 224 236 213 220 203 241 224 264 247 237 214
+DN450 211 193 218 201 241 224 246 224 235 212 237 214 212 194 234 216 250 234 244 221
+DN525 220 202 211 194 221 204 242 220 264 241 239 216 224 207 232 215 219 201
+
+DN600 217 200 213 195 225 208 254 231 242 219 215 197 229 211 222 205
+
+DN675 216 198 218 200 230 213 243 221 212 194 226 208 223 205
+
+DN750 211 193 211 193 222 204 255 232 210 192 224 207 218 200 252 229
+DN825 213 195 211 193 205 186 251 228 210 192 228 210 220 202 247 224
+DN900 200 182 211 193 232 214 246 224 211 193 215 197 217 200 250 227
+DN1050 207 190 216 199 221 203 234 212 253 230 219 201 233 215 208 190 241 218
+DN1200 208 190 224 207 221 203 249 226 240 217 216 198 217 199 215 197 251 228
+DN1350 215 197 236 219 216 198 251 228 216 199 221 203 217 199 248 225
+DN1500 203 185 213 196 217 200 249 226 241 218 225 208 231 213 231 214 246 223
+DN1650 207 189 224 206 227 210 249 226 225 208 225 208 234 217 249 226
+DN1800 232 215 225 207 229 211 234 217 249 226
+DN1950 218 200 244 227 234 216 248 225
+DN2100 225 207 233 216 231 213 252 230
+
+Table 15: GWP-total, modules A1-A3, kg CO: eq per tonne of Marine pipe, Blacktown
+
+Mix M S M S M S M S
+
+DN300
+
+DN375 216 193 226 204 230 207 244 221
+
+DN450 222 200 233 210 242 219 261 238 The “codes” under the pipe classes refer
+
+DN525 221 199 235 213 245 222 252 230 to the mix designs:
+
+DN600 237 214 247 225 247 224 269 246 LCS Low Carbon Standard
+
+DN675 245 222 248 226 240 217 240 217 S Standard, Low Carbon Marine,
+Low Carbon Jacking
+
+DN750 236 213 261 238 241 218 235 212 V Marine, Jacking, Dry Cast
+
+DN825 238 215 260 238 238 215 247 225
+DN900 240 217 261 239 247 224 254 231
+DN1050 233 210 253 231 247 224 242 219
+DN1200 243 221 241 219 239 216 248 225
+DN1350 248 225 254 231 235 212 246 223
+DN1500 232 209 238 215 247 224 246 223
+DN1650 244 221 244 221 245 222 245 223
+DN1800 241 218 259 236 246 223 245 222
+DN1950 235 212 247 224 251 229 252 229
+DN2100 234 212 247 224 250 228 251 228
+
+Reinforced Concrete Pipe
+riumes
+
+Table 16: GWP-total, modules A1-A3, kg CO: eq per tonne of Jacking pipe, Blacktown
+
+Joint
+Class
+Collar
+
+DN 300
+DN 350
+DN 375
+DN 400
+DN 450
+DN 500
+DN 525
+DN 600
+DN 675
+DN 700
+DN 750
+DN 800
+DN 825
+DN 900
+DN 1000
+DN 1050
+DN 1100
+DN 1200
+DN 1350
+DN 1500
+DN 1600
+DN 1650
+DN 1800
+DN 1950
+DN 2100
+
+Mix
+
+Class 4 Class 4 Class 4 Class 4
+Mild Steel Stainless Mild Steel Stainless
+M M
+
+M M
+
+251 288...
+ns CR
+
+RS SE PE
+ns 24
+CE
+Rs 266
+20 D EE
+284 278
+286 EEE
+275 BE
+
+304
+
+282
+
+301
+297
+
+294
+299
+327
+319
+290
+312
+
+Reinforced Concrete Pipe
+
+21
+riumes
+
+Table 17: GWP-total, modules A1-A3, kg CO: eq per tonne of Shafts, Blacktown
+
+PCAC,SHAFT,1050,FJ,1100,BO 1100 194 217
+PCAC,SHAFT,1050,FJ,1250,BO 1250 194 217
+PCAC,SHAFT,1050,WR,1300 1300 194 217
+WELL,SHAFT,1200,F,1179090,0300 300 207 230
+WELL,SHAFT,1200,F,1179090,0600 600 201 224
+WELL,SHAFT,1200,F,1179090,0900 900 200 222
+WELL,SHAFT,1200,F,1179090,1200 1200 198 221
+WELL,SHAFT,1200,F,1179090,2440 2440 199 222
+WELL,SHAFT,1500,F,1456110,0750,ST407A 750 192 215
+WELL.SHAFT,1500,F,1456110,0900,ST407A 900 192 215
+WELL.SHAFT,1500,F,1456110,1300,ST407A 1300 189 212
+WELL,SHAFT,1500,F,1456110,1200,ST407A 1200 192 215
+WELL,SHAFT,1500,F,1456110,1500,ST407A 1500 192 215
+WELL.SHAFT,1500,EJ,1456110,1680,ST407A 1680 190 213
+WELL,SHAFT,1500,EJ,1456110,1855 1855 190 213
+WELL.SHAFT,1500,F,1456110,1800,ST407A 1800 192 215
+WELL,SHAFT,1500,EJ,1456110,2050,BUTB 2050 190 213
+WELL,SHAFT,1500,F,1456110,2100,ST407A 2100 192 215
+WELL,SHAFT,1500,F,1394141,1200, SPECIAL 1200 202 225
+WELL,SHAFT,1500,F,1456110,2300,BUTT 2300 192 215
+WELL.SHAFT,1500,F,1456110,2440,ST407A 2440 192 215
+WELL,SHAFT,1800,F,1772117,0900,ST407A 900 193 216
+WELL,SHAFT,1800,F,1746130,2246,LS3 2246 180 203
+WELL,SHAFT,1800,F,1772117,0950,STD 950 197 220
+WELL,SHAFT,1800,F,1772117,1150,BUTT 1150 196 219
+WELL,SHAFT,1800,F,1772117,1600,BUTT 1600 194 217
+WELL,SHAFT,1800,F,1772117,1665 1665 194 217
+WELL,SHAFT,1800,F,1772117,1665,BUTT 1665 194 217
+WELL,SHAFT,1800,F,1772117,1300,ST407A 1300 203 225
+WELL,SHAFT,1800,F,1772117,1900,BUTT 1900 193 216
+WELL,SHAFT,1800,F,1772117,1650,BUTT 1650 193 216
+WELL,SHAFT,1800,F,1772117,2050,BUTT 2050 194 216
+WELL,SHAFT,1800,F,1772117,2250 2250 193 216
+WELL.SHAFT,1800,F,1772117,1600,ST407A 1600 203 225
+WELL,SHAFT,1800,F,1772117,1800 1800 199 222
+WELL,SHAFT,1800,F,1772117,1900,ST407A 1900 208 231
+WELL,SHAFT,1800,F,1746130,2200,DTC 2200 202 224
+WELL,SHAFT,1800,F,1828089,1670 1670 299 322
+WELL,SHAFT,2100,F,2136126,1050,BUTT 1050 218 240
+WELL.SHAFT,2100,F,2136126,1250,ST407A 1250 215 237
+WELL,SHAFT,2100,F,2136126,1500,BUTT&B 1500 215 237
+WELL.SHAFT,2100,F,2136126,1400,ST407A 1400 218 241
+WELL,SHAFT,2100,F,2136126,1600,BUTT 1600 215 237
+WELL.SHAFT,2100,F,2136126,1600,ST407A 1600 215 237
+WELL,SHAFT,2100,F,2136126,1500,ST407A 1500 216 239
+WELL,SHAFT,2100,F,2136126,1320,ST407A,PC 1320 201 224
+WELL,SHAFT,2100,F,2136126,2050,BUTT 2050 218 240
+WELL,SHAFT,2100,F,2136126,2400,ST407A 2400 215 237
+
+Reinforced Concrete Pipe 22
+riumes
+
+EN 15804+A1 LCA results for backwards compatibility
+
+Table 18: EN 15804+A1 indicators, Class 4, DN600, Fresh water RRJ pipe, Blacktown, abandonment scenario
+
+Environmental ci e2 c3 c4
+Indicator
+
+Reinforced Concrete Pipe 23
+riumes
+
+Installation of pipes (module A5)
+
+The installation of pipes cannot be expressed per tonne of pipe in a meaningful way, as there are too many
+variables that would impact on the results. Instead, installation impacts are best described per length of pipe
+
+of a particular diameter.
+
+Installation —- Module A5
+
+The installation of RCPSs in a storm-water system is
+included in the LCA on the basis of a typical scenario.
+The actual installation scenario can have a significant
+impact on the environmental profile of module A5.
+
+The type of support is selected depending on the
+application (required performance) of the pipeline
+system. The required strength of a concrete pipe
+depends on both the load to be carried by the installed
+pipe, and the supporting ground installation
+conditions.
+
+Installation processes include:
+
+e  Excavation of the trench
+
+e Placement and compaction of bedding materials
++ Placement of RCP
+
+e  Filling of the trench and compaction.
+
+Transport of imported and surplus materials is also
+included as per the installation scenario. The values
+of installation should be calculated per metre of
+RCP of a particular diameter, regardless of the class
+of pipe or whether the pipe is made using the spun
+or dry-cast process. The environmental impacts
+correlate strongly to the pipe diameter (ï.e. not to
+the mass of pipes).
+
+Bedding types for pipes are H1, H2, HS1, HS2, HS3,
+and U. Where U denotes an Unsupported fill, H
+denotes Haunch support, HS denotes Haunch and
+Side support, and 1, 2, and 3 denotes the level of
+support (compaction of fill) in the material used.
+Further details are available in AS/NZS 3725: Design
+for Installation of Buried Concrete Pipes.
+
+Further information on trench dimensions for the
+installation of RCP can be found in Humes’ Concrete
+pipe reference manual (see www.humes.com.au).
+
+The graph below shows how the GWP for module A5 (in kg CO2e for installation of one meter of pipe) varies
+
+with pipe diameter and bedding type.
+
+kg CO,e/m
+140.0
+
+120.0
+
+20.0
+
+0.0 +
+
+300 375 450 525 600 675 750 825 900
+
+1050
+
+1200 1350 1500 1650 1800 1950 2100
+
+Reinforced Concrete Pipe
+
+24
+
+[es
+.2
+fe)
+&
+re
+par)
+n
+=
+
+riumes
+
+The default environmental profiles include end-of-life results for à scenario where pipes are abandoned and
+left in-ground at end-of-life. Alternatively, concrete pipes may be exhumed and recycled. In this case, the pipes
+are crushed to separate the concrete from the reinforcement steel, after which the concrete is assumed to
+replace virgin aggregates and the steel can be recycled to replace steel produced through the virgin route.
+
+The module C1-C4, D results for the recycling scenario pertaining to the representative product are provided
+in the table below.
+
+Table 19: EN 15804+A2 indicator results, modules C1-C4, per tonne of representative product, Blacktown
+
+GWP-total kg CO: eq. A.87E-01 7.81E+00 4.13E+00 4.37E+00 -3.73E+01
+GWP-fossil kg CO: eq. A.87E-01 7.81E+00 4.13E+00 0.00E +00 -3.72E+01
+GWP-biogenic kg CO: eq. 3.59E-05 5.35E-04 4.31E-03 4.08E+00 -1.83E-02
+GWP-luluc kg CO: eq. 2.31E-07 3.63E-06 1.90E-06 0.00E +00 2.02E-04
+ODP kg CFC-11 eq. 7.712E-08 1.21E-06 5.18E-07 0.00E +00 -1.38E-07
+
+AP mol H* eq. 5.31E-03 6.75E-02 1.13E-02 0.00E +00 -1.29E-01
+EP-freshwater kg P eq. 5.98E-08 4.62E-07 3.04E-06 0.00E+00 -1.34E-03
+EP-marine kg N eq. 2.32E-03 2.13E-02 2.01E-03 0.00E +00 -2.22E-02
+EP-terrestrial mol N eq. 2.54E-02 2.33E-01 2.19E-02 0.00E +00 -2.61E-01
+POCP kg NMVOC eq. 6.10E-03 5.67E-02 5.86E-03 5.11E-02 -9.67E-02
+ADP minerals & metals kg Sb eq. 5.69E-10 8.91E-09 1.02E-06 0.00E +00 -1.31E-05
+ADP fossil ME G.TAE+00  1.06E+02  5.86E+01  O.00E+00  -4.24E+02
+
+calorific value
+WDP mwordeq 43202  676E-01  127E+00  O00E+00 -7.58E+02
+deprived
+GWP-GHG kg CO: eq A.87E-01 7.81E+00 4.13E+00 3.82E+00 -3.73E+01
+PM disease 141E-07  3.80E-07  7.52E-08  O.00E+00  -1.15E-06
+incidence
+
+IRP kBq U235 eq. 9.84E-06 1.54E-04 8.27E-04 0.00E +00 7.74E-01
+ETP-fw CTUe 1.73E+00 2.71E+01 1.33E+01 5.08E-01 -7.54E+02
+HTP-c CTUh 1.79E-11 3.29E-11 8.60E-11 0.00E +00 1.77E-07
+HTP-nc CTUR 1.84E-09 3.65E-09 3.96E-09 1.07E-08 5.76E-06
+SQP - 3.21E-02 4.74E-01 1.11E+04 0.00E+00 -2.01E+02
+GWP-GHG (IPCC AR5) kg CO: eq 0.483 7.68 4.11 2.88 -3.55E+01
+
+Reinforced Concrete Pipe
+
+25
+riumes
+
+Additional environmental information
+
+Safety, Health and Environment (SHE) at Humes
+
+Our safety, health and environment (SHE) management system aims to achieve high environmental standards.
+The Holcim executive committee closely monitors our performance in managing workplace safety and
+protection of the environment. The environmental component of the management system helps identify and
+manage potential environmental risks. Operations are assessed against the requirements and improvements
+made.
+
+Infrastructure Sustainability
+
+The Infrastructure Sustainability Council (ISC) is the peak industry body for advancing sustainability in Australia's
+infrastructure. As a division of Holcim Australia, Humes is a member of ISC and takes an interest and role in
+developing sustainable practices across design, construction and operation of infrastructure.
+
+ISC has developed the Infrastructure Sustainability (IS) rating scheme which is Australia's only comprehensive
+rating scheme for evaluating sustainability for infrastructure. ISC evaluates the sustainability of infrastructure
+projects and assets and assigns credits across a number of categories which incentivise the use of sustainable
+practices.
+
+Humes helps its customers optimise their ISC ratings through smart selection and design of precast products.
+
+This is the updated Environmental Product Declaration for Reinforced Concrete Pipes. We have also developed
+an ISO 14025 and EN 15804 compliant EPD for Humes Precast and Prestressed Concrete Products, as well as
+for Humes Tamworth precast concrete for infrastructure applications. These EPDs are publicly available on the
+EPD Australasia website.
+
+Humes
+“TT EPD
+
+Environmental Product Declaration
+
+Reinforced Concrete Pipe
+riumes
+
+References
+
+AS 1379
+
+AS 1478
+
+AS 1646
+
+AS 2758.1
+
+AS/NZS 3725
+
+AS 3972
+
+AS/NZS 4058
+
+AS/NZS 4671
+
+AusLCI 2023
+
+ECHA 2023
+
+EFCA 2021
+
+EFCA 2021
+
+EFCA 2023
+
+Environdec 2021
+
+Environdec 2023
+
+EN 15804+A2
+
+EN 15804+A1
+
+EPD S-P-00557
+EPD S-P-00855
+EPD S-P-00858
+
+EPD S-P-05476
+EPD S-P-07447
+EPD S-P-07448
+EPD S-P-07449
+EPD S-P-07450
+ISO 14025
+ISO 14040
+ISO 14044
+NGA 2023
+
+NOHSC 2004
+
+NWR 2022
+
+PCR 2019:14
+
+CPAA 2007
+
+Specification and supply of concrete, prepared by Committee BD-049 Manufacture of Concrete, published on
+20 September 2007 by Standards Australia, Sydney
+
+AS 1478.1:2000 Chemical admixtures for concrete, mortar and grout, Part 1: Admixtures for concrete,
+Standards Australia, Sydney, 2000
+
+AS 1646:2007 Elastomeric seals for waterworks purposes, published on 13 November 2007 by Standards
+Australia, Sydney
+
+AS 2758.1:2014 Aggregates and rock for engineering purposes, Part 1: Concrete aggregates, published on 7
+November 2014 by Standards Australia, Sydney
+
+AS/NZS 3725:2007 Design for installation of buried concrete pipes, published on 23 January 2007 by
+Standards Australia and Standards New Zealand, Sydney & Wellington
+
+AS 3972:2010 General purpose and blended cements, published on 22 October 2010 by Standards Australia,
+Sydney
+
+AS/NZS 4058:2007 Precast concrete pipes (pressure and non-pressure), prepared by Joint Technical
+Committee WS-006, Concrete Pipes, published on 18 April 2007 by Standards Australia and Standards New
+Zealand, Sydney & Wellington
+
+AS/NZS 4671:2001 Steel reinforcing materials, published on 2 April 2001, Sydney
+
+Australian Life Cycle Inventory database v1.42 published by the Australian Life Cycle Assessment Society,
+2023
+
+European Chemicals Association, Candidate List of substances of very high concern for Authorisation,
+published in accordance with Article 59(10) of the REACH Regulation, Helsinki
+
+Accessed on 1 June 2023 from: https://echa.europa.eu/candidate-list-table
+
+European Federation of Concrete Admixtures Associations (EFCA), IBU EPD Declaration number EPD-EFC-
+20210193-IBG1-EN, Air entrainers, issued 16-12-2021
+
+European Federation of Concrete Admixtures Associations (EFCA), IBU EPD Declaration number EPD-EFC-
+20210194-IBG1-EN, Set Accelerators, issued 16-12-2021
+
+European Federation of Concrete Admixtures Associations (EFCA), IBU EPD Declaration number EPD-EFC-
+20210198-IBG2-EN, issued 2023-08-14, based on EN 15804 and PCR for concrete admixtures
+
+International EPD System, General Programme Instructions for the International EPD System, Version 4.0, 29
+March 2021
+
+c-PCR-003 Concrete and concrete elements (EN 16757:2022), Product category rules for concrete and
+concrete elements, version 2 January 2023
+
+EN 15804:2012+A2:2019/AC:2021, Sustainability of construction works — Environmental product declarations
+— Core rules for the product category of construction products, European Committee for Standardization
+(CEN), Brussels, August 2021
+
+Sustainability of construction works — Environmental product declarations - Core rules for the product
+category of construction products, European Committee for Standardization (CEN), Brussels, November 2013
+BlueScope Steel Australia, EPD S-P-00557, Hot Rolled Coil - Medium Carbon Steel, 2020-11-27
+
+InfraBuild, EPD S-P-00855 v1.2, Reinforcing Rod, Bar and Wire, published 2022-05-20
+
+The Australian Reinforcing Company (ARC), EPD S-P-00858 v1.2, Reinforcing Bar and Mesh, published 2022-
+05-20
+
+Adbri Cement, EPD S-P-05476 (Munster GP), published 2022-10-15
+
+Cement Australia, EPD S-P-07447, Bulwer Island General Purpose Cement, published 2023-03-30
+
+Cement Australia EPD S-P-07448, Gladstone General Purpose Cement, published 2023-03-30
+
+Cement Australia EPD S-P-07449, Port Kembla General Purpose Cement, published 2023-03-30
+
+Cement Australia EPD S-P-07450, Goliath General Purpose Cement, published 2023-03-30
+
+Environmental labels and declarations - Type IIT environmental declarations - Principles and procedures.
+International Organization for Standardization, Geneva, Switzerland, 2006
+
+Environmental management - Life cycle assessment - Principles and framework. International Organization
+for Standardization, Geneva, Switzerland, 2006
+
+Environmental management - Life cycle assessment - Requirements and guidelines. International
+Organization for Standardization, Geneva, Switzerland, 2006
+
+Australian National Greenhouse Accounts Factors, Australian Government Department of Climate Change,
+Energy, the Environment and Water, August 2023
+
+Australian Government, National Occupational Health and Safety Commission, Approved Criteria for
+Classifying Hazardous Substances, 3rd Edition, October 2004
+
+Blue Environment, National Waste Report 2022, prepared for The Department of Climate Change, Energy, the
+Environment and Water, Final version 1.2, 16 December 2022 (updated 10 February 2023)
+
+Product category rules for Construction products (EN 15804:A2), registration number 2019:14, version 1.3.3,
+published on 1 March 2024.
+
+Concrete Pipe Association of Australasia (CPAA), The installation of steel reinforced concrete pipes —
+minimum pipe cover required for various compactors, published on 06 November 2007 by CPAA, 20 Bridge
+St Pymble NSW 2073
+
+Reinforced Concrete Pipe
+
+27
+riumes
+
+Contact information
+
+National sales: 1300 361 601
+Paul Adams: 0429790481
+humes.com.au
+info@humes.com.au

@@ -1,0 +1,1621 @@
+ENVIRONMENTA ES
+
+/
+
+4
+
+In accordance with ISO 14025
+EN 15804:2012+A2:2019 for:
+
+GENERAL PURPOSE CEA
+"FUERTE" |
+
+= ®
+Programme: The International EPD® System,
+
+www.environdec.com
+Programe Operator: EPD International AB
+EPD registration number: S-P-05007
+Publication date: 2021-11-02
+Valid until: 2026-11-01
+EN15804  VERIFIED Geographical scope: Costa Rica
+
+stated validity
+
+Üolcim — EPD
+
+EXECUTIVE SUMMARY
+
+This Environmental Product Declaration (EPD) was developed by Holcim (Costa Rica) S.A. under The
+International EPD® System, according to European Standard CEN EN 15804 and PCR 2019:14 and C-
+PCR-001 norms. The scope of this study is “Cradle to Gate” covering product stages using modules
+A1-A3 from the Product Category Rules; for this declaration, modules C1-C4 and D were excluded,
+since product fulfills the three conditions required by EN 15804:2012+A2:2019.
+
+The declared unit used is one ton of cement (Holcim Fuerte). AI environmental performance
+indicators have been declared for bulk and packaged cement. AIl primary data used in this study is
+for the year 2020, at the Holcim cement plant located at Cartago, Costa Rica.
+
+Holcim Fuerte cement delivers a low carbon footprint with the objective of enabling low-carbon
+construction at scale, and contributing to the achievement of world-class environmental
+certifications (e.g., LEED®), due to its lower clinker content.
+
+These cements produced by Holcim (Costa Rica) are included within our corporate vision of
+Sustainability. We invite you to learn more about our study, or to deep dive into any of the details
+presented here by consulting our technical staff or visiting our website www.holcim.cr.
+Colin “— EPD
+
+CONTENT
+1. PROGRAM INFORMATION EPD SYSTEM... rene n ere en en emneenennennenemeneseneeneeneeneennsses 4
+2. COMPANY INFORMATION... nn nn nn nn nn een ennennennennenennnen een cnceneeneeneeneeeceseeseeeeneeneeneeseseee 5
+2.1 DESCRIPTION OF THE ORGANIZATION nee nnnnnnnnnnnnnnnenenennenennnenenenenenenenenenenenennnenenenee 5
+2.2 PRODUCT-RELATED OR MANAGEMENT SYSTEM-RELATED CERTIFICATIONS ns ensssssseseereenrnsseseeserrrrrssss 6
+2.3 NAME AND LOCATION OF PRODUCTION SITES nnrnnnnnnnnnennnnnnnnnnnnnnnnnnnenennnenenneneneneneneneneneneenennnee 6
+3. PRODUCT INFORMATION... n sense enneneseseenesececnesecscnesececsesenesecscnesecscsesecscsesecesesecseseseee 7
+3.1 PRODUCT NAME nr nnnenenenennnenennenenenenenenenenenenenenennnnee 7
+3.2 PRODUCT IDENTIFICATION mnnnnrnrnrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnenenennnenennnnnenenenenenenenenenenenenenenenenennnee 7
+3.3 UN CPC CODE nn nnnsne se eeersnnnne secs enenennnne sec esenennnne nec esenennnnene eee enensnneeeeeeeesenennneene 7
+3.4 PRODUCT DESCRIPTION... nennnnnennnnnnnnnenen nn eneneneneneneneennnee 7
+3.5 PRESENTATION snnnnsnrnsnnnennnennnnnenennnnnnnnnnnnnnnnnnnnnnnnnnennnnnenenenenenenenenenenenenenenenenenenenenenenenenenenenennnneee 7
+3.6 RECOMMENDED USES....................... er rnnnnnnnnnnnnnnnnnnenen nn enenenenenenenenennnnee 7
+4. LIFE CYCLE ASSESSMENT (LCA) INFORMATION... nn rene nee eenneeneeeneeeeenneeneeseeneeneesnee 8
+4.1 DECLARED UNIT nee nenennnenenennenenenenenenenenenenenenennnee 8
+4.2 REFERENCE SERVICE LIFE nee nnnnnnnnnennnenenenen nn nenenenenenenennnnee 8
+4.3 TIME REPRESENTATIVENESS neeeneneneeenenenenennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnn nn nenenenenennneee 8
+4.4 DATABASE(S) AND LCA SOFTWARE USED... iii 8
+4.5 DESCRIPTION OF THE SYSTEM BOUNDARIES. nn nn rene nn nnnnnnnnnnnnnnnnenenenenenenenenenenenenennnee 8
+4.6 SYSTEM DIAGRAM eee resererererererererererererererereseresesereseseseseseseseseenenenenenenenenenenenenemenenense 9
+4.7 DECLARED MODULES nee nnnnnnnnnnnnnnnnnenenennnnnenenenenenenenenenenenenenenennnnnee 9
+4.8 OTHER INFORMATION rrnnrnnrnrrrrrenenenenen een er encre enenenenenenenenenenenenenenenenenenenenenenenenenenene eee eeerererenerenenenenee 10
+5. CONTENT INFORMATION nn nn nnnnen en eeneenennnnnnnncncencecenceneeneceneceeceseeseneeneeneeseesee 13
+6. ENVIRONMENTAL INFORMATION, FUERTE CEMENT, BULK nr nsrsssnessscscsecsesecscsesscsseseee 14
+6.1 POTENTIAL ENVIRONMENTAL IMPACT PER DECLARED UNIT 14
+6.2 USE OF RESOURCES nn nnnnnnnennnen en enenenenenenenenenennnnnee 15
+6.3 WASTE PRODUCTION. rereeeererenerererereresererenenesereresereeeseresesereneseseeeseseenenenemenenenemenenenenenee 15
+6.4 OUTPUT FLOWS rene er er er ererererenererenenenenenenenenenenenenenenenenene coco ceeeeeeeeeerererererenenenee 15
+6.5 POTENTIAL ENVIRONMENTAL IMPACT - ADDITIONAL INDICATORS ner 16
+6.6 INFORMATION ON BIOGENIC CARBON CONTENT mnnnnnnrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnenneneneneneneneennnee 16
+7. ENVIRONMENTAL INFORMATION, FUERTE CEMENT, BAGGED..................... ss enssssnee 17
+7.1 POTENTIAL ENVIRONMENTAL IMPACT PER DECLARED UNIT 17
+7.2 USE OF RESOURCES nn nnnnnnnennnen en enenenenenenenenenennnnnee 18
+7.3 WASTE PRODUCTION. rereeeererenerererereresererenenesereresereeeseresesereneseseeeseseenenenemenenenemenenenenenee 18
+7.4 OUTPUT FLOWS ner een er erererererenererenenenerenenenenenenenenenenenene eee ceeeeeeeeeererererererenenee 18
+7.5 POTENTIAL ENVIRONMENTAL IMPACT - ADDITIONAL INDICATORS nr 19
+7.6 INFORMATION ON BIOGENIC CARBON CONTENT mnnnnnnrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnenneneneneneneneennnee 19
+8. RESULTS ANALYSIS nr nn rennes esesnesesecneesecneesscnesesscnescsscnesesecsesesscesececescesesscsesesscee 20
+8.1 CONTRIBUTION OF THE DECLARED MODULES TO THE ENVIRONMENTAL IMPACT INDICATORS 20
+8.2 CONTRIBUTION OF THE DECLARED MODULES TO THE INDICATORS OF USE OF RESOURCES 22
+8.3 CONTRIBUTION OF THE DECLARED MODULES TO THE WASTE FLOW INDICATORS 23
+8.4 CONTRIBUTION OF THE DECLARED MODULES TO THE OUTPUT FLOW INDICATORS........ rennes 24
+8.5 CONTRIBUTION OF THE DECLARED MODULES TO THE ADDITIONAL INDICATORS ere ee recense 25
+9.  ADDITIONAL INFORMATION... nn nn nn nee en eenennemnenenenenceneenen een eeneeeeececeeeeeeeneeneeneesesee 26
+9.1 ORIGIN OF RAW MATERIALS ere erererererererececerenerenerenenenenenenenenenene creer 26
+9.2 AIR EMISSIONS - VOC ii irseserereresrrererererererererererererererereseseresesesnenemenenenenenenenenenes 26
+10. DIFFERENCES COMPARED TO PREVIOUS VERSIONS OF THE EPD ss snssrsesnesesscessssnee 26
+11. REFERENCES... nn nee eee nnennnnenn een eeneeneeneenenneneceecncencenecnescecceceeceeeeeeneeneeseeseeee 27
+Üolcim — EPD
+
+1. PROGRAM INFORMATION EPD SYSTEM
+
+EPD International AB
+BOX 210 60
+
+SE-100 31 Stockholm
+Sweden
+www.environdec.com
+info@environdec.com
+
+PCR 2019:14 Construction Products v1.11
+c-PCR-001 to PCR 2019:14
+
+The Technical Committee of the International
+EPD® System. See www.environdec.com/TC for a
+list of members. Review chair: Claudia A. Peña,
+Universidad de Concepcién, Chile.
+
+The review panel may be contacted via the
+Secretariat at www.environdec.com/contact
+
+[1 EPD process certification
+
+EPD verification
+
+Marcel Gémez Ferrer. Marcel Gomez
+Environmental Consulting.
+
+info@marcelgomez.com
+The International EPD® System
+
+[] Yes
+No
+
+The EPD owner has the sole ownership, liability, and responsibility for this EPD. EPDs within the
+same product category, but from different programs may not be comparable. EPDs of construction
+products may not be comparable, if they do not comply with EN 15804. For further information
+about comparability, see European Standard EN 15804, and International Organization for
+Standardization ISO 14025.
+Ë:
+
+olcim
+
+2. COMPANY INFORMATION
+
+Owner of the EPD: Holcim (Costa Rica) SA
+
+Contact: Catalina Mora, catalina.morar@holcim.com
+
+2.1 Description of the organization
+
+Holcim (Costa Rica) S.A. has been in the
+country since 1964. It believes in building a
+world that works for both people and the
+planet. A world that allows people to live
+safely, connected, and promotes common
+welfare.
+
+Through the application of high standards
+(national and international) that guarantee a
+safe work environment "Zero Harm, the care
+of the environment helps develop policies for
+an inclusive and diverse workplace. That is
+why we are shaping the way we are moving
+forward, on our journey to become a “Net
+Zero” company.
+
+—— EPD
+
+On our way to becoming a “Net Zero”
+company, we are:
+
+e _Promoting sustainable construction
+
+e The first global building materials
+company to sign the United Nations
+Global Compact (UNGC) "Business
+Ambition for 1.5°C'initiative with goals
+
+e Working on a 2030 action plan verified
+by Science Based Targets initiatives
+(SBTi).
+
+As part of this ambition, Holcim Costa Rica is
+working with a strong focus on sustainability;
+we want to transform the way our Industry
+works, and encourages the construction
+sector to play a role in the most important
+problems of our planet e.g. Climate Change,
+Resources, Waste, etc. For this reason, our
+vision of sustainability for the year 2030 goes
+beyond the actions that a company must take
+to reduce its impact, and focuses on four
+areas:
+
+1) Protect the climate by reducing our Green
+House Gases (GHG) emissions.
+
+2) Conserve water resources and
+biodiversity.
+
+3) Adopt a Circular Economy model and
+optimization of resources.
+
+4) Improve the quality of life of our
+stakeholders and community.
+
+The main actions that have allowed us to
+reduce the environmental impact of our
+activities and the footprint of the product
+portfolio are:
+
+e The use of alternative fuels to replace
+the consumption of traditional fossil
+fuels used for the cement production
+process.
+Ë:
+
+olcim
+
+e Automation of the operation to
+guarantee the highest energy
+efficiency of the process.
+
+e Heat recoveryin the system toreduce
+the thermal consumption of the
+process.
+
+e Use ofadded minerals (pozzolana and
+limestone) to optimize the
+composition of the cement and
+improve its properties.
+
+e Improve cement performance, and
+increase its strength through the use
+of grinding additives.
+
+e  Comprehensive control of fuels and
+raw materials used in the production
+process to minimize the impact on
+emissions.
+
+e Use of continuous online monitoring
+of emissions with state-of-the-art
+equipment.
+
+e  Preventive and Corrective
+maintenance of equipment, such as
+bag filters and electro filters to
+reduce emissions of particulate
+matter.
+
+From the point of view of the construction
+cycle, having products with a lower carbon
+footprint, or with significant CO2 reductions
+contributes in mitigating the environmental
+impact generated by the sector and
+encourages changes in the traditional way of
+building.
+
+Holcim Costa Rica, is committed to the
+Sustainable Development Goals (SDG) and
+the national decarbonization strategy, and
+has put its efforts into making Environmental
+Product Declarations (EPD), which evaluate
+the global warming potential (GWP), among
+other environmental impacts, of materials of
+construction, based on the amount of energy
+required during the manufacturing process,
+
+—— EPD
+
+and the environmental impact of extracting or
+producing raw materials, and the fuel used for
+delivery of  finished products. These
+documents comply with international ISO
+standards and are recognized by certification
+schemes for sustainable construction, such as
+Leadership in Energy and Environmental
+Design (LEED) v4.
+
+The results presented in these EPDs will be
+used as information for decision-making by
+designers, developers, and builders, in the
+phases of design, specification, and selection
+of materials with a vision of environmental
+responsibility, and promotion of sustainable
+construction, with a focus in life cycle.
+
+2.2  Product-related or management
+system-related certifications
+
+Holcim’'s Cartago cement plant has an
+integrated management system certified
+according to ISO 9001:2015 “Quality
+Management”, and ISO 14001:2015
+“Environmental Management Standards”.
+Additionally, the organization's greenhouse
+gas emissions inventory is verified according
+to the requirements of the ISO 14064-1:2006
+“Green House Gases” standard, and the
+calculation of the Product Footprint for all
+Cements is carried out in compliance with the
+ISO 14067 “Green House Gases for Products”
+standard verified by a third-party certification
+body Instituto de Normas Tecnicas de Costa
+Rica (INTECO).
+
+2.3 Name and location of production
+sites
+
+The Holcim Cement Plant is in Agua Caliente
+de Cartago, Costa Rica.
+Ë:
+
+olcim
+
+3. PRODUCT INFORMATION
+
+3.1 Product Name
+
+Holcim Fuerte Cement. General purpose
+Hydraulic Cement
+
+3.2 Product identification
+Type MM/C (CP)-28 (RTCR 479: 2015)
+3.3 UN CPC Code
+
+Holcim Fuerte cement is classified in the CPC
+3744 category "Portland cement, aluminous
+cement, slag cement and similar hydraulic
+cements, except in the form of clinkers" under
+the UN CPC v2.1 classification system.’
+
+3.4 Product Description
+
+Holcim Fuerte cement is recommended for
+preparing general-purpose concretes, and
+mortars that do not require high initial
+strength. Its controlled Tricalcium Aluminate
+(C3A) content of no more than 8%, provides a
+moderate heat of hydration which favors the
+reduction of surface cracking due to
+shrinkage, when the curing parameters are
+adequately controlled.
+
+The inclusion of high-grade Holcim Limestone
+gives it better attributes in terms of plasticity
+in the fresh state of the mixtures, and reduces
+the water requirement to reach the desired
+workability parameters.
+
+Thttps://unstats.un.org/unsd/classifications/Econ/cpc
+
+—— EPD
+
+Presentation
+
+50 kg cement bags
+Bulk cement
+
+Recommended Uses
+
+Structural type concretes: beams,
+columns, foundations
+
+Stamps, slabs, sidewalks
+
+Repairs and remodeling
+
+Wall repels
+
+Cell fill concretes
+
+Production of masonry elements
+Ready-mix concrete
+
+Prepackaged dry mortars and
+concretes
+
+Injection grouts
+
+à
+
+olcim
+
+— EPD
+
+4. LIFE CYCLE ASSESSMENT (LCA) INFORMATION
+
+4.1  Declared Unit
+
+1 ton of cement, bulk or bagged
+
+4.2 Reference service life
+
+As cement is integrated as the main
+component of concrete and mortars, the
+reference service life of cement-based
+products is estimated to exceed 50 years, due
+to their components and design
+characteristics. Due to the potential for loss of
+its properties, when  exposed to
+environmental conditions of temperature and
+humidity, the recommended shelf life for
+cement is 45 days. It is recommended to
+maintain cement in adequate storage
+conditions, as indicated by the Portland
+Cement Association (PCA), and American
+Concrete Institute (ACI) [ACI chapter 2, and
+Chapter 304 section 2.3].
+
+4.3 Time representativeness
+
+The production data correspond to the period
+from January 1, 2020, to December 31, 2020.
+Other reference data correspond to the latest
+available version of Ecoinvent 3.6 Life Cycle
+Database.
+
+4.4  Database(s) and LCA software used
+
+Ecoinvent Database 3.6. Life Cycle Analysis
+model was developed using Global Cement
+and Concrete Association (GCCA) Industry
+
+EPD tool for cement and concrete (V3.0)
+software.
+
+4.5 Description of the system boundaries
+
+The scope of the LCA study covers the
+modules from Cradle to Gate (A1-A3), in
+accordance with the requirements of the PCR
+2019:14 "Construction Products", and the EN
+15804:2012+A2:2019 standard. Cement
+products meet the following characteristics:
+
+e The material is physically integrated with
+other products during its installation, in
+such a way that these cannot be
+physically separated at the end of their
+useful life.
+
+e The material is not identifiable at the end
+of its useful life because of a physical and
+chemical transformation process.
+
+e The material does not contain biogenic
+carbon.
+
+The analysis of the system includes all phases
+of the life cycle, from the extraction and
+supply of raw materials, the consumption of
+energy and materials, and the primary and
+secondary manufacturing processes (their
+inputs and outputs), to the finished and/or
+packaged product at the end of the
+manufacturing stage, as required by the
+"Cradle to Gate" option of the Reference PCR.
+The environmental impacts have been
+evaluated considering all the phases ofthe life
+cycle of the product in accordance with the
+rules listed in the PCR 2019:14.
+Le
+
+olcim
+
+= EPD'
+
+4.6 System Diagram
+
+4.7  Declared modules
+
+[=
+© to
+£ £ £
+S à | = £
+> & 5 | £ 5
+en & & © LE bo œ
+a 2 Ê & = £ =
+? _ = vo S o® ES a 8 £
+ro = 5 Ô c S | = 3 ë 8 8
+g + à = Ë S SANS NME Es SN MC à —
+& © e © 5 £ 5 EE 8  £ 3 © S | 3% œ ss
+£ & $S & 5 5 È 5 ne] œ œ = æ& 2 8 à €
+E e £ an = ] n œ © ü e] c n o a ©
+: 5 S S 5 SE 85 5 2 2 8 gs £ à à S
+œ = >= F O =) >= œ an œ [e] [e] [ai = = a x à
+Module A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+pes x x x ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+Geography CR CR CR = 5 5 = = = = = 5 = 5 = 5 =
+Specific > 90% : L : : : L : L : L : :
+data used
+Variation -
+te Not relevant 5 = = = = = 5 = 5 = 5 =
+Variation -
+sites Not relevant - - - - - - - - - - - -
+
+X: Declared module. ND: Not declared
+
+Product stage (A1-A3):
+
+A1 - Supply of raw materials (upstream
+process): includes raw materials (from the
+
+quarry), fuels, additions, and other inputs for
+the production activities.
+
+Primary and secondary raw materials
+Primary and secondary fuels
+
+Ë:
+
+olcim
+
+A2 - Transport of raw materials to the
+production site (main process): includes the
+processes of transport and supply of raw
+materials, fuels additives, and other inputs
+from local suppliers, and their place of origin,
+to the production plant.
+
+e Ground transportation
+e Maritime transport
+
+A3 - Clinker manufacturing (main process):
+includes limestone crushing, pre-
+homogenization, raw meal preparation and
+homogenization, pre-calcining, and clinker
+manufacturing processes in a rotary kiln, with
+cooling and storage.
+
+e Power consumption
+
+—— EPD
+
+e Primary fuels
+
+e Secondary fuels
+
+e Transportation fuels
+
+e Industrial water
+
+e Hazardous and non-hazardous waste
+
+A3 - Cement Production: begins with the
+preparation of raw materials, grinding
+cement, packaging, and storage for dispatch.
+
+e Power consumption
+
+e Primary fuels
+
+e Transportation fuels
+e _Non-hazardous waste
+e  Additives
+
+e Packing materials
+
+Process flow diagram, Cement manufacturing — LCA phases
+
+D
+
+Raw material
+quarrying
+
+\
+
+j==r
+
+aw meal :
+grinding | Preheating
+
+LIENS TI
+
+cement
+dispatch
+
+dors Clinker
+production
+
+Cement “1 Bulk cement
+grinding dispatch
+
+Al A2
+
+4.8  Otherinformation
+4.8.1 Assumptions
+
+e Transportation of raw materials: The data
+reported for the transportation of raw
+materials and other supplies, are
+estimates of distances traveled for supply
+from the producer or distributor facilities.
+Additionally, land and maritime transport
+distances have been considered for
+materials produced outside the national
+territory. Travel and return distances
+were considered for land transport by
+road.
+
+A3
+
+e Transportation of primary fuels: À generic
+maritime transportation scenario is
+assumed from the Gulf Coast in the US to
+Costa Rica, according to the annual report
+of the national fuel distributor (RECOPE).
+
+e Carbon emissions: Based on the
+methodology of the CO: and energy
+Protocol of the Global Cement and
+Concrete Association (GCCA) and through
+stoichiometric calculations, the annual
+calcination factor is determined in kg
+CO)/ton clinker. The determination of
+emissions of primary and secondary fuels
+
+10
+Ë:
+
+4.8.
+
+4.8.
+
+olcim
+
+is carried out based on the COe emission
+factors determined by the GCCA protocol
+and tool, in kg CO; / MI.
+
+The electricity matrix was calculated with
+data from the Costa Rica Energy Control
+Center for year 2020, according to the
+distribution presented in the table below.
+
+Primary energy source %
+
+Thermal 0.22
+Biomass (bagasse) 0.53
+Water 69.52
+Geothermal 15.33
+Solar 0.080
+Wind 13.24
+Imported 1.08
+
+2 Cutting rules
+
+The data collected covers all raw
+materials,  supplies and packaging
+materials; associated transportation to
+the manufacturing site; processes with
+energy consumption and water use;
+waste from the production phase and
+emissions to air and water.
+
+According to EN 15804 and the reference
+PCR, flows can be omitted (cut off) from a
+central process in the LCA up to a
+maximum of 1% of the total mass of
+material inputs or 1% of the total energy
+content of fuels and energy.
+
+3 Data quality
+
+Al data was recorded daily, via
+production lots records. Weekly, monthly
+and annual reports were implemented as
+part of the operational and financial
+control. AÏl data was obtained directly
+from the company for operational year
+2020.
+
+—— EPD
+
+Consumption of raw materials, and
+energy were recorded using automated
+equipment and processes, mainly under
+metrological control.
+
+The calorific value data of the fuels used
+were recorded by means of laboratory
+analysis, in accordance with international
+standards of American Society for Testing
+and Materials (ASTM), and the use of
+equipment under metrological control.
+
+In general, the activity data was obtained
+from complete records of annual
+production; the data in such records was
+derived using reliable equipment, typical
+of a single production site, with a
+temporal correlation between 1 and 10
+years with respect to the sets of the
+database, and with a local geographic
+correlation vs representative sets of a
+larger area, and with an equal or similar
+technological correlation, with respect to
+the database flows.
+
+The company has an integrated
+management system, developed
+according to the standards INTE / ISO
+9001:2015, INTE / ISO 14001:2015, INTE /
+ISO 14064-1:2019 and INTE B5:2016,
+certified by the Institute of Technical
+Standards of Costa Rica. All certifications
+ensure a process approach, together with
+their measurement and monitoring,
+through quality and environmental
+performance indicators, audited
+internally and externally on an annual
+basis.
+
+To ensure the conformity of the product,
+the quality control laboratory is
+accredited under the INTE/ISO
+17025:2017 standard, and works
+following the standard and technical
+regulation of RTCR-479:2015.
+Additionally, the carbon footprint of the
+
+11
+Ë:
+
+olcim
+
+products is determined and certified
+under the INTE/ISO 14067:2019 standard.
+
+4.8.4 Allocation rules
+
+Whenever possible, allocation was
+avoided. The production was divided into
+two main processes, Clinker and Cement,
+and the input and output data related to
+each one was collected. In some cases,
+the data could not be directly attributed
+to the production of the specific product,
+so they were assigned by physical
+properties (i.e., mass).
+
+All raw material consumption is based on
+a specific product formulation, and data is
+recorded for each product under the
+company's quality control system,
+including all inputs for the production
+process (e.g. additives).
+
+The allocation of electrical energy
+consumption for each cement product
+was calculated from the internal records
+measured by independent process
+meters, for the manufacturing of each
+product.
+
+For common consumptions, such as
+water consumption, as well as common
+production outputs, such as furnace
+emissions and solid waste generation, a
+total allocation was made based on the
+
+4.8.5
+
+— EPD
+
+total annual production of clinker, this
+being the main raw material of cement.
+
+The allocation of the packaging paper was
+made by subtracting the weight of the
+products sold in bulk, since only the
+product in bags needs packaging.
+
+Impact assessment methods
+
+The characterization methods meet the
+specifications of the EN
+15804:2012+A2:2019 standard, including
+IPCC (EF), WMO, ReCiPe, CML, AWARE,
+
+SETAC-UNEP, USEtox, LANCA, among
+others.
+4.8.6 Information excluded
+
+4.8.7  ACV developer:
+
+The environmental impact of
+infrastructure, construction, production
+equipment and tools that are not directly
+consumed in the production process are
+not accounted for in the LCA.
+
+Impacts related to personnel, such as
+
+transportation to and from work, are also
+not accounted for in the LCA.
+
+BICMATEC
+
+The Life Cycle Analysis (LCA) report was
+carried out by BIOMATECH Engineering
+Ltd, for Holcim (Costa Rica) S.A.
+
+12
+Colin "— EPD
+
+5. CONTENT INFORMATION
+
+Clinker Portland 45.0% - 64.0% 0.43% 0.00%
+Mineral additions
+(limestone and 36.0% - 55.0% 0.00% 0.00%
+pozzolana)
+Others 0.00% - 5.00% 0.00% 0.00%
+TOTAL 100% 0.19% - 0.27% 0.00%
+| Packimgmaterals  Wekhikg  Weight-% (versus product ton)
+Wooden pallet 12.5 1.25%
+Kraft paper 2.30 0.23%
+TOTAL 14.8 1.48%
+
+Declaration of dangerous substances: Declared products contain less than 0.1% or no hazardous
+substance, from the “Candidate list of Substances of Very High Concern”, updated 07/08/2021. AI
+cement products declared here comply with the REACH Regulation (CE) No. 1907/2006, regarding
+the registration, evaluation, authorization and restriction of chemical substances.
+
+13
+6. ENVIRONMENTAL INFORMATION, FUERTE CEMENT, BULK
+
+Results are reported separately for 1 metric ton of Fuerte cement, bulk presentation.
+
+6.1  Potential Environmental Impact per Declared Unit
+
+OO PARAMETER UN Al*A2+A3{bul)
+
+GWP - total
+GWP - fossil
+GWP - biogenic
+GWPP - luluc
+ODP
+AP
+EP - freshwater?
+EP - freshwater?
+EP - marine
+EP - terrestrial
+POCP
+ADP - minerals & metals?
+ADP - fossil?
+WDP?
+
+Acronyms
+
+Disclaimer:
+
+kg CO: eq. 5.77E+02
+kg CO: eq. 5.77E+02
+kg CO: eq. 7.89E-02
+kg CO: eq. 1.44E-01
+kg CFC 11 eq. 9.04E-06
+mol H° eq. 1.05E+00
+kg PO4* eq. 2.07E-02
+kg P eq. 6.74E-03
+kg N eq. 5.21E-04
+mol N eq. 4.36E+00
+kg NMVOC eq. 1.08E+00
+kg Sb eq. 9.72E-05
+MJ 7.66E+02
+
+m° 3.09E+01
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential
+biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP =
+Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated
+Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching
+freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients
+reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated
+Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals =
+Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion for fossil
+resources potential; WDP = Water (user) deprivation potential, deprivation-weighted water
+consumption
+
+2 The results of this environmental impact indicator should be used with care as the uncertainties in these results are high an d experience
+
+with this parameter is limited.
+
+14
+Ë:
+
+olcim
+
+6.2 Use of Resources
+
+— EPD
+
+PERE
+PERM
+PERT
+PENRE
+PENRM
+PENRT
+SM
+RSF
+NRSF
+
+Acronyms
+
+6.3  Waste Production
+
+M) 6.61E+02
+M) 0.00E+00
+M) 6.61E+02
+M) 8.29E+02
+M) 0.00E+00
+M) 8.29E+02
+kg 4.36E+00
+M) 0.00E+00
+M) 1.35E+03
+m° 7.74E-01
+
+PERE = Use of renewable primary energy excluding renewable primary energy resources used
+as raw materials; PERM = Use of renewable primary energy resources used as raw materials;
+PERT = Total use of renewable primary energy resources; PENRE = Use of non-renewable
+primary energy excluding non-renewable primary energy resources used as raw materials;
+PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT =
+Total use of non-renewable primary energy re-sources; SM = Use of secondary material; RSF
+= Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use
+of net fresh water
+
+HWD
+NHWD
+RWD
+
+Acronyms
+
+6.4 Output Flows
+
+kg 0.00E+00
+kg 2.60E-02
+kg 0.00E+00
+
+HWD: Hazardous waste disposed, NHWD: Non-hazardous waste disposed, RWD: Radioactive
+waste disposed.
+
+CRU
+
+MFR
+
+MER
+EE
+
+Acronyms
+
+kg 3.10E-03
+kg 9.16E-02
+kg 9.53E-02
+M) 0.00E+00
+
+CRU: Components for reuse, MFR: Materials for recycling, MER: Materials for energy
+recovery, EEE: Exported energy.
+Colin "— EPD
+
+6.5  Potential Environmental Impact - Additional Indicators
+
+cc kg CO; eq. 3.39E+02
+CWRS kg CO; eq. 0.00E+00
+CWNRS kg CO: eq. 4.98E+01
+CC: emissions from calcination and removals by carbonation; CWRS: emissions from
+Acronyms combustion of waste from renewable sources; CWNRS: emissions from combustion of waste
+
+from non-renewable sources
+
+6.6 Information on Biogenic Carbon Content
+
+Biogenic carbon content in the product kg C 0.00
+Biogenic carbon content in packaging kg C 0.00
+Note: 1 kg of biogenic carbon is equivalent to 44/12 kg CO.
+
+16
+7. ENVIRONMENTAL INFORMATION, FUERTE CEMENT, BAGGED
+Results are reported separately for 1 metric ton of Fuerte cement, bagged presentation.
+
+7.1  Potential Environmental Impact per Declared Unit
+
+GWP - total kg CO eq. 5.85E+02
+GWP - fossil kg CO: eq. 5.84E+02
+GWP - biogenic kg CO; eq. 1.10E-01
+GWP - luluc kg CO: eq. 1.92E-01
+ODP kg CFC 11 eq. 9.80E-06
+
+AP mol H* eq. 1.10E+00
+
+EP - freshwater® kg PO4” eq. 2.93E-02
+EP - freshwater” kg P eq. 9.56E-03
+EP - marine kg N eq. 9.43E-04
+EP - terrestrial mol N eq. 4.48E+00
+POCP kg NMVOC eq. 1.13E+00
+
+ADP - minerals & metals’ kg Sb eq. 1.30E-04
+ADP - fossil MI 8.74E+02
+WDP* m° 3.73E+01
+
+GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic = Global Warming Potential
+biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP =
+Depletion potential of the stratospheric ozone layer; AP = Acidification potential,
+Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients
+reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of
+nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential,
+Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-
+minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic
+depletion for fossil resources potential; WDP = Water (user) deprivation potential,
+deprivation-weighted water consumption
+
+Acronyms
+
+Disclaimer:
+3 The results of this environmental impact indicator should be used with care as the uncertainties in these results are high and experience
+with this parameter is limited.
+
+17
+Ë:
+
+olcim
+
+7.2 Use of Resources
+
+— EPD
+
+PERE
+PERM
+PERT
+PENRE
+PENRM
+PENRT
+SM
+RSF
+NRSF
+
+Acronyms
+
+7.3  Waste Production
+
+M) 8.09E+02
+M) 2.52E+02
+M) 1.06E+03
+M) 9,55E+02
+M) 0.00E+00
+M) 9,55E+02
+kg 4.36E+00
+M) 0.00E+00
+M) 1.35E+03
+m° 9.44E-01
+
+PERE = Use of renewable primary energy excluding renewable primary energy resources used
+as raw materials; PERM = Use of renewable primary energy resources used as raw materials;
+PERT = Total use of renewable primary energy resources; PENRE = Use of non-renewable
+primary energy excluding non-renewable primary energy resources used as raw materials;
+PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT =
+Total use of non-renewable primary energy re-sources; SM = Use of secondary material; RSF
+= Use of renewable secondary fuels; NRSF = Use of non-renewable secondary fuels; FW = Use
+of net fresh water
+
+HWD
+NHWD
+RWD
+
+Acronyms
+
+7.4 Output Flows
+
+kg 0.00E+00
+kg 2.60E-02
+kg 0.00E+00
+
+HWD: Hazardous waste disposed, NHWD: Non-hazardous waste disposed, RWD: Radioactive
+waste disposed.
+
+CRU
+
+MFR
+
+MER
+EE
+
+Acronyms
+
+kg 3.10E-03
+kg 1.38E-01
+kg 9.63E-02
+M) 0.00E+00
+
+CRU: Components for reuse, MFR: Materials for recycling, MER: Materials for energy
+recovery, EEE: Exported energy.
+Colin EPD'
+
+7.5  Potential Environmental Impact - Additional Indicators
+
+CC kg CO; eq. 3.39E+02
+CWRS kg CO; eq. 0.00E+00
+CWNRS kg CO: eq. 4.98E+01
+CC: emissions from calcination and removals by carbonation; CWRS: emissions from
+Acronyms combustion of waste from renewable sources; CWNRS: emissions from combustion of waste
+
+from non-renewable sources
+
+7.6 Information on Biogenic Carbon Content
+
+Biogenic carbon content in the product kg C 0.00
+Biogenic carbon content in packaging kg C 5.78
+Note: 1 kg of biogenic carbon is equivalent to 44/12 kg CO.
+
+19
+Ë:
+
+olcim
+
+8. RESULTS ANALYSIS
+
+Environmental declarations for products
+within the same product category from
+different programs may not be comparable.
+Likewise, the results of this Environmental
+Declaration for construction products may
+not be comparable with other EPDs, if they do
+not comply with the EN 15804:2012+A2: 2019
+standard.
+
+The following interpretation of the results is
+representative of the average for one ton of
+Holcim Fuerte cement.
+
+In general, the environmental impact
+potentials, and their indicators are dominated
+by the Clinker manufacturing stage (main
+cement raw material) followed by the
+extraction and transportation of raw
+
+—— EPD
+
+materials, also including fuels for the
+manufacturing stage.
+
+The results obtained by Holcim Costa Rica for
+each of the impact categories and their
+associated indicators for the production of
+Holcim Fuerte cement (bagged) are presented
+below.
+
+The graphs for the bulk presentation are not
+shown due to the similarity of the
+distributions of the impact categories with
+those of bagged presentation.
+
+Whenever it is appropriate, the impact of the
+packaging materials corresponding to the
+bagged presentation will be addressed in the
+following discussion.
+
+8.1 Contribution of the declared modules to the Environmental Impact Indicators
+
+Potential environmental impact
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+©
+
+BA1-A3 | Materials B A1-A3 | Manufacturing
+
+B A1-A3 | Transport A1-A3 | Waste management
+
+20
+Ë:
+
+olcim
+
+Carbon dioxide and methane emissions
+from the use of energy resources,
+electricity and fuels, are the main source
+of contribution in the  clinker
+manufacturing process to the Global
+Warming Potential (GWP) indicators, with
+the GWP-fossil indicator representing the
+most important with respect to the total
+registered  (>99%). Through the
+optimization of the Clinker factor in the
+cement formulation the impact potential
+is reduced.
+
+The Acidification Potential (AP), Ozone
+Depletion Potential (ODP) and
+Eutrophication Potential (EP) indicators
+are mainly associated with emissions into
+the atmosphere from the clinker
+manufacturing process,  specifically
+emissions of nitrogen oxides, sulfur
+oxides and volatile organic compounds
+being the most significant contribution.
+The cement plant has technology in its
+clinker kiln, and in the pre-calcining tower
+that allows it to operate with high
+environmental standards, thus reducing
+its NO, and SO; emissions. This condition,
+with the company's efforts to analyze and
+control the composition of its raw
+materials and fuels, continuously control
+atmospheric emissions. The reduction of
+consumption of traditional fossil fuels by
+substitution with alternative fuels, are
+reflected in the  aforementioned
+indicators.
+
+—— EPD
+
+The influence of transport in the
+manufacture of clinker is mainly caused
+by the transport of domestic raw
+materials and the transport of imported
+fuels, with the ODP, EP, Abiotic Depletion
+Potential for non-fossil resources (ADPE)
+and Abiotic Depletion for fossil resource
+Potential (ADPF) indicators being those
+where the contribution exceeds 20% of
+the magnitude of the results. In the case
+of cement production, the impact from
+the transport of raw materials and fuels is
+of less significance, not exceeding 10% of
+the results obtained for each indicator. To
+a lesser extent, the contribution of the
+extraction phase of raw materials in the
+manufacture of Clinker of <10% is
+identified.
+
+The results from the ADPF indicator show
+that the production processes are
+characterized by the lower demand for
+fossil resources, due to the national
+electricity matrix, primarily based on
+renewable sources, as well as the high
+substitution of traditional fossil fuels for
+alternative ones.
+
+The Water Deprivation Potential (WDP)
+indicator shows a lower impact regarding
+water consumption. This is because ofthe
+local conditions of high availability of
+water resources, and the efficient use of
+water through a closed recirculation
+system in the manufacturing operation.
+
+21
+4
+
+8.2
+
+Holcim
+
+—— EPD
+
+Contribution of the declared modules to the indicators of Use of Resources
+
+Use of resources
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+PERE PERM  PERT PENRE PENRM PENRT NRSF
+
+HA1-A3 | Materials
+
+B A1-A3 | Transport
+
+The results of the resource use indicators
+of the Fuerte cement production process
+show that the greatest source of impacts
+is the supply and manufacture of raw
+materials (clinker), which represents the
+main consumption of renewable primary
+energy resources (national electricity
+matrix) of >70% of Total Use of
+Renewable Primary Energy Resource
+(PERT), as well as the main consumption
+of  non-renewable primary energy
+resources (fossil fuels) of > 90% of Non-
+Renewable Primary Energy Resource
+(PERNT).
+
+The results from the Use of Renewable
+Primary Energy excluding Primary Energy
+Resources used as raw material (PERE)
+indicator come from the use electricity
+from the of highly renewable national
+energy matrix, in contrast with other
+countries from the region.
+
+For the cement results, the indicator of
+Use of renewable Primary Energy
+resources used as Raw Materials (PERM),
+is determined by the materials for
+packaging and dispatch that include wood
+
+M A1-A3 | Manufacturing
+
+A1-A3 | Waste management
+
+on pallets and paper in packaging bags.
+
+The use of alternative fossil fuels from
+pre-classified municipal and industrial
+solid waste, one of the company's key
+impact mitigation strategies, determines
+the contribution to the Non-Renewable
+Secondary Fuel Use Indicator (NRSF). The
+result of this strategy stands out in the
+reduction of the PERNT indicator in
+exchange for a wide increase of the NRSF.
+
+The Secondary Materials (SM) indicator is
+defined by the recovery and use of iron
+oxide waste (industrial origin) and glass
+waste  (post-consumer origin and
+industry), which contributes to reducing
+the demand for primary renewable
+resources in the clinker manufacturing
+and is proportionally reflected in the
+cement result.
+
+The use of fresh water, Net Use of Fresh
+Water (NFW), originates mainly from the
+direct consumption of the operation,
+which has a recirculation process to
+supply the multiple cooling systems, and
+thus, significantly reduce the local impact.
+
+22
+Ë:
+
+8.3
+
+olcim
+
+—— EPD
+
+Contribution of the declared modules to the Waste Flow Indicators
+
+Waste production
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+HWD
+
+HA1-A3 | Materials
+
+B A1-A3 | Transport
+
+The Hazardous Waste Disposed (HWD)
+indicator does not present results
+according to the inventory of waste from
+the production process. This is because
+hazardous waste is managed internally as
+alternative fuels in the clinker Kiln, soit is
+not recorded as a landfill or incineration
+output.
+
+NHWD
+
+RWD
+
+M A1-A3 | Manufacturing
+
+A1-A3 | Waste management
+
+The Non-Hazardous Waste Disposed
+(NHWD) indicator is determined from the
+mixture of ordinary and non-hazardous
+industrial waste that is managed in a local
+sanitary landfilll The company has
+reduced the result of this indicator by
+implementing good internal practices for
+the classification and separation of waste
+to be used for reuse, recycling and energy
+recovery as presented below.
+
+23
+Ë:
+
+olcim
+
+—— EPD
+
+8.4 Contribution of the declared modules to the Output Flow Indicators
+
+Output flows
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+CRU MFR
+
+HA1-A3 | Materials
+
+B A1-A3 | Transport
+
+The Components for Re-Use (CRU)
+indicator is defined by the generation and
+separation of waste from the clinker
+manufacturing stage, while Materials for
+Recycling (MFR) considers scrap metal
+and other recyclable industrial waste
+generated on site and shows the recovery
+of pallets for subsequent reuse outside
+the production system. It is highlighted
+that waste treatment through recycling
+exceeds the NHWD indicator by 350% for
+bulk presentation and more than 500%
+for packaged presentation.
+
+MER EE
+
+M A1-A3 | Manufacturing
+
+A1-A3 | Waste management
+
+The separation of energy recoverable
+waste, which is incorporated as
+alternative fuels in the Clinker kiln, is
+highlighted through the Materials for
+energy recovery (MER) indicator, which
+represents more than 350% of the result
+of the NHWD indicator, this being one of
+the good practices of the company.
+
+24
+Colin “— EPD
+
+8.5 Contribution of the declared modules to the additional indicators
+
+Extra indicators
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+CC CWRS CWNRS
+HA1-A3 | Materials M A1-A3 | Manufacturing
+B A1-A3 | Transport A1-A3 | Waste management
+
+e The resulting indicators show that the e The Emissions from Combustion of Waste
+contribution of CO; emissions from from  Renewable Sources  (CWRS)
+calcination has been significantly indicator does not present results as
+reduced, which is explained by benefit there are no tools or references to
+from the formulation with a low clinker determine the calculation of biogenic
+content. content in waste managed as an
+
+alternative secondary fuel.
+
+e The results also show an important use of
+
+waste as an alternative fuel, such thatthe
+
+carbon emissions from non-renewable
+
+waste sources, Emissions from
+
+Combustion of Waste from Non-
+
+Renewable Sources (CWNRS), represent
+
+almost 15% of the emissions from
+
+calcination.
+
+25
+9. ADDITIONAL INFORMATION
+
+9.1 Origin of Raw Materials
+
+The supply of the main raw materials for the
+production of cement is carried out through
+the extraction of materials in our quarries.
+The limestoneis extracted in Agua Caliente de
+Cartago, Costa Rica where our cement
+production plant is located, while the
+Pozzolana is extracted in Llano Grande de
+Cartago, Costa Rica, and the high-grade
+limestone in Azul de Turrialba, Costa Rica, at
+17 km and 45 km from our production plant,
+respectively, which contributes to the
+reduction of the environmental impacts
+related to the transportation of raw materials.
+The material extracted from these sites
+represents 94% of the raw materials
+consumed. This feature contributes to the
+calculation of the credit value Materials and
+Resources category of the LEED v4 and v4.1.
+
+9.2 Air Emissions - VOC
+
+The Low-Emitting Materials Credit” in LEED v4
+and v4.1 recognizes that plain concrete is an
+inherently non-emitting material, and no
+Volatile Organic Compounds (VOC) emission
+testing is required. Therefore, since cement is
+the basic component of concrete, it is also
+considered an inherentlÿy non-emitting
+source. To maintain this condition, without
+any testing for VOC emissions, it must be
+ensured that the concrete application does
+not include integral organic based surface
+coatings, binders or sealers.
+
+10. DIFFERENCES COMPARED TO PREVIOUS VERSIONS OF THE EPD
+
+e  Thisis the first version of the Holcim Fuerte Cement EPD by Holcim Costa Rica.
+
+#https://www.usgbc.org/credits/schools-new-
+construction-healthcare/v4/eq112
+
+26
+Colin “— EPD
+
+11. REFERENCES
+
+e PCR 2019:14. Construction Products, version 1.11.
+
+e C-PCR-001 to PCR 2019: 14. Cement and building lime, version 2019-12-20
+
+e EN 15804: 2012 + A2: 2019. Sustainability of construction works - Environmental product
+declarations - Core rules for the product category of construction products.
+
+e  GCCA. Industry EPD Tool for Cement and Concrete - LCA Model, International version.
+Version 3.0. Quantis Intl for Global Cement and Concrete Association (GCCA). 2020
+
+e General Programme Instructions of the International EPD® System. Version 4.0.
+
+e Costa Rican Electricity Institute. (2021). Annual Reports. Retrieved from Centro Nacional de
+Control de Energia:
+https://apps.grupoice.com/CenceWeb/CenceDescargaArchivos.jsf?init=true&categoria=3
+&codigoTipoArchivo=3008
+
+e ISO 14025: 2006. Environmental labels and declarations - Type Ill environmental
+declarations - Principles and procedures.
+
+e ISO 14040: 2008 - "Environmental management - Life cycle assessment - Principles and
+
+framework.
+
+e ISO 14044: 2008 - "Environmental management - Life cycle assessment - Requirements and
+guidelines".
+
+e LCA Report for Cement Products by Holcim Costa Rica. Biomatech Engineering Ltd. Costa
+Rica. 2021.
+
+Le
+
+ve
+
+5 à
+Qu
+4
+
+1
+5
+À
+
+ -
+
