@@ -1,0 +1,75 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "address": "Av. Prolongación Vasco de Quiroga #4800 Torre II Ofic. 101 Piso 1, Santa Fe Cuajimalpa de Morelos, Ciudad de México, México",
+    "website": "www.holcim.com.mx",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_website": "www.labelingsustainability.com",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "sub_pcr_program_operator": "NSF International",
+    "epd_verification": "Independent verification of the declaration, according to ISO 14025:2006",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 23 July 2028",
+    "epd_number": "eba3739f-f6e4-404f-b367-4d2170d4cdf4"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Cancun II facility in Benito Juarez, Q. Roo., México",
+    "product_scope": "33 concrete mixes manufactured at the Holcim Mexico Operaciones S.A. de C.V. Cancun II concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent V3.8 database and a local EPD database in combination with primary data from Holcim México Operaciones S.A. de C.V.",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "impact_categories": [
+      "Global Warming Potential (GWP)",
+      "Ozone Depletion Potential (ODP)",
+      "Acidification Potential (AP)",
+      "Eutrophication Potential (EP)",
+      "Photochemical Ozone Creation Potential (PCOP)",
+      "Abiotic Depletion Potential for fossil resources (ADPf)",
+      "Abiotic Depletion Potential for elements (ADPe)"
+    ],
+    "inventory_metrics": [
+      "Total Primary Energy (TPE)",
+      "Renewable Energy (RE)",
+      "Non-Renewable Energy (NRE)",
+      "Water Depletion (WD)",
+      "Consumption of Freshwater (CFW)",
+      "Hazardous Waste (HW)",
+      "Non-Hazardous Waste (NHW)"
+    ]
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

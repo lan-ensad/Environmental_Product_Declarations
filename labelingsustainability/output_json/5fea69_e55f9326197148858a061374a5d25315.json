@@ -1,0 +1,56 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "d54ab211-f660-4760-9a77-f58ea43d82ab",
+    "date_of_issue": "14 December 2022",
+    "period_of_validity": "5 years; valid until 14 December 2027",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Pascuales facility, Guayaquil, Ecuador",
+    "product_scope": "15 concrete mixes"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of total inflows included",
+    "data_sources": "Combination of primary data from Holcim and ecoinvent v3.8",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "representativeness": "Data from 2021, region-specific"
+    }
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks reported from Holcim records for 2021"
+  },
+  "end_of_life": {
+    "included_stages": "Not included in this LCA"
+  },
+  "carbon_emission_context": {
+    "gwp_minimum": "260 kg CO2-eq",
+    "gwp_maximum": "389 kg CO2-eq",
+    "gwp_mean": "308 kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2021"
+  },
+  "additional_info": {
+    "limitations": "EPD does not support definitive comparisons of environmental performance",
+    "total_impact_summary": "Provided for each product on a per 1m3 of concrete basis",
+    "references": {
+      "astm_standards": "Various ASTM standards listed",
+      "csa_standards": "Various CSA standards listed",
+      "iso_standards": "Various ISO standards listed",
+      "en_standards": "EN 16757, EN 15804",
+      "other_references": "US EPA, ACI, NSF International"
+    }
+  }
+}

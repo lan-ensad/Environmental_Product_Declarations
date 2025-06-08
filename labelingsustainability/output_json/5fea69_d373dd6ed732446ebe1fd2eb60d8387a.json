@@ -1,0 +1,69 @@
+{
+  "epd_metadata": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "address": "Anillo Perif. Nte., San Juan de Ocotán, Zapopan, Jalisco, Mexico",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "11670 W Sunset Blvd., Los Angeles, CA",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "06 October 2021",
+    "period_of_validity": "5 years; valid until 06 October 2026",
+    "epd_number": "F9453a97-6301-41fb-a455-f4be7aedf8a8"
+  },
+  "product_description": {
+    "company_description": "Holcim Mexico produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "product_scope": "This EPD covers ready mix concrete products produced by Holcim México Operaciones, S.A. de C.V. at their Zapopan (KZAZ) Concrete Plant facility.",
+    "product_design_summary": [
+      {
+        "mix_name": "CLASICO 250- Mexcla 1",
+        "short_description": "24.5 MPa 28d strength ready mix concrete.",
+        "product_type": "Ready Mix",
+        "28_day_strength_mpa": 24.533857,
+        "h2o_to_cement_ratio": 10766488,
+        "uuid": "a214396c-6633-4efs-85bd-c4fe6771bd85"
+      },
+      {
+        "mix_name": "ESTRUCTO 350- Mezcla 1",
+        "short_description": "34.3 MPa 28d strength ready mix concrete.",
+        "product_type": "Ready Mix",
+        "28_day_strength_mpa": 34.347399,
+        "h2o_to_cement_ratio": 0.7536558,
+        "uuid": "12940017-80e8-4493-816c-46167c120578"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "ISO 14044:2006 requires the LCA model to contain a minimum of 95% of the total inflows (mass and energy).",
+    "data_sources_and_quality": "Primary data from Holcim México Operaciones, S.A. de C.V. for the year 2020. Background data from ecoinvent v3.6."
+  },
+  "transport_and_installation": {
+    "raw_material_transport": "A combination of actual mode/distance combinations were assumed for key bulk materials.",
+    "electricity": "Electricity generation and consumption values were based on monthly utility bills."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": 310,
+      "maximum": 4106,
+      "mean": 360,
+      "median": 367
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "cement": {
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site."
+  }
+}

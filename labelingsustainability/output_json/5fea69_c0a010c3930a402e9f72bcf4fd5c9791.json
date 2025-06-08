@@ -1,0 +1,109 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "b56ed3e8-4dc7-4f8c-8f95-80ee422238d7",
+    "date_of_issue": "16 January 2023",
+    "period_of_validity": "5 years; valid until 16 January 2028",
+    "independent_verification": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Planta Quevedo, Quevedo, Ecuador",
+    "product_types": [
+      {
+        "mix_id": "10044297",
+        "strength_mpa": 34.32,
+        "water_cement_ratio": 0.41
+      },
+      {
+        "mix_id": "10016134",
+        "strength_mpa": 20.6,
+        "water_cement_ratio": 0.58
+      },
+      {
+        "mix_id": "10046044",
+        "strength_mpa": 34.32,
+        "water_cement_ratio": 0.41
+      },
+      {
+        "mix_id": "10044281",
+        "strength_mpa": 23.53,
+        "water_cement_ratio": 0.54
+      },
+      {
+        "mix_id": "10016142",
+        "strength_mpa": 27.45,
+        "water_cement_ratio": 0.48
+      },
+      {
+        "mix_id": "10044278",
+        "strength_mpa": 17.65,
+        "water_cement_ratio": 0.63
+      },
+      {
+        "mix_id": "10072382",
+        "strength_mpa": 20.6,
+        "water_cement_ratio": 0.58
+      },
+      {
+        "mix_id": "10045716",
+        "strength_mpa": 23.53,
+        "water_cement_ratio": 0.56
+      },
+      {
+        "mix_id": "10016132",
+        "strength_mpa": 27.45,
+        "water_cement_ratio": 0.49
+      },
+      {
+        "mix_id": "10044295",
+        "strength_mpa": 29.42,
+        "water_cement_ratio": 0.47
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of total inflows included; 1% cut-off for renewable and non-renewable primary energy consumption."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is direct primary information reported from Holcim records for the year 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp": {
+      "minimum": 258,
+      "maximum": 381,
+      "mean": 309,
+      "unit": "kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "limitations": "This EPD does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

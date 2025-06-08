@@ -1,0 +1,66 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Nicaragua",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "d4083c49-f268-4168-b679-bcc460a0954e",
+    "date_of_issue": "04 August 2023",
+    "period_of_validity": "5 years; valid until 03 August 2028",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Chinandega, Nicaragua",
+    "product_scope": "61 concrete mixes manufactured at the KM15 Holcim Nicaragua concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent v3.8 database and a local EPD database",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "98.3 kg CO2-Eq",
+      "maximum": "420 kg CO2-Eq",
+      "mean": "324.3 kg CO2-Eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "cement": "0%",
+      "water": "0%",
+      "gravel": "0%",
+      "river_sand": "0%",
+      "additives": "0%"
+    },
+    "material_losses": {
+      "cement": "0%",
+      "water": "5%",
+      "gravel": "0%",
+      "river_sand": "5%",
+      "additives": "5%"
+    }
+  },
+  "additional_info": {
+    "company_description": "Holcim (Nicaragua) SA was born in 1997 as a result of the union of a group of distinguished Nicaraguan investors and Holcim Ltd.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "co5fdo41-cobe-4bd6-b817-8c6ed291ae0a",
+    "date_of_issue": "10 January 2023",
+    "period_of_validity": "5 years; valid until 10 January 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Nicaragua",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Sonsonate, El Salvador",
+    "product_scope": "149 concrete mixes manufactured at the Holcim El Salvador concrete facility in Acajutla, El Salvador"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database and a local EPD database in combination with primary data from Holcim El Salvador",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are judged based on ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by the mixing trucks is direct primary information reported from Holcim El Salvador records for the year 2021."
+  },
+  "end_of_life": {
+    "end_of_life_stages": "Not included in this LCA. Excluded stages include transportation of the manufactured material to the construction site; on-site construction processes and components; building (infrastructure) use and maintenance; and 'end-of-life' effects."
+  },
+  "carbon_emission_context": {
+    "environmental_indicators": "TRACI impact categories were utilized as they provide a North American context for the mandatory category indicators to be included in the EPD."
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "The amount of returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

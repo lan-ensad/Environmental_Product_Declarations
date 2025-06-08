@@ -1,0 +1,49 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "a84d4930-189c-4d01-9ffb-a6695ad7be67",
+    "date_of_issue": "29 July 2023",
+    "period_of_validity": "5 years; valid until 29 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Xalostoc facility in Ecatepec, Estado de México",
+    "product_scope": "59 concrete mixes manufactured"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent V3.8 database, Holcim México primary data",
+    "cut_off_criteria": "Minimum of 95% of total inflows included"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "impact_assessment_method": "US EPA TRACI",
+    "global_warming_potential": "Varies by mix design, e.g., 88.2 kg CO2-eq for 37.40NB2012"
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "Returned concrete based on Holcim primary data for 2022"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

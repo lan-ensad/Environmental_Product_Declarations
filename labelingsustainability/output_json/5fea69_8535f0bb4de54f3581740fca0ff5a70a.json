@@ -1,0 +1,71 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "75c165fa-56c1-40cc-8b7b-1a207dd50bf6",
+    "date_of_issue": "10 January 2023",
+    "period_of_validity": "5 years; valid until 10 January 2028",
+    "independent_verification": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Machala, El Cambio, Ecuador",
+    "product_scope": "14 concrete mixes manufactured at the Planta Machala Holcim Ecuador concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish for public review",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of total inflows included",
+    "data_sources": "ecoinvent v3.8, Holcim Ecuador primary data",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "representativeness": "Data from 2021, region-specific electricity inputs"
+    }
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks, 30% allocated to stage A3"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": "TRACI impact categories used",
+    "limitations": "EPD does not support definitive comparisons of environmental performance"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2021"
+  },
+  "additional_info": {
+    "company_description": "Holcim Ecuador is part of the international Holcim group, a leader in innovative and sustainable construction solutions.",
+    "references": {
+      "astm_standards": [
+        "ASTM A36/A36M",
+        "ASTM A108",
+        "ASTM A123/A123M",
+        "ASTM C33/C33M",
+        "ASTM C94"
+      ],
+      "csa_standards": [
+        "CAN/CGSB-140",
+        "CAN/CSA G30.18",
+        "CAN/CSA A3000"
+      ],
+      "iso_standards": [
+        "ISO 6707-1:2014",
+        "ISO 14025:2006",
+        "ISO 14040:2006"
+      ],
+      "en_standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "other_references": [
+        "US EPA Waste Reduction Model",
+        "American Concrete Institute (ACI) 211"
+      ]
+    }
+  }
+}

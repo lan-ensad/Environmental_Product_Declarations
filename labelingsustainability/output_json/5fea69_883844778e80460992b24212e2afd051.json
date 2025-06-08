@@ -1,0 +1,192 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "ca62dfba-0a74-4dc2-bd92-8c410f445f04",
+    "date_of_issue": "22 February 2023",
+    "period_of_validity": "5 years; valid until 22 February 2028",
+    "independent_verification": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Planta Ambato, Ambato, Ecuador",
+    "product_types": [
+      {
+        "mix_id": "10044281",
+        "strength_mpa": 24,
+        "water_cement_ratio": 0.5742574
+      },
+      {
+        "mix_id": "10044280",
+        "strength_mpa": 21,
+        "water_cement_ratio": 0.614841
+      },
+      {
+        "mix_id": "10044294",
+        "strength_mpa": 27,
+        "water_cement_ratio": 0.5510836
+      },
+      {
+        "mix_id": "10044278",
+        "strength_mpa": 18,
+        "water_cement_ratio": 0.6538462
+      },
+      {
+        "mix_id": "10016140",
+        "strength_mpa": 24,
+        "water_cement_ratio": 0.5686275
+      },
+      {
+        "mix_id": "10016138",
+        "strength_mpa": 21,
+        "water_cement_ratio": 0.6103448
+      },
+      {
+        "mix_id": "10016137",
+        "strength_mpa": 18,
+        "water_cement_ratio": 0.6394052
+      },
+      {
+        "mix_id": "10016142",
+        "strength_mpa": 27,
+        "water_cement_ratio": 0.5313433
+      },
+      {
+        "mix_id": "10058604",
+        "strength_mpa": 34,
+        "water_cement_ratio": 0.4632911
+      },
+      {
+        "mix_id": "10067287",
+        "strength_mpa": 31,
+        "water_cement_ratio": 0.4931507
+      },
+      {
+        "mix_id": "10044295",
+        "strength_mpa": 29,
+        "water_cement_ratio": 0.5085227
+      },
+      {
+        "mix_id": "10068890",
+        "strength_mpa": 29,
+        "water_cement_ratio": 0.4794521
+      },
+      {
+        "mix_id": "10067781",
+        "strength_mpa": 21,
+        "water_cement_ratio": 0.5966102
+      },
+      {
+        "mix_id": "10067787",
+        "strength_mpa": 24,
+        "water_cement_ratio": 0.555205
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to site",
+      "On-site construction",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of total inflows included; 1% cut-off for energy consumption and total mass of inputs."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is reported from Holcim records for 2021. 30% of fuel used is allocated to stage A3."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_minimum": 237,
+    "gwp_maximum": 336,
+    "gwp_mean": 279,
+    "gwp_median": 270
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Amount of returned concrete is based on Holcim primary data for 2021."
+  },
+  "additional_info": {
+    "company_description": "Holcim Ecuador is part of the international Holcim group, a leader in innovative and sustainable construction solutions.",
+    "limitations": "This EPD does not support definitive comparisons of environmental performance of specific products.",
+    "references": {
+      "astm_standards": [
+        "ASTM A36/A36M",
+        "ASTM A108",
+        "ASTM A123/A123M",
+        "ASTM A153/A153M",
+        "ASTM A184",
+        "ASTM A307",
+        "ASTM A416/A416M",
+        "ASTM A555/A555M",
+        "ASTM A615/A615M",
+        "ASTM A666",
+        "ASTM A706/A706M",
+        "ASTM A767/A767M",
+        "ASTM A775/A775M",
+        "ASTM A820/A820M",
+        "ASTM A884/A884M",
+        "ASTM A934/A934M",
+        "ASTM A1064/A1064M",
+        "ASTM C33/C33M",
+        "ASTM C94",
+        "ASTM C150/C150M",
+        "ASTM C260/C260M",
+        "ASTM C595",
+        "ASTM C618",
+        "ASTM C979/C979M",
+        "ASTM C989/C989M",
+        "ASTM C1017/C1017M",
+        "ASTM C1116/C1116M",
+        "ASTM C1157/C1157M",
+        "ASTM C1240",
+        "ASTM C1602/C1602M",
+        "ASTM G109",
+        "ASTM C330/C330M",
+        "ASTM C494/C494M"
+      ],
+      "csa_standards": [
+        "CAN/CGSB-140",
+        "CAN/CSA G30.18",
+        "CAN/CSA A3000",
+        "CAN/CSA G40.20/G40.21",
+        "CAN/CSA A23.1/A23.2",
+        "CAN/CSA A23.4",
+        "CSA S806"
+      ],
+      "iso_standards": [
+        "ISO 6707-1:2014",
+        "ISO 14021:1999",
+        "ISO 14025:2006",
+        "ISO 14040:2006",
+        "ISO 14044:2006",
+        "ISO 14067:2018",
+        "ISO 14050:2009",
+        "ISO 21930:2017"
+      ],
+      "en_standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "other_references": [
+        "US EPA Waste Reduction Model (WARM)",
+        "American Concrete Institute (ACI) 211",
+        "ACI 318-14",
+        "Mather, B & Ozyildirim, C. (2002)",
+        "NSF International (February 2019)",
+        "Product Category Rules for Precast Concrete",
+        "USGBC LEED v4",
+        "USGBC PCR Committee Process & Resources: Part B"
+      ]
+    }
+  }
+}

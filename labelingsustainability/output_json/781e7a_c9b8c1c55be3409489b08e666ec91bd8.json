@@ -1,0 +1,240 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "eba3739f-f6e4-404f-b367-4d2170d4cdf4",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 24 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Cancun Il facility in Quintana Roo, México",
+    "mix_designs": [
+      {
+        "range": "0 to 15 MPa",
+        "products": [
+          {
+            "mix_id": "24020NB0518",
+            "strength": "2.26 MPa",
+            "cement_ratio": "1.64"
+          },
+          {
+            "mix_id": "24025NB0518",
+            "strength": "2.75 MPa",
+            "cement_ratio": "1.54"
+          },
+          {
+            "mix_id": "24030NB0518",
+            "strength": "3.33 MPa",
+            "cement_ratio": "1.24"
+          },
+          {
+            "mix_id": "77035ND2014",
+            "strength": "3.53 MPa",
+            "cement_ratio": "0.67"
+          },
+          {
+            "mix_id": "77036ND2010",
+            "strength": "3.73 MPa",
+            "cement_ratio": "0.64"
+          },
+          {
+            "mix_id": "77038ND2010",
+            "strength": "4.02 MPa",
+            "cement_ratio": "0.59"
+          },
+          {
+            "mix_id": "77040ND2014",
+            "strength": "4.22 MPa",
+            "cement_ratio": "0.59"
+          },
+          {
+            "mix_id": "77042ND2010",
+            "strength": "4.41 MPa",
+            "cement_ratio": "0.59"
+          },
+          {
+            "mix_id": "77045ND2010",
+            "strength": "4.71 MPa",
+            "cement_ratio": "0.58"
+          },
+          {
+            "mix_id": "77048ND2010",
+            "strength": "5.1 MPa",
+            "cement_ratio": "0.53"
+          },
+          {
+            "mix_id": "77050ND2010",
+            "strength": "5.1 MPa",
+            "cement_ratio": "0.50"
+          },
+          {
+            "mix_id": "73050NB0514",
+            "strength": "5.39 MPa",
+            "cement_ratio": "1.24"
+          },
+          {
+            "mix_id": "70100ND2014",
+            "strength": "11.77 MPa",
+            "cement_ratio": "1.09"
+          },
+          {
+            "mix_id": "73100NB0518",
+            "strength": "11.77 MPa",
+            "cement_ratio": "1.19"
+          },
+          {
+            "mix_id": "ECOPact PAVEX MR 038ND2014",
+            "strength": "3.80 MPa",
+            "cement_ratio": "0.67"
+          },
+          {
+            "mix_id": "ECOPact PAVEX MR 040ND2010",
+            "strength": "4.90 MPa",
+            "cement_ratio": "0.64"
+          }
+        ]
+      },
+      {
+        "range": "15 to 20 MPa",
+        "products": [
+          {
+            "mix_id": "70150NB2018",
+            "strength": "17.65 MPa",
+            "cement_ratio": "0.85"
+          },
+          {
+            "mix_id": "73150NB0514",
+            "strength": "17.65 MPa",
+            "cement_ratio": "0.94"
+          },
+          {
+            "mix_id": "ECOPact 150 84150ND2014",
+            "strength": "15.00 MPa",
+            "cement_ratio": "0.87"
+          },
+          {
+            "mix_id": "ECOPact 150 84150NB2014",
+            "strength": "15.00 MPa",
+            "cement_ratio": "0.86"
+          },
+          {
+            "mix_id": "ECOPact 150 84150NB2018",
+            "strength": "15.00 MPa",
+            "cement_ratio": "0.86"
+          },
+          {
+            "mix_id": "ECOPact 200 84200ND2014",
+            "strength": "20.00 MPa",
+            "cement_ratio": "0.78"
+          },
+          {
+            "mix_id": "ECOPact 200 84200NB2014",
+            "strength": "20.00 MPa",
+            "cement_ratio": "0.78"
+          },
+          {
+            "mix_id": "ECOPact 200 84200NB2018",
+            "strength": "20.00 MPa",
+            "cement_ratio": "0.78"
+          },
+          {
+            "mix_id": "ECOPact FLUIDIUM 150ND1014",
+            "strength": "15.00 MPa",
+            "cement_ratio": "0.88"
+          },
+          {
+            "mix_id": "ECOPact FLUIDIUM 150NB1018",
+            "strength": "15.00 MPa",
+            "cement_ratio": "0.88"
+          },
+          {
+            "mix_id": "ECOPact FLUIDIUM 200NB1018",
+            "strength": "20.00 MPa",
+            "cement_ratio": "0.79"
+          }
+        ]
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent v3.10 database and a local EPD database",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "reproducibility": "Internal reproducibility possible",
+      "representativeness": "Time-related coverage from 2023-01-01 to 2023-12-31"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "impact_categories": [
+      "Climate change: global warming potential (GWP100)",
+      "Ozone depletion: ozone depletion potential (ODP)",
+      "Acidification: acidification potential (AP)",
+      "Eutrophication: eutrophication potential (EP)",
+      "Smog formation potential (SFP)",
+      "Energy resources: non-renewable: abiotic depletion potential (ADP): fossil fuels"
+    ],
+    "inventory_metrics": [
+      "Cumulative Energy Demand - renewable energy resources",
+      "Renewable primary resources with energy content used as material",
+      "Cumulative Energy Demand - non-renewable energy resources",
+      "Non-renewable primary resources with energy content used as material",
+      "Use of secondary material",
+      "Use of renewable secondary fuels",
+      "Recovered energy",
+      "Use of net fresh water"
+    ]
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": [
+      {
+        "product_name": "Cement (CPC 40)",
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0"
+      },
+      {
+        "product_name": "Cement (CPC 30)",
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0"
+      },
+      {
+        "product_name": "Silica fume",
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0"
+      }
+    ]
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de CV.",
+    "program_operator": "Labeling Sustainability",
+    "epd_number": "a7ee8ceo-7bd3-4d84-890b-0193110d4f12",
+    "date_of_issue": "29 September 2021",
+    "period_of_validity": "5 years; valid until 30 September 2026",
+    "independent_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group",
+    "epd_type": "International Certified Environmental Product Declaration",
+    "declared_unit": "1 m3 of concrete"
+  },
+  "product_description": {
+    "company_description": "Holcim Mexico Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction. The company has a nationwide presence through 7 cement plants with a current installed capacity to produce 12.6 million tons per year, 23 cement distribution centers, two maritime terminals, 1 Corporate Office, plus 35 ready-mix concrete plants, seven platforms, and a Geocycle transfer center, 26 commercial partners with more than 90 ready-mix concrete plants, more than 500 mixing pots, one aggregates plant and a Technological Innovation Center for Construction (CITEC).",
+    "product_scope": "This EPD accounts for primary information and greenhouse gas (GHG) emission reports for the Tecoman cement plant, used for the cement raw material input for all concrete mixes listed in this EPD.",
+    "product_list": [
+      {
+        "name": "FLOORTECH 042- Mezcla 1",
+        "strength": "4.1 MPa 28d",
+        "uuid": "lu688 lo6e78ees DeTE Spor 09s"
+      },
+      {
+        "name": "FLOORTECH 042- Mezcla 2",
+        "strength": "4.1 MPa 28d",
+        "uuid": "21688 0748220 secs die"
+      },
+      {
+        "name": "CLASICO 250- Mezcla 1",
+        "strength": "24.5 MPa 28d",
+        "uuid": "8 1114048 Pose 1944"
+      },
+      {
+        "name": "CLASICO 250- Mezcla 2",
+        "strength": "24.5 MPa 28d",
+        "uuid": "8 11129706 Jogane er APE"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "ISO 14044:2006 and the focus PCR requires the LCA model to contain a minimum of 95% of the total inflows (mass and energy) to the upstream and core modules be included in this study.",
+    "data_sources": "ecoinvent V3.6 database and a local EPD database in combination with primary data from Holcim México Operaciones, S.A. de C.V.",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes were considered and modeled.",
+      "consistency": "The same modeling structure across the respective product systems was utilized.",
+      "reproducibility": "Internal reproducibility is possible since the data and the models are stored and available in a machine-readable project file."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "GWP is measured in kg CO2 equivalent.",
+    "ozone_depletion_potential": "ODP is expressed in kg CFC-11 equivalent.",
+    "acidification_potential": "AP is expressed using the reference unit, kg SO2 equivalent."
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "TC CPC 40 Cement": {
+        "primary_content": 1,
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      },
+      "Gravel 1 (Basalt)": {
+        "primary_content": 1,
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

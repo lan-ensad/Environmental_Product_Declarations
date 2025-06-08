@@ -1,0 +1,48 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "7a6127d1-6261-428f-842f-fc24aa32934a",
+    "date_of_issue": "06 February 2023",
+    "period_of_validity": "5 years; valid until 06 February 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Nicaragua",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "San Miguel, El Salvador",
+    "product_scope": "149 concrete mixes manufactured at the Holcim El Salvador concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database and a local EPD database",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by the mixing trucks is direct primary information reported from Holcim El Salvador records for the year 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_minimum": 360,
+    "gwp_maximum": 759,
+    "gwp_mean": 740
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "Returned concrete is based on Holcim primary data for the reference year, 2021.",
+    "material_losses": "Default loss factors of 5% were assumed."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

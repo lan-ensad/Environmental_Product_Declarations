@@ -1,0 +1,66 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "e45a4cads-194f-451e-b6e6-8d22683a4328",
+    "date_of_issue": "13 April 2023",
+    "period_of_validity": "5 years; valid until 13 April 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Nicaragua",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Santa Ana, El Salvador",
+    "mix_designs": [
+      {
+        "range": "0 to 15 MPa",
+        "mixes": [
+          {
+            "unique_name_id": "100 BOMBA ECOPACT",
+            "short_description": "10 MPa 28d strength ready mix concrete",
+            "product_type": "Ready Mix",
+            "strength_mpa": 10,
+            "h2o_cement_ratio": 0.7
+          }
+        ]
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database and a local EPD database",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "representativeness": "Data from 2021, region-specific electricity inputs"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp": {
+      "minimum": 429,
+      "maximum": 472,
+      "mean": 450,
+      "unit": "kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "module_a1_material_losses": "Default loss factors of 5% assumed"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

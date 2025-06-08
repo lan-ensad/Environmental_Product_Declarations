@@ -1,0 +1,44 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "2093df38-4766-4f2c-9aeb-c36b5749bb27",
+    "date_of_issue": "31 May 2023",
+    "period_of_validity": "5 years; valid until 31 May 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Nicaragua",
+    "declared_unit": "1 m3 of concrete",
+    "product_scope": "149 concrete mixes manufactured at the Holcim El Salvador KM 29 concrete facility in El Chaparral, El Salvador"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database, Holcim El Salvador primary data",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is direct primary information reported from Holcim El Salvador records for the year 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": "TRACI impact categories were utilized for North American context."
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "Returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "epd_metadata": {
+    "declared_product": "Cement products produced by Holcim México Operaciones S.A. de C.V.",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017, NSF International (March 2020)",
+    "sub_pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Thomas P. Gloria, Ph.D.",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier",
+    "date_of_issue": "05 July 2023, Updated 09 August 2024",
+    "period_of_validity": "5 years, valid until 05 July 2028",
+    "epd_number": "oocddb67-dd75-41879-oc7d-74d4664d8e10"
+  },
+  "product_description": {
+    "company_description": "Holcim Mexico produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "product_scope": "This EPD is prepared for products classified as UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete.",
+    "cement_design_summary": [
+      {
+        "product_name": "CPC30",
+        "description": "Portland Composite Cement class 30",
+        "resistance": "30.7 MPa"
+      },
+      {
+        "product_name": "CPC30 M",
+        "description": "Portland Composite Cement class 30 Mas (with calcined clays)",
+        "resistance": "34.5 MPa"
+      },
+      {
+        "product_name": "CPC40",
+        "description": "Portland Composite Cement class 40",
+        "resistance": "40.7 MPa"
+      },
+      {
+        "product_name": "CPC30RSBRA",
+        "description": "Portland Composite Cement class 30 with sulfate resistance",
+        "resistance": "37 MPa"
+      },
+      {
+        "product_name": "CPMM",
+        "description": "Portland cement used for non-structural masonry work",
+        "resistance": "7.8 MPa"
+      }
+    ],
+    "cement_design_composition": {
+      "clinker": "30-60.00%",
+      "mineral_additions": "0.01-5.00%",
+      "others": "0.01-5.00%"
+    }
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate life cycle assessment including A1: Raw material supply, A2: Transportation, A3: Manufacturing.",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules.",
+    "data_sources_and_quality": "Primary data from Holcim México Operaciones SA de CV's plant, ecoinvent v3.0 database, and local EPD database."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "direct_gross_and_net_co2_emissions": {
+      "CPC30": {
+        "net": "551 kg CO2/t Cem.",
+        "gross": "573 kg CO2/t Cem."
+      },
+      "CPC30 M": {
+        "net": "566 kg CO2/t Cem.",
+        "gross": "587 kg CO2/t Cem."
+      },
+      "CPC40": {
+        "net": "764 kg CO2/t Cem.",
+        "gross": "796 kg CO2/t Cem."
+      },
+      "CPC30RSBRA": {
+        "net": "756 kg CO2/t Cem.",
+        "gross": "788 kg CO2/t Cem."
+      },
+      "CPMM": {
+        "net": "284 kg CO2/t Cem.",
+        "gross": "295 kg CO2/t Cem."
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": [
+      {
+        "material": "FIRSU polyethylene",
+        "post_industrial_content": "1",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      },
+      {
+        "material": "Solid Waste Fuel",
+        "post_industrial_content": "0",
+        "post_consumer_content": "1",
+        "material_losses": "0.02"
+      }
+    ]
+  },
+  "additional_info": {
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "total_impact_summary": {
+      "GWP100": {
+        "minimum": "295 kg CO2-eq",
+        "maximum": "987 kg CO2-eq",
+        "mean": "659 kg CO2-eq"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "ecgoz2d2ad-43f5-4899-8803-7dffbc8795cf",
+    "date_of_issue": "15 April 2023",
+    "period_of_validity": "5 years; valid until 15 April 2028",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Nicaragua",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Usulutän, El Salvador",
+    "product_scope": "149 concrete mixes manufactured at the Holcim El Salvador KM 35 concrete facility in San Vicente, El Salvador"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database and a local EPD database",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by the mixing trucks is direct primary information reported from Holcim El Salvador records for the year 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp": {
+      "minimum": 370,
+      "maximum": 746,
+      "mean": 540
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "Returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "epd_metadata": {
+    "declared_product": "cement products produced by Holcim El Salvador",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "date_of_issue": "30 November 2022",
+    "period_of_validity": "5 years, valid until 30 November 2027",
+    "epd_number": "9f775756-b9e6-44e4-9417-d25a8363f4ef",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "company_description": "Holcim El Salvador, part of the Holcim Group, produces and markets cement and ready-mix concrete, with a focus on sustainability and recycling.",
+    "product_classification": "UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete",
+    "cement_design_summary": [
+      {
+        "mix_name": "Cemento ARI 5000",
+        "description": "Ideal for the production of prefabricated products and molded structures.",
+        "clinker_content": "Proprietary",
+        "resistance_3_days_psi": null,
+        "resistance_28_days_psi": null,
+        "resistance_3_days_mpa": null,
+        "resistance_28_days_mpa": null
+      },
+      {
+        "mix_name": "Cemento Holcim 5000",
+        "description": "Cement with no additives, composed only of clinker mixed with a small percentage of gypsum in the final grind.",
+        "clinker_content": "Proprietary",
+        "resistance_3_days_psi": "3,500",
+        "resistance_28_days_psi": "6,000",
+        "resistance_3_days_mpa": "241",
+        "resistance_28_days_mpa": "413"
+      }
+    ],
+    "cement_design_composition": {
+      "clinker": "30-60.00%",
+      "mineral_additions": "0.01-5.00%",
+      "others": "0.01-5.00%",
+      "total": "100.00%"
+    }
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) included. 1% cut-off for all renewable and non-renewable primary energy consumption."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "electricity": "El Salvador uses hydropower for 93% of their electricity.",
+    "direct_a3_emissions": "Only decarbonization of the clinker at the kiln is calculated. Other emissions modeled using ecoinvent unit processes."
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Detailed in the A1 input table.",
+    "module_a1_material_losses": "Default loss factors assumed: 2% waste factor used throughout."
+  },
+  "additional_info": {
+    "data_sources_and_quality": {
+      "precision": "Manufacturers collected and provided primary data on their annual production.",
+      "completeness": "All relevant specific processes considered and modeled.",
+      "consistency": "Same modeling structure across respective product systems.",
+      "reproducibility": "Internal reproducibility possible with stored data and models.",
+      "representativeness": "Time-related coverage from 2021-01-01 to 2021-12-31."
+    },
+    "environmental_indicators_and_inventory_metrics": {
+      "impact_categories": [
+        "AP",
+        "EP",
+        "GWP",
+        "ODP",
+        "PCOP",
+        "ADPe",
+        "ADPf"
+      ],
+      "inventory_metrics": [
+        "TPE",
+        "RE",
+        "NRE",
+        "NRR",
+        "RR",
+        "WDP",
+        "LFW",
+        "LFHW",
+        "bioC"
+      ]
+    },
+    "limitations": "This EPD does not support or provide definitive comparisons of the environmental performance of specific products."
+  }
+}

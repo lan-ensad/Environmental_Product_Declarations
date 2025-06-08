@@ -1,0 +1,3456 @@
+ENVIRONMENTAL
+PRODUCT DECLARATION
+
+ec z
+J 1}
+
+IOLCIM
+
+Environmental Product Declaration for concrete products
+produced by
+mobile facility in El Salvador.
+
+& HOLCIM
+ENVIRONMENTAL PRODUCT DECLARATION LHoLcm
+
+ADMINISTRATIVE INFORMATION
+
+International Certified Environmental Product Declaration
+
+This Environmental Product Declaration (EPD) covers concrete
+Declared Product: products produced by Holcim Nicaragua. Declared unit: 1 m3
+of concrete
+
+Holcim El Salvador
+
+. S/N Calle Holcim y Av. El Espino, Madre Selva Antiguo
+Declaration Owner: 9
+
+Cuascatlän, El Salvador
+u’ HOLCIM
+
+w\ww.holcim.com.sv
+
+Labeling Sustainability
+Address, 11670 W Sunset Blvd.
+
+Program Operator: City, State, Los Angeles, CA à LABE L NG
+
+sustainability
+
+wwWw.labelingsustainability.com
+
+Core PCR: ISO 21930:2017 Sustainability in buildings and civil
+engineering works - Core rules for environmental product
+declarations of construction products and services SUbPCR:
+NSF International (March 2020). Product Category Rul (PCR) for
+Environmental Product Declarations (EPD) PCR for Concrete,
+v21
+
+Sub PCR Program Operator: NSF International
+
+Product Category Rule: | SUEb-category PCR review was conducted by: Thomas P.
+Gloria, Ph. D. of Industrial Ecology Consultants: 35 Bracebridge,
+Rd. Newton, MA 02459-1728, tgloria@industrial-ecology.com.
+Dr. Michael Overcash of Environmental Clarity: 2908 Chipmunk
+Lane, Raleigh, NC 27607-3117, mrovercash@earthlink.net. Mr.
+Bill Stough of Sustainable Research Group: PO Box 1684,
+Grand Rapids, MI 49501-1684,
+bstough@sustainableresearchgroup.com.
+
+This EPD was independenitly verified in accordance with ISO
+14025 and ISO 21930. The life cycle assessment was
+independently reviewed in accordance ISO 14044 and the
+referenced PCR.
+
+Independent LCA Independent verification of the declaration, according to ISO
+14025:2006
+
+Reviewer and EPD
+Verifier: Internal E ; External X
+
+Third Party Verifier
+
+Geoffrey Guest, Certified 3rd Party Verifier under the
+International EPD Program (www.environdec.com), CSA Group
+(www.csaregistries.ca)
+
+Date of Issue: 31 May 2023
+Period of Validity: 5 years; valid until 31 May 2028
+EPD Number: 2093df38-4766-4f2c-9aeb-c36b5749bb27
+
+LABELING SUSTAINABILITY | 1
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TABLE OF CONTENTS
+
+Administrative Information sens 1
+Company Description. 3
+Study Goal... nn 3
+Description Of Product And SCOPE mener 3
+Ready Mix Concrete Design SUMMAFY msn 4
+Ready Mix Concrete Design COMPOSITION sens 14
+System BouUndaries seen 15
+Cut-Off Criteria msn 16
+Data Sources And Data Quality Assessment... 16
+Raw Material Transport... iiinrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnns 16
+ELECTrICIEY. nana 16
+Process/Space Heating........ ire 16
+Fuel Required For Machinery nn 16
+Waste Generation. nn nn nn 17
+Recovered Energy... nn 17
+Recycled/Reused Material/ComMmponents...... nn 17
+Module A1 Material LOSSES......... nana 17
+Direct A3 Emissions ACCOUNTINY nanas 17
+Waste Transport Requirements nn 17
+Product Transport Requirements... ss ssssrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnns 17
+Data Quality Assessment sise 18
+Environmental Indicators And Inventory Metrics.….…........… 19
+Limitations sise 20
+Total Impact SUMMArY nn 20
+Additional Environmental INfo mms 46
+References msn 46
+Astm Standards... nn 46
+Csa Standards... nana nn 47
+ISO Standards... nn 48
+En Standards... nn 48
+Other References: nr nee 48
+
+LABELING SUSTAINABILITY | 2
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+COMPANY DESCRIPTION
+
+Holcim El Salvador as part of the Holcim Group, a world leader in innovative and sustainable solutions
+for construction, is making it possible to have greener cities, smarter infrastructures and improve the
+standard of living of people around the world. With sustainability at the core of its strategy, Holcim is
+becoming a Net Zero company, where its people and communities are the foundation of its success.
+The company is driving circular construction as a world leader in recycling to build more with Less.
+Holcim El Salvador produces and markets cement and ready-mix concrete, as well as other products
+and solutions for construction. In El Salvador, the company has more than 500 people who are
+passionate about building progress for people and the planet. It has a nationwide presence through 2
+cement plants with a current installed capacity to produce 1.9 million tons of cement per year, 6 fixed
+ready-mix concrete plants, corporate offices, 1 Geocycle platform, 1 aggregates plant, 1 Distribution
+Center Disensa, hundreds of Disensa points of sale throughout the country and the Holcim Foundation.
+
+STUDY GOAL
+
+The intended application of this life cycle assessment (LCA) is to comply with the procedures for
+creating a Type Ill environmental product declaration (EPD) and publish the EPD for public review on
+the website, http://labelingsustainability.com/ . This level of study is in accordance with EPD Product
+Category Rule (PCR) for Ready Mix Concrete published by NSF International (2019) and is a sub-PCR
+of International Standards Organization (ISO) 21930:2017 Sustainability in buildings and civil works -
+Core rules for EPDs of construction products and services; International Standards Organization (ISO)
+14025:2006 Environmental labels and declarations, Type Ill environmental declarations-Principles and
+procedures; ISO 14044:2006 Environmental management, Life cycle assessment- Requirements and
+guidelines; and ISO 14040:2006 Environmental management, Life cycle assessment-Principles and
+framework. The performance of this study and its subsequent publishing is in alignment with the
+business-to-business (B2B) communication requirements for the environmental assessment of
+building products. The study does not intend to support comparative assertions and is intended to be
+disclosed to the public.
+
+This project report \Wwas commissioned to differentiate Holcim El Salvador from their competition for
+the following reasons: generate an advantage for the organization: offer customers information to help
+them make informed product decisions, improve the environmental performance of Holcim El
+Salvador by continuously measuring, controlling and reducing the environmental impacts of their
+products; help project facilitators working on Leadership in Energy and Environmental Design (LEED)
+projects achieve their credit goal; and to strengthen Holcim El Salvador's license to operate in the
+community. The intended audience for this LCA report is Holcim El Salvadors employees, their
+suppliers, project specifiers of their products, architects, and engineers. The EPD report is also available
+for policy makers, government officials interested in sustainability, academic professors, and LCA
+professionals. This LCA report does not include product comparisons from other facilities.
+
+DESCRIPTION OF PRODUCT AND SCOPE
+
+This EPD reports on 149 concrete mixes manufactured at the Holcim El Salvador KM 29 concrete facility
+in El Chaparral, El Salvador
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+This LCA assumes the impacts from products manufactured in accordance with the standards outlined
+in this report. This LCA is a cradle-to-gate study, and therefore, stages extending beyond the plant
+gate are not included in this LCA. Excluded stages include transportation of the manufactured material
+to the construction site; on-site construction processes and components; building (infrastructure) use
+and maintenance: and “end-of-life” effects.
+
+READY MIX CONCRETE DESIGN SUMMARY
+
+The following tables provide a list of ready mix concrete products considered in this EPD along with
+
+key performance parameters.
+
+Mix designs: 0 to 15 MPa:
+
+Table 1: Declared products with Mix designs: 0 to 15MPa considered in this environmental product declaration.
+
+28 day H20 to
+Mix# Unique name/ID Short description Product type strength, cement
+MPa ratio
+
+100 BOMBA 10 MPa 28d strength ready .
+
+1 ECOPACT mix concrete. Ready Mix 19 97000
+100 BOMBA CON
+
+2 TEMPERATURA ro MPa ta treng ready Ready Mix 10 0.7000
+ECOPACT ‘
+100 BOMBA CON
+
+3 RETARDANTE ro MPa ta treng ready Ready Mix 10 0.7000
+ECOPACT ‘
+100 BOMBA CON
+RETARDANTE Y 10 MPa 28d strength ready Readv Mix 10 07000
+
+4 | TEMPERATURA mix concrete. y 7
+ECOPACT
+100 BOMBA CON 10 MPa 28d strength ready .
+
+5 FIBRA ECOPACT mix concrete. Ready Mix 19 06923
+100 BOMBA CON
+FIBRA Y 10 MPa 28d strength ready .
+
+5 RETARDANTE mix concrete. Ready Mix 19 06923
+ECOPACT
+100 BOMBA CON
+FRIBRA Y 10 MPa 28d strength ready .
+
+T7 | TEMPERATURA mix concrete. Ready Mix 19 06923
+ECOPACT
+100 DIRECTO 10 MPa 28d strength ready .
+
+8 ECOPACT mix concrete. Ready Mix 10 96800
+100 DIRECTO CON
+
+9 TEMPERATURA na ren srenge ready Ready Mix 10 0.6800
+ECOPACT ‘
+100 DIRECTO CON
+
+10 | RETARDANTE na ren srenge ready Ready Mix 10 0.6538
+ECOPACT ‘
+100 DIRECTO CON
+RETARDANTE Y 10 MPa 28d strength ready .
+
+| TEMPERATURA mix concrete. Ready Mix 19 0.6538
+ECOPACT
+
+LABELING SUSTAINABILITY | 4
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+100 DIRECTO CON
+
+10 MPa 28d strength ready
+
+12 | HBRAECOPACT mix concrete. Ready Mix 19 06923
+100 DIRECTO CON
+FIBRA Y 10 MPa 28d strength ready .
+
+13 | RETARDANTE mix concrete. Ready Mix 19 06731
+ECOPACT
+100 DIRECTO CON
+FRIBRA Y 10 MPa 28d strength ready .
+
+14° | TEMPERATURA mix concrete. Ready Mix 19 06923
+ECOPACT
+140 DIRECTO 14 MPa 28d strength ready .
+
+15 ECOPACT mix concrete. Ready Mix 14 0:6140
+140 DIRECTO CON
+
+16 | RETARDANTE Ar ARE Ten ready Ready Mix 14 0.6140
+ECOPACT
+140 DIRECTO CON
+
+17 | TEMPERATURA Ar ARE Ten ready Ready Mix 14 0.6140
+ECOPACT
+140 DIRECTO CON
+RETARDANTE Y 14 MPa 28d strength ready .
+
+18 | TEMPERATURA mix concrete. Ready Mix 14 06140
+ECOPACT
+140 BOMBA 14 MPa 28d strength ready .
+
+19 ECOPACT mix concrete. Ready Mix 14 06316
+140 BOMBA CON
+
+20 | RETARDANTE Ar ARE Ten ready Ready Mix 14 06316
+ECOPACT
+140 BOMBA CON
+
+21 | TEMPERATURA Ar ARE rene ready Ready Mix 14 06316
+ECOPACT
+140 BOMBA CON
+RETARDANTE Y 14 MPa 28d strength ready .
+
+22 | TEMPERATURA mix concrete. Ready Mix 14 06316
+ECOPACT
+
+Mix designs: 15 to 20 MPa:
+
+Table 2: Declared products with Mix designs: 15 to 20MPa considered in this environmental product declaration.
+
+28 day H20 to
+Mix# Unique name/ID Short description Product type strength, cement
+MPa ratio
+180 BOMBA 18 MPa 28d strength ready .
+23 ECOPACT mix concrete. Ready Mix 18 05833
+180 BOMBA CON
+24 | TEMPERATURA Na Pt strong ready Ready Mix 18 0.5833
+ECOPACT ‘
+180 BOMBA CON
+18 MPa 28d st th read
+25 | RETARDANTE nm conerote rengin réacy Ready Mix 18 0.5833
+ECOPACT ‘
+180 BOMBA CON 18 MPa 28d strength ready .
+26 | RETARDANTE V mix concrete. Ready Mix 18 05833
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TEMPERATURA
+ECOPACT
+180 BOMBA CON 18 MPa 28d strength ready .
+
+27 | HBRAECOPACT mix concrete. Ready Mix 18 05806
+180 BOMBA CON
+FIBRA Y 18 MPa 28d strength ready .
+
+28 | RETARDANTE mix concrete. Ready Mix 18 05806
+ECOPACT
+180 BOMBA CON
+FRIBRA Y 18 MPa 28d strength ready .
+
+29 | TEMPERATURA mix concrete. Ready Mix 18 0.5806
+ECOPACT
+180 DIRECTO 18 MPa 28d strength ready .
+
+30 ECOPACT mix concrete. Ready Mix 18 05667
+180 DIRECTO CON
+
+31 | TEMPERATURA a es eng ready Ready Mix 18 0.5667
+ECOPACT
+180 DIRECTO CON
+
+32 | RETARDANTE a es eng ready Ready Mix 18 0.5574
+ECOPACT
+180 DIRECTO CON
+RETARDANTE Y 18 MPa 28d strength ready Readv Mix 18 0
+
+33 | TEMPERATURA mix concrete. y 5574
+ECOPACT
+180 DIRECTO CON 18 MPa 28d strength ready .
+
+34 | HBRA ECOPACT mix concrete. Ready Mix 18 0.5806
+180 DIRECTO CON
+FIBRA Y 18 MPa 28d strength ready .
+
+35 | RETARDANTE mix concrete. Ready Mix 18 0.5806
+ECOPACT
+180 DIRECTO CON
+FRIBRA Y 18 MPa 28d strength ready .
+
+36 | TEMPERATURA mix concrete. Ready Mix 18 05806
+ECOPACT
+
+Mix designs: 21 to 25 MPa:
+
+Table 3: Declared products with Mix designs: 21 to 25MPa considered in this environmental product declaration.
+
+28 day H20 to
+Mix# Unique name/ID Short description Product type strength, cement
+MPa ratio
+210 DIRECTO 21 MPa 28d strength ready Readv Mix > 04722
+37 ECOPACT mix concrete. y 47
+210 DIRECTO CON
+38 | TEMPERATURA A tte etae Tong ready Ready Mix 21 0.4722
+ECOPACT ‘
+210 DIRECTO CON
+21 MPa 28d st th read
+39 | RETARDANTE n corerete rengn reacy Ready Mix 21 0.4722
+ECOPACT ‘
+40 210 DIRECTO CON 21 MPa 28d strength ready Ready Mix > 0.4722
+
+RETARDANTE Y
+
+mix concrete.
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TEMPERATURA
+ECOPACT
+210 DIRECTO CON 21 MPa 28d strength ready .
+41 | HBRA ECOPACT mix concrete. Ready Mix . 04865
+210 DIRECTO CON
+FIBRA Y 21 MPa 28d strength ready .
+42 | RETARDANTE mix concrete. Ready Mix . 04865
+ECOPACT
+210 DIRECTO CON
+FRIBRA Y 21 MPa 28d strength ready .
+43 | TEMPERATURA mix concrete. Ready Mix 21 04865
+ECOPACT
+210 BOMBA 21 MPa 28d strength ready Readv Mix > 0000
+44 ECOPACT mix concrete. y $
+210 BOMBA CON
+45 | TEMPERATURA Ans ete rende ready Ready Mix 21 0.5000
+ECOPACT
+210 BOMBA CON
+21 MPa 28d strength read
+46 | RETARDANTE n corerete rengn reacy Ready Mix 21 0.5143
+ECOPACT
+210 BOMBA CON
+RETARDANTE Y 21 MPa 28d strength ready Readv Mix > oc1
+47 | TEMPERATURA mix concrete. y 5143
+ECOPACT
+210 BOMBA CON 21 MPa 28d strength ready .
+48 | HBRA ECOPACT mix concrete. Ready Mix 21 95000
+210 BOMBA CON
+FIBRA Y 21 MPa 28d strength ready Readv Mix > 0000
+49 | RETARDANTE mix concrete. y 5
+ECOPACT
+210 BOMBA CON
+0 FRIBRA Y 21 MPa 28d strength ready Readv Mix > 0000
+5 TEMPERATURA mix concrete. y 5
+ECOPACT
+1 210 BOMBA PP 21 MPa 28d strength ready Readv Mix > 0000
+5 ECOPACT mix concrete. y $
+210 BOMBA PP CON
+52 | TEMPERATURA A tte etae Tong ready Ready Mix 21 05000
+ECOPACT
+210 SEMIFLUIDO 21 MPa 28d strength ready .
+53 ECOPACT mix concrete. Ready Mix 21 0.4800
+210 SEMIFLUIDO
+54 | CON TEMPERATURA Ans ete rende ready Ready Mix 21 04800
+ECOPACT
+210 SEMIFLUIDO
+55 | CON RETARDANTE Ans ete rende ready Ready Mix 21 04800
+ECOPACT
+210 SEMIFLUIDO
+56 CON RETARDANTE 21 MPa 28d strength ready Ready Mix > 04800
+
+Y TEMPERATURA
+ECOPACT
+
+mix concrete.
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+210 SEMIFLUIDO
+
+21 MPa 28d strength ready
+
+57 | CONFIBRA ie conerete Ready Mix 21 0.5067
+ECOPACT
+210 SEMIFLUIDO
+CON FIBRA Y 21 MPa 28d strength ready .
+
+58 | RETARDANTE mix concrete. Ready Mix 21 06067
+ECOPACT
+210 SEMIFLUIDO
+CON FRIBRA Y 21 MPa 28d strength ready .
+
+89 | TEMPERATURA mix concrete. Ready Mix 21 05067
+ECOPACT
+210 SEMIFLUIDO 3/8 | 21 MPa 28d strength ready .
+
+60 ECOPACT mix concrete. Ready Mix 21 0.4634
+210 SEMIFLUIDO 3/8
+
+61 | CON RETARDANTE Are ete eng ready Ready Mix 21 04578
+ECOPACT
+210 SEMIFLUIDO 3/8
+
+62 | CON TEMPERATURA A tte etae Tong ready Ready Mix 21 04634
+ECOPACT
+210 SEMIFLUIDO 3/8
+CON RETARDANTE 21 MPa 28d strength ready .
+
+68 | VTEMPERATURA | mix concrete. Ready Mix 21 04678
+ECOPACT
+210 FLUIDO 21 MPa 28d strength ready .
+
+64 ECOPACT mix concrete. Ready Mix 21 04868
+210 FLUIDO CON
+
+65 | TEMPERATURA A tte etae Tong ready Ready Mix 21 0.4868
+ECOPACT
+210 FLUIDO CON
+
+66 | RETARDANTE A tte etae Tong ready Ready Mix 21 0.4868
+ECOPACT
+210 FLUIDO CON
+RETARDANTE Y 21 MPa 28d strength ready .
+
+67 | TEMPERATURA mix concrete. Ready Mix 21 04868
+ECOPACT
+210 FLUIDO CON 21 MPa 28d strength ready .
+
+68 | HBRA ECOPACT mix concrete. Ready Mix 21 04805
+210 FLUIDO CON
+FIBRA Y 21 MPa 28d strength ready .
+
+69 | RETARDANTE mix concrete. Ready Mix 21 04805
+ECOPACT
+210 FLUIDO CON
+FRIBRA Y 21 MPa 28d strength ready .
+
+79 | TEMPERATURA mix concrete. Ready Mix 21 04805
+ECOPACT
+210 FLUIDO 3/8 21 MPa 28d strength ready .
+
+74 ECOPACT mix concrete. Ready Mix 21 04588
+210 FLUIDO 3/8
+
+72 | CONRETARDANTE | 21 MPa 28d strength ready Ready Mix 21 0.4588
+
+ECOPACT
+
+mix concrete.
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+210 FLUIDO 3/8
+
+21 MPa 28d strength ready
+
+73 CON TEMPERATURA mix concrete Ready Mix 21 0.4588
+ECOPACT ‘
+210 FLUIDO 3/8
+CON RETARDANTE 21 MPa 28d strength ready .
+
+74 | VTEMPERATURA | mixconcrete. Ready Mix 21 04588
+ECOPACT
+210 LANZADO 21 MPa 28d strength ready Ready Mix > 04070
+
+75 ECOPACT mix concrete. y 407
+210 LANZADO CON
+
+76 | TEMPERATURA Ans ete rende ready Ready Mix 21 04070
+ECOPACT ‘
+210 PERMEABLE 21 MPa 28d strength ready Readv Mix > O2041
+
+77 ECOPACT mix concrete. y 204
+245 DIRECTO 24 MPa 28d strength ready .
+
+78 ECOPACT mix concrete. Ready Mix 24 0.4606
+245 BOMBA 24 MPa 28d strength ready .
+
+79 ECOPACT mix concrete. Ready Mix 24 04675
+250 DIRECTO 25 MPa 28d strength ready .
+
+80 ECOPACT mix concrete. Ready Mix 25 04605
+250 BOMBA 25 MPa 28d strength ready .
+
+81 ECOPACT mix concrete. Ready Mix 25 04675
+
+Mix designs: 26 to 30 MPa:
+
+Table 4: Declared products with Mix designs: 26 to 30MPa considered in this environmental product declaration.
+
+28 day H20 to
+Mix# Unique name/ID Short description Product type strength, cement
+MPa ratio
+280 DIRECTO 27 MPa 28d strength ready .
+82 ECOPACT mix concrete. Ready Mix 27 94217
+280 DIRECTO CON
+83 | TEMPERATURA crie ete Sera ready Ready Mix 27 0.4217
+ECOPACT ‘
+280 DIRECTO CON
+84 | RETARDANTE crie ete Sera ready Ready Mix 27 0.4217
+ECOPACT ‘
+280 DIRECTO CON
+RETARDANTE Y 27 MPa 28d strength ready .
+85 | TEMPERATURA mix concrete. Ready Mix sd A7
+ECOPACT
+280 DIRECTO CON 27 MPa 28d strength ready .
+86 | HBRAECOPACT mix concrete. Ready Mix sd 94286
+280 DIRECTO CON
+FIBRA Y 27 MPa 28d strength ready .
+87 | RETARDANTE mix concrete. Ready Mix sd 94286
+ECOPACT
+280 DIRECTO CON
+FRIBRA Y 27 MPa 28d strength ready .
+88 | TEMPERATURA mix concrete. Ready Mix 7 04286
+
+ECOPACT
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+280 BOMBA 27 MPa 28d strength ready .
+
+89 ECOPACT mix concrete. Ready Mix 27 04368
+280 BOMBA CON
+
+go | TEMPERATURA crinarte Sen ready Ready Mix 27 04368
+ECOPACT
+280 BOMBA CON
+
+g1 | RETARDANTE crinarte Sen ready Ready Mix 27 0.4253
+ECOPACT
+280 BOMBA CON
+
+2 RETARDANTE Y 27 MPa 28d strength ready Readv Mix > 02
+
+9 TEMPERATURA mix concrete. y 7 4293
+ECOPACT
+280 BOMBA CON 27 MPa 28d strength ready .
+
+93 | HBraEcOPACT mix concrete. Ready Mix 27 04318
+280 BOMBA CON
+FIBRA Y 27 MPa 28d strength ready .
+
+9% | RETARDANTE mix concrete. Ready Mix 27 04318
+ECOPACT
+280 BOMBA CON
+FRIBRA Y 27 MPa 28d strength ready .
+
+9 | TEMPERATURA mix concrete. Ready Mix 27 04318
+ECOPACT
+280 BOMBA PP 27 MPa 28d strength ready .
+
+96 ECOPACT mix concrete. Ready Mix 27 04368
+280 BOMBA PP CON
+
+97 | TEMPERATURA crinarte Sen ready Ready Mix 27 0.4368
+ECOPACT
+280 SEMIFLUIDO 27 MPa 28d strength ready .
+
+98 ECOPACT mix concrete. Ready Mix 27 04318
+280 SEMIFLUIDO
+
+99 | CON TEMPERATURA crinarte Sen ready Ready Mix 27 04318
+ECOPACT
+280 SEMIFLUIDO
+
+100 | CON RETARDANTE crinarte Sen ready Ready Mix 27 04318
+ECOPACT
+280 SEMIFLUIDO
+CON RETARDANTE 27 MPa 28d strength ready .
+
+102 | VTEMPERATURA | mix concrete. Ready Mix 27 04318
+ECOPACT
+280 SEMIFLUIDO
+
+102 | CON FIBRA crie ete Sera ready Ready Mix 27 0.4382
+ECOPACT
+280 SEMIFLUIDO
+CON FIBRA Y 27 MPa 28d strength ready .
+
+103 | RETARDANTE mix concrete. Ready Mix 27 04382
+ECOPACT
+280 SEMIFLUIDO
+CON FRIBRA Y 27 MPa 28d strength ready .
+
+104 | TEMPERATURA mix concrete. Ready Mix 27 04382
+ECOPACT
+
+10 280 SEMIFLUIDO 27 MPa 28d strength ready Readv Mix > 040
+
+5 | 3/8ECOPACT mix concrete. y 7 4043
+
+LABELING SUSTAINABILITY | 10
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+280 SEMIFLUIDO
+3/8 CON 27 MPa 28d strength ready .
+
+106 | BETARDANTE mix concrete. Ready Mix 27 94000
+ECOPACT
+280 SEMIFLUIDO
+3/8 CON 27 MPa 28d strength ready .
+
+107 | TEMPERATURA mix concrete. Ready Mix 27 94043
+ECOPACT
+280 SEMIFLUIDO
+3/8 CON
+
+108 | RETARDANTE Y crinarte Sen ready Ready Mix 27 04000
+TEMPERATURA
+ECOPACT
+280 FLUIDO 27 MPa 28d strength ready .
+
+109 ECOPACT mix concrete. Ready Mix 27 94222
+280 FLUIDO CON
+
+110 | TEMPERATURA crinarte Sen ready Ready Mix 27 0.4222
+ECOPACT
+280 FLUIDO CON
+
+111 | RETARDANTE crinarte Sen ready Ready Mix 27 0.4176
+ECOPACT
+280 FLUIDO CON
+RETARDANTE Y 27 MPa 28d strength ready .
+
+F2 | TEMPERATURA mix concrete. Ready Mix 27 04176
+ECOPACT
+280 FLUIDO CON 27 MPa 28d strength ready .
+
+13 | HBRAECOPACT mix concrete. Ready Mix 27 0.4286
+280 FLUIDO CON
+FIBRA Y 27 MPa 28d strength ready .
+
+FA | RETARDANTE mix concrete. Ready Mix 27 0.4286
+ECOPACT
+280 FLUIDO CON
+FRIBRA Y 27 MPa 28d strength ready .
+
+18 | TEMPERATURA mix concrete. Ready Mix 27 0.4286
+ECOPACT
+280 FLUIDO 3/8 27 MPa 28d strength ready .
+
+116 ECOPACT mix concrete. Ready Mix 27 0.3878
+280 FLUIDO 3/8
+
+117 | CON RETARDANTE crinarte Sen ready Ready Mix 27 0.3878
+ECOPACT
+280 FLUIDO 3/8
+
+27 MPa 28d strength read
+
+118 | CON TEMPERATURA a concret rengen reacy Ready Mix 27 0.3878
+ECOPACT
+280 FLUIDO 3/8
+CON RETARDANTE 27 MPa 28d strength ready .
+
+19 |VTEMPERATURA | mix concrete. Ready Mix 27 03878
+ECOPACT
+280 LANZADO 27 MPa 28d strength ready .
+
+120 ECOPACT mix concrete. Ready Mix 27 0.3838
+280 LANZADO CON
+
+27 MPa 28d strength read
+
+121 | TEMPERATURA a concret . rengn reacy Ready Mix 27 0.3838
+
+ECOPACT
+
+LABELING SUSTAINABILITY | 11
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+300 BOMBA 29 MPa 28d strength ready .
+122 ECOPACT mix concrete. Ready Mix 29 0.3619
+300 BOMBA CON
+29 MPa 28d strength read
+123 | RETARDANTE en concret : rengn reacy Ready Mix 29 03619
+ECOPACT
+300 BOMBA CON
+29 MPa 28d strength read
+124 | TEMPERATURA en concret : rengin reacy Ready Mix 29 0.3619
+ECOPACT
+300 BOMBA CON
+RETARDANTE Y 29 MPa 28d strength ready .
+128 | TEMPERATURA mix concrete. Ready Mix 29 0.3619
+ECOPACT
+
+Mix designs: 31 to 35 MPa:
+
+Table 5: Declared products with Mix designs: 31 to 35MPa considered in this environmental product declaration.
+
+28 day H20 to
+Mix# Unique name/ID Short description Product type strength, cement
+MPa ratio
+
+350 BOMBA 34 MPa 28d strength ready .
+
+126 ECOPACT mix concrete. Ready Mix 34 9.3551
+350 BOMBA CON
+
+127 | RETARDANTE sunaree Sens ready Ready Mix 34 03551
+ECOPACT
+350 BOMBA CON
+
+128 | TEMPERATURA sunaree Sens ready Ready Mix 34 03551
+ECOPACT
+350 BOMBA CON
+RETARDANTE Y 34 MPa 28d strength ready .
+
+129 | TEMPERATURA mix concrete. Ready Mix 34 93551
+ECOPACT
+350 SEMIFLUIDO 34 MPa 28d strength ready .
+
+130 ECOPACT mix concrete. Ready Mix 34 0.3824
+350 SEMIFLUIDO
+
+131 | CON RETARDANTE sunaree Sens ready Ready Mix 34 0.3824
+ECOPACT
+350 SEMIFLUIDO
+
+132 | CON TEMPERATURA sunaree Sens ready Ready Mix 34 0.3824
+ECOPACT
+350 SEMIFLUIDO
+CON RETARDANTE 34 MPa 28d strength ready .
+
+133 | VTEMPERATURA | mix concrete. Ready Mix 34 0.3824
+ECOPACT
+350 FLUIDO 34 MPa 28d strength ready .
+
+134 ECOPACT mix concrete. Ready Mix 34 0:3578
+360 FLUIDO CON
+
+135 | RETARDANTE si Patte Sens ready Ready Mix 34 03578
+ECOPACT
+360 FLUIDO CON
+
+136 | TEMPERATURA si Paate Sens ready Ready Mix 34 03578
+ECOPACT
+
+LABELING SUSTAINABILITY | 12
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+137
+
+350 FLUIDO CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+34 MPa 28d strength ready
+mix concrete.
+
+Ready Mix
+
+34
+
+0.3578
+
+Mix designs: 41 to 45 MPa:
+
+Table 6: Declared products with Mix designs: 41 to 45MPa considered in this environmental product declaration.
+
+28 day H20 to
+Mix# Unique name/ID Short description Product type strength, cement
+MPa ratio
+
+420 BOMBA 41 MPa 28d strength ready .
+
+138 ECOPACT mix concrete. Ready Mix 41 03762
+420 BOMBA CON
+
+139 | RETARDANTE de NI PREtreng ready Ready Mix a 0.3762
+ECOPACT
+420 BOMBA CON
+
+140 | TEMPERATURA de NI PREtrengn ready Ready Mix a 0.3762
+ECOPACT
+420 BOMBA CON
+RETARDANTE Y 41 MPa 28d strength ready .
+
+M? | TEMPERATURA mix concrete. Ready Mix #1 03762
+ECOPACT
+420 SEMIFLUIDO 41 MPa 28d strength ready .
+
+142 ECOPACT mix concrete. Ready Mix 41 0:3654
+420 SEMIFLUIDO
+
+143 | CON RETARDANTE de NI PREtrengn ready Ready Mix a 0.3654
+ECOPACT
+420 SEMIFLUIDO
+
+144 | CON TEMPERATURA de NI PREtrengn ready Ready Mix a 0.3654
+ECOPACT
+420 SEMIFLUIDO
+CON RETARDANTE 41 MPa 28d strength ready .
+
+145 | VTEMPERATURA | mix concrete. Ready Mix #1 03654
+ECOPACT
+420 FLUIDO 41 MPa 28d strength ready .
+
+146 ECOPACT mix concrete. Ready Mix 41 0:3654
+420 FLUIDO CON
+
+147 | RETARDANTE de NI PREtrengn ready Ready Mix a 0.3654
+ECOPACT
+420 FLUIDO CON
+
+148 | TEMPERATURA de NI PREtrengn ready Ready Mix a 0.3654
+ECOPACT
+420 FLUIDO CON
+RETARDANTE Y 41 MPa 28d strength ready .
+
+149 | TEMPERATURA mix concrete. Ready Mix #1 03654
+
+ECOPACT
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+READY MIX CONCRETE DESIGN COMPOSITION
+
+The following figures provide mass breakdown (kg per functional unit) of the material composition of
+each ready mix concrete design considered. Please note that the presented breakdown has been
+randomly altered by +/-10%, and is therefore only an approximation: this manipulation is to ensure
+confidentiality.
+
+Table 7: Ready mix concrete composition
+
+Product Components Raw Material, weight
+Cement Proprietary
+Aggregates 30-60.00
+Others 0.01-5.00
+Total 100.00
+
+A1 RAW MATERIAL RECYCLED CONTENT AND MATERIAL LOSSES —
+
+The following table provides a list of the raw material inputs (module A1) across all products
+considered, their recyclability content and assumed material losses.
+
+Table 8: Module A1 raw material inputs, the recyclability content and assumed material Losses (dry basis)
+
+product.na mix.catego primary.conte  post.industrial.cont  post.consumer.cont  material.loss
+
+me ry nt ent ent es
+
+Cemento Cemento
+
+Fuerte Fuerte 1 O O O
+
+Industrial Industrial
+
+Water tap water 1 O O 0.05
+gravel,
+
+Gravel crushed 1 O O 0.05
+
+Crushed
+
+sand sand 1 O O 0.05
+
+Additives chemical, 1 O O 0.05
+organic
+
+Acrylic Fibre | acrylic filler | 1 O O 0.05
+
+ENVIRONMENTAL PRODUCT DECLARATION LHoLcm
+
+SYSTEM BOUNDARIES
+
+The following figure depicts the cradle-to-gate system boundary considered in this study,
+
+Life Cycle Impacts
+
+A1-A3 A4-A5 B1-B7 C1-C4
+PRODUCT STAGE INSTALLATION PROCESS STAGE USE STAGE END OF LIFE STAGE
+A1 Raw material supply A4 Transport to site B1 Use C1 De-installation/
+A2 Transport A5 Installation B2 Maintenance Demolition
+A3 Manufacturing Process B3 Repaid C2 Transport
+
+B4 Replacement C3 Waste processing
+
+B5 Refurbishment C4 Disposal of Waste
+
+B6 Operational energy use
+B7 Operational water use
+
+X ND ND ND
+
+Figure 1: General Life cycle phases for consideration in a construction works system.
+
+This is a Cradle-to-gate life cycle assessment and the following life cycle stages are included in the
+study:
+
+e A1: Raw material supply (upstream processes) - Extraction, handling, and processing of the
+materials used in manufacturing the declared products in this LCA.
+
+e A2: Transportation - Transportation of A1 materials from the supplier to the “gate” of the
+manufacturing facility (i.e. A3).
+
+e A3: Manufacturing (core processes)- The energy and other utility inputs used to store,
+move, and manufacturer the declared products and to operate the facility.
+
+As according to the PCR, the following figure illustrates the general activities and input requirements
+for producing ready mix concrete products and is not necessarily exhaustive.
+
+System Boundary
+
+Raw Material Supply Transport Manufacturing
+
+(A1) (A2) (A3)
+
+Cements & SCMs Truck, Rail, Ship Energy Carriers (electricity and fuels)
+
+Aggregates Energy Carriers (fuels) Ancillary Materials (lubricants, motor oil, cleaning chemicals, other
+Admixtures consumables)
+
+Batch Water Water (manufacturing water, including wash water for cement trucks,
+Fibers & Pigments but excluding batch water)
+
+Waste (end of life treatment of ancillary materials and any packaging)
+30% total fleet energy transit mix plants only
+
+Figure 2: General system inputs considered in the product system and categorized by modules in scope
+
+LABELING SUSTAINABILITY | 15
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+In addition, as according to the relevant PCR, the following requirements are excluded from this study:
+
+e Production, manufacture, and construction of A3 building/capital goods and infrastructure.
+
+e Production and manufacture of steel production equipment, steel delivery vehicles, earth-
+moving equipment, and laboratory equipment.
+
+e Personnel-related activities (travel, furniture, office supplies).
+
+e Energy use related to company management and sales activities.
+
+For this LCA the manufacturing plant, owned and operated by Holcim El Salvador, is located at their
+Planta KM 29 facility in El Salvador. Al operating data is formulated using the actual data from Holcim
+El Salvador's plant at the above location, including Water, energy consumption and waste generation.
+Al inputs for this system boundary are calculated for the plant.
+
+This life cycle inventory Was organized in a spreadsheet and was then input into an RStudio
+environment where pre-calculated LCIA results for relevant products/activities stemming from the
+ecoinvent v3.8 database and a local EPD database in combination with primary data from Holcim El
+Salvador were utilized. Explanations of the contribution of each data source to this study are outlined
+in the section ‘Data Sources and Quality’. Further LCI details for each declared product are provided in
+the sections ‘Detailed LCI tables’ and ‘Transport tables’ of the detailed LCA report. À parameter
+uncertainty analysis was also performed where key statistical results (e.g. min/mean/max etc.) are
+provided in the detailed LCA report.
+
+CUT-OFF CRITERIA
+
+ISO 14044:2006 and the focus PCR requires the LCA model to contain a minimum of 95% of the total
+inflows (mass and energy) to the upstream and core modules be included in this study. The cut-off
+criteria were applied to all other processes unless otherwise noted above as follows. À 1% cut-off is
+considered for all renewable and non-renewable primary energy consumption and the total mass of
+inputs within a unit process where the total of the neglected inputs does not exceed 5%.
+
+DATA SOURCES AND DATA QUALITY ASSESSMENT
+
+Raw material transport: A combination of actual mode/distance combinations were assumed for key
+bulk materials wWhereas ecoinvent default multi-modal market mix distances were assumed for other
+inputs where no original data could be provided.
+
+Electricity: Electricity consumption values are for Holcim El Salvador in calendar year 2021. These
+values were direct reported from Holcim records. The unit process “market for electricity, medium
+voltage/electricity, medium voltage/EC/KWh" was used to represent the El Salvador grid electricity
+used by the concrete plant.
+
+Process/space heating: Not applicable.
+
+Fuel required for machinery: Machinery-related fuel requirements were determined from direct
+Holcim information. The types of machinery used include generators and transportation equipment
+used for moving materials.
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Waste generation: Waste generation values are directly reported from Holcim operations for both
+bulk wastes. No Hazardous waste High-level radioactive waste is generated on-site at this facility.
+
+Recovered energy: Not applicable.
+
+Recycled/reused material/components: The amount of returned concrete is based on Holcim
+primary data for the reference year, 2021.
+
+Module A1 material Losses: Due to lack of data, default loss factors of 5% were assumed. The PCR
+states" A3 shall include an assumption of 5% material loss unless product specific data is available and
+transparently reported in the project LCA report underlying the EPD;
+
+Direct A3 emissions accounting: Not applicable.
+
+Waste transport requirements: Transportation distances are using estimated values. The waste hauler
+cannot guarantee the exact distances traveled due to the variation of route and actual location of
+disposal. Most waste disposal sites are near the plant therefore the 25 km distance is à representative
+estimate. Returned concrete and Wash Water, measured in kilograms, is based on direct Holcim
+reporting for the reference year 2021.
+
+Product transport requirements: The diesel fuel used by the mixing trucks is direct primary
+information reported from Holcim El Salvador records for the year 2021. Holcim records their fuel for
+their trucks in L/km and therefore the information was converted with the following formula: (Ave. km
+to site)’ 2 for return L diesel/km / (ave. m3 of concrete in a load) total concrete volume in m3 * fraction
+allocated to A3. A4 is outside the scope of this study.
+
+The following tables depict a list of assumed life cycle inventory utilized in the LCA modeling to
+generate the impact results across the life cycle modules in scope. An assessment of the quality of
+each LCI activities utilized from various sources is also provided.
+
+Table 9: LCI inputs assumed for module A1 (i.e. raw material supply) Data Quality Assessment Key Fair-1, Good-2, Very Good
+=3.
+
+(U]
+®
+>»
+8 Ê > &
+= Q. LA +
+oO c = 2
+[= = Le] ©.
+= © © re) G
+re] G O £ © := €
+© © CS © © (°]
+Input LCIactivity Data.source Ô > FH KH O0 x 0
+Water tap Water production, ecoinvent Santa Ana | v38in
+conventional with V3.8 2021
+: 2 3 1 3 3
+biological treatment/tap
+water/RoW/kg
+Acrylic market for acrylic ecoinvent San v3.8 in
+Fibre filler/acrylic V3.8 Salvador 2021 2 3 1 3 3
+filler/RoW/kg
+Additives | market for chemical, ecoinvent Sonsonate | v381in
+organic/chemical, V3.8 2021 2 3 1 3 3
+organic/GLO/kg
+
+LABELING SUSTAINABILITY | 17 Ô
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Cemento | Cemento Fuerte Progam Santa Ana | 21 July
+Fuerte Industrial Operator: 2023
+Industrial Labeling
+Sustainability-
+EPD ID: 3 3 3 3 3
+ae8c3b6d-
+1972-4402-
+b184-
+115794c37a67
+Crushed | sand quarry operation, ecoinvent La v3.8 in
+sand extraction from river V3.8 Libertad 2021
+bed/sand/BR/kg; Note: > 3 1 3 3
+modifications made (see
+ecoinvent activity
+changes table)
+Gravel gravel production, ecoinvent La v3.8 in
+crushed/gravel, v3.8 Libertad 2021
+crushed/BR/Kkg; Note: > 3 1 3 3
+modifications made (see
+ecoinvent activity
+changes table)
+
+DATA QUALITY ASSESSMENT
+
+Data quality/variability requirements, as specified in the PCR, are applied. This section describes the
+achieved data quality relative to the ISO 14044:2006 requirements. Data quality is judged based on its
+precision (measured, calculated, or estimated), completeness (e.g. unreported emissions), consistency
+(degree of uniformity of the methodology applied within a study serving as a data source) and
+representativeness (geographical, temporal, and technological).
+
+Precision: Through measurement and calculation, the manufacturers collected and provided primary
+data on their annual production. For accuracy, the LCA practitioner and 3rd Party Verifier validated the
+plant gate-to-gate data.
+
+Completeness: Al relevant specific processes, including inputs (raw materials, energy, and ancillary
+materials) and outputs (emissions and production volume) were considered and modeled to represent
+the specified and declared products. The majority of relevant background materials and processes
+were taken from ecoinvent v3.8 LCI datasets where relatively recent region-specific electricity inputs
+were utilized. The most relevant EPDs requiring key A1 inputs were also utilized where readily available.
+
+Consistency: To ensure consistency, the same modeling structure across the respective product
+systems was ütilized for allinputs, which consisted of raw material inputs and ancillary material, energy
+flows, water resource inputs, product, and co-products outputs, returned and recovered Cement
+materials, emissions to air, Water and soil, and waste recycling and treatment. The same background
+LCI datasets from the ecoinvent v3.8 database were used across all product systems. Crosschecks
+concerning the plausibility of mass and energy flows \Wwere continuously conducted. The LCA team
+conducted mass and energy balances at the plant and selected process level to maintain a high level
+of consistency.
+
+LABELING SUSTAINABILITY | 18 Ô
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Reproducibility: Internal reproducibility is possible since the data and the models are stored and
+available in a machine readable project file for all foreground and background processes, and in
+Labeling Sustainability's proprietary Ready Mix Concrete LCA calculator” for all production facility and
+product-specific calculations. À considerable level of transparency is provided throughout the detailed
+LCA report as the specifications and material quantity make-up for the declared products are
+presented and key primary and secondary LCI data sources are summarized. The provision of more
+detailed publicly accessible data to allow full external reproducibility was not possible due to reasons
+
+of confidentiality.
+
+‘Labeling Sustainability has developed a proprietary tool that allows the calculation of PCR-compliant
+LCA results for Ready Mix Concrete product designs. The tool auto-calculates results by scaling base-
+unit technosphere inputs (i.e.1 kg sand, 1 KWh electricity, etc) to replicate the reference flow
+conversions that take place in any typical LCA software like openLCA or SimaPro. The tool was tested
+against several LCASs performed in openLCA and the tool generated identical results to those realized
+in openLCA across every impact category and inventory metric (where comparisons could be readily
+made).
+
+Representativeness: The representativeness of the data is summarized as follows.
+
+e Time related coverage of the manufacturing processes primary collected data from 2021-
+01-01 to 2021-12-31.
+
+e _Upstream (background) LCI data was either the PCR specified default (if applicable) or
+more appropriate LCI datasets as found in the country-adjusted ecoinvent V3.8 database.
+
+e _ Geographical coverage for inputs required by the A3 facilitylies) is representative of its
+region of focus; other upstream and background processes are based on US, North
+American, or global average data and adjusted to regional electricity mixes when relevant.
+
+e _Technological coverage is typical or average and specific to the participating facilities for
+all primary data.
+
+ENVIRONMENTAL INDICATORS AND INVENTORY METRICS
+
+Per the PCR, this EPD supports the life cycle impact assessment indicators and inventory metrics as
+listed in the tables below. As specified in the PCR, the most recent US EPA Tool for the Reduction and
+Assessment of Chemical and Other Environmental Impacts (TRACI), impact categories were utilized as
+they provide a North American context for the mandatory category indicators to be included in the
+EPD. Additionally, the PCR requires a set of inventory metrics to be reported with the LCIA indicators.
+
+It should be noted that emerging LCA impact categories and inventory items are still under
+development and can have high levels of uncertainty that preclude international acceptance pending
+further development. Use caution when interpreting data in any of the following categories.
+
+LABELING SUSTAINABILITY | 19 Ô
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+LIMITATIONS
+
+This EPD is a declaration of potential environmental impact and does not support or provide definitive
+comparisons of the environmental performance of specific products. Only EPDSs prepared from cradle-
+to-grave life cycle results and based on the same function and reference service life and quantified by
+the same functional unit can be used to assist purchasers and users in making informed comparisons
+between products.
+
+LCIA results are relative expressions and do not predict impacts on category endpoints, the exceeding
+of thresholds, safety margins or risks. Further, LCA offers a wide array of environmental impact
+indicators, and this EPD reports a collection of those, as specified by the PCR.
+
+In addition to the impact results, this EPD provides several metrics related to resource consumption
+and waste generation. While these data may be informational in other ways, they do not provide a
+measure of impact on the environment.
+
+TOTAL IMPACT SUMMARY
+
+The following table reports the total LCA results for each product produced at the given ready mix
+concrete facility on a per 1m3 of concrete basis.
+
+Mix designs: 0 to 15 MPa
+
+Table 10: Total Life cycle (across modules in scope) impact results for Mix designs: 0 to 15MPa, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP G\WwP ODP PCOP ADPe ADPf
+MJ, net
+
+Unit Ha À LIN Ed COz- D EQ Ed NOX- | Kg Sb-Eq | calorific
+value
+
+Minimum 70.8 0.134 376 4.44e-05 | 0.952 0.00232 5800
+
+Maximum 79.6 0.148 422 4.92e-05 1.07 0.00263 6520
+
+Mean 751 0.141 397 467e-05 | 101 O.00247 6140
+
+Median 74 0.139 390 4159-05 | 0.998 0.00241 6020
+
+100 BOMBA 70.8 0.134 376 4.448-05 | 0.952 0.00232 5800
+
+ECOPACT
+
+100 BOMBA CON
+
+TEMPERATURA 70.8 0.134 376 4.448-05 | 0.952 0.00232 5800
+
+ECOPACT
+
+100 BOMBA CON
+
+RETARDANTE 70.8 0.134 376 4.448-05 | 0.952 0.00232 5800
+
+ECOPACT
+
+100 BOMBA CON
+
+RETARDANTE V 70.8 0.134 376 4.448-05 | 0.952 0.00232 5800
+
+TEMPERATURA
+
+ECOPACT
+
+100 BOMBA CON 731 0.138 389 4.59e-05 | 0.981 O.00241 6010
+
+FIBRA ECOPACT
+
+LABELING SUSTAINABILITY | 20
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+100 BOMBA CON
+FIBRA Y
+RETARDANTE
+ECOPACT
+
+100 BOMBA CON
+FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+100 DIRECTO
+ECOPACT
+
+100 DIRECTO CON
+TEMPERATURA 716 0.135 376 444e-05 | 0.966 0.00233 5810
+ECOPACT
+
+100 DIRECTO CON
+RETARDANTE 74 0.139 389 4.59e-05 0.997 0.00241 6010
+ECOPACT
+
+100 DIRECTO CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+100 DIRECTO CON
+FIBRA ECOPACT
+100 DIRECTO CON
+FIBRA Y
+RETARDANTE
+ECOPACT
+
+100 DIRECTO CON
+FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+140 DIRECTO
+ECOPACT
+
+140 DIRECTO CON
+RETARDANTE 79.2 0.148 421 492e-05 | 106 0.00263 6520
+ECOPACT
+
+140 DIRECTO CON
+TEMPERATURA 79.2 0.148 421 492e-05 | 106 0.00263 6520
+ECOPACT
+
+140 DIRECTO CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+140 BOMBA
+ECOPACT
+
+140 BOMBA CON
+RETARDANTE 79.6 0.148 422 4.92e-05 | 107 0.00263 6520
+ECOPACT
+
+140 BOMBA CON
+TEMPERATURA 79.6 0.148 422 4.92e-05 | 107 0.00263 6520
+ECOPACT
+
+140 BOMBA CON
+RETARDANTE Y
+
+731 0.138 389 4.59e-05 | 0.981 0.00241 6010
+
+731 0.138 389 4.59e-05 | 0.981 0.00241 6010
+
+716 0.135 376 444e-05 | 0.966 0.00233 5810
+
+74 0.139 389 4.59e-05 0.997 0.00241 6010
+
+741 0.139 390 4.59e-05 0.998 0.00242 6020
+
+741 0.139 390 4.59e-05 0.998 0.00242 6020
+
+741 0.139 390 4.59e-05 0.998 0.00242 6020
+
+79.2 0.148 421 492e-05 | 106 0.00263 6520
+
+79.2 0.148 421 492e-05 | 106 0.00263 6520
+
+79.6 0.148 422 4.92e-05 | 107 0.00263 6520
+
+79.6 0.148 422 4.92e-05 | 107 0.00263 6520
+
+LABELING SUSTAINABILITY | 21
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TEMPERATURA
+ECOPACT
+
+b) Inventory Metrics:
+
+Indicator/LC NR WD CBW CH CNH
+
+| Metric TPE RE NRE R RR p LFW  LFHW c CWWC w w
+
+Unit MJ- . MJ- k m m Vase kg m m k k
+Eq Eq |“ 3 3 waste | 3 3 g g
+
+Eq e
+MiRnUm 642 | 171 | 624 | 165 | 0.0029 | 106 | 938 | 00056 | 0178 | 00008 |o 7.66
+98
+
+Maximum
+
+Ma 682 |18 | 663 | 175 | 00031 | 115 | 964 | 00059 | 0185 | 00008 |o 7.66
+O 3 O 3 98
+
+Median 668 | 17 | 650 | 171 | 0.0030 | 119 | 95.6 | 0.0058 | 0184 | 00008 |o 7.66
+O 8 O 6 2 98
+
+100 BOMBA | 642 624 0.0029 0.0056 0.0008
+
+ECOPACT o 110 165 5 12 93.8 à 0.184 8 0 7.66
+
+100 BOMBA
+
+CON 644 626 0.0029 0.0056 0.0008
+
+TEMPERATU Lo 173 10 165 ; 12 93.8 à 0.184 8 0 7.66
+
+RA ECOPACT
+
+100 BOMBA
+
+CON 645 626 0.0029 0.0056 0.0008
+
+RETARDANT lo 7210 165 5 12 93.8 à 0.184 98 0 7.66
+
+E ECOPACT
+
+100 BOMBA
+
+CON
+
+RETARDANT | 644 626 0.0029 0.005656 0.0008
+
+EY o 173 0 165 x 12 93.8 à 0.184 98 0 7.66
+
+TEMPERATU
+
+RA ECOPACT
+
+100 BOMBA
+
+CON FIBRA u « n 171 9:0030 121 | 955 200 0.189 us O 7.66
+
+ECOPACT 3 9
+
+100 BOMBA
+
+CON FIBRA Y | 667 651 0.0030 0.0058 0.0008
+
+RETARDANT lo |/lo 171 |: 411955 |: 0189 | 8 9  |766
+
+E ECOPACT
+
+100 BOMBA
+
+CON FRIBRA 667 |17 | 650 0.0030 0.0058 0.0008
+
+Y o o 171 121 [955 |, 0.189 8 0 7.66
+
+TEMPERATU 9 5 9
+
+RA ECOPACT
+
+100 DIRECTO | 644 626 0.0029 0.0056 0.0008
+
+ECOPACT o 1210 165 5 114 | 939 à 0.178 98 0 7.66
+
+100 DIRECTO
+
+CON 643 629 0.0056 0.0008
+
+TEMPERATU Lo 1210 165 | 0003 |114 | 939 à 0.178 98 0 7.66
+
+RA ECOPACT
+
+LABELING SUSTAINABILITY | 22
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+100 DIRECTO
+CON 669 | 17 | 650 0.0030 0.0058 0.0008
+
+RETARDANT lo lo lo |? 3 19 [954 |, 0178 | ° 766
+E ECOPACT
+
+100 DIRECTO
+
+CON
+
+RETARDANT | 669 | 17 | 649 0.0030 0.0058 0.0008
+
+EY o 8 o 171 7 119 95.4 1 0.178 98 O 7.66
+TEMPERATU
+
+RA ECOPACT
+
+100 DIRECTO
+
+CON FIBRA ee « 049 171 | 09930 | Ho | 056 2998 0189 cs 008 7.66
+ECOPACT 7 9
+
+100 DIRECTO
+
+CON FIBRA Y | 665 | 17 | 649 0.0030 0.0058 0.0008
+
+RETARDANT lo |8 lo |% 16 19 [956 |; 0184 | 8 9  |766
+E ECOPACT
+
+100 DIRECTO
+
+CON FRIBRA 668 18 649 O.0030 0.0058 0.0008
+
+Y o o lo 171 | u9 |956 |, 0189 | 0 7.66
+TEMPERATU 9
+
+RA ECOPACT
+
+140 DIRECTO 722 19 704 0.0033 0.0061 0.0008
+
+ECOPACT x s lo 185 |} 106 | 992 7 0184 08 0 7.66
+140 DIRECTO
+
+CON 725 |19 | 705 0.0033 0.0061 0.0008
+
+RETARDANT lo 4 lo |‘ |8 106 |992 |, 0184 | 8 9  |766
+E ECOPACT
+
+140 DIRECTO
+
+CON 724 |19 | 705 0.0033 0.0061 0.0008
+
+TEMPERATU lo 5 lo |‘ |; 106 992 |; 0184 | ° 766
+RA ECOPACT
+
+140 DIRECTO
+
+CON
+
+RETARDANT 724 19 704 0.0032 0.0061 0.0008
+
+Ev x s lo 185 u 106 | 992 7 0184 08 0 7.66
+TEMPERATU
+
+RA ECOPACT
+
+140 BOMBA 724 19 705 0.0061 0.0008
+
+ECOPACT o 5 o 186 0.0033 10.9 99.2 8 0.189 98 O 7.66
+140 BOMBA
+
+CON 725 |19 | 704 0.0033 0.0061 0.0008
+
+RETARDANT lo |6 lo |: 1], 199 | 992 |& 0189 | ° 766
+E ECOPACT
+
+140 BOMBA
+
+CON 724 19 707 0.0032 0.0061 0.0008
+
+TEMPERATU lo |6 lo |l'# lo 199 1992 }3 0189 | 8 9  |766
+RA ECOPACT
+
+140 BOMBA
+
+CON 728 |19 | 704 0.0033 0.0061 0.0008
+
+RETARDANT lo |6 lo |'# |, 199 | 992 le 0189 | ° 766
+EY
+
+LABELING SUSTAINABILITY | 23
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TEMPERATU
+RA ECOPACT
+
+Mix designs: 15 to 20 MPa
+
+Table 11: Total life cycle (across modules in scope) impact results for Mix designs: 15 to 20MPa, assuming the geometric
+
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP WP ODP PCOP ADPe ADPf
+MJ, net
+
+Unit Ha À LIN Ed COz- D EQ Ed NOX- | Kg Sb-Eq | calorific
+value
+
+Minimum 82.7 0.154 441 5.13e-05 11 0.00276 6820
+
+Maximum 85.8 0.159 455 5.27e-05 115 0.00286 7040
+
+Mean 84.3 0.156 448 5.2e-05 113 0.00281 6930
+
+Median 84.5 0.157 448 5.2e-05 113 0.00281 6930
+
+ES COPACT À 82.8 0.154 441 5.13e-05 111 0.00276 6830
+
+180 BOMBA CON
+
+TEMPERATURA 82.8 0.154 441 5.13e-05 111 0.00276 6830
+
+ECOPACT
+
+180 BOMBA CON
+
+RETARDANTE 82.8 0.154 441 5.13e-05 111 0.00276 6830
+
+ECOPACT
+
+180 BOMBA CON
+
+RETARDANTE V 82.7 0.154 441 5.13e-05 11 0.00276 6820
+
+TEMPERATURA
+
+ECOPACT
+
+180 BOMBA CON 851 0.158 455 5.27e-05 113 0.00285 7040
+
+FIBRA ECOPACT
+
+180 BOMBA CON
+
+FIBRAY 851 0.158 455 5.27e-05 113 0.00285 7040
+
+RETARDANTE
+
+ECOPACT
+
+180 BOMBA CON
+
+FRIBRA Y 851 0.158 455 5.27e-05 113 0.00285 7040
+
+TEMPERATURA
+
+ECOPACT
+
+180 DIRECTO 83.5 0155 442 5.13e-05 1.12 0.00276 6830
+
+ECOPACT
+
+180 DIRECTO CON
+
+TEMPERATURA 83.5 0155 442 5.13e-05 1.12 0.00276 6830
+
+ECOPACT
+
+180 DIRECTO CON
+
+RETARDANTE 84.5 0.157 448 5.26-05 113 0.00281 6930
+
+ECOPACT
+
+180 DIRECTO CON
+
+RETARDANTE Ÿ 84.5 0.157 448 5.26-05 113 0.00281 6930
+
+LABELING SUSTAINABILITY | 24
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TEMPERATURA
+ECOPACT
+180 DIRECTO CON 85.8 O1 27e-0 11 0.00286 040
+FIBRA ECOPACT E. 159 455 5.27e-05 15 . 704
+180 DIRECTO CON
+FIBRAY 85.8 O1 27e-0 11 0.00286 040
+RETARDANTE E. 159 455 5.27e-05 15 . 704
+ECOPACT
+180 DIRECTO CON
+FRIBRA Y 85.8 O1 27e-0 11 0.00286 040
+TEMPERATURA E. 159 455 5.27e-05 15 . 704
+ECOPACT
+b) Inventory Metrics:
+Indicator/LC TPE RE NRE NR RR WD LFW  LFHW CBW wwe CH CNH
+I Metric R P C W Ww
+Unit M- ù ' MJ- k m m Was kg m m k k
+Eq Eq g 3 3 waste 3 3 g g
+Eq e
+Minimum 757 | 20 | 735 |194 | 0.0034 | 10.3 | 102 0.0064 | 0178 | 00008 |o 7.66
+98
+Maximum
+770 | 20 | 749 | 197 | 0.0035 | 10.6 | 102 0.0065 | 0184 | 00008 |0o 7.66
+Mean
+O 8 O 4 98
+Median 770 | 20 | 748 | 198 | 0.0035 | 10.6 | 102 0.0064 | 0184 | 00008 |0o 7.66
+o 8 O 2 9 98
+180 BOMBA 758 | 20 | 738 0.0034 0.0064 0.0008
+ECOPACT o > o 194 7 11 102 > 0.184 08 O 7.66
+180 BOMBA
+CON 757 | 20 | 735 0.0064 0.0008
+TEMPERATU lo u o 194 | 0.0035 | 11 102 > 0.184 98 O 7.66
+RA ECOPACT
+180 BOMBA
+CON 757 | 20 | 740 0.0035 0.0064 0.0008
+RETARDANT [lo 4 lo |1%5 |; 108 |102 |, 0184 | 9 766
+E ECOPACT
+180 BOMBA
+CON
+RETARDANT |757 |20 |739 0.0034 0.0064 0.0008
+EY o 5 o 194 : 10.7 | 102 1 0.184 98 O 7.66
+TEMPERATU
+RA ECOPACT
+180 BOMBA 61 0.00 0.006 0.0008
+CON FIBRA 7 213 ? 200 9035 10.7 | 103 8 5 0.189 8 O 7.66
+ECOPACT 7 9
+180 BOMBA
+CON FIBRA Y | 782 760 0.0065 0.0008
+RETARDANT | o 211 o 200 | 0.0036 | 10.7 | 103 8 0.189 08 O 7.66
+E ECOPACT
+
+LABELING SUSTAINABILITY | 25
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+180 BOMBA
+
+CON FRIBRA 781 760 0.0036 0.0065 0.0008
+
+Y 0 211 o 200 2 10.7 103 8 0.189 8 O 7.66
+TEMPERATU 9
+
+RA ECOPACT
+
+180 DIRECTO 760 20 740 0.0034 0.0064 0.0008
+
+ECOPACT o 6 lo |A 8 O1E | Ce 9  |766
+180 DIRECTO
+
+CON 759 | 20 | 739 0.0034 0.0064 0.0008
+
+TEMPERATU lo 3 lo #10 O1E | Ce 9  |766
+RA ECOPACT
+
+180 DIRECTO
+
+CON 771 20 747 0.0034 0.0064 0.0008
+
+RETARDANT lo o lo 198 |: 103 [102 |0 0.178 08 0 7.66
+E ECOPACT
+
+180 DIRECTO
+
+CON
+
+RETARDANT 770 20 748 0.0035 0.0064 0.0008
+
+EY 0 8 o 197 3 10.3 102 9 0.178 98 O 7.66
+TEMPERATU
+
+RA ECOPACT
+
+180 DIRECTO 82 0.00 0.006 0.0008
+
+CON FIBRA u 211 7° 200 9035 10.3 | 103 8 5 0.189 8 O 7.66
+ECOPACT / 9
+
+180 DIRECTO
+
+CON FIBRAY | 783 756 0.0036 0.0065 0.0008
+
+RETARDANT o 211 o 200 4 10.3 103 8 0.189 98 O 7.66
+E ECOPACT
+
+180 DIRECTO
+
+CONFRIBRA 782 762 0.0036 0.0065 0.0008
+
+Y o 213 1% 200 103 [103 | 0189 | à 0 7.66
+TEMPERATU 4 9
+
+RA ECOPACT
+
+Mix designs: 21 to 25 MPa
+
+Table 12: Total life cycle (across modules in scope) impact results for Mix designs: 21 to 25MPa, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP G\WwP ODP PCOP ADPe ADPf
+MJ, net
+Unit Ha À LIN Ed COz- D EQ Ed NOX- | Kg Sb-Eq | calorific
+value
+Minimum 93.9 0.173 507 5.82e-05 | 124 0.00319 7850
+Maximum 130 0.233 690 7.71e-05 1.72 0.00445 10700
+Mean 101 550 G28e-05 | 133 0.00349 8530
+Median 09.8 0.183 540 617e-05 1.32 0.00342 8370
+210 DIRECTO
+ECOPACT 97.5 0.179 520 5.96e-05 | 129 0.00329 8060
+
+LABELING SUSTAINABILITY | 26 Ô
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+210 DIRECTO CON
+TEMPERATURA 97.5 0.179 520 5.96e-05 | 129 0.00329 8060
+ECOPACT
+
+210 DIRECTO CON
+RETARDANTE 97.5 0.179 520 5.96e-05 | 129 0.00329 8060
+ECOPACT
+
+210 DIRECTO CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+210 DIRECTO CON
+FIBRA ECOPACT
+210 DIRECTO CON
+FIBRA Y
+RETARDANTE
+ECOPACT
+
+210 DIRECTO CON
+FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+210 BOMBA
+ECOPACT
+
+210 BOMBA CON
+TEMPERATURA 94.5 0.174 507 5.82e-05 | 125 0.0032 7850
+ECOPACT
+
+210 BOMBA CON
+RETARDANTE 93.9 0.173 507 5.82e-05 | 124 0.00319 7850
+ECOPACT
+
+210 BOMBA CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+210 BOMBA CON
+FIBRA ECOPACT
+210 BOMBA CON
+FIBRA Y
+RETARDANTE
+ECOPACT
+
+210 BOMBA CON
+FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+210 BOMBA PP
+ECOPACT
+
+210 BOMBA PP CON
+TEMPERATURA 93.9 0.173 507 5.82e-05 | 124 0.00319 7850
+ECOPACT
+
+210 SEMIFLUIDO
+ECOPACT
+
+210 SEMIFLUIDO
+CON TEMPERATURA | 996 0.183 539 6.16e-05 1.32 0.00341 8360
+ECOPACT
+
+97.5 0.179 520 5.96e-05 | 129 0.00329 8060
+
+990.8 0.182 533 6.1e-05 1.32 0.00338 8260
+
+990.8 0.182 533 6.1e-05 1.32 0.00338 8260
+
+990.8 0.182 533 6.1e-05 1.32 0.00338 8260
+
+94.5 0.174 507 5.82e-05 | 125 0.0032 7850
+
+93.9 0.173 507 5.82e-05 | 124 0.00319 7850
+
+96.8 0.178 520 5.96e-05 | 128 0.00329 8060
+
+96.2 0.177 520 5.96e-05 | 127 0.00329 8060
+
+96.8 0.178 520 5.96e-05 | 128 0.00329 8060
+
+93.9 0.173 507 5.82e-05 | 124 0.00319 7850
+
+99.6 0.183 539 616e-05 | 132 0.00341 8360
+
+LABELING SUSTAINABILITY | 27
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+210 SEMIFLUIDO
+CON RETARDANTE 99.6 0.183 539 616e-05 | 132 0.00341 8360
+ECOPACT
+
+210 SEMIFLUIDO
+CON RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+210 SEMIFLUIDO
+CON FIBRA 100 0.183 540 617e-05 1.32 0.00342 8370
+ECOPACT
+
+210 SEMIFLUIDO
+CON FIBRA Y
+RETARDANTE
+ECOPACT
+
+210 SEMIFLUIDO
+CON FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+210 SEMIFLUIDO 3/8
+ECOPACT
+
+210 SEMIFLUIDO 3/8
+CON RETARDANTE 106 0.195 591 G.72e-05 | 139 0.00374 9170
+ECOPACT
+
+210 SEMIFLUIDO 3/8
+CON TEMPERATURA | 105 0.194 584 6.64e-05 | 137 0.0037 9060
+ECOPACT
+
+210 SEMIFLUIDO 3/8
+CON RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+210 FLUIDO
+ECOPACT
+
+210 FLUIDO CON
+TEMPERATURA 99.7 0.184 546 6.24e-05 1.31 0.00345 8460
+ECOPACT
+
+210 FLUIDO CON
+RETARDANTE 99.7 0.184 546 6.24e-05 1.31 0.00345 8460
+ECOPACT
+
+210 FLUIDO CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+210 FLUIDO CON
+FIBRA ECOPACT
+210 FLUIDO CON
+FIBRA Y
+RETARDANTE
+ECOPACT
+
+210 FLUIDO CON
+FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+99.6 0.183 539 616e-05 | 132 0.00341 8360
+
+100 0.183 540 617e-05 | 132 0.00342 8370
+
+100 0.183 540 617e-05 | 132 0.00342 8370
+
+105 0.194 584 6.64e-05 | 137 0.0037 9060
+
+106 0.195 591 6.72e-05 | 139 0.00374 9170
+
+99.7 0.184 546 6.24e-05 1.31 0.00345 8460
+
+99.7 0.184 546 6.24e-05 1.31 0.00345 8460
+
+101 0.186 553 6.31e-05 | 133 0.0035 8570
+
+101 0.186 553 6.31e-05 | 133 0.0035 8570
+
+101 0.186 553 6.31e-05 | 133 0.0035 8570
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+210 FLUIDO 3/8
+ECOPACT 108 0.199 604 6.85e-05 | 141 0.00383 9370
+210 FLUIDO 3/8 CON
+RETARDANTE 108 0.199 604 6.85e-05 | 141 0.00383 9370
+ECOPACT
+210 FLUIDO 3/8 CON
+TEMPERATURA 108 0.199 604 6.85e-05 | 141 0.00383 9370
+ECOPACT
+210 FLUIDO 3/8 CON
+RETARDANTE V 108 O1 60 6.85e-0 1.41 0.0038 O
+TEMPERATURA 199 4 -85e-05 A -00383 937
+ECOPACT
+210 LANZADO 10 02 610 6.93e-0 1.42 0.0038 O
+ECOPACT 9 . 93-05 À «00367 947
+210 LANZADO CON
+TEMPERATURA 109 02 610 693e-05 | 142 0.00387 9470
+ECOPACT
+210 PERMEABLE 130 02 690 1e-0 1.72 0.00 10700
+ECOPACT 3 233 9 77 5 7 -00445 7
+245 DIRECTO
+ECOPACT 102 0.187 546 623e-05 | 135 0.00346 8460
+245 BOMBA
+ECOPACT 102 0.187 552 6.3e-05 1.35 0.0035 8560
+250 DIRECTO
+ECOPACT 102 0.187 546 623e-05 | 135 0.00346 8460
+250 BOMBA
+ECOPACT 102 0.187 552 6.3e-05 1.35 0.0035 8560
+b) Inventory Metrics:
+Indicator/L NR WD CBW CH  CNH
+CI Metric TPE RE NRE R RR p LFW  LFHW c CcW\WcC w w
+Unit My- u MJ- k m3 m3 ct kg m3 m3 k k
+Eq Eq 9 waste 9 9
+Eq e
+Minimum 8690 23 8450 | 223 90039 101 | 109 90071 0.105 GENE O 7.66
+6 5 8 98
+Maximum
+2 . . .
+Mean 9480 5 9220 | 243 SACS) 10.2 | 114 0.0076 0.189 9:0008 O 7.66
+8 9 9 98
+, 25 | 906 0.0043 0.0075 0.0008
+Median 9320 o 239 z 0.94 | 113 8 0.189 98 O 7.66
+210 24 0.0041 0.007 0.0008
+DIRECTO 8930 8730 | 229 9016 | 111 0073 0.178 8 O 7.66
+ECOPACT 3 $ 4 9
+210
+DIRECTO
+CON 24 | 868 0.0041 0.0073 0.0008
+TEMPERATU 8940 ; o 229 > 916 | 111 : 0.178 98 O 7.66
+RA
+ECOPACT
+
+LABELING SUSTAINABILITY |
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+210
+DIRECTO
+CON 8960
+RETARDANT
+E ECOPACT
+210
+DIRECTO
+CON
+RETARDANT 24 0.0073 0.0008
+EY 8940 : 8710 | 230 | 00041 | 9.16 | 111 : 0.178 98 O 7.66
+TEMPERATU
+RA
+ECOPACT
+210
+
+CON FIBRA 9210 . 8910 | 236 |
+ECOPACT
+210
+DIRECTO
+CON FIBRA 9190 25 8930 | 235 90-0042 8.98 | 112 0.0075 | 0.189 9:0008 O 7.66
+Y O 4 98
+RETARDANT
+E ECOPACT
+210
+DIRECTO
+CON FRIBRA 25 0.0041 0.0008
+Y 9200 8950 | 236 8.98 | 112 0.0075 | 0189 O 7.66
+TEMPERATU
+RA
+ECOPACT
+210 BOMBA 23 0.004 0.0071 0.0008
+ECOPACT 8710 6 8480 | 223 04 9.83 | 109 8 0.184 98 O 7.66
+210 BOMBA
+CON
+TEMPERATU | 8690
+RA
+ECOPACT
+210 BOMBA
+CON 23 0.0039 0.0071 0.0008
+RETARDANT 8730 7 8520 | 223 5 10.4 | 109 8 0.189 98 O 7.66
+E ECOPACT
+210 BOMBA
+CON
+RETARDANT 23 | 850 0.004 0.0071 0.0008
+EY 8700 224 10.4 | 109 0.189 98 O 7.66
+TEMPERATU
+
+RA
+ECOPACT
+210 BOMBA 24 | 868 0.0041 0.0073 0.0008
+CON FIBRA 8980 230 9.86 | 111 0.189 O 7.66
+ECOPACT
+
+O.0041 0O.0073 0.0008
+
+24 8740 | 230 916 | 111 0.178 O 7.66
+
+9:0043 8.98 | 112 0.0075 | 0.189 Se O 7.66
+
+2 0.0071 0.0008
+3 8450 | 223 | 0.004 | 9.83 | 109 7 0.184 e) 7.66
+
+LABELING SUSTAINABILITY | 30
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+210 BOMBA
+CON FIBRA
+
+Y 8930 24 | 869 230 9:0041 105 | 111 00073 0.189 9.0008 O 7.66
+RETARDANT
+E ECOPACT
+210 BOMBA
+CON FRIBRA
+Y 8920 24 | 869 229 90041 0.86 | 111 0.0073 0.189 9:0008 O 7.66
+TEMPERATU 1 O 2 5 98
+RA
+ECOPACT
+210 BOMBA 23 0.004 0.0071 0.0008
+PP ECOPACT 8760 7 8490 | 224 où 10.3 | 109 8 0.184 98 O 7.66
+210 BOMBA
+PP CON
+TEMPERATU | 8720
+RA
+ECOPACT
+210 8
+SEMIFLUIDO | 9300 25 9020 | 238 9:0043 0.92 | 113 00075 0.189 ee O 7.66
+ECOPACT
+
+210
+SEMIFLUIDO
+CON 25 | 906
+TEMPERATU | 2% 4 lo 28 |&
+RA
+ECOPACT
+210
+SEMIFLUIDO
+CON 9260
+RETARDANT
+E ECOPACT
+210
+SEMIFLUIDO
+CON
+
+FA RDANT 9320 . es 238 ; 0 | 113 ©
+TEMPERATU
+RA
+ECOPACT
+210
+
+CON CIERR 9300 a 9010 | 238 ce 9.94 | 113 0.007 O2 9:0008 O 7.66
+ECOPACT
+210
+SEMIFLUIDO
+FON FIBRA 710 A 9020 | 239 2e 004 | 113 DITS 02 25 o 7.66
+RETARDANT
+E ECOPACT
+210 25 0.0042 0.0075 0.0008
+
+SEMIFLUIDO | 27° |, 9030239 |, 2UIHS | 02 lo 0 [766
+
+0.0039 O.0071 0.0008
+
+2
+3 8490 | 224 10.3 | 109 0.184 e) 7.66
+
+0.0042 002 | 113 0.0075 0189 Se o 766
+
+0.00 0.00 0.0008
+238 43 oo | 3 75 | 6189 6 o |766
+
+25 | 905
+
+0.00 0.00 0.0008
+43 75 | 6189 6 o |766
+
+LABELING SUSTAINABILITY | 31
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+CON FRIBRA
+ÿ
+TEMPERATU
+RA
+ECOPACT
+210
+SEMIFLUIDO | 1000 | 27
+3/8 o 6
+ECOPACT
+210
+SEMIFLUIDO
+3/8 CON
+RETARDANT
+E ECOPACT
+210
+SEMIFLUIDO
+
+3/8 CON 1010 27 980 0.004 0.008 0.0008
+
+TEMPERATU | o 2 lo 268 |&, 7 ju8 | 02 98 9 [766
+RA
+ECOPACT
+210
+SEMIFLUIDO
+
+3/8 CON
+
+RETARDANT 1020 7 9010 | 261 29047 u7 |uo 2908 02 25 o 7.66
+TEMPERATU
+RA
+ECOPACT
+210 FLUIDO 25
+ECOPACT | 9390
+210 FLUIDO
+CON 25 0.0076 0.0008
+TEMPERATU | 9400 9110 | 242 | 0.0043 | 114 | 114 0.194 O 7.66
+RA
+ECOPACT
+210 FLUIDO
+CON 25 0.0043 0.0076 0.0008
+RETARDANT 9390 ; 9150 | 241 9 114 | 114 : 0.194 98 O 7.66
+E ECOPACT
+210 FLUIDO
+CON
+RETARDANT 6 8
+EY 9390 25 90160 | 241 9:0043 114 | 114 9007 0.194 9:000 O 7.66
+TEMPERATU
+RA
+ECOPACT
+210 FLUIDO 25 0.0044 0.0077 0.0008
+CON FIBRA 9540 9230 | 244 114 | 114 0.194 O 7.66
+ECOPACT
+210 FLUIDO
+CON FIBRA 9500
+Y
+
+Sn 117 | 118 9.008 0.2 9.0008 O 7.66
+
+9760 | 258 08 98
+
+1020 | 27 990 O.0047 0.0081 0.0008
+
+261 11.7 119 O.2 O 7.66
+
+90160 | 241 90043 114 | 114 0.0076 0.194 9.0008 O 7.66
+
+. 9250 | 244 | 0.0044 | 114 | 114 7 0.194 Se e) 7.66
+
+LABELING SUSTAINABILITY | 32
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+RETARDANT
+E ECOPACT
+210 FLUIDO
+CON FRIBRA
+Y 26 0.0077 0.0008
+TEMPERATU | 252 0 9270 | 244 | 0.0044 | 114 | 114 : 0.194 98 (e) 7.66
+RA
+ECOPACT
+210 FLUIDO
+1040 | 28 | 1010 0.0048 0.0083 0.0008
+3/8 o ; o 268 > 117 | 120 A 0.205 98 (e) 7.66
+ECOPACT
+210 FLUIDO
+3/8 CON 1050 | 28 | 1020 0.0048 0.0083 0.0008
+RETARDANT | o 4 lo 267 16 17 [140 1: 0205 | 9 [766
+E ECOPACT
+210 FLUIDO
+3/8 CON
+TEMPERATU 1040 | 28 | 1010 268 0.0048 117 | 120 0.0083 0.205 9.0008 O 7.66
+O 5 (e) 2 1 98
+RA
+ECOPACT
+210 FLUIDO
+3/8 CON
+RETARDANT
+1040 | 28 | 1010 0.0048 0.0083 0.0008
+EY o : o 268 > 117 | 120 A 0.205 98 (e) 7.66
+TEMPERATU
+RA
+ECOPACT
+210 8 8
+LANZADO ni x — 270 LU 127 |121 | 00084 | 0184 ee o |766
+ECOPACT
+210
+LANZADO
+CON 1050 | 28 | 1030 0.0048 0.0008
+TEMPERATU | o 7 o 270 |& 12.7 | 121 0.0084 | 0.184 98 (e) 7.66
+RA
+ECOPACT
+210 1190 | 33 | 1160 0.0055 0.0092 0.0008
+PERMEABLE o 5 o 306 \ 101 | 130 8 0.105 98 (e) 7.66
+ECOPACT
+245
+DIRECTO 9430 s 9160 | 241 + 8.38 | 114 QU 0.184 Se (e) 7.66
+ECOPACT
+245 BOMBA 26 0.0043 0.0077 0.0008
+ECOPACT 9480 o 9250 | 245 : 9.34 | 114 À 0.189 08 (e) 7.66
+250 25 0.0043 0.0076 0.0008
+DIRECTO 9380 7 9140 | 241 3 8.38 | 114 : 0.184 98 (e) 7.66
+ECOPACT
+ACT À 9510 s 9240 | 244 a 9.34 | 114 7 0.189 _ O 7.66
+
+LABELING SUSTAINABILITY | 33
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix designs: 26 to 30 MPa
+
+Table 13: Total life cycle (across modules in scope) impact results for Mix designs: 26 to 30MPa, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP GWP ODP PCOP ADPe ADPf
+MJ, net
+
+Unit Ha À | LYN Ed COz- D EQ Ed NOX- | Ko Sb-Eq | calorific
+value
+
+Minimum 110 O2 592 6.71e-05 1.46 0.00377 9180
+
+Maximum 134 0.242 736 8.22e-05 175 0.00472 11400
+
+Mean 118 0.214 645 7.28e-05 | 154 0.00412 10000
+
+Median 115 0.209 631 713e-05 1.51 0.00402 9790
+
+280 DIRECTO
+
+ECOPACT 110 O2 592 6.71e-05 1.46 0.00377 9180
+
+280 DIRECTO CON
+
+TEMPERATURA 110 O2 592 6.71e-05 1.46 0.00377 9180
+
+ECOPACT
+
+280 DIRECTO CON
+
+RETARDANTE 110 O2 592 6.71e-05 1.46 0.00377 9180
+
+ECOPACT
+
+280 DIRECTO CON
+
+RETARDANTE Y
+
+TEMPERATURA 110 O2 592 6.71e-05 1.46 0.00377 9180
+
+ECOPACT
+
+280 DIRECTO CON
+
+FIBRA ECOPACT 112 0.202 599 6.78e-05 | 147 0.00382 9290
+
+280 DIRECTO CON
+
+FIBRA Y
+
+RETARDANTE 112 0.202 599 6.78e-05 | 147 0.00382 9290
+
+ECOPACT
+
+280 DIRECTO CON
+
+FRIBRA Y 112 0.202 599 6.78e-05 | 147 0.00382 9290
+
+TEMPERATURA
+
+ECOPACT
+
+ACT 114 0.207 618 6.98e-05 | 15 0.00394 9580
+
+280 BOMBA CON
+
+TEMPERATURA 114 0.207 618 698e-05 | 15 0.00394 9580
+
+ECOPACT
+
+280 BOMBA CON
+
+RETARDANTE 114 0.207 618 6.98e-05 | 15 0.00394 9580
+
+ECOPACT
+
+280 BOMBA CON
+
+RETARDANTE V 114 0.207 618 6.98e-05 | 15 0.00394 9580
+
+TEMPERATURA
+
+ECOPACT
+
+280 BOMBA CON 115 0.209 625 7.06e-05 | 151 0.00399 9690
+
+FIBRA ECOPACT
+
+LABELING SUSTAINABILITY | 34
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+280 BOMBA CON
+FIBRA Y
+RETARDANTE
+ECOPACT
+
+280 BOMBA CON
+FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+280 BOMBA PP
+ECOPACT
+
+280 BOMBA PP CON
+TEMPERATURA 113 0.206 618 6.99e-05 | 149 0.00393 9580
+ECOPACT
+
+280 SEMIFLUIDO
+ECOPACT
+
+280 SEMIFLUIDO
+CON TEMPERATURA | 114 0.207 624 7.06e-05 | 149 0.00397 9690
+ECOPACT
+
+280 SEMIFLUIDO
+CON RETARDANTE 114 0.207 624 7.06e-05 | 149 0.00397 9690
+ECOPACT
+
+280 SEMIFLUIDO
+CON RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+280 SEMIFLUIDO
+CON FIBRA 115 0.209 631 713e-05 | 15 0.00402 9790
+ECOPACT
+
+280 SEMIFLUIDO
+CON FIBRA Y
+RETARDANTE
+ECOPACT
+
+280 SEMIFLUIDO
+CON FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+280 SEMIFLUIDO 3/8
+ECOPACT
+
+280 SEMIFLUIDO 3/8
+CON RETARDANTE 122 0.221 670 7546-05 | 159 0.00428 10400
+ECOPACT
+
+280 SEMIFLUIDO 3/8
+CON TEMPERATURA | 121 0.219 663 747e-05 | 158 0.00424 10300
+ECOPACT
+
+280 SEMIFLUIDO 3/8
+CON RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+280 FLUIDO
+ECOPACT
+
+115 0.209 625 7.06e-05 | 151 0.00399 9690
+
+115 0.209 625 7.06e-05 | 151 0.00399 9690
+
+113 0.206 618 6.99e-05 | 149 0.00393 9580
+
+114 0.207 624 7.06e-05 | 149 0.00397 9690
+
+114 0.207 624 7.06e-05 | 149 0.00397 9690
+
+115 0.209 631 713e-05 | 15 0.00402 9790
+
+115 0.209 631 713e-05 | 15 0.00402 9790
+
+121 0.219 663 747e-05 | 158 0.00424 10300
+
+122 O.221 670 7.54e-05 1.59 0.00428 10400
+
+116 0.211 637 72e-05 151 0.00406 | 9890
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+280 FLUIDO CON
+TEMPERATURA 116 0.211 637 72e-05 151 0.00406 | 9890
+ECOPACT
+
+280 FLUIDO CON
+RETARDANTE 117 0.213 644 727e-05 | 153 0.0041 9990
+ECOPACT
+
+280 FLUIDO CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+280 FLUIDO CON
+FIBRA ECOPACT
+280 FLUIDO CON
+FIBRA Y
+RETARDANTE
+ECOPACT
+
+280 FLUIDO CON
+FRIBRA Y
+TEMPERATURA
+ECOPACT
+
+280 FLUIDO 3/8
+ECOPACT
+
+280 FLUIDO 3/8
+CON RETARDANTE 125 0.226 689 774e-05 | 163 0.00441 10700
+ECOPACT
+
+280 FLUIDO 3/8
+CON TEMPERATURA | 125 0.226 689 774e-05 | 163 0.00441 10700
+ECOPACT
+
+280 FLUIDO 3/8
+CON RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+280 LANZADO
+ECOPACT
+
+280 LANZADO CON
+TEMPERATURA 123 0.226 696 7.82e-05 | 16 0.00443 10800
+ECOPACT
+
+300 BOMBA
+ECOPACT
+
+300 BOMBA CON
+RETARDANTE 134 0.242 736 8.22e-05 |175 0.00472 11400
+ECOPACT
+
+300 BOMBA CON
+TEMPERATURA 134 0.242 736 8.22e-05 |175 0.00472 11400
+ECOPACT
+
+300 BOMBA CON
+RETARDANTE Y
+TEMPERATURA
+ECOPACT
+
+117 0.213 644 727e-05 | 153 0.0041 9990
+
+117 0.213 644 7.28e-05 153 O.00411 10000
+
+117 0.213 644 7.28e-05 153 O.00411 10000
+
+117 0.213 644 7.28e-05 153 O.00411 10000
+
+125 0.226 689 774e-05 | 163 0.00441 10700
+
+125 0.226 689 774e-05 | 163 0.00441 10700
+
+124 0.226 696 7.84e-05 1.61 0.00444 10800
+
+134 0.242 736 8.22e-05 1.75 0.00472 11400
+
+134 0.242 736 8.22e-05 1.75 0.00472 11400
+
+LABELING SUSTAINABILITY | 36
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+b) Inventory Metrics:
+
+Indicator/L NR WD CBW CH  CNH
+CI Metric TPE RE NRE R RR p LFW  LFHW c CW\WC w w
+Unit MJ- Nu MJ- kg | m3 m3 Was kg m3 m3 kg kg
+Eq Eq waste
+Eq e
+Minimum 1020 | 27 | 9900 | 261 | 0.0047 | 7.22 | 119 0.0081 | 0.184 | 00008 |0O 7.66
+8 8 98
+Maximum
+1110 30 1080 | 286 | 0.0051 | 9.08 | 125 0.008 0.198 | 0.0008 O 7.66
+Mean
+O 5 O 6 81 98
+Median 1090 | 29 1060 | 280 | 0.005 9.06 | 124 0.008 O2 0.0008 O 7.66
+O 9 O O4 65 98
+280 1020 | 27 0.0047 0.0081 0.0008
+DIRECTO o 9 9920 | 262 À 7.67 | 119 8 0.184 98 O 7.66
+ECOPACT
+280
+DIRECTO
+CON 1020 | 27 0.0047 0.0081 0.0008
+TEMPERATU | o 8 9920 | 261 x 7.67 | 119 8 0.184 98 O 7.66
+RA
+ECOPACT
+280
+DIRECTO
+1020 | 28 0.0081 0.0008
+CON o 3 9900 | 262 | 0.0047 | 7.67 | 119 8 0.184 98 O 7.66
+RETARDANT
+E ECOPACT
+280
+DIRECTO
+CON
+RETARDANT 09 . 9900 | 261 20947 767 | 19 2 0184 ne o 766
+TEMPERATU
+RA
+ECOPACT
+280
+DIRECTO 1030 | 28 | 1000 0.0047 0.0082 0.0008
+CON FIBRA o > o 265 7 7.69 | 120 7 0.189 98 O 7.66
+ECOPACT
+280
+DIRECTO
+CON FIBRA 1030 | 28 | 1000 0.0047 0.0082 0.0008
+ÿ o : o 265 8 7.69 | 120 7 0.189 98 O 7.66
+RETARDANT
+E ECOPACT
+280
+DIRECTO 1030 | 28 | 1000 0.0047 0.0082 0.0008
+CON FRIBRA 265 7.69 | 120 0.189 O 7.66
+ÿ O 4 O 6 7 98
+TEMPERATU
+
+LABELING SUSTAINABILITY | 37 Ô
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+RA
+
+ECOPACT
+
+280 BOMBA 1070 29 1030 0.004 0.0084 0.0008
+
+ECOPACT |o 1 lo 274 os 823 112 8 92 lo8 9 [766
+
+280 BOMBA
+
+CON 1070 29 1040 0.004 0.0084 0.0008
+
+TEMPERATU 273 8.23 | 122 02 o |766
+O 2 O 84 8 98
+
+RA
+
+ECOPACT
+
+280 BOMBA
+
+CON 1060 29 1040 0.004 0.0084 0.0008
+
+RETARDANT | o 3 lo 273 | 9 822 112 3 0194 | 90 [766
+
+E ECOPACT
+
+280 BOMBA
+
+CON
+
+RETARDANT 1070 29 1040 0.004 0.0084 0.0008
+
+EY o > o 273 9 8.22 122 8 0.194 98 O 7.66
+
+TEMPERATU
+
+RA
+
+ECOPACT
+
+280 BOMBA 1080 29 1050 0.0085 0.0008
+
+CON FIBRA o ; o 276 0.005 8.24 123 8 O.2 98 O 7.66
+
+ECOPACT
+
+280 BOMBA
+
+CON FIBRA
+1080 29 1050 0.004 0.0085 0.0008
+
+Y o 7 lo 277 | og 824 |123 |: 02 08 0 7.66
+
+RETARDANT
+
+E ECOPACT
+
+280 BOMBA
+
+CON FRIBRA
+
+Y 1080 | 29 | 1050 or |°0S | 524 | 123 0.0085 |, 00008 | 766
+
+TEMPERATU | o 6 lo 07 8 98
+
+RA
+
+ECOPACT
+
+280 BOMBA 1060 28 1030 273 0.004 9.08 122 0.0084 02 0.0008 o 766
+
+PP ECOPACT | o 9 lo 88 8 98
+
+280 BOMBA
+
+PP.CON 1060 29 1040 0.005 0.0084 0.0008
+
+TEMPERATU 274 908 | 122 02 o |766
+O 2 O 04 8 98
+
+RA
+
+ECOPACT
+
+280 8 8 8
+
+SEMIFLUIDO o ° . ni 276 _ 10 | 123 . 5 | 02 o |766
+
+ECOPACT
+
+280
+
+SEMIFLUIDO
+
+CON 1070 29 1040 0.004 0.0085 0.0008
+
+TEMPERATU | o 4 lo 26 | 10 13 |; 902 lo 90 [766
+
+RA
+
+ECOPACT
+
+280 1070 29 1050 0.004 0.0085 0.0008
+
+SEMIFLUIDO | o 2 lo 276 ou 10 13 |, 902 lo 90 [766
+
+LABELING SUSTAINABILITY | 38
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+CON
+RETARDANT
+E ECOPACT
+280
+SEMIFLUIDO
+CON
+RETARDANT | 1070 | 29 | 1050 276 | °905 lo | 13 0.0085 |. 00008 |: 766
+EY 0 5 lo 03 7 98
+TEMPERATU
+RA
+ECOPACT
+280
+SEMIFLUIDO 1080 29 1060 280 0.005 101 124 0.008 0.205 0.0008 o 766
+CONFIBRA |o 9 lo 02 65 98
+ECOPACT
+280
+SEMIFLUIDO
+CONFIBRA |1090 | 29 | 1060 0.005 0.008 0.0008
+ÿ 0 8 o 280 04 10.1 124 65 0.205 98 O 7.66
+RETARDANT
+E ECOPACT
+280
+SEMIFLUIDO
+CON FRIBRA
+
+1090 | 29 | 1060 0.005 0.008 0.0008
+Y 279 10.1 124 0.205 O 7.66
+TEMPERATU 98
+RA
+ECOPACT
+280
+RS . un 204 1 9.09 127 ne 02 Se o 7.66
+ECOPACT
+280
+SEMIFLUIDO 1160 31 1130 0.0053 0.009 0.0008
+3/8 CON 297 91 |128 02 0 7.66
+RETARDANT
+E ECOPACT
+280
+SEMIFLUIDO
+3/8 CON 1150 | 31 | 1110 0.0053 0.009 0.0008
+TEMPERATU | o 5 lo 294 |; 9209 7 | 92 lo8 9 [766
+RA
+ECOPACT
+280
+SEMIFLUIDO
+3/8 CON
+FA RDANT s 207 + 91 128 o 02 Se o 7.66
+TEMPERATU
+RA
+ECOPACT
+
+LABELING SUSTAINABILITY | 39
+
+ENVIRONMENTAL PRODUCT DECLARATION
+0.005 0.0087 0.0008
+
+280 FLUIDO 1100 30 1070 283 10.5 124 02 o 766
+ECOPACT lo 1 lo 04 2 98
+280 FLUIDO
+CON
+TEMPERATU
+RA
+ECOPACT
+280 FLUIDO
+CON 1110 30 1080 285 0.005851 10.5 125 0.008 02 0.0008 o 766
+RETARDANT | o 6 lo 7 8 98
+E ECOPACT
+280 FLUIDO
+CON
+RETARDANT
+EY
+TEMPERATU
+RA
+ECOPACT
+280 FLUIDO
+CON FIBRA
+ECOPACT
+280 FLUIDO
+CON FIBRA
+ÿ
+RETARDANT
+E ECOPACT
+280 FLUIDO
+CON FRIBRA
+Y 1110 30 1080 285 0.005 10.5 125 0.008 0.205 0.0008 o 766
+TEMPERATU | o 5 lo 03 81 98
+RA
+ECOPACT
+280 FLUIDO
+3/8
+ECOPACT
+280 FLUIDO
+3/8 CON 1190 | 32 | 1160 0.005 0.0093 0.0008
+RETARDANT | o 7 lo 306 |, 9041130 |, 92 lo8 9 [766
+E ECOPACT
+280 FLUIDO
+3/8 CON
+TEMPERATU
+RA
+ECOPACT
+280 FLUIDO
+3/8 CON
+RETARDANT 1190 32 1160 0.0093 0.0008
+EY 305 | 0.0055 | 9.04 | 130 02 0 7.66
+TEMPERATU
+RA
+ECOPACT
+
+1100 30 1070 0.0087 0.0008
+
+282 | 0.0051 | 105 | 124 O.2 O 7.66
+
+1110 30 1080 285 O.0051 10.5 | 125 0.008 02 0.0008 o 766
+
+1110 30 1080 285 O.0051 10.5 | 125 20 0.205 me o 766
+
+1110 o | 1080 0.0052 0.008 0.0008
+3 285 $ 10.5 | 125 0.205 °8 0 7.66
+
+1190 | 32 | 1160 306 | 00085 | 0.04 | 130 0.0093 |, 0.0008 o 766
+
+1180 | 32 | 1150 0.0054 0.0093 0.0008
+
+306 9.04 | 130 0.2 0 7.66
+
+LABELING SUSTAINABILITY | 40
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+280
+
+LANZADO
+ECOPACT
+280
+
+LANZADO
+CON 1200 | 32 1170 308
+TEMPERATU | 0 9 (e) 6
+RA
+
+ECOPACT
+300 BOMBA |1270 | 35 | 1240 0.005 0.009 0.0008
+ECOPACT 0 1 lo 326 |à 722 [136 |à, 902 | 98 9  |766
+300 BOMEA
+0.009 0.0008
+
+CON 1270 | 35 | 1240 0.005
+RETARDANT | o 2 lo 326 |& 722 [136 |à 902 | 98 9  |766
+
+E ECOPACT
+300 BOMBA
+CON
+TEMPERATU
+RA
+ECOPACT
+300 BOMBA
+CON
+RETARDANT
+EY
+TEMPERATU
+RA
+ECOPACT
+
+1200 32 1170 0.005 0.0094 0.0008
+10 13.1 131 O.2 O 66
+0 6 lo 30 à 31 [81 |, 98 7
+
+00055 118 | 131 0.009094 | O2 Se O 7.66
+
+1270 | 35 | 1240 0.005 0.009 0.0008
+
+326 7.22 | 136 0.2 0 7.66
+
+1270 1240 O.00 0.0008
+7 35 4 326 | 0.006 7.22 | 136 9 O.2 O 7.66
+
+Mix designs: 31 to 35 MPa
+
+Table 14: Total life cycle (across modules in scope) impact results for Mix designs: 31 to 35MPa, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP WP ODP PCOP ADPe ADPf
+MJ, net
+Unit Ha À LIN Ed COz- D EQ Ed NOX- | Kg Sb-Eq | calorific
+value
+Minimum 130 0.235 716 8.02e-05 | 17 0.00459 11100
+Maximum 138 0.249 762 8.5e-05 1.8 0.00489 11800
+Mean 135 0.243 742 8.3e-05 1.76 0.00476 11500
+Median 136 O.245 749 8.37e-05 | 178 0.00481 11600
+ACT À 136 O.245 749 8.37e-05 |178 0.00481 11600
+350 BOMBA CON
+RETARDANTE 136 O.245 749 8.37e-05 |178 0.00481 11600
+ECOPACT
+350 BOMBA CON
+TEMPERATURA 136 O.245 749 8.37e-05 |178 0.00481 11600
+ECOPACT
+
+LABELING SUSTAINABILITY | 41
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+350 BOMBA CON
+RETARDANTE V 136 O2 8 e-0 1.78 0.00481 11600
+TEMPERATURA 3 245 749 378-085 |17 ‘004
+ECOPACT
+350 SEMIFLUIDO 131 0.236 16 8.02e-0 1 0.00 11100
+ECOPACT 3 23 7 5 |17 00459
+350 SEMIFLUIDO
+CON RETARDANTE 131 0.236 716 8.02e-05 |17 0.00459 | 11100
+ECOPACT
+350 SEMIFLUIDO
+CON TEMPERATURA | 131 0.236 716 8.02e-05 |17 0.00459 | 11100
+ECOPACT
+350 SEMIFLUIDO
+CON RETARDANTE Y 130 O.2 16 8.02e-0 1 0.00 11100
+TEMPERATURA 3 235 7 5 |17 90459
+ECOPACT
+350 FLUIDO
+ECOPACT 138 O.249 762 8.5e-05 1.8 0.00489 11800
+350 FLUIDO CON
+RETARDANTE 138 0.249 762 8.5e-05 1.8 0.00489 | 11800
+ECOPACT
+350 FLUIDO CON
+TEMPERATURA 138 0.249 762 8.5e-05 1.8 0.00489 | 11800
+ECOPACT
+350 FLUIDO CON
+RETARDANTE Y
+TEMPERATURA 138 O.249 762 8.5e-05 1.8 0.00489 11800
+ECOPACT
+b) Inventory Metrics:
+Indicator/L NR WD CBW CH CNH
+Ci Matrie TPE RE NRE D RR D LFW LFHW € CWWC y y
+Unit My- Nu MJ- k m m kg m m k k
+Eq Eq g | m3 3 waste | M3 3 g |kg
+Eq e
+1230 | 34 | 1200 | 317 | 00056 | 775 | 133 |oooo | o2 00008 |o 7.66
+63 98
+Maximum
+Mean 1280 | 35 | 1250 | 329 | 0.0059 | 7.82 | 136 0.009 0.203 | 0.0008 O 7.66
+o 3 (e] 3 95 98
+Median 1300 35 1260 332 O.0059 7.85 137 O.01 O.205 0.0008 O 7.66
+(o) 8 (eo) 5 98
+350 BOMBA | 1200 | 35 | 1250 0.0059 0.0008
+ECOPACT o 4 lo 33 |, 775 1137 001 102 | 9  |766
+350 BOMBA
+CON 1300 | 36 | 1260 0.0059 0.0008
+RETARDANT | o o lo 38 6 775 1137 001 102 | 9  |766
+E ECOPACT
+350 BOMBA | 1300 | 35 | 1260 0.0058 0.0008
+CON o 8 o 333 9 7.75 137 0.01 O.2 98 O 7.66
+
+LABELING SUSTAINABILITY | 42
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TEMPERATU
+RA
+ECOPACT
+350 BOMBA
+CON
+RETARDANT 1290 | 35 | 1260 0.0061 0.0008
+EY 331 775 | 137 O.01 O.2 O 7.66
+TEMPERATU
+RA
+ECOPACT
+350 1230 | 34 | 1200 0.0056 0.009 0.0008
+SEMIFLUIDO 317 7.93 | 133 0.205 98 O 7.66
+ECOPACT
+
+350
+SEMIFLUIDO
+CON
+RETARDANT
+E ECOPACT
+350
+SEMIFLUIDO
+CON 1240 | 34 | 1200 0.009 0.0008
+TEMPERATU | o : o 318 | 0.0058 | 7.88 | 133 64 0.205 98 O 7.66
+RA
+ECOPACT
+350
+SEMIFLUIDO
+CON
+RETARDANT | 1230 | 34 | 1200 0.0057
+EY O O O 318 7 78 133 63
+TEMPERATU
+RA
+ECOPACT
+ACT . ee 339 a 7.85 | 138 0.0102 | 0.205 _ O 7.66
+350 FLUIDO
+CON 1320 | 36 | 1280 0.0008
+RETARDANT | 0 > o 338 | 0.0061 | 7.85 | 138 0.0102 | 0.205 98 O 7.66
+E ECOPACT
+350 FLUIDO
+CON
+TEMPERATU
+RA
+ECOPACT
+350 FLUIDO
+CON
+RETARDANT
+EY
+TEMPERATU
+RA
+ECOPACT
+
+1240 1200 0.005656 0.00 0.0008
+49 [34 318 59 | 288 | 132 9 | 0205 6 o |766
+
+0.00 0.0008
+9 0.205 08 0 7.66
+
+1320 | 36 1280 338 0.0061 785 | 138 0.0102 | 0205 0.0008 o 7.66
+
+1310 36 1280 3238 0.0061 785 | 128 0.0102 | 0.205 0.0008 o 766
+
+LABELING SUSTAINABILITY | 43
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix designs: 41 to 45 MPa
+
+Table 15: Total life cycle (across modules in scope) impact results for Mix designs: 41 to 45 MPa, assuming the geometric
+
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP GWP ODP PCOP ADPe ADPf
+MJ, net
+
+Unit Ha À | LYN Ed COz- D EQ Ed NOX- | Ko Sb-Eq | calorific
+value
+
+Minimum 130 0.234 710 7.95e-05 1.69 0.00455 11000
+
+Maximum 133 0.239 729 8.16e-05 1.73 0.00467 11300
+
+Mean 132 0.237 723 8.09€-05 | 172 0.00463 11200
+
+Median 133 0.239 729 816e-05 | 173 0.00467 11300
+
+420 BOMBA 130 0.234 710 795e-05 | 169 0.004565 11000
+
+ECOPACT
+
+420 BOMBA CON
+
+RETARDANTE 130 0.234 710 795e-05 | 169 0.004565 11000
+
+ECOPACT
+
+420 BOMBA CON
+
+TEMPERATURA 130 0.234 710 795e-05 | 169 0.004565 11000
+
+ECOPACT
+
+420 BOMBA CON
+
+RETARDANTE V 130 0.234 710 795e-05 | 169 0.004565 11000
+
+TEMPERATURA
+
+ECOPACT
+
+420 SEMIFLUIDO 133 0.239 729 816e-05 1.73 0.00467 11300
+
+ECOPACT
+
+420 SEMIFLUIDO
+
+CON RETARDANTE 133 0.239 729 816e-05 1.73 0.00467 11300
+
+ECOPACT
+
+420 SEMIFLUIDO
+
+CON TEMPERATURA | 133 0.239 729 816e-05 1.73 0.00467 11300
+
+ECOPACT
+
+420 SEMIFLUIDO
+
+CON RETARDANTE Y 133 0.239 729 816e-05 1.73 0.00467 11300
+
+TEMPERATURA
+
+ECOPACT
+
+420 FLUIDO 133 0.239 729 816e-05 1.73 0.00467 11300
+
+ECOPACT
+
+420 FLUIDO CON
+
+RETARDANTE 133 0.239 729 816e-05 1.73 0.00467 11300
+
+ECOPACT
+
+420 FLUIDO CON
+
+TEMPERATURA 133 0.239 729 816e-05 1.73 0.00467 11300
+
+ECOPACT
+
+420 FLUIDO CON
+
+RETARDANTE V 133 0.239 729 816e-05 1.73 0.00467 11300
+
+TEMPERATURA
+
+ECOPACT
+
+LABELING SUSTAINABILITY | 44
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+b) Inventory Metrics:
+
+Indicator/L NR WD CBW CH CNH
+
+CI Metric TPE RE NRE R RR p LFW  LFHW c CcW\WcC w w
+
+Unit MJ- [ ; MJ- kg | m3 m3 Vase kg m3 m3 kg kg
+Eq Eq waste
+
+Eq e
+MiRnUm 1220 | 33 | 1190 | 314 | 0005 | 794 | 132 0.0095 | 0.2 0.0008 |o 7.66
+69 6 98
+
+Maximum
+
+Mean 1250 | 34 | 1210 | 320 | 0.0058 | 7.96 | 134 0.0097 | O2 0.0008 |0 7.66
+O 4 O 2 1 98
+
+Median 1260 | 34 | 1220 | 323 | 0.0058 | 7.94 | 135 0.0097 | O2 0.0008 |0 7.66
+Q) 6 |o 3 9 98
+1220 | 33 | 1190 0.0057 0.0095 0.0008
+
+ECOPACT o 5 o 315 À 8 132 6 O.2 98 O 7.66
+
+420 BOMBA
+
+CON 1230 | 34 | 1190 0.0057 0.0095 0.0008
+
+RETARDANT | o o lo F4 8 182 |e 92 lo 9 1766
+
+E ECOPACT
+
+420 BOMBA
+
+CON
+
+TEMPERATU | 1229 33 | 1190 |, | 00067}, |, |00096 10, [00008 0 | ;66
+O0 7 O0 2 6 98
+
+RA
+
+ECOPACT
+
+420 BOMBA
+
+CON
+
+RETARDANT 1220 | 34 | 1190 0.005 0.0095 0.0008
+
+EY o 0 o 315 6o 8 132 5 0.2 98 O 7.66
+
+TEMPERATU
+
+RA
+
+ECOPACT
+
+420 1260 | 35 | 1220 0.0058 0.0097 0.0008
+
+SEMIFLUIDO o 0 o 323 > 794 | 135 9 O.2 98 O 7.66
+
+ECOPACT
+
+420
+
+SEMIFLUIDO 1260 | 34 | 1230 0.0059 0.0097 0.0008
+
+CON o 5 o 322 à 7.94 | 135 9 0.2 98 O 7.66
+
+RETARDANT
+
+E ECOPACT
+
+420
+
+SEMIFLUIDO
+
+CON 1260 | 34 | 1220 0.0057 0.0097 0.0008
+
+TEMPERATU | o 5 lo 33 |, 794 1135 À 92 lo 9 1766
+
+RA
+
+ECOPACT
+
+420
+
+SEMIFLUIDO 1260 | 34 | 1230 0.0058 0.0097 0.0008
+
+CON o ; o 323 ; 7.94 | 135 9 0.2 98 O 7.66
+
+RETARDANT
+
+EY
+
+LABELING SUSTAINABILITY | 45 Ô
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TEMPERATU
+RA
+ECOPACT
+420 FLUIDO | 1250 | 35 | 1230 0.0059 0.0097 0.0008
+ECOPACT lo o lo 324 |: 7% 115 | 92 lo 9 766
+220 FLUIDO
+CON 1260 | 34 | 1220 0.0059 0.0097 0.0008
+RETARDANT | o 8 lo 33 |, 7% 115 | 92 lo 9 766
+E ECOPACT
+420 FLUIDO
+CON
+
+Temperaru | 2250 | 34 | 1220 mea [20059 lou las | 00007 |, 00008 | 766
+RA
+ECOPACT
+420 FLUIDO
+CON
+RETARDANT
+EY
+TEMPERATU
+RA
+ECOPACT
+
+1260 1220 0.0058 0.00 0.0008
+34 324 : 794 | 135 9 0.2 O 7.66
+
+ADDITIONAL ENVIRONMENTAL INFO
+No regulated substances of very high concern are ütilized on site.
+
+REFERENCES
+ASTM Standards:
+
+e ASTM A36/A36M Standard Specification for Carbon Structural Steel
+
+e ASTM A108 Standard Specification for Steel Bar, Carbon and Alloy, Cold-Finished
+
+e ASTM A123/A123M Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron
+and Steel Products
+
+e ASTM A153/A153M Standard Specification for Zinc Coating (Hot-Dip) on lron and Steel
+Hardware
+
+e ASTM A184 Standard Specification for Welded Deformed Steel Bar Mats for Concrete
+Reinforcement
+
+e ASTM A307 Standard Specification for Carbon Steel Bolts, Studs, and Threaded Rod
+60,000 PSI Tensile Strength
+
+e ASTM A416/A416M Standard Specification for Steel Strand, Uncoated Seven-Wire for
+Prestressed Concrete
+
+e ASTM A555/A555M Standard Specification for General Requirements for Stainless Steel
+Wire and Wire Rods
+
+e ASTM A615/A615M Standard Specification for Deformed and Plain Carbon-Steel Bars for
+Concrete Reinforcement
+
+e ASTM A6G6 Standard Specification for Annealed or Cold-\Worked Austenitic Stainless
+Steel Sheet, Strip, Plate, and Flat Bar
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+e ASTM A706/A706M Standard Specification for Deformed and Plain Low-Alloy Steel Bars
+for Concrete Reinforcement
+
+e ASTM A767/A767M Standard Specification for Zinc-Coated (Galvanized) Steel Bars for
+Concrete Reinforcement
+
+e ASTM A775/A775M Standard Specification for Epoxy-Coated Steel Reinforcing Bars
+
+e ASTM A820/A820M Standard Specification for Steel Fibers for Fiber-Reinforced
+Concrete
+
+e ASTM A884/A884M Standard Specification for Epoxy-Coated Steel Wire and Welded
+Wire Reinforcement
+
+e ASTM A934/A934M Standard Specification for Epoxy-Coated Prefabricated Steel
+Reinforcing Bars
+
+e ASTM A1064/A1064M Standard Specification for Carbon-Steel Wire and Welded Wire
+Reinforcement, Plain and Deformedl, for Concrete
+
+e ASTM C33/C33M Standard Specification for Concrete Aggregates
+
+e ASTM C94 Standard Specification for Ready-Mixed Concrete
+
+e ASTM C150/C150M Standard Specification for Portland Cement
+
+e ASTM C260/C260M Standard Specification for Air-Entraining Admixtures for Concrete
+
+e ASTM C598 Standard Specification for Blended Hydraulic Cements
+
+e ASTM C618 Standard Specification for Coal Fly Ash and Raw or Calcined Natural
+Pozzolan for Use in Concrete
+
+e ASTM Co79/C9o79M Standard Specification for Pigments for Integrally Colored Concrete
+
+e ASTM C989/C989M Standard Specification for Slag Cement for Use in Concrete and
+Mortars
+
+e ASTM C1017/C1017M Standard Specification for Chemical Admixtures for Use in
+Producing Flowing Concrete
+
+e ASTM C1116/C1116M Standard Specification for Fiber-Reinforced Concrete
+
+e ASTM C1157/C1157M Standard Performance Specification for Hydraulic Cement
+
+e ASTM C1240 Standard Specification for Silica Fume Used in Cementitious Mixtures
+
+e ASTM C1602/C1602M Standard Specification for Mixing Water Used in the Production of
+Hydraulic Cement Concrete
+
+e ASTM G109 Standard Test Method for Determining Effects of Chemical Admixtures on
+Corrosion of Embedded Steel Reinforcement in Concrete Exposed to Chloride
+Environments
+
+e ASTM C330/C330M Standard Specification for Lightweight Aggregates for Structural
+Concrete
+
+e ASTM C494/C494M Standard Specification for Chemical Admixtures for Concrete
+
+CSA Standards:
+
+e  CAN/CGSB-140 Anticorrosive Structural Steel Alkyd Primer
+
+e  CAN/CSA G3018 Carbon steel bars for concrete reinforcement
+
+e _CAN/CSA A3000 Cementitious Materials Compendium
+
+e _ CAN/CSA G4020/G40.21 General requirements for rolled or welded structural quality
+steel / Structural quality steel
+
+e  CAN/CSA A23.1/A23.2 Concrete Materials and Methods of Concrete Construction/Test
+methods and Standard Practices for Concrete
+
+LABELING SUSTAINABILITY | 47 Ô
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+e CAN/CSA A23.4 Precast concrete - Materials and construction
+e CSA S806 Design and construction of building structures with fiber-reinforced polymers
+
+ISO Standards:
+
++ ISO 6707-1: 2014 Buildings and Civil Engineering Works - Vocabulary - Part 1: General
+Terms
+
+e ISO 1402111999 Environmental Labels and Declarations - Self-declared Environmental
+Claims (Type Il Environmental Labeling)
+
+e _1SO 14025:2006 Environmental Labels and Declarations - Type Il Environmental
+Declarations - Principles and Procedures
+
+e ISO 14040:2006 Environmental Management - Life Cycle Assessment - Principles and
+Framework
+
+e ISO 14044:2006 Environmental Management - Life Cycle Assessment - Requirements and
+Guidelines
+
+e ISO 1406722018 Greenhouse Gases - Carbon Footprint of Products - Requirements and
+Guidelines for Quantification
+
+e ISO 14050:2009 Environmental Management - Vocabulary
+
+e ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration of
+Building Products
+
+EN Standards:
+
+e EN 16757 Sustainability of construction works - Environmental product declarations -
+Product Category Rules for concrete and concrete elements.
+
+e EN 15804 Sustainability of construction works - Environmental product declarations -
+Core rules for the product category of construction products.
+
+Other References:
+
+e US EPA Waste Reduction Model (WARM), Fly Ash
+Chapter: http://epa.gov/climatechange/wycd/Wwaste/downloads/fly-ash-chapter10-
+28-10.pdf
+
+e American Concrete Institute (ACI) 211: Standard Practice for Selecting Proportions for
+Normal, Heavyweight, and Mass Concrete.
+
+e _ ACI 318-14 Building Code Requirements for Structural Concrete and Commentary.
+American Concrete Institute. Farmington Hills, MI, USA available
+at https://www.concrete.org/store/
+
+e Mather, B & Ozyildirim, C. (2002). SP-1(02) : Concrete Primer. American Concrete Institute:
+SPO102. American Concrete Institute. Farmington Hills, MI, USA available
+at https://www.concrete.org/store/
+
+e __NSF International (February 2019). Product Category Rules (PCR) for ISO 14025 Type II
+Environmental Product Declarations (EPDs) of Concrete v12.
+
+e Product Category Rules for Preparing an Environmental Product Declaration for Precast
+Concrete (UN CPC 37550), ASTM International, March
+2015. https://ww\w.astm.org/CERTIFICATION/DOCS/266.PCR_for_Precast_Concrete.pdf
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+e  USGBC LEED va for Building Design and Construction, 11 Jan 2019 available
+athttps://www.usgbc.org/resources/pcr-committee-process-resources-part-b
+
+e  USGBC PCR Committee Process & Resources: Part B, USGBC, 7 July 2017 available
+at https://www.usgbc.org/resources/pcr-committee-process-resources-part-b.
+
+LABELING SUSTAINABILITY | 49 Ô
+

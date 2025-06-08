@@ -1,0 +1,47 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "D72a864f-834c-42a8-9241-baboceac6c31",
+    "date_of_issue": "30 May 2023",
+    "period_of_validity": "5 years; valid until 30 May 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Nicaragua",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "San Miguel, El Salvador",
+    "product_scope": "149 concrete mixes manufactured at the Holcim El Salvador KM 28 concrete facility in San Salvador, El Salvador"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database, Holcim El Salvador primary data",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is direct primary information reported from Holcim El Salvador records for the year 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_minimum": 348,
+    "gwp_maximum": 721,
+    "gwp_mean": 683
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "Recycled/reused material/components: The amount of returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "epd_metadata": {
+    "declared_product": "Cement products produced by Holcim Argentina",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim Argentina",
+    "address": "680 Humberto Primo, Complejo Capitalinas, Edificio Suquia, Piso 4, Oficina 47, Cordoba, Argentina",
+    "website": "holcim.com.ar",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "11670 W Sunset Blvd., Los Angeles, CA",
+    "product_category_rule": "ISO 21930:2017",
+    "sub_pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "02 January 2023",
+    "period_of_validity": "5 years; valid until 02 January 2028",
+    "epd_number": "d206e47c-5644-4196-8181-176b6ad07f44"
+  },
+  "product_description": {
+    "company_description": "Holcim Argentina is a leader in innovative and sustainable solutions for construction with over 90 years of experience in Argentina.",
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "product_scope": "Cement products classified as UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete.",
+    "cement_design_summary": [
+      {
+        "mix_name": "CPCA40 (Bulk)",
+        "description": "Versatile cement specially formulated for concrete mixers.",
+        "type": "Ordinary Portland",
+        "resistance_28_days": "40 MPa"
+      },
+      {
+        "mix_name": "CAH40ARS",
+        "description": "ARS certified very high durability cement with low heat of hydration.",
+        "type": "Ordinary Portland",
+        "resistance_28_days": "40 MPa"
+      }
+    ],
+    "cement_design_composition": {
+      "clinker": "Proprietary",
+      "mineral_additions": "30-60.00%",
+      "others": "0.01-5.00%"
+    }
+  },
+  "lca_information": {
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "End-of-life effects"
+    ]
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": "TRACI impact categories used for North American context",
+    "limitations": "EPD does not support definitive comparisons of environmental performance of specific products."
+  },
+  "recycled_materials_handling": {
+    "recovered_energy": "Not Applicable",
+    "recycled_reused_material_components": "Not applicable"
+  },
+  "additional_info": {
+    "references": {
+      "astm_standards": [
+        "ASTM C150/C150M",
+        "ASTM C260/C260M"
+      ],
+      "csa_standards": [
+        "CAN/CSA A3000"
+      ],
+      "iso_standards": [
+        "ISO 6707-1: 2014",
+        "ISO 14025:2006"
+      ],
+      "en_standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "other_references": [
+        "US EPA Waste Reduction Model (WARM)"
+      ]
+    }
+  }
+}

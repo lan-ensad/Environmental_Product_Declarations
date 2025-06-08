@@ -1,0 +1,59 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "8bdcb4d8-8d1d-42ba-8d48-e45c65485bfe",
+    "date_of_issue": "15 July 2023",
+    "period_of_validity": "5 years; valid until 15 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Silao, Guanajuato, México",
+    "product_scope": "Cradle-to-gate"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent V3.8 database, Holcim primary data",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is based on Holcim México records for 2022."
+  },
+  "end_of_life": {
+    "end_of_life_stages": null
+  },
+  "carbon_emission_context": {
+    "gwp_minimum": 261,
+    "gwp_maximum": 533,
+    "gwp_mean": 421
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete is based on Holcim primary data for 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

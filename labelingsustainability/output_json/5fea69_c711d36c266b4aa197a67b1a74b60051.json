@@ -1,0 +1,234 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "28c3505d-3618-49a2-9075-27578f81de29",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 23 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Playa del Carmen Il facility, Playa del Carmen, México",
+    "mix_designs": [
+      {
+        "range": "0 to 15 MPa",
+        "products": [
+          {
+            "mix_id": "24020NB0518",
+            "strength": "4.9 MPa",
+            "type": "mortars and fillers"
+          },
+          {
+            "mix_id": "24030NB0520",
+            "strength": "5.88 MPa",
+            "type": "mortars and fillers"
+          },
+          {
+            "mix_id": "77035ND2010",
+            "strength": "3.53 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77036ND2014",
+            "strength": "3.53 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77038ND2010",
+            "strength": "3.92 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "39040ND2010",
+            "strength": "4.12 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77042ND2010",
+            "strength": "4.31 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77045NB2014",
+            "strength": "4.61 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77048ND2010",
+            "strength": "4.9 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77050ND2010",
+            "strength": "5.1 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "73050NB0514",
+            "strength": "5.4 MPa",
+            "type": "mortars and fillers"
+          },
+          {
+            "mix_id": "70100ND2014",
+            "strength": "11.8 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "73100NB0514",
+            "strength": "12.8 MPa",
+            "type": "mortars and fillers"
+          }
+        ]
+      },
+      {
+        "range": "15 to 20 MPa",
+        "products": [
+          {
+            "mix_id": "70150NB2018",
+            "strength": "16.7 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "73150NB0518",
+            "strength": "17.2 MPa",
+            "type": "mortars and fillers"
+          }
+        ]
+      },
+      {
+        "range": "21 to 25 MPa",
+        "products": [
+          {
+            "mix_id": "71200NB1218",
+            "strength": "22.6 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "68200NB1018",
+            "strength": "21.6 MPa",
+            "type": "special concrete"
+          },
+          {
+            "mix_id": "73200NB0518",
+            "strength": "22.6 MPa",
+            "type": "mortars and fillers"
+          }
+        ]
+      },
+      {
+        "range": "26 to 30 MPa",
+        "products": [
+          {
+            "mix_id": "3758NB2018",
+            "strength": "29.42 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "70250ND2014",
+            "strength": "27.5 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "73250NB0518",
+            "strength": "27.5 MPa",
+            "type": "mortars and fillers"
+          }
+        ]
+      },
+      {
+        "range": "31 to 35 MPa",
+        "products": [
+          {
+            "mix_id": "70300ND2014",
+            "strength": "32.4 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "73300NB0514",
+            "strength": "31.4 MPa",
+            "type": "mortars and fillers"
+          }
+        ]
+      },
+      {
+        "range": "36 to 40 MPa",
+        "products": [
+          {
+            "mix_id": "3745NB2018",
+            "strength": "39.23 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "70350NB2018",
+            "strength": "36.3 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "73350NB0514",
+            "strength": "37.3 MPa",
+            "type": "mortars and fillers"
+          }
+        ]
+      },
+      {
+        "range": "41 to 45 MPa",
+        "products": [
+          {
+            "mix_id": "14400NB2018",
+            "strength": "42.2 MPa",
+            "type": "Ready mix concrete"
+          }
+        ]
+      },
+      {
+        "range": "51 to 55 MPa",
+        "products": [
+          {
+            "mix_id": "3735NB2018",
+            "strength": "53.94 MPa",
+            "type": "Ready mix concrete"
+          }
+        ]
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules included.",
+    "data_sources": "ecoinvent V3.8 database, Holcim México Operaciones S.A. de C.V. primary data",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated data validated by LCA practitioner and 3rd Party Verifier.",
+      "completeness": "All relevant specific processes considered and modeled.",
+      "consistency": "Same modeling structure across product systems.",
+      "reproducibility": "Internal reproducibility possible with stored data and models.",
+      "representativeness": "Data from 2022, region-specific electricity inputs, US, North American, or global average data."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp": {
+      "min": 212,
+      "max": 701,
+      "mean": 326
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

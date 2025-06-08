@@ -1,0 +1,129 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "date_of_issue": "14 December 2022",
+    "period_of_validity": "5 years; valid until 14 December 2027",
+    "epd_number": "516e24f3-d746-4808-ae35-abefdbaob3di",
+    "independent_verification": "Geoffrey Guest, Certified 3rd Party Verifier",
+    "website": "http://labelingsustainability.com/"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Planta Cuenca Holcim Ecuador, Cuenca, Ecuador",
+    "product_types": [
+      {
+        "mix_id": "01180NS1910001",
+        "strength_mpa": 180,
+        "water_cement_ratio": 0.6761566
+      },
+      {
+        "mix_id": "01210NS1910001",
+        "strength_mpa": 210,
+        "water_cement_ratio": 0.638796
+      },
+      {
+        "mix_id": "01240NS1910001",
+        "strength_mpa": 240,
+        "water_cement_ratio": 0.611465
+      },
+      {
+        "mix_id": "01280NS1910001",
+        "strength_mpa": 270,
+        "water_cement_ratio": 0.5861027
+      },
+      {
+        "mix_id": "01300NS1910001",
+        "strength_mpa": 290,
+        "water_cement_ratio": 0.5635838
+      },
+      {
+        "mix_id": "244.5NS1907001",
+        "strength_mpa": 245,
+        "water_cement_ratio": 0.495
+      },
+      {
+        "mix_id": "03240NS1918001",
+        "strength_mpa": 240,
+        "water_cement_ratio": 0.611
+      },
+      {
+        "mix_id": "01280NS1915001",
+        "strength_mpa": 270,
+        "water_cement_ratio": 0.592
+      },
+      {
+        "mix_id": "01350NS1915001",
+        "strength_mpa": 340,
+        "water_cement_ratio": 0.521
+      },
+      {
+        "mix_id": "23240NS1913001",
+        "strength_mpa": 240,
+        "water_cement_ratio": 0.58
+      },
+      {
+        "mix_id": "23210NS1913001",
+        "strength_mpa": 210,
+        "water_cement_ratio": 0.63
+      },
+      {
+        "mix_id": "23300NS1913001",
+        "strength_mpa": 290,
+        "water_cement_ratio": 0.54
+      },
+      {
+        "mix_id": "23180NS1913001",
+        "strength_mpa": 180,
+        "water_cement_ratio": 0.66
+      },
+      {
+        "mix_id": "23280NS1913001",
+        "strength_mpa": 270,
+        "water_cement_ratio": 0.56
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) included. 1% cut-off for all renewable and non-renewable primary energy consumption."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is direct primary information reported from Holcim records for the year 2021. 30% of the fuel used is allocated to stage A3 for material mixing."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_minimum": 207,
+    "gwp_maximum": 321,
+    "gwp_mean": 274,
+    "gwp_median": 278
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_material_components": "The amount of returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

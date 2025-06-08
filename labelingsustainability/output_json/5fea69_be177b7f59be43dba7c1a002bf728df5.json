@@ -1,0 +1,53 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "o8d7e63c-e9ae-418b-b155-df3889f05968",
+    "date_of_issue": "10 January 2023",
+    "period_of_validity": "5 years; valid until 10 January 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Planta Quito Sur, Quito, Ecuador",
+    "product_scope": "15 concrete mixes"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of total inflows (mass and energy) included",
+    "data_sources": "Combination of primary data from Holcim Ecuador and ecoinvent v3.8 database",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "reproducibility": "Internal reproducibility possible",
+      "representativeness": "Data from 2021, region-specific electricity inputs"
+    }
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks, 30% allocated to stage A3",
+    "waste_transport_requirements": "Estimated distances, 25 km representative estimate"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": "TRACI impact categories used for North American context",
+    "limitations": "EPD does not support definitive comparisons of environmental performance"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_material_components": "Returned concrete based on Holcim primary data for 2021"
+  },
+  "additional_info": {
+    "company_description": "Holcim Ecuador is part of the international Holcim group, a leader in innovative and sustainable construction solutions.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

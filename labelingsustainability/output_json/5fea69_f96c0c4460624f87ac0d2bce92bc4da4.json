@@ -1,0 +1,123 @@
+{
+  "epd_metadata": {
+    "declared_product": "cement products produced by Holcim Ecuador",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "e717da92-6ee-4fdb-b7d3-acfacid3dfo1",
+    "date_of_issue": "29 November 2022",
+    "period_of_validity": "valid until 30 November 2027",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "company_description": "Holcim Ecuador is part of the international Holcim group, a leader in innovative and sustainable construction solutions.",
+    "product_classification": "UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete",
+    "cement_mixes": [
+      {
+        "name": "GU Cement",
+        "clinker_content": "Proprietary",
+        "resistance_28_days": "30 MPa"
+      },
+      {
+        "name": "HE Cement",
+        "clinker_content": "Proprietary",
+        "resistance_28_days": "42 MPa"
+      },
+      {
+        "name": "MH Cement",
+        "clinker_content": "Proprietary",
+        "resistance_28_days": "22 MPa"
+      },
+      {
+        "name": "HE/HS Cement",
+        "clinker_content": "Proprietary",
+        "resistance_28_days": "Proprietary"
+      },
+      {
+        "name": "Maestro Cement",
+        "clinker_content": "Proprietary",
+        "resistance_28_days": "9 MPa"
+      },
+      {
+        "name": "Cement with Slag",
+        "clinker_content": "Proprietary",
+        "resistance_28_days": "27 MPa"
+      },
+      {
+        "name": "Cemento Petrolero",
+        "clinker_content": "Proprietary",
+        "resistance_28_days": "-"
+      }
+    ],
+    "cement_composition": {
+      "clinker": "30-60.00%",
+      "mineral_additions": "30-60.00%",
+      "others": "0.01-5.00%"
+    }
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "carbon_credits": "Not allowed in calculations",
+    "offsets": "100% of carbon emissions offset through forestry offsets in the Cerro Blanco Protected Forest"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Detailed in the A1 input table",
+    "module_A1_material_losses": "2% waste factor used throughout the study"
+  },
+  "additional_info": {
+    "data_sources_and_quality": {
+      "raw_material_transport": "Combination of actual mode/distance and ecoinvent default multi-modal market mix distances",
+      "electricity": "Ecuador grid electricity, 93% hydropower",
+      "fuel_for_machinery": "LPG for moving vehicles, propane calculations with ecoinvent 3.8",
+      "waste_generation": "Directly reported from Holcim operations",
+      "data_quality_assessment": {
+        "precision": "Validated by LCA practitioner and 3rd Party Verifier",
+        "completeness": "All relevant processes considered",
+        "consistency": "Same modeling structure across product systems",
+        "reproducibility": "Internal reproducibility possible"
+      }
+    },
+    "environmental_indicators_and_inventory_metrics": {
+      "impact_categories": [
+        "AP",
+        "EP",
+        "GWP",
+        "ODP",
+        "PCOP",
+        "ADPe",
+        "ADPf"
+      ],
+      "inventory_metrics": [
+        "TPE",
+        "RE",
+        "NRE",
+        "NRR",
+        "RR",
+        "WDP",
+        "LFW",
+        "LFHW"
+      ]
+    },
+    "limitations": "This EPD does not support definitive comparisons of environmental performance of specific products."
+  }
+}

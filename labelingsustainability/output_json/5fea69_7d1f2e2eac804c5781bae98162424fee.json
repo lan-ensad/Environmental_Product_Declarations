@@ -1,0 +1,72 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "10 September 2021",
+    "period_of_validity": "5 years; valid until 10 September 2026",
+    "epd_number": "881bb513-ab0e-428e-aa54-3f6696adb733"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "product_scope": "Cradle-to-gate study"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.6 database and primary data from Holcim México Operaciones, S.A. de C.V.",
+    "data_quality_assessment": {
+      "precision": "Validated by the LCA practitioner and 3rd Party Verifier",
+      "completeness": "All relevant specific processes were considered",
+      "consistency": "Same modeling structure across the respective product systems",
+      "reproducibility": "Internal reproducibility is possible",
+      "representativeness": "Time related coverage from 2020-01-01 to 2020-12-31"
+    }
+  },
+  "transport_and_installation": {
+    "transport_requirements": "Transportation of A1 materials from the supplier to the manufacturing facility",
+    "installation_process": null
+  },
+  "end_of_life": {
+    "end_of_life_stages": "Excluded from this LCA"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": 201,
+      "maximum": 404,
+      "mean": 294,
+      "unit": "kg CO2-Eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "RA CPC40": {
+        "primary_content": 1,
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      },
+      "Fly Ash": {
+        "primary_content": 1,
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

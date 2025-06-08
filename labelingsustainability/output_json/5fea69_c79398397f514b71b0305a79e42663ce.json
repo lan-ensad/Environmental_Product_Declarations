@@ -1,0 +1,58 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Nicaragua",
+    "facility_location": "Managua, Nicaragua",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "56072280-efe5-44c4-9fd3-3d5053a031c6",
+    "date_of_issue": "04 August 2023",
+    "period_of_validity": "5 years; valid until 03 August 2028",
+    "independent_verification": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "product_scope": "62 concrete mixes manufactured at the KM12 Holcim Nicaragua concrete facility in Managua, Nicaragua"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "1% cut-off for all renewable and non-renewable primary energy consumption and the total mass of inputs within a unit process where the total of the neglected inputs does not exceed 5%.",
+    "data_sources": "ecoinvent v3.8 database and a local EPD database in combination with primary data from Holcim Nicaragua",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by the mixing trucks is direct primary information reported from Holcim Nicaragua records for the year 2022."
+  },
+  "end_of_life": {
+    "included_stages": "Not included in this LCA. Excluded stages include transportation of the manufactured material to the construction site, on-site construction processes and components, building use and maintenance, and end-of-life effects."
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "70.5 kg CO2-Eq",
+      "maximum": "479 kg CO2-Eq",
+      "mean": "352 kg CO2-Eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "cement": {
+        "primary_content": "0",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.05"
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

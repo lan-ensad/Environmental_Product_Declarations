@@ -1,0 +1,106 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "date_of_issue": "17 August 2021",
+    "period_of_validity": "5 years; valid until 17 August 2026",
+    "epd_number": "LABELING SUSTAINABILITY | 1",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Derramadero Concrete Plant, Ciudad de México, Mexico",
+    "product_variants": [
+      {
+        "mix_id": "38280ND2012",
+        "strength": "33.8 MPa",
+        "water_to_cement_ratio": "0.580",
+        "uuid": "afafe281-e502-45c8-bce6-08e8co066a6a"
+      },
+      {
+        "mix_id": "O250NB2014",
+        "strength": "29.6 MPa",
+        "water_to_cement_ratio": "0.678",
+        "uuid": "8c44ae5-63de-8ebe-0784314ddfaco4e"
+      },
+      {
+        "mix_id": "O0250ND2010",
+        "strength": "27.6 MPa",
+        "water_to_cement_ratio": "0.679",
+        "uuid": "2d679953-5387-86f-8534-faeb332f2b3c"
+      },
+      {
+        "mix_id": "77040ND2014",
+        "strength": "57 MPa",
+        "water_to_cement_ratio": "0.628",
+        "uuid": "oedb2465-7b51-4336-ab8f-7c7COaco02551"
+      },
+      {
+        "mix_id": "77045ND2014",
+        "strength": "57 MPa",
+        "water_to_cement_ratio": "0.409",
+        "uuid": "ae93ba69-3406-4105-b25a-23ad8dcbea64"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "lca_type": "Cradle-to-gate",
+    "system_boundaries": {
+      "A1": "Raw material supply",
+      "A2": "Transportation",
+      "A3": "Manufacturing"
+    },
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent v3.6 database and local EPD database",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "reproducibility": "Internal reproducibility possible",
+      "representativeness": "Time-related coverage from 2020, geographical coverage for Mexico"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "225 kg CO2-eq",
+      "maximum": "312 kg CO2-eq",
+      "mean": "256 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": [
+      {
+        "product_name": "RA CPC40",
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      },
+      {
+        "product_name": "Fly Ash",
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      }
+    ]
+  },
+  "additional_info": {
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

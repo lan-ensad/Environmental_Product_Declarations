@@ -1,0 +1,134 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "2e0ecba3-4136-4d5d-a58d-73dcs51bf93d3",
+    "date_of_issue": "03 August 2023",
+    "period_of_validity": "5 years; valid until 02 August 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Lerma, Estado de México, México",
+    "mix_designs": [
+      {
+        "range": "0 to 15 MPa",
+        "products": [
+          {
+            "mix_id": "24005NB0514",
+            "strength": "0.49 MPa",
+            "type": "Mortars and fillers"
+          },
+          {
+            "mix_id": "24007NB0524",
+            "strength": "0.69 MPa",
+            "type": "Mortars and fillers"
+          },
+          {
+            "mix_id": "24015NB0524",
+            "strength": "1.47 MPa",
+            "type": "Mortars and fillers"
+          },
+          {
+            "mix_id": "24025NB0514",
+            "strength": "2.45 MPa",
+            "type": "Mortars and fillers"
+          },
+          {
+            "mix_id": "77035ND4010",
+            "strength": "3.43 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "24035NB0524",
+            "strength": "3.43 MPa",
+            "type": "Mortars and fillers"
+          },
+          {
+            "mix_id": "77036ND4006",
+            "strength": "3.53 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77038ND4010",
+            "strength": "3.73 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "77040ND4010",
+            "strength": "3.92 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "68040ND4010",
+            "strength": "3.92 MPa",
+            "type": "Ready mix concrete"
+          }
+        ]
+      },
+      {
+        "range": "15 to 20 MPa",
+        "products": [
+          {
+            "mix_id": "71175ND1210",
+            "strength": "17.16 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "71200ND1210",
+            "strength": "19.61 MPa",
+            "type": "Ready mix concrete"
+          },
+          {
+            "mix_id": "40200NB1214",
+            "strength": "19.61 MPa",
+            "type": "Special concrete"
+          },
+          {
+            "mix_id": "73200NB0518",
+            "strength": "19.61 MPa",
+            "type": "Mortars and fillers"
+          }
+        ]
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ]
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_min": "270 kg CO2-eq",
+    "gwp_max": "668 kg CO2-eq",
+    "gwp_mean": "618 kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

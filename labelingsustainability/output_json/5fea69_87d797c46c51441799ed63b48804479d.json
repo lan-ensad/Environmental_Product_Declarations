@@ -1,0 +1,51 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "aac312ec-ec24-4fcc-9384-dec2db535048",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 23 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "El Marques, Queretaro, México",
+    "product_scope": "48 concrete mixes manufactured at the El Marques facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of total inflows (mass and energy) included.",
+    "data_sources": "ecoinvent V3.8 database, Holcim primary data for 2022",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated data validated by LCA practitioner and 3rd Party Verifier.",
+      "completeness": "All relevant processes considered and modeled.",
+      "consistency": "Uniform methodology applied across all inputs.",
+      "representativeness": "Data from 2022, region-specific electricity inputs used."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": {
+    "excluded_stages": "Transportation to site, on-site construction, building use and maintenance, end-of-life effects."
+  },
+  "carbon_emission_context": {
+    "impact_assessment_method": "US EPA TRACI",
+    "limitations": "EPD does not support definitive comparisons of environmental performance."
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "Returned concrete based on Holcim primary data for 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

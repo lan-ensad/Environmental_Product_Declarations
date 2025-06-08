@@ -1,0 +1,75 @@
+{
+  "epd_metadata": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "declaration_owner": "Holcim México Operaciones, S.A. de CV.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "10 September 2021",
+    "period_of_validity": "5 years; valid until 10 September 2026",
+    "epd_number": "38721e0e-2a95-4633-beb5-8c5628ag60oaf"
+  },
+  "product_description": {
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "description_of_product_and_scope": "This EPD accounts for primary information and greenhouse gas (GHG) emission reports for the Ramos Arizpe cement plant, used for the cement raw material input for all concrete mixes listed in this EPD. This LCA is a cradle-to-gate study."
+  },
+  "lca_information": {
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "ISO 14044:2006 requires the LCA model to contain a minimum of 95% of the total inflows (mass and energy).",
+    "data_sources_and_quality": "Primary data from Holcim México Operaciones, S.A. de C.V. and ecoinvent v3.6 database.",
+    "environmental_indicators_and_inventory_metrics": {
+      "impact_categories": [
+        "Acidification Potential (AP)",
+        "Eutrophication Potential (EP)",
+        "Global Warming Potential (GWP)",
+        "Ozone Depletion Potential (ODP)",
+        "Photochemical Ozone Creation Potential (POCP)",
+        "Abiotic Depletion Potential (ADPe and ADPf)"
+      ],
+      "inventory_metrics": [
+        "Total primary energy (TPE)",
+        "Non-Renewable Resources (NRR)",
+        "Renewable energy (RE)",
+        "Land filling, bulk waste (LFW)",
+        "Land filling, hazardous waste (LFHW)",
+        "Water depletion (WDP)",
+        "Concrete batching water consumption (CBWC)",
+        "Concrete washing water consumption (CWWC)",
+        "Concrete hazardous waste (CHW)",
+        "Concrete non-hazardous waste (CNHW)"
+      ]
+    }
+  },
+  "transport_and_installation": {
+    "raw_material_transport": "A combination of actual mode/distance combinations were assumed for key bulk materials.",
+    "electricity": "Electricity generation and consumption values were based on monthly utility bills.",
+    "fuel_required_for_machinery": "Utility vehicle, diesel 18.63 m3",
+    "waste_generation": {
+      "wash_water": "2294111 m3",
+      "hazardous_waste": "720 kg",
+      "non_hazardous_waste": "840 kg"
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "The change in global temperature caused by the greenhouse effect that the release of greenhouse gases by human activity creates."
+  },
+  "recycled_materials_handling": {
+    "reused_or_recycled_components": {
+      "concrete_returned": "695.04 m3 off-site"
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

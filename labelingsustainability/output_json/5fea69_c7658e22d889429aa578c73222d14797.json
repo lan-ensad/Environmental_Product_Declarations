@@ -1,0 +1,137 @@
+{
+  "epd_metadata": {
+    "declared_product": "Cement products produced by Holcim México Operaciones S.A. de C.V.",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017, NSF International (March 2020)",
+    "independent_lca_reviewer": "Geoffrey Guest, Certified 3rd Party Verifier",
+    "date_of_issue": "05 July 2023, Updated 19 June 2024",
+    "period_of_validity": "5 years, valid until 05 July 2028",
+    "epd_number": "624909e0-bd19-4de8-b2f1-4425cecdfada"
+  },
+  "product_description": {
+    "company_description": "Holcim Mexico produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "product_scope": "This EPD is prepared for products classified as UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete.",
+    "product_composition": {
+      "clinker": "Proprietary",
+      "mineral_additions": "30-60.00%",
+      "others": "0.01-5.00%"
+    }
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules.",
+    "data_sources_and_quality": "Primary data from Holcim México Operaciones SA de CV's plant, ecoinvent v3.0 database, and local EPD database."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "direct_gross_and_net_co2_emissions": {
+      "CPC30": {
+        "net": 448,
+        "gross": 492
+      },
+      "CPC40": {
+        "net": 630,
+        "gross": 691
+      },
+      "CPMM": {
+        "net": 242,
+        "gross": 266
+      },
+      "CPC40R": {
+        "net": 696,
+        "gross": 764
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "module_a1_material_losses": "Default loss factors assumed due to lack of data.",
+    "recycled_content": {
+      "waste_concrete": "0.02",
+      "polyethylene": "0.02",
+      "solid_waste_fuel": "0.02",
+      "cardboard_paper": "0.02",
+      "inert_waste": "0.02",
+      "wood_waste": "0.02",
+      "flyash": "0.02",
+      "dust": "0.00"
+    }
+  },
+  "additional_info": {
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "total_impact_summary": {
+      "GWP100": {
+        "min": 266,
+        "max": 764,
+        "mean": 553
+      },
+      "ODP": {
+        "min": 1.13e-06,
+        "max": 2.21e-06,
+        "mean": 1.76e-06
+      },
+      "AP": {
+        "min": 0.224,
+        "max": 0.42,
+        "mean": 0.335
+      },
+      "EP": {
+        "min": 0.111,
+        "max": 0.239,
+        "mean": 0.185
+      },
+      "SFP": {
+        "min": 4.03,
+        "max": 7.69,
+        "mean": 6.08
+      },
+      "ADPfossil": {
+        "min": 937,
+        "max": 2050,
+        "mean": 1580
+      }
+    },
+    "references": {
+      "ASTM_standards": [
+        "ASTM C150/C150M",
+        "ASTM C260/C260M",
+        "ASTM C595",
+        "ASTM C618",
+        "ASTM C979/C979M",
+        "ASTM C989/C989M",
+        "ASTM C1017/C1017M",
+        "ASTM C1116/C1116M",
+        "ASTM C1157/C1157M",
+        "ASTM C1240",
+        "ASTM C1602/C1602M",
+        "ASTM G109"
+      ],
+      "CSA_standards": [
+        "CAN/CSA A3000",
+        "CAN/CSA G40.20/G40.21"
+      ],
+      "ISO_standards": [
+        "ISO 6707-1:2014",
+        "ISO 14021:1999",
+        "ISO 14025:2006",
+        "ISO 14040:2006",
+        "ISO 14044:2006",
+        "ISO 14067:2018",
+        "ISO 14050:2009",
+        "ISO 21930:2017"
+      ],
+      "EN_standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "other_references": [
+        "US EPA Waste Reduction Model (WARM)",
+        "USGBC LEED v4 for Building Design and Construction",
+        "USGBC PCR Committee Process & Resources: Part B"
+      ]
+    }
+  }
+}

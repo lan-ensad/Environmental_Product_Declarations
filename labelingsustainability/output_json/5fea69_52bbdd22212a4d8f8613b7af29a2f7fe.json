@@ -1,0 +1,53 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Colombia",
+    "address": "7-45 Calle 13, Piso 12, Torre B, Ed. Teleport Business Park, Bogotà, Colombia",
+    "website": "www.holcim.com.co",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "970 W Sunset Blvd, Los Angeles, CA",
+    "program_operator_website": "www.labelinsustainability.com",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020), PCR for Concrete, v2.1",
+    "epd_verification": {
+      "independent_verification": "External",
+      "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier",
+      "verification_standard": "ISO 14025:2006"
+    },
+    "date_of_issue": "30 April 2023",
+    "period_of_validity": "5 years; valid until 29 April 2028",
+    "epd_number": "41d495419-77c2-4887-adad-6121c6478ede"
+  },
+  "product_description": {
+    "declared_product": "Concrete",
+    "declared_unit": "1 m3 of concrete",
+    "product_scope": "72 concrete mixes manufactured at the Holcim Colombia, Nobsa concrete facility in Boyacá, Colombia"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "lca_type": "Cradle-to-gate",
+    "system_boundaries": {
+      "product_stage": "A1-A3",
+      "installation_process_stage": "A4-A5 (not included)",
+      "use_stage": "B1-B7 (not included)",
+      "end_of_life_stage": "C1-C4 (not included)"
+    },
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database and a local EPD database",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_min": 191,
+    "gwp_max": 581,
+    "gwp_mean": 426
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "Returned concrete",
+    "recycled_materials_quantity": "8.727273 m3"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "grouping_of_products": "Products are grouped by performance categories of compressive strength and high early strength."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "ecdos57d4-e2ba-41f1-a0b5-1d52eae3d45d",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 24 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Arvide facility in Alvaro Obregén, Ciudad de México",
+    "product_scope": "65 concrete mixes manufactured at the Holcim Mexico Operaciones S.A. de C.V. Arvide concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.8 database and a local EPD database",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_minimum": 126,
+    "gwp_maximum": 584,
+    "gwp_mean": 284,
+    "gwp_median": 280
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

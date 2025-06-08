@@ -1,0 +1,64 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "epd_number": "01c10981-652a-4cha-bca7-8b4df282d45c",
+    "date_of_issue": "05 December 2021",
+    "period_of_validity": "5 years; valid until 05 December 2026",
+    "iso_standards": [
+      "ISO 21930:2017",
+      "ISO 14025:2006",
+      "ISO 14044:2006",
+      "ISO 14040:2006"
+    ],
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction. The company has a nationwide presence through 7 cement plants with a current installed capacity to produce 12.6 million tons per year, 23 cement distribution centers, two maritime terminals, 1 Corporate Office, plus 35 ready-mix concrete plants, seven platforms, and a Geocycle transfer center, 26 commercial partners with more than 90 ready-mix concrete plants, more than 500 mixing pots, one aggregates plant and a Technological Innovation Center for Construction (CITEC).",
+    "sustainability_vision": "Sustainable Development is an integral part of Holcim México Operaciones SA de CV strategy around the world. Holcim México Operaciones SA de CV has a clear vision of the future it wants for our country, which contributes to its development. Holcim México Operaciones SA de CV main objective is to create value. Creating value ensures long-term business success in covering the triple bottom line (i.e. social, economic, environmental values)."
+  },
+  "lca_information": {
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "system_boundaries": {
+      "A1": "Raw material supply",
+      "A2": "Transport",
+      "A3": "Manufacturing"
+    },
+    "data_sources": "Primary data from Holcim México Operaciones SA de CV, ecoinvent V3.6 database",
+    "cut_off_criteria": "ISO 14044:2006 and the focus PCR requires the LCA model to contain a minimum of 95% of the total inflows (mass and energy) to the upstream and core modules be included in this study."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Primary transportation for delivering the concrete in mixing trucks was calculated using the formula; Total concrete transported/(concrete/load){km per load)L/km."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "GWP is measured in kg CO2-Eq."
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "HS CPC40 Cement": {
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      },
+      "Coarse Aggregate": {
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

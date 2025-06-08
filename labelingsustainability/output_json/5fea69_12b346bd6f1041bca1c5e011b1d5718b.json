@@ -1,0 +1,51 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "ab35fc7f-3717-4c0d-ba3d-3achb792cs5aae",
+    "date_of_issue": "29 July 2023",
+    "period_of_validity": "5 years; valid until 29 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Iztapalapa, Ciudad de México, México",
+    "product_scope": "61 concrete mixes manufactured at the Holcim Mexico Iztapalapa facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of total inflows included",
+    "data_sources": "ecoinvent V3.8 database, Holcim primary data",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "representativeness": "Data from 2022, region-specific electricity inputs"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_min": 93,
+    "gwp_max": 675,
+    "gwp_mean": 331,
+    "gwp_median": 334
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2022"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

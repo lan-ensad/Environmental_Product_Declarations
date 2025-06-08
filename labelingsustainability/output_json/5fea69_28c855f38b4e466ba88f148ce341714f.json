@@ -1,0 +1,403 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Colombia",
+    "facility_location": "Sibaté, Cundinamarca, Colombia",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "b7c1955a-efc7-4c59-0add-d198d8966a02",
+    "date_of_issue": "29 April 2023",
+    "period_of_validity": "5 years; valid until 29 April 2028",
+    "third_party_verifier": "Geoffrey Guest"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "product_types": [
+      {
+        "mix_design": "0 to 15 MPa",
+        "mixes": [
+          {
+            "mix_id": "10062890",
+            "strength": "2 MPa",
+            "water_cement_ratio": "1.400000"
+          },
+          {
+            "mix_id": "10047801",
+            "strength": "4 MPa",
+            "water_cement_ratio": "0.458333"
+          },
+          {
+            "mix_id": "10064056",
+            "strength": "4.1 MPa",
+            "water_cement_ratio": "0.281818"
+          },
+          {
+            "mix_id": "10011208",
+            "strength": "4.1 MPa",
+            "water_cement_ratio": "0.369565"
+          },
+          {
+            "mix_id": "10051184",
+            "strength": "4.2 MPa",
+            "water_cement_ratio": "0.310680"
+          },
+          {
+            "mix_id": "10073454",
+            "strength": "4.3 MPa",
+            "water_cement_ratio": "0.304762"
+          },
+          {
+            "mix_id": "10011451",
+            "strength": "4.3 MPa",
+            "water_cement_ratio": "0.423077"
+          },
+          {
+            "mix_id": "10065278",
+            "strength": "4.5 MPa",
+            "water_cement_ratio": "0.442857"
+          },
+          {
+            "mix_id": "10011461",
+            "strength": "4.5 MPa",
+            "water_cement_ratio": "0.402439"
+          },
+          {
+            "mix_id": "10062841",
+            "strength": "4.5 MPa",
+            "water_cement_ratio": "0.326316"
+          },
+          {
+            "mix_id": "10011463",
+            "strength": "4.5 MPa",
+            "water_cement_ratio": "0.311321"
+          },
+          {
+            "mix_id": "10064058",
+            "strength": "4.5 MPa",
+            "water_cement_ratio": "0.260504"
+          },
+          {
+            "mix_id": "10033497",
+            "strength": "5 MPa",
+            "water_cement_ratio": "0.271930"
+          },
+          {
+            "mix_id": "10067123",
+            "strength": "10.5 MPa",
+            "water_cement_ratio": "0.817308"
+          },
+          {
+            "mix_id": "10067129",
+            "strength": "10.5 MPa",
+            "water_cement_ratio": "0.767544"
+          },
+          {
+            "mix_id": "10067202",
+            "strength": "10.5 MPa",
+            "water_cement_ratio": "0.711462"
+          },
+          {
+            "mix_id": "10045441",
+            "strength": "10.5 MPa",
+            "water_cement_ratio": "0.649123"
+          },
+          {
+            "mix_id": "10072811",
+            "strength": "12.5 MPa",
+            "water_cement_ratio": "0.571429"
+          },
+          {
+            "mix_id": "10067124",
+            "strength": "14 MPa",
+            "water_cement_ratio": "0.745614"
+          },
+          {
+            "mix_id": "10067200",
+            "strength": "14 MPa",
+            "water_cement_ratio": "0.705645"
+          },
+          {
+            "mix_id": "10011892",
+            "strength": "14 MPa",
+            "water_cement_ratio": "0.625000"
+          }
+        ]
+      },
+      {
+        "mix_design": "15 to 20 MPa",
+        "mixes": [
+          {
+            "mix_id": "10067219",
+            "strength": "17.5 MPa",
+            "water_cement_ratio": "0.741525"
+          },
+          {
+            "mix_id": "10067201",
+            "strength": "17.5 MPa",
+            "water_cement_ratio": "0.652985"
+          },
+          {
+            "mix_id": "10032165",
+            "strength": "17.5 MPa",
+            "water_cement_ratio": "0.615385"
+          }
+        ]
+      },
+      {
+        "mix_design": "21 to 25 MPa",
+        "mixes": [
+          {
+            "mix_id": "10066981",
+            "strength": "21 MPa",
+            "water_cement_ratio": "0.611940"
+          },
+          {
+            "mix_id": "10073458",
+            "strength": "21 MPa",
+            "water_cement_ratio": "0.610169"
+          },
+          {
+            "mix_id": "10060245",
+            "strength": "21 MPa",
+            "water_cement_ratio": "0.537313"
+          },
+          {
+            "mix_id": "10029084",
+            "strength": "21 MPa",
+            "water_cement_ratio": "0.546667"
+          },
+          {
+            "mix_id": "10072702",
+            "strength": "21 MPa",
+            "water_cement_ratio": "0.445783"
+          },
+          {
+            "mix_id": "10011050",
+            "strength": "24.5 MPa",
+            "water_cement_ratio": "0.620690"
+          },
+          {
+            "mix_id": "10048467",
+            "strength": "24.5 MPa",
+            "water_cement_ratio": "0.578125"
+          },
+          {
+            "mix_id": "10041261",
+            "strength": "24.5 MPa",
+            "water_cement_ratio": "0.513889"
+          },
+          {
+            "mix_id": "10072802",
+            "strength": "24.5 MPa",
+            "water_cement_ratio": "0.481928"
+          }
+        ]
+      },
+      {
+        "mix_design": "26 to 30 MPa",
+        "mixes": [
+          {
+            "mix_id": "10011079",
+            "strength": "28 MPa",
+            "water_cement_ratio": "0.580645"
+          },
+          {
+            "mix_id": "10068980",
+            "strength": "28 MPa",
+            "water_cement_ratio": "0.537791"
+          },
+          {
+            "mix_id": "10010699",
+            "strength": "28 MPa",
+            "water_cement_ratio": "0.513158"
+          },
+          {
+            "mix_id": "10010840",
+            "strength": "28 MPa",
+            "water_cement_ratio": "0.428571"
+          },
+          {
+            "mix_id": "10062076",
+            "strength": "28 MPa",
+            "water_cement_ratio": "0.375000"
+          }
+        ]
+      },
+      {
+        "mix_design": "31 to 35 MPa",
+        "mixes": [
+          {
+            "mix_id": "10041259",
+            "strength": "31.5 MPa",
+            "water_cement_ratio": "0.545455"
+          },
+          {
+            "mix_id": "10045331",
+            "strength": "31.5 MPa",
+            "water_cement_ratio": "0.486842"
+          },
+          {
+            "mix_id": "10065388",
+            "strength": "31.5 MPa",
+            "water_cement_ratio": "0.439560"
+          },
+          {
+            "mix_id": "10041258",
+            "strength": "35 MPa",
+            "water_cement_ratio": "0.514286"
+          },
+          {
+            "mix_id": "10072763",
+            "strength": "35 MPa",
+            "water_cement_ratio": "0.468354"
+          },
+          {
+            "mix_id": "10067191",
+            "strength": "35 MPa",
+            "water_cement_ratio": "0.400000"
+          }
+        ]
+      },
+      {
+        "mix_design": "36 to 40 MPa",
+        "mixes": [
+          {
+            "mix_id": "10058499",
+            "strength": "38.5 MPa",
+            "water_cement_ratio": "0.486486"
+          },
+          {
+            "mix_id": "10062563",
+            "strength": "38.5 MPa",
+            "water_cement_ratio": "0.409091"
+          }
+        ]
+      },
+      {
+        "mix_design": "41 to 45 MPa",
+        "mixes": [
+          {
+            "mix_id": "10048460",
+            "strength": "42 MPa",
+            "water_cement_ratio": "0.402439"
+          },
+          {
+            "mix_id": "10027316",
+            "strength": "42 MPa",
+            "water_cement_ratio": "0.411111"
+          },
+          {
+            "mix_id": "10048322",
+            "strength": "42 MPa",
+            "water_cement_ratio": "0.360000"
+          },
+          {
+            "mix_id": "10062291",
+            "strength": "45 MPa",
+            "water_cement_ratio": "0.377574"
+          }
+        ]
+      },
+      {
+        "mix_design": "46 to 50 MPa",
+        "mixes": [
+          {
+            "mix_id": "10052003",
+            "strength": "45.5 MPa",
+            "water_cement_ratio": "0.420455"
+          },
+          {
+            "mix_id": "10052062",
+            "strength": "49 MPa",
+            "water_cement_ratio": "0.418605"
+          },
+          {
+            "mix_id": "10049785",
+            "strength": "49 MPa",
+            "water_cement_ratio": "0.385417"
+          },
+          {
+            "mix_id": "10072161",
+            "strength": "49 MPa",
+            "water_cement_ratio": "0.298246"
+          }
+        ]
+      },
+      {
+        "mix_design": "56 to 60 MPa",
+        "mixes": [
+          {
+            "mix_id": "10072640",
+            "strength": "56 MPa",
+            "water_cement_ratio": "0.327434"
+          },
+          {
+            "mix_id": "10049790",
+            "strength": "56 MPa",
+            "water_cement_ratio": "0.330097"
+          }
+        ]
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "system_boundaries": {
+      "product_stage": [
+        "A1: Raw material supply",
+        "A2: Transport",
+        "A3: Manufacturing"
+      ],
+      "excluded_stages": [
+        "A4: Transport to site",
+        "A5: Installation",
+        "B1-B7: Use stage",
+        "C1-C4: End of life stage"
+      ]
+    },
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules.",
+    "data_sources": "ecoinvent v3.8 database, local EPD database, primary data from Holcim Colombia",
+    "data_quality": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Uniform methodology applied",
+      "representativeness": "Geographical, temporal, and technological coverage"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": {
+      "AP": "Acidification Potential",
+      "EP": "Eutrophication Potential",
+      "GWP": "Global Warming Potential",
+      "ODP": "Ozone Depletion Potential",
+      "PCOP": "Photochemical Ozone Creation Potential",
+      "ADPe": "Abiotic Depletion Potential (elements)",
+      "ADPf": "Abiotic Depletion Potential (fossil fuels)"
+    },
+    "inventory_metrics": {
+      "TPE": "Total Primary Energy",
+      "RE": "Renewable Energy",
+      "NRE": "Non-Renewable Energy",
+      "NRR": "Non-Renewable Resources",
+      "RR": "Renewable Resources",
+      "WDP": "Water Depletion Potential",
+      "LFW": "Landfill Waste",
+      "LFH": "Landfill Hazardous Waste",
+      "CBW": "Combustion Waste",
+      "CW": "Combustion Waste",
+      "CHW": "Combustion Hazardous Waste",
+      "CNH": "Combustion Non-Hazardous Waste"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "grouping_of_products": "The PCR allows for the grouping of similar products based on performance categories, material characteristics, and production categories."
+  }
+}

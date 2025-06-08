@@ -1,0 +1,55 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Colombia",
+    "address": "7-45 Calle 13, Piso 12, Torre B, Ed. Teleport Business Park, Bogotà, Colombia",
+    "website": "www.holcim.com.co",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "970 W Sunset Blvd, Los Angeles, CA",
+    "program_operator_website": "www.labelingsustainability.com",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020), PCR for Concrete, v2.1",
+    "date_of_issue": "19 July 2023",
+    "period_of_validity": "5 years; valid until 18 July 2028",
+    "epd_number": "oeoa6ef4-76f5-4924-8c2a-7ef62694ecb6"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Bello, Antioquia, Colombia",
+    "product_scope": "87 concrete mixes"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of total inflows included",
+    "data_sources": "ecoinvent v3.8, local EPD database, primary data from Holcim Colombia",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "representativeness": "Data from 2021, region-specific electricity inputs"
+    }
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks, primary information from Holcim Colombia"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_minimum": 273,
+    "gwp_maximum": 629,
+    "gwp_mean": 445
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2021"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "grouping_of_products": "Products grouped by performance categories, material characteristics, and production categories."
+  }
+}

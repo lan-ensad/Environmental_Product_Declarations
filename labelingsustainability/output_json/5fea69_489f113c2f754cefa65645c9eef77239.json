@@ -1,0 +1,61 @@
+{
+  "epd_metadata": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "21 September 2021",
+    "period_of_validity": "5 years; valid until 21 September 2026",
+    "epd_number": "0060b437-f1a9.4099-b532-oeffc6idec23"
+  },
+  "product_description": {
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "description_of_product_and_scope": "This EPD accounts for primary information and greenhouse gas (GHG) emission reports for the Apaxco cement plant, used for the cement raw material input for all concrete mixes listed in this EPD."
+  },
+  "lca_information": {
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules.",
+    "data_sources_and_quality": "Primary data from Holcim México Operaciones, S.A. de C.V's plant, ecoinvent V3.6 database, and local EPD database."
+  },
+  "transport_and_installation": {
+    "raw_material_transport": "Combination of actual mode/distance combinations and ecoinvent default multi-modal market mix distances.",
+    "electricity": "Based on monthly utility bills from state-owned CFE.",
+    "fuel_required_for_machinery": "Utility vehicle, diesel 9.264 m3",
+    "waste_generation": "Wash water 3897.821 m3, Non-hazardous waste 441.6 kg"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": {
+      "global_warming_potential": "GWP kg CO2-Eq",
+      "acidification_potential": "AP kg SO2eq",
+      "eutrophication_potential": "EP kg PO4 3- -eq",
+      "ozone_depletion_potential": "ODP kg CFC-11-eq",
+      "photochemical_ozone_creation_potential": "POCP kg O3eq",
+      "abiotic_depletion_potential_elements": "ADPe kg Sbeq",
+      "abiotic_depletion_potential_fossil_fuels": "ADPf kg Sbeq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "CPC40 Cement": "0% post-industrial, 0% post-consumer",
+      "Gravel 1": "0% post-industrial, 0% post-consumer",
+      "Andesite": "0% post-industrial, 0% post-consumer",
+      "Water": "0% post-industrial, 0% post-consumer",
+      "DARACEM": "0% post-industrial, 0% post-consumer",
+      "ZYLA": "0% post-industrial, 0% post-consumer"
+    }
+  },
+  "additional_info": {
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

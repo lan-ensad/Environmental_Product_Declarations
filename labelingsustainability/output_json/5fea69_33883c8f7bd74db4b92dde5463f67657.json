@@ -1,0 +1,110 @@
+{
+  "epd_metadata": {
+    "epd_number": "68478d81-fe0S-4602-b1dd-6b1c09d74473",
+    "date_of_issue": "18 August 2021",
+    "period_of_validity": "5 years; valid until 18 August 2026",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_contact": "http://labelinsustainability.com/",
+    "iso_standards": [
+      "ISO 21930:2017",
+      "ISO 14025:2006",
+      "ISO 14044:2006",
+      "ISO 14040:2006"
+    ],
+    "independent_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group",
+    "verification_type": "External"
+  },
+  "product_description": {
+    "declared_unit": "1 m3 of concrete",
+    "declared_product": "Ready mix concrete products",
+    "manufacturer": "Holcim México Operaciones, S.A. de C.V.",
+    "facility_location": "Arteaga Saltillo Concrete Plant, Coahuila, México",
+    "product_variants": [
+      {
+        "mix_id": "70150ND2010",
+        "strength": "17.8 MPa",
+        "water_to_cement_ratio": "0.863874",
+        "uuid": "fd6ef6a3-991b-41b5-95bd-9939743e0953"
+      },
+      {
+        "mix_id": "70200NB2014",
+        "strength": "22.0 MPa",
+        "water_to_cement_ratio": "0.7208",
+        "uuid": "26946cf9-f5cc-4e62-a4fc-762d26418aff"
+      },
+      {
+        "mix_id": "70200ND2010",
+        "strength": "23.0 MPa",
+        "water_to_cement_ratio": "0.723981",
+        "uuid": "14800749-623b-41b2-8dd5-565634ca9b74"
+      },
+      {
+        "mix_id": "70250NB2014",
+        "strength": "27.9 MPa",
+        "water_to_cement_ratio": "0.651341",
+        "uuid": "ad1811a9-e382-41b2-8dd5-a49309b1681c"
+      },
+      {
+        "mix_id": "70250ND2010",
+        "strength": "28.1 MPa",
+        "water_to_cement_ratio": "0.6425703",
+        "uuid": "d737e386-d78e-44d0-a5d7-3492a410445a"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "reference_year": "2020",
+    "system_boundaries": {
+      "A1": "Raw material supply",
+      "A2": "Transport",
+      "A3": "Manufacturing"
+    },
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.6, local EPD database, primary data from Holcim México Operaciones, S.A. de C.V."
+  },
+  "transport_and_installation": {
+    "transport_requirements": "Transportation of A1 materials from the supplier to the manufacturing facility",
+    "installation_requirements": null
+  },
+  "end_of_life": {
+    "end_of_life_stages": "Not included in this LCA"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "166 kg CO2-eq",
+      "maximum": "215 kg CO2-eq",
+      "mean": "200 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "RA CPC40": {
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      },
+      "Fly Ash": {
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      },
+      "Gravel 2": {
+        "post_industrial_content": "0",
+        "post_consumer_content": "1",
+        "material_losses": "0.02"
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

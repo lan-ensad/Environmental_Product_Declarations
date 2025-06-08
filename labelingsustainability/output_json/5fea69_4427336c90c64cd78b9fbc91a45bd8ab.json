@@ -1,0 +1,49 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "38cccag1-b744-4f35-8ed7-desoa63cdaie",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 23 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Queretaro, México",
+    "product_scope": "50 concrete mixes manufactured at the Holcim Mexico Operaciones S.A. de C.V. Queretaro concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.8 database and a local EPD database in combination with primary data from Holcim México Operaciones S.A. de C.V.",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by the mixing trucks is direct primary information reported from Holcim México records for the year 2022."
+  },
+  "end_of_life": {
+    "end_of_life_stages": "Excluded from this LCA"
+  },
+  "carbon_emission_context": {
+    "gwp_minimum": "273 kg CO2-eq",
+    "gwp_maximum": "972 kg CO2-eq",
+    "gwp_mean": "326 kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

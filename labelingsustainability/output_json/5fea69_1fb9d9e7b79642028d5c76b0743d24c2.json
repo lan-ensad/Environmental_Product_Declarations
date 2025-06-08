@@ -1,0 +1,56 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest",
+    "date_of_issue": "22 July 2023",
+    "period_of_validity": "5 years; valid until 21 July 2028",
+    "epd_number": "78a18387-cd15-452f-a7cd-2d9d6e132a1f"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Cancún, Quintana Roo, México",
+    "product_scope": "41 concrete mixes manufactured at the Holcim Mexico Operaciones S.A. de C.V. Cancun concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent V3.8 database, Holcim México Operaciones S.A. de C.V. primary data",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes included",
+      "consistency": "Uniform methodology applied",
+      "representativeness": "Geographical, temporal, and technological"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp": {
+      "min": 157,
+      "max": 663,
+      "unit": "kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2022"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site."
+  }
+}

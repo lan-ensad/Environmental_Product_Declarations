@@ -1,0 +1,125 @@
+{
+  "epd_metadata": {
+    "declared_product": "cement products produced by Holcim Colombia",
+    "declared_unit": "1 tonne of cement",
+    "company": "Holcim Colombia",
+    "address": "7-45 Calle 13, Piso 12, Torre B, Ed. Teleport Business Park, Bogotà, Colombia",
+    "website": "holcim.com.co",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "11670 W Sunset Blvd, Los Angeles, CA",
+    "program_operator_website": "http://labelingsustainability.com/",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "valid_through": "March 31, 2025",
+    "epd_number": "6328e320-6can-4d85-83f4-dca33374d11b",
+    "date_of_issue": "06 January 2023",
+    "period_of_validity": "5 years; valid until 06 January 2028",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "company_description": "Holcim Colombia, part of Grupo Holcim, is a leader in innovative and sustainable solutions for construction, aiming for greener cities and smarter infrastructures.",
+    "product_scope": "This EPD is prepared for products classified as UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete.",
+    "cement_design_summary": [
+      {
+        "mix_id": 1,
+        "name": "CEMENTO PETROLERO G",
+        "description": "Class G cement, High Ordinary Portland",
+        "clinker_content": "Proprietary",
+        "resistance_3_days": 23,
+        "resistance_28_days": 40
+      },
+      {
+        "mix_id": 2,
+        "name": "CEMENTO INDUSTRIAL ECOPLANET ART",
+        "description": "Ordinary Portland",
+        "clinker_content": "Proprietary",
+        "resistance_3_days": 23.4,
+        "resistance_28_days": 43.2
+      },
+      {
+        "mix_id": 3,
+        "name": "CEMENTO INDS.FUERTE TIPO ART",
+        "description": "Ordinary Portland",
+        "clinker_content": "Proprietary",
+        "resistance_3_days": 29.4,
+        "resistance_28_days": 46.5
+      },
+      {
+        "mix_id": 4,
+        "name": "CEMENTO FUERTE ECOPLANET UG",
+        "description": "Ordinary Portland",
+        "clinker_content": "Proprietary",
+        "resistance_3_days": 13.2,
+        "resistance_28_days": 27.3
+      }
+    ],
+    "cement_design_composition": {
+      "clinker": "30-60.00",
+      "mineral_additions": "0.01-5.00",
+      "others": "0.01-5.00"
+    }
+  },
+  "lca_information": {
+    "study_goal": "The intended application of this LCA is to comply with the procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "Primary data from Holcim Colombia's plant, ecoinvent v3.8 database",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "reproducibility": "Internal reproducibility possible",
+      "representativeness": "Time-related coverage from 2021-01-01 to 2021-12-31"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "direct_a3_emissions": "Calculated using adjusted default values and IPCC guidelines"
+  },
+  "recycled_materials_handling": {
+    "module_a1_material_losses": "Default (2%) loss factors assumed"
+  },
+  "additional_info": {
+    "limitations": "This EPD does not support definitive comparisons of environmental performance of specific products.",
+    "total_impact_summary": {
+      "midpoint_impact_categories": {
+        "AP": "56.6-107",
+        "EP": "0.0882-0.165",
+        "GWP": "479-930",
+        "ODP": "3.52e-05-6.6e-05",
+        "PCOP": "0.903-17",
+        "ADPe": "0.000175-0.00288",
+        "ADPf": "2300-4300"
+      },
+      "inventory_metrics": {
+        "TPE": "2800-5010",
+        "RE": "341-347",
+        "NRE": "2470-4580",
+        "NRR": "94.3-147",
+        "RR": "0.000261-0.000376",
+        "WDP": "0.229-0.335",
+        "LFW": "22.5-30.2",
+        "LFHW": "0.0014-0.00216"
+      }
+    },
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "235c63fc-d6ec-41f9-a1a9-0115ed85c408",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 23 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Isla Blanca, Cancun, México",
+    "mix_designs": [
+      {
+        "mix_id": "77035ND2014",
+        "strength_mpa": 3.5,
+        "water_to_cement_ratio": 0.6710963
+      },
+      {
+        "mix_id": "77036ND2010",
+        "strength_mpa": 3.6,
+        "water_to_cement_ratio": 0.6430868
+      },
+      {
+        "mix_id": "77038ND2010",
+        "strength_mpa": 3.8,
+        "water_to_cement_ratio": 0.6137072
+      },
+      {
+        "mix_id": "77040ND2010",
+        "strength_mpa": 4.0,
+        "water_to_cement_ratio": 0.5891239
+      },
+      {
+        "mix_id": "77042ND2010",
+        "strength_mpa": 4.2,
+        "water_to_cement_ratio": 0.566474
+      },
+      {
+        "mix_id": "77045ND2010",
+        "strength_mpa": 4.5,
+        "water_to_cement_ratio": 0.5441989
+      },
+      {
+        "mix_id": "77048ND2010",
+        "strength_mpa": 4.8,
+        "water_to_cement_ratio": 0.525066
+      },
+      {
+        "mix_id": "77050ND2010",
+        "strength_mpa": 5.0,
+        "water_to_cement_ratio": 0.5037783
+      },
+      {
+        "mix_id": "73050NB0518",
+        "strength_mpa": 5.4,
+        "water_to_cement_ratio": 0.7745455
+      },
+      {
+        "mix_id": "70100NB2018",
+        "strength_mpa": 12.8,
+        "water_to_cement_ratio": 0.9173913
+      },
+      {
+        "mix_id": "73100NB0518",
+        "strength_mpa": 12.8,
+        "water_to_cement_ratio": 1.1593407
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ]
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "impact_categories": [
+      "Global Warming Potential (GWP)",
+      "Ozone Depletion Potential (ODP)",
+      "Acidification Potential (AP)",
+      "Eutrophication Potential (EP)",
+      "Photochemical Ozone Creation Potential (PCOP)",
+      "Abiotic Depletion Potential for fossil resources (ADPf)",
+      "Abiotic Depletion Potential for elements (ADPe)"
+    ]
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

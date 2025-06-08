@@ -1,0 +1,109 @@
+{
+  "epd_metadata": {
+    "declared_product": "Cement products produced by Holcim Argentina",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim Argentina",
+    "address": "680 Humberto Primo, Complejo Capitalinas, Edificio Suquia, Piso 4, Oficina 47, Cordoba, Argentina",
+    "website": "holcim.com.ar",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "11670 W Sunset Blvd., Los Angeles, CA",
+    "program_operator_website": "http://labelingsustainability.com/",
+    "product_category_rule": "Core PCR: ISO 21930:2017",
+    "sub_pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Thomas P. Gloria, Ph.D.",
+    "independent_epd_verifier": "Geoffrey Guest, Certified 3rd Party Verifier",
+    "date_of_issue": "19 January 2023",
+    "period_of_validity": "5 years, valid until 19 January 2028",
+    "epd_number": "fa8b3271-b31f-4e888-a727-cfdcafdze73f"
+  },
+  "product_description": {
+    "company_description": "Holcim Argentina is a leader in innovative and sustainable solutions for construction with over 90 years of experience in Argentina.",
+    "product_scope": "This EPD is prepared for products classified as UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete.",
+    "cement_design_summary": [
+      {
+        "mix_id": "Atbañileria (bag)",
+        "description": "Masonry cement",
+        "type": "Ordinary Portland",
+        "resistance_28_days_mpa": "5.5"
+      },
+      {
+        "mix_id": "Cemento Normal (bulk)",
+        "description": "Typical Portland Cement",
+        "type": "Ordinary Portland",
+        "resistance_28_days_mpa": "40"
+      },
+      {
+        "mix_id": "CPP 40 (bulk)",
+        "description": "Versatile cement specially formulated for concrete mixers.",
+        "type": "Portland Pozzolana",
+        "resistance_28_days_mpa": "40"
+      },
+      {
+        "mix_id": "Agrovial (bulk)",
+        "description": "A hydraulic binder specially developed for the stabilization of soils and agricultural roads",
+        "type": "Ordinary Portland",
+        "resistance_28_days_mpa": "NA"
+      },
+      {
+        "mix_id": "CPP30 (bag)",
+        "description": "Composite Portland Cement, Fast Strength Class 30",
+        "type": "Portland Pozzolana",
+        "resistance_28_days_mpa": "30"
+      },
+      {
+        "mix_id": "CPCA40 (bag)",
+        "description": "Composite Portland Cement, Strength Class 40",
+        "type": "Ordinary Portland",
+        "resistance_28_days_mpa": "40"
+      },
+      {
+        "mix_id": "Exported Clinker",
+        "description": "Clinker for Export",
+        "type": "Clinker",
+        "resistance_28_days_mpa": "NULL"
+      }
+    ],
+    "cement_design_composition": {
+      "clinker": "Proprietary",
+      "mineral_additions": "30-60.00%",
+      "others": "0.01-5.00%"
+    }
+  },
+  "lca_information": {
+    "study_goal": "The intended application of this LCA is to comply with the procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "direct_a3_emissions": "The decarbonization is 540 kg CO2/kg of clinker."
+  },
+  "recycled_materials_handling": {
+    "recovered_energy": "Not Applicable",
+    "recycled_reused_material_components": "Not applicable"
+  },
+  "additional_info": {
+    "data_sources_and_quality": {
+      "raw_material_transport": "Combination of actual mode/distance combinations and ecoinvent default multi-modal market mix distances.",
+      "electricity": "Market for electricity, medium voltage/electricity, medium voltage/AR/KWh",
+      "fuel_required_for_machinery": "Direct Holcim information for diesel and gasoline for 2021.",
+      "waste_generation": "Directly reported from Holcim operations.",
+      "waste_transport_requirements": "Estimated values with a representative distance of 25 km."
+    },
+    "environmental_indicators_and_inventory_metrics": "TRACI impact categories were utilized.",
+    "limitations": "This EPD does not support definitive comparisons of environmental performance of specific products.",
+    "total_impact_summary": "Provided in Table 4 of the document."
+  }
+}

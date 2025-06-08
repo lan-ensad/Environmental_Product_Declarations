@@ -1,0 +1,67 @@
+{
+  "epd_metadata": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "28 August 2021",
+    "period_of_validity": "5 years; valid until 28 August 2026",
+    "epd_number": "84753bd5-688a-4b00-b9a3-65f44758414f"
+  },
+  "product_description": {
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "description_of_product_and_scope": "This EPD is primary reported Holcim data from the reference year 2020 and uses direct reported Holcim information whenever possible. This LCA is a cradle-to-gate study."
+  },
+  "lca_information": {
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources_and_quality": "Primary data from Holcim México Operaciones, S.A. de C.V. and ecoinvent V3.6 database."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": null,
+    "waste_transport_requirements": null
+  },
+  "end_of_life": {
+    "end_of_life_scenarios": null
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "302 kg CO2-eq",
+      "maximum": "411 kg CO2-eq",
+      "mean": "368 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "CPC40 Cement": {
+        "post_industrial_content": "0%",
+        "post_consumer_content": "0%",
+        "material_losses": "0.02%"
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

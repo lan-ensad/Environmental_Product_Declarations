@@ -1,0 +1,147 @@
+{
+  "epd_metadata": {
+    "declared_product": "Cement products produced by Holcim Argentina",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim Argentina",
+    "address": "680 Humberto Primo, Complejo Capitalinas, Edificio Suquia, Piso 4, Oficina 47, Cordoba, Argentina",
+    "website": "holcim.com.ar",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "11670 W Sunset Blvd., Los Angeles, CA",
+    "program_operator_website": "http://labelinsustainability.com/",
+    "product_category_rule": "ISO 21930:2017",
+    "sub_pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Thomas P. Gloria, Ph.D.",
+    "independent_verifier": "Geoffrey Guest, Certified 3rd Party Verifier",
+    "date_of_issue": "24 January 2023",
+    "period_of_validity": "5 years, valid until 24 January 2028",
+    "epd_number": "f2621473-b677-4e9d-0047-0a38323ea4ee"
+  },
+  "product_description": {
+    "company_description": "Holcim Argentina is a leader in innovative and sustainable solutions for construction with over 90 years of experience in Argentina.",
+    "product_classification": "UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete",
+    "cement_design_summary": [
+      {
+        "mix_id": 1,
+        "name": "Albañileria (Bag)",
+        "type": "Masonry Cement",
+        "resistance_28_days_mpa": 55
+      },
+      {
+        "mix_id": 2,
+        "name": "Cemento Fillerizado CPF40 (bag)",
+        "type": "Ordinary Portland",
+        "resistance_28_days_mpa": 40
+      },
+      {
+        "mix_id": 3,
+        "name": "Cemento CP40 (bulk)",
+        "type": "Ordinary Portland",
+        "resistance_28_days_mpa": 40
+      },
+      {
+        "mix_id": 4,
+        "name": "Cemento Normal CPN40 (bulk)",
+        "type": "Ordinary Portland",
+        "resistance_28_days_mpa": 40
+      },
+      {
+        "mix_id": 5,
+        "name": "Exported Clinker",
+        "type": "Clinker",
+        "resistance_28_days_mpa": null
+      }
+    ],
+    "cement_design_composition": {
+      "clinker": "Proprietary",
+      "mineral_additions": "30-60.00%",
+      "others": "0.01-5.00%",
+      "total": "100.00%"
+    }
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "Primary Holcim Argentina data from 2021, ecoinvent v3.8 database"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": {
+      "AP": "Acidification Potential",
+      "EP": "Eutrophication Potential",
+      "GWP": "Global Warming Potential",
+      "ODP": "Ozone Depletion Potential",
+      "PCOP": "Photochemical Ozone Creation Potential",
+      "ADPe": "Abiotic Depletion Potential (elements)",
+      "ADPf": "Abiotic Depletion Potential (fossil fuels)"
+    },
+    "inventory_metrics": {
+      "TPE": "Total Primary Energy",
+      "RE": "Renewable Energy",
+      "NRE": "Non-Renewable Energy",
+      "NRR": "Non-Renewable Resources",
+      "RR": "Renewable Resources",
+      "WDP": "Water Depletion Potential",
+      "LFW": "Landfill Waste",
+      "LFHW": "Landfill Hazardous Waste",
+      "bioC": "Biogenic Carbon"
+    }
+  },
+  "recycled_materials_handling": {
+    "recovered_energy": "Not Applicable",
+    "recycled_reused_materials": "Not applicable"
+  },
+  "additional_info": {
+    "references": {
+      "ASTM_standards": [
+        "ASTM C150/C150M",
+        "ASTM C260/C260M",
+        "ASTM C598",
+        "ASTM C618",
+        "ASTM C979/C979M",
+        "ASTM C989/C989M",
+        "ASTM C1017/C1017M",
+        "ASTM C1116/C1116M",
+        "ASTM C1157/C1157M",
+        "ASTM C1240",
+        "ASTM C1602/C1602M",
+        "ASTM G109"
+      ],
+      "CSA_standards": [
+        "CAN/CSA A3000",
+        "CAN/CSA G40.20/G40.21"
+      ],
+      "ISO_standards": [
+        "ISO 6707-1:2014",
+        "ISO 14021:1999",
+        "ISO 14025:2006",
+        "ISO 14040:2006",
+        "ISO 14044:2006",
+        "ISO 14067:2018",
+        "ISO 14050:2009",
+        "ISO 21930:2017"
+      ],
+      "EN_standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "other_references": [
+        "US EPA Waste Reduction Model (WARM)",
+        "USGBC LEED v4 for Building Design and Construction",
+        "USGBC PCR Committee Process & Resources: Part B"
+      ]
+    }
+  }
+}

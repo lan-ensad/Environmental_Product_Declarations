@@ -1,0 +1,60 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Colombia",
+    "address": "7-45 Calle 13, Piso 12, Torre B, Ed. Teleport Business Park, Bogotá, Colombia",
+    "website": "www.holcim.com.co",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "970 W Sunset Blvd, Los Angeles, CA",
+    "program_operator_website": "www.labelingsustainability.com",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020), PCR for Concrete, v2.1",
+    "epd_verification": {
+      "independent_verification": "External",
+      "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier",
+      "verification_standard": "ISO 14025:2006"
+    },
+    "date_of_issue": "19 July 2023",
+    "period_of_validity": "5 years; valid until 18 July 2028",
+    "epd_number": "4bbd249a-5a65-4a8a-a23f-cqacad877esf3"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Palmira, Valle del Cauca, Colombia",
+    "product_scope": "107 concrete mixes manufactured at the Holcim Colombia, Palmira, concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "lca_type": "Cradle-to-gate",
+    "system_boundaries": {
+      "product_stage": [
+        "A1: Raw material supply",
+        "A2: Transportation",
+        "A3: Manufacturing"
+      ],
+      "excluded_stages": [
+        "A4: Transport to site",
+        "A5: Installation",
+        "B1-B7: Use stage",
+        "C1-C4: End of life stage"
+      ]
+    },
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database, local EPD database, primary data from Holcim Colombia"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_range": {
+      "min": 232,
+      "max": 746
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "grouping_of_products": "The PCR allows for the grouping of similar products based on performance categories, material characteristics, and production categories."
+  }
+}

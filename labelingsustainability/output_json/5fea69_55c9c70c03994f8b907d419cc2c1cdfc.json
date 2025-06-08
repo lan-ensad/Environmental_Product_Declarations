@@ -1,0 +1,167 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "2e0ecba3-4136-4d5d-a58d-73dcs51bf93d3",
+    "date_of_issue": "03 August 2023",
+    "period_of_validity": "5 years; valid until 02 August 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Lerma, Estado de México, México",
+    "mix_designs": [
+      {
+        "mix_id": "70100NB2014",
+        "strength": "9.81 MPa",
+        "h2o_to_cement_ratio": "1.67"
+      },
+      {
+        "mix_id": "70200ND2010",
+        "strength": "19.61 MPa",
+        "h2o_to_cement_ratio": "1.10"
+      },
+      {
+        "mix_id": "70210ND2010",
+        "strength": "20.59 MPa",
+        "h2o_to_cement_ratio": "1.08"
+      },
+      {
+        "mix_id": "04250ND2010",
+        "strength": "24.52 MPa",
+        "h2o_to_cement_ratio": "0.76"
+      },
+      {
+        "mix_id": "04280NB2014",
+        "strength": "27.46 MPa",
+        "h2o_to_cement_ratio": "0.90"
+      },
+      {
+        "mix_id": "04300NB2014",
+        "strength": "29.42 MPa",
+        "h2o_to_cement_ratio": "0.65"
+      },
+      {
+        "mix_id": "60300NB2020",
+        "strength": "29.42 MPa",
+        "h2o_to_cement_ratio": "0.83"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules included.",
+    "data_sources": "ecoinvent V3.8 database, Holcim México Operaciones S.A. de C.V. primary data",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "reproducibility": "Internal reproducibility possible",
+      "representativeness": "Time-related coverage from 2022-01-01 to 2022-12-31"
+    }
+  },
+  "transport_and_installation": {
+    "raw_material_transport": "Combination of actual mode/distance combinations for key bulk materials",
+    "product_transport_requirements": "Diesel fuel used by mixing trucks reported from Holcim México records for 2022"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "mix_70100NB2014": "208 kg CO2-Eq",
+      "mix_70200ND2010": "274 kg CO2-Eq",
+      "mix_70210ND2010": "288 kg CO2-Eq",
+      "mix_04250ND2010": "310 kg CO2-Eq",
+      "mix_04280NB2014": "318 kg CO2-Eq",
+      "mix_04300NB2014": "348 kg CO2-Eq",
+      "mix_60300NB2020": "425 kg CO2-Eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "cement": "0%",
+      "water": "0%",
+      "limestone": "0%",
+      "gravel": "0%",
+      "additives": "0%",
+      "andesite sand": "0%"
+    },
+    "material_losses": "Default loss factors of 5% assumed"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": {
+      "astm_standards": [
+        "ASTM A36/A36M",
+        "ASTM A108",
+        "ASTM A123/A123M",
+        "ASTM A153/A153M",
+        "ASTM A184",
+        "ASTM A307",
+        "ASTM A416/A416M",
+        "ASTM A555/A555M",
+        "ASTM A615/A615M",
+        "ASTM A666",
+        "ASTM A706/A706M",
+        "ASTM A767/A767M",
+        "ASTM A775/A775M",
+        "ASTM A820/A820M",
+        "ASTM A884/A884M",
+        "ASTM A934/A934M",
+        "ASTM A1064/A1064M",
+        "ASTM C33/C33M",
+        "ASTM C94",
+        "ASTM C150/C150M",
+        "ASTM C260/C260M",
+        "ASTM C595",
+        "ASTM C618",
+        "ASTM C979/C979M",
+        "ASTM C989/C989M",
+        "ASTM C1017/C1017M",
+        "ASTM C1116/C1116M",
+        "ASTM C1157/C1157M",
+        "ASTM C1240",
+        "ASTM C1602/C1602M",
+        "ASTM G109",
+        "ASTM C330/C330M",
+        "ASTM C494/C494M"
+      ],
+      "csa_standards": [
+        "CAN/CGSB-140",
+        "CAN/CSA G30.18",
+        "CAN/CSA A3000",
+        "CAN/CSA G40.20/G40.21",
+        "CAN/CSA A23.1/A23.2",
+        "CAN/CSA A23.4",
+        "CSA S806"
+      ],
+      "iso_standards": [
+        "ISO 6707-1:2014",
+        "ISO 14021:1999",
+        "ISO 14025:2006",
+        "ISO 14040:2006",
+        "ISO 14044:2006",
+        "ISO 14067:2018",
+        "ISO 14050:2009",
+        "ISO 21930:2017"
+      ],
+      "en_standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "other_references": [
+        "US EPA Waste Reduction Model (WARM)",
+        "American Concrete Institute (ACI) 211",
+        "ACI 318-14",
+        "Mather, B & Ozyildirim, C. (2002). SP-1(02)",
+        "NSF International (February 2019)",
+        "Product Category Rules for Precast Concrete",
+        "USGBC LEED v4 for Building Design and Construction",
+        "USGBC PCR Committee Process & Resources: Part B"
+      ]
+    }
+  }
+}

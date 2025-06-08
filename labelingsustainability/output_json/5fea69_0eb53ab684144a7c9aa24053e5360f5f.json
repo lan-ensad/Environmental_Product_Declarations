@@ -1,0 +1,96 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Argentina",
+    "facility_location": "KHP8 facility in Corrientes, Argentina",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "8956ef12-538b-4315-9354-6b132f78b193",
+    "date_of_issue": "25 June 2023",
+    "validity_period": "5 years, valid until 24 June 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "product_types": [
+      {
+        "mix_id": "DL34-H25K13E901TM38",
+        "strength_mpa": 22,
+        "water_cement_ratio": 0.62
+      },
+      {
+        "mix_id": "DL19-K10E28TM19",
+        "strength_mpa": 25,
+        "water_cement_ratio": 0.34
+      },
+      {
+        "mix_id": "DL47-H25E90TM38",
+        "strength_mpa": 22,
+        "water_cement_ratio": 0.58
+      },
+      {
+        "mix_id": "DL38-H25K13E90TM19",
+        "strength_mpa": 25,
+        "water_cement_ratio": 0.45
+      },
+      {
+        "mix_id": "DL20-K16E28TM19C355",
+        "strength_mpa": 25,
+        "water_cement_ratio": 0.45
+      },
+      {
+        "mix_id": "DL18-HORMIGONPLASTICO",
+        "strength_mpa": 4,
+        "water_cement_ratio": 0.36
+      },
+      {
+        "mix_id": "DL51-MEZCLAUNICA",
+        "strength_mpa": 25,
+        "water_cement_ratio": 0.52
+      },
+      {
+        "mix_id": "DL50-H25K13E901TM38",
+        "strength_mpa": 22,
+        "water_cement_ratio": 0.55
+      },
+      {
+        "mix_id": "DL28-H25K13E90TM19",
+        "strength_mpa": 25,
+        "water_cement_ratio": 0.21
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "scope": "Cradle-to-gate",
+    "system_boundaries": {
+      "included_stages": [
+        "A1: Raw material supply",
+        "A2: Transportation",
+        "A3: Manufacturing"
+      ],
+      "excluded_stages": [
+        "A4: Transport to site",
+        "A5: Installation",
+        "B1-B7: Use stage",
+        "C1-C4: End of life stage"
+      ]
+    },
+    "cut_off_criteria": "Minimum of 95% of total inflows (mass and energy) included.",
+    "data_sources": "ecoinvent v3.8 database, Holcim Argentina primary data"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_min": 145,
+    "gwp_max": 281,
+    "gwp_mean": 232
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "Returned concrete based on Holcim primary data for 2021."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site."
+  }
+}

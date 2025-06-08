@@ -1,0 +1,76 @@
+{
+  "epd_metadata": {
+    "declared_product": "cement products produced by Holcim Nicaragua",
+    "declared_unit": "1 tonne of cement",
+    "location": "Nagarote, Nicaragua",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "valid_through": "March 31, 2025",
+    "epd_number": "97abz2eb4-3d78-4698-88e3-eeed39f62acd",
+    "date_of_issue": "22 November 2022",
+    "period_of_validity": "5 years; valid until 23 November 2027",
+    "independent_verification": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "company": "Holcim (Nicaragua) S.A.",
+    "company_history": "Holcim (Nicaragua) S.A. was born in 1997 as a result of the union of a group of distinguished Nicaraguan investors and Holcim Ltd.",
+    "production_capacity": "more than 400 million tons per year",
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001"
+    ],
+    "product_classification": "UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete",
+    "cement_mixes": [
+      {
+        "name": "Fuerte GU Fuerte Eco (CR)",
+        "type": "Ordinary Portland",
+        "clinker_content": "622",
+        "resistance_3_days": "148 MPa",
+        "resistance_28_days": "27.00 MPa"
+      },
+      {
+        "name": "Industrial HE Cemento (CR)",
+        "type": "High Strength",
+        "clinker_content": "804",
+        "resistance_3_days": "274 MPa",
+        "resistance_28_days": "40.63 MPa"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ]
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": {
+      "GWP": "827 kg CO2-eq",
+      "AP": "0.141 kg SO2-eq",
+      "EP": "0.165 kg N-eq"
+    },
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products."
+  },
+  "recycled_materials_handling": {
+    "recovered_energy": "Not applicable",
+    "recycled_reused_material_components": "Not applicable"
+  },
+  "additional_info": {
+    "references": [
+      "ASTM C150/C150M Standard Specification for Portland Cement",
+      "ISO 14025:2006 Environmental Labels and Declarations - Type III Environmental Declarations - Principles and Procedures"
+    ]
+  }
+}

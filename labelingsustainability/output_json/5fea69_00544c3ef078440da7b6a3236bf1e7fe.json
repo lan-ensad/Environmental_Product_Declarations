@@ -1,0 +1,72 @@
+{
+  "epd_metadata": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "28 August 2021",
+    "period_of_validity": "5 years; valid until 28 August 2026",
+    "epd_number": "Oafof5b4-811c-41e7-bb68-e63bfac62069"
+  },
+  "product_description": {
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "description_of_product_and_scope": "This EPD is primary reported Holcim data from the reference year 2020 and uses direct reported Holcim information whenever possible. This LCA is a cradle-to-gate study."
+  },
+  "lca_information": {
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "ISO 14044:2006 requires the LCA model to contain a minimum of 95% of the total inflows (mass and energy)."
+  },
+  "transport_and_installation": {
+    "raw_material_transport": "A combination of actual mode/distance combinations were assumed for key bulk materials.",
+    "electricity": "Electricity generation and consumption values were based on monthly utility bills.",
+    "fuel_required_for_machinery": "Utility vehicle, diesel 17.7 m3",
+    "waste_generation": {
+      "wash_water": "14627.03 m3",
+      "hazardous_waste": "264 kg",
+      "non_hazardous_waste": "5052 kg"
+    }
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "304 kg CO2-eq",
+      "maximum": "422 kg CO2-eq",
+      "mean": "372 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "CPC40 Cement": "0",
+      "Gravel 1": "0",
+      "Andesite": "1",
+      "Water": "1",
+      "DARACEM": "1",
+      "ZYLA": "1"
+    },
+    "material_losses": "0.02 for most materials"
+  },
+  "additional_info": {
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

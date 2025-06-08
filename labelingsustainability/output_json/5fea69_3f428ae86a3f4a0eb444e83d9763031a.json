@@ -1,0 +1,56 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Colombia",
+    "address": "7-45 Calle 13, Piso 12, Torre B, Ed. Teleport Business Park, Bogotà, Colombia",
+    "website": "www.holcim.com.co",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "970 W Sunset Pa, Los Angeles, CA",
+    "program_operator_website": "www.labelingsustainability.com",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020), PCR for Concrete, v2.1",
+    "epd_verification": "Independent verification in accordance with ISO 14025 and ISO 21930",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier",
+    "date_of_issue": "19 July 2023",
+    "period_of_validity": "5 years; valid until 18 July 2028",
+    "epd_number": "4bbd249a-5a65-4a8a-a23f-cqacad877esf3"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Palmira, Valle del Cauca, Colombia",
+    "product_scope": "107 concrete mixes manufactured at the Holcim Colombia, Palmira, concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish for public review",
+    "lca_type": "Cradle-to-gate",
+    "system_boundaries": {
+      "product_stage": "A1: Raw material supply, A2: Transportation, A3: Manufacturing",
+      "excluded_stages": "Transportation to site, on-site construction, building use and maintenance, end-of-life"
+    },
+    "cut_off_criteria": "Minimum of 95% of total inflows included, 1% cut-off for energy consumption",
+    "data_sources": "ecoinvent v3.8 database, local EPD database, primary data from Holcim Colombia",
+    "data_quality": "Precision, completeness, consistency, and representativeness assessed"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_range": {
+      "min": 232,
+      "max": 746
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "Returned concrete based on Holcim primary data for 2021"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site",
+    "grouping_of_products": "Products grouped by performance categories, material characteristics, and production categories",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

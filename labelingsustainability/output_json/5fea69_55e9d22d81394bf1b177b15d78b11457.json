@@ -1,0 +1,79 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, SA. de CV.",
+    "program_operator": "Labeling Sustainability",
+    "epd_number": "1f43c4d0-2e52-470c-ad3e-3a132a311619",
+    "date_of_issue": "10 September 2021",
+    "period_of_validity": "5 years; valid until 10 September 2026",
+    "independent_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group",
+    "epd_type": "International Certified Environmental Product Declaration",
+    "declared_unit": "1 m3 of concrete"
+  },
+  "product_description": {
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction. The company has a nationwide presence through 7 cement plants with a current installed capacity to produce 12.6 million tons per year, 23 cement distribution centers, two maritime terminals, 1 Corporate Office, plus 35 ready-mix concrete plants, seven platforms, and a Geocycle transfer center, 26 commercial partners with more than 90 ready-mix concrete plants, more than 500 mixing pots, one aggregates plant and a Technological Innovation Center for Construction (CITEC).",
+    "product_scope": "This EPD covers ready mix concrete products produced by Holcim México Operaciones, S.A. de C.V. at their Santa Catarina Concrete Plant facility in Nuevo León, México.",
+    "product_category_rule": "ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration of Building Products",
+    "product_list": [
+      {
+        "product_id": "39038ND2010",
+        "description": "Ready mix concrete. No SCMs are used in this mix.",
+        "28_day_strength": "48.26 MPa",
+        "water_to_cement_ratio": "0.61"
+      },
+      {
+        "product_id": "0200NB2014",
+        "description": "Ready mix concrete. SCMs, fly ash, are used in this mix.",
+        "28_day_strength": "27.84 MPa",
+        "water_to_cement_ratio": "0.772"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "ISO 14044:2006 and the focus PCR requires the LCA model to contain a minimum of 95% of the total inflows (mass and energy) to the upstream and core modules be included in this study.",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated data validated by the LCA practitioner and 3rd Party Verifier.",
+      "completeness": "All relevant specific processes, including inputs and outputs, were considered.",
+      "consistency": "The same modeling structure across the respective product systems was utilized.",
+      "reproducibility": "Internal reproducibility is possible with stored data and models."
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "200 kg CO2-eq",
+      "maximum": "346 kg CO2-eq",
+      "mean": "268 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": [
+      {
+        "material": "RA CPC40",
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      },
+      {
+        "material": "Fly Ash",
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      }
+    ]
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

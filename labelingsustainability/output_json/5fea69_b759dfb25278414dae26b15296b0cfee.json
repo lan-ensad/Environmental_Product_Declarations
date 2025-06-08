@@ -1,0 +1,67 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "1bbasfsa-69f7-45a4-b871-55bo0d6d7adae",
+    "date_of_issue": "19 February 2023",
+    "period_of_validity": "5 years; valid until 19 February 2028",
+    "independent_verification": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Planta Quito Norte, Quito, Ecuador",
+    "product_scope": "15 concrete mixes"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of total inflows included; 1% cut-off for energy consumption",
+    "data_sources": "ecoinvent v3.8, Holcim Ecuador primary data",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant processes considered",
+      "consistency": "Uniform methodology applied",
+      "representativeness": "Time coverage: 2021; Geographical: Ecuador"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "impact_indicators": [
+      "Global Warming Potential (GWP)",
+      "Ozone Depletion Potential (ODP)",
+      "Acidification Potential (AP)",
+      "Eutrophication Potential (EP)",
+      "Photochemical Ozone Creation Potential (PCOP)",
+      "Abiotic Depletion Potential (ADP)"
+    ],
+    "inventory_metrics": [
+      "Total Primary Energy (TPE)",
+      "Renewable Energy (RE)",
+      "Non-Renewable Energy (NRE)"
+    ]
+  },
+  "recycled_materials_handling": {
+    "recycled_materials": "Returned concrete based on Holcim primary data for 2021",
+    "recovered_energy": "Not applicable"
+  },
+  "additional_info": {
+    "limitations": "EPD does not support definitive product comparisons; LCIA results are relative expressions.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

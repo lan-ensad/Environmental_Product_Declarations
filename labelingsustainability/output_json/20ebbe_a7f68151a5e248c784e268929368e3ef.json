@@ -1,0 +1,48 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "606b73b2-b830-4490-85a8-b45bado4bf64",
+    "date_of_issue": "06 January 2023",
+    "period_of_validity": "5 years, Valid until 06 January 2028",
+    "third_party_verifier": "Geoffrey Guest, CSA Group"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Nicaragua",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "La Libertad, El Salvador",
+    "product_scope": "149 concrete mixes manufactured at the Holcim El Salvador concrete facility in Santa Tecla, El Salvador"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database, Holcim El Salvador primary data",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is direct primary information reported from Holcim El Salvador records for the year 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_minimum": 380,
+    "gwp_maximum": 758,
+    "gwp_mean": 554
+  },
+  "recycled_materials_handling": {
+    "recycled_content": "Fiber polypropylene, granulate: 0.05",
+    "material_losses": "Default loss factors of 5% assumed"
+  },
+  "additional_info": {
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "US EPA Waste Reduction Model (WARM)"
+    ]
+  }
+}

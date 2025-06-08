@@ -1,0 +1,1850 @@
+Environmental
+Product Declaration
+
+Environmental Product Declaration for ready mix concrete
+products produced by Holcim Colombia at their Sibaté
+facility in Cundinamarca, Colombia
+ENVIRONMENTAL PRODUCT DECLARATION LHoLcm
+
+ADMINISTRATIVE INFORMATION
+
+International Certified Environmental Product Declaration
+
+This Environmental Product Declaration (EPD) covers concrete
+Declared Product: products produced by Holcim Colombia. Declared unit: 1 m3 of
+concrete
+
+Holcim Colombia
+
+7-45 Calle 13, Piso 12, Torre B, Ed. Teleport Business Park És )
+
+Declaration Owner: G H le] LC IM
+
+Bogotà, Colombia
+
+ww\Ww.holcim.com.co
+
+Labeling Sustainability
+
+Program Operator: Aer 2070 WOUEE EN : LARE LING
+City, State, Los Angeles, CA @ sustainability
+
+w\WwWw.labelinsustainability.com/
+
+Core PCR:1SO 21930:2017 Sustainability in buildings and civil
+engineering works - Core rules for environmental product
+declarations of construction products and services SUbPCR:
+NSF International (March 2020). Product Category Rul (PCR) for
+Environmental Product Declarations (EPD) PCR for Concrete,
+V2.1
+
+Sub PCR Program Operator: NSF International
+
+Sub-category PCR review was conducted by: Thomas P.
+Product Category Rule: | Gloria, Ph. D. of Industrial Ecology Consultants: 35 Bracebridge,
+Rd., Newton, MA 02459-1728, tgloria@industrial-ecology.com.
+Dr. Michael Overcash of Environmental Clarity: 2908 Chipmunk
+Lane, Raleigh, NC 27607-3117, mrovercash@earthlinknet. Mr.
+Bill Stough of Sustainable Research Group: PO Box 1684,
+Grand Rapids, MI 49501-1684,
+bstough@sustainableresearchgroup.com. Mr. Jack Geilbig,
+EcoForm: 2624 Abelia Way, Suite 611, Knoxville, TN 37931,
+jgeilbig@ecoform.com.
+
+This EPD was independently verified in accordance with ISO
+14025 and ISO 21930. The life cycle assessment \was
+independently reviewed in accordance ISO 14044 and the
+eferenced PCR.
+
+Independent LCA ndependent verification of the declaration, according to ISO
+14025:2006
+
+Reviewer and EPD
+Verifier: nternal [] ; External X
+
+Third Party Verifier
+
+Geoffrey Guest, Certified 3rd Party Verifier under the
+nternational EPD Program (wwWw.environdec.com), CSA Group
+(www.csaregistries.ca)
+
+Date of Issue: 29 April 2023
+Period of Validity: 5 years; valid until 29 April 2028
+EPD Number: b7c1955a-efc7-4c59-0add-d198d8966a02
+
+LABELING SUSTAINABILITY | 1
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TABLE OF CONTENTS
+
+Administrative Information... ns 1
+Company Description. 3
+Study Goal... nn 3
+Description Of Product And SCOPE meet 3
+Ready Mix Concrete Design SUMMary …....sssssssnnnnnennennnens 4
+Ready Mix Concrete Design COMpOSitiON sens 8
+System BouUndaries seen 8
+Cut-Off Criteria mnnsssnnnnnnnnnnnnnnennennenenenninennenenenninenninenennnninenninenennnnnnns 9
+Data Sources And Data Quality Assessment... 10
+Raw Material Transport... iiinrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnns 10
+EL@CTrICIEY. nana 10
+Process/Space HeEatINg...... nn 10
+Fuel Required For Machinery nn 10
+Waste Generation... nn 10
+Recovered Energy... nana 10
+Recycled/Reused Material/Components. ss sssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 10
+Module A1 Material LOSSES........ nn 10
+Direct A3 Emissions ACCOUNEINY annee 10
+Waste Transport Requirements nn 10
+Product Transport Requirements... ss ssnrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 10
+Data Quality Assessment sise 11
+Environmental Indicators And Inventory Metrics.….…........… 13
+LimMitatiOnsS mmmnsnnnnnnnnnnnnnnennenennenennnninenninenennnnenanninenanenenannsnenanennenanasnanannnenannnnuns 13
+Total Impact Summary... sine 14
+Additional Environmental INfO mnmnnnnnnnnnssssnnnnirnnnnnrneninenneneenninenninenennnnnnnns 23
+References mnnssnnnnnnnnnnnnnnnnnnnnnenennnenennnnenenninenennenenenninenaennenannsnananenenannnnnes 32
+Astm Standards... inner nana 32
+Csa Standards nn annees 33
+ISO Standards nana 33
+En Standards. nn nn nn nn nn nee 34
+Other References nn eee 34
+
+LABELING SUSTAINABILITY | 2
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+COMPANY DESCRIPTION
+
+Holcim Colombia, as part of Grupo Holcim, a world leader in innovative and sustainable solutions for
+construction, is making it possible to have greener cities, smarter infrastructures and improve the
+standard of living of people around the world. With sustainability at the heart of its strategy, Holcim is
+becoming a Net Zero company, where its people and communities are the foundation of its success.
+The company is driving circular construction as a world leader in recycling to build more with less.
+
+Holcim Colombia produces and markets cement, ready-mix concrete, aggregates (gravel and sand)
+and other products and solutions for construction. Additionally, it offers the GacoFlex TechoProtec
+waterproofing line and the Tector family of adhesives and mortars. The company has a team
+passionate about building progress for people and the planet. It has a national presence through 1
+cement plant, 10 ready-mix concrete plants, 1 Geocycle platform, 1 aggregates plant, its own network
+of hardware stores, Disensa, with more than 400 stores nationwide: and offers specialized services
+for transporting materials or products through Transcem.
+
+STUDY GOAL
+
+The intended application of this life cycle assessment (LCA) is to comply with the procedures for
+creating a Type Ill environmental product declaration (EPD) and publish the EPD for public review on
+the website, http://labelingsustainability.com/. This level of study is in accordance with EPD
+Product Category Rule (PCR) for Ready Mix Concrete published by NSF International (2019) and is a
+sub-PCR of International Standards Organization (ISO) 21930:2017 Sustainability in buildings and civil
+works - Core rules for EPDs of construction products and services; International Standards
+Organization (ISO) 14025:2006 Environmental labels and declarations, Type Ill environmental
+declarations-Principles and procedures; ISO 14044:2006 Environmental management, Life cycle
+assessment- Requirements and guidelines; and ISO 14040:2006 Environmental management, Life
+cycle assessment-Principles and framework. The performance of this study and its subsequent
+publishing is in alignment with the business-to-business (B2B) communication requirements for the
+environmental assessment of building products. The study does not intend to support comparative
+assertions and is intended to be disclosed to the public.
+
+This project report was commissioned to differentiate Holcim Colombia from their competition for
+the following reasons: generate an advantage for the organization: offer customers information to
+help them make informed product decisions; improve the environmental performance of Holcim
+Colombia by continuously measuring, controlling and reducing the environmental impacts of their
+products; help project facilitators working on Leadership in Energy and Environmental Design (LEED)
+projects achieve their credit goal: and to strengthen Holcim Colombia's license to operate in the
+community. The intended audience for this LCA report is Holcim Colombia's employees, their
+suppliers, project specifiers of their products, architects, and engineers. The EPD report is also
+available for policy makers, government officials interested in sustainability, academic professors,
+and LCA professionals. This LCA report does not include product comparisons from other facilities.
+
+DESCRIPTION OF PRODUCT AND SCOPE
+
+This EPD reports on 56 concrete mixes manufactured at the Holcim Colombia, Sibaté, concrete
+facility in Cundinamarca, Colombia.
+
+LABELING SUSTAINABILITY | 3 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+This LCA assumes the impacts from products manufactured in accordance with the standards
+outlined in this report. This LCA is a cradle-to-gate study, and therefore, stages extending beyond the
+plant gate are not included in this LCA. Excluded stages include transportation of the manufactured
+material to the construction site: on-site construction processes and components; building
+(infrastructure) use and maintenance: and “end-of-life” effects.
+
+READY MIX CONCRETE DESIGN SUMMARY
+
+The following tables provide a list of the cement products considered in this EPD along with key
+performance parameters.
+
+Mix Designs: 0 to 15MPa
+
+Table 1: Declared products with Mix designs: 0 to 15MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# Short description Product type strength, .
+name/ID ratio
+MPa
+
+1 10062890 2 MPa 28d strength ready mix Ready Mix 2.0 1.400000
+concrete.
+
+2 10047801 4 MPa 28d strength ready mix Ready Mix 4.0 0.458333
+concrete.
+
+3 10064056 4.1 MPa 28d strength ready mix | Ready Mix A1 0.281818
+concrete.
+
+4 10011208 4.1 MPa 28d strength ready mix | Ready Mix A1 0.369565
+concrete.
+
+5 10051184 4.2 MPa 28d strength ready mix | Ready Mix A.2 0.310680
+concrete.
+
+6 10073454 4.3 MPa 28d strength ready mix | Ready Mix 4.3 0.304762
+concrete.
+
+7 10011451 4.3 MPa 28d strength ready mix | Ready Mix 4.3 0.423077
+concrete.
+
+8 10065278 4.5 MPa 28d strength ready mix | Ready Mix A5 0.442857
+concrete.
+
+9 10011461 4.5 MPa 28d strength ready mix | Ready Mix A5 0.402439
+concrete.
+
+10 10062841 4.5 MPa 28d strength ready mix | Ready Mix A5 0.326316
+concrete.
+
+11 10011463 4.5 MPa 28d strength ready mix | Ready Mix A5 0.311321
+concrete.
+
+12 10064058 4.5 MPa 28d strength ready mix | Ready Mix A5 0.260504
+concrete.
+
+13 10033497 5 MPa 28d strength ready mix Ready Mix 5.0 0.271930
+concrete.
+
+14 10067123 10.5 MPa 28d strength ready Ready Mix 10.5 0.817308
+mix concrete.
+
+15 10067129 10.5 MPa 28d strength ready Ready Mix 10.5 0.767544
+mix concrete.
+
+16 10067202 10.5 MPa 28d strength ready Ready Mix 10.5 0.711462
+mix concrete.
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+17 10045441 10.5 MPa 28d strength ready Ready Mix 10.5 0.649123
+mix concrete.
+
+18 10072811 12.5 MPa 28d strength ready Ready Mix 12.5 0.571429
+mix concrete.
+
+19 10067124 14 MPa 28d strength ready mix | Ready Mix 14.0 0.745614
+concrete.
+
+20 10067200 14 MPa 28d strength ready mix | Ready Mix 14.0 0.705645
+concrete.
+
+21 10011892 14 MPa 28d strength ready mix | Ready Mix 14.0 0.625000
+concrete.
+
+Mix Designs: 15 to 20 MPa
+
+Table 2: Declared products with Mix designs: 15 to 20MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# Short description Product type strength, .
+name/ID ratio
+MPa
+22 10067219 17.5 MPa 28d strength ready Ready Mix 17.5 0.741525
+mix concrete.
+23 10067201 17.5 MPa 28d strength ready Ready Mix 17.5 0.652985
+mix concrete.
+24 10032165 17.5 MPa 28d strength ready Ready Mix 17.5 0.615385
+mix concrete.
+
+Mix Designs: 21 to 25 MPa
+
+Table 3: Declared products with Mix designs: 21 to 25MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# Short description Product type strength, .
+name/ID ratio
+MPa
+
+25 10066981 21 MPa 28d strength ready mix | Ready Mix 21.0 0.611940
+concrete.
+
+26 10073458 21 MPa 28d strength ready mix | Ready Mix 21.0 0.610169
+concrete.
+
+27 10060245 21 MPa 28d strength ready mix | Ready Mix 21.0 0.537313
+concrete.
+
+28 10029084 21 MPa 28d strength ready mix | Ready Mix 21.0 0.546667
+concrete.
+
+29 10072702 21 MPa 28d strength ready mix | Ready Mix 21.0 0.445783
+concrete.
+
+30 10011050 24.5 MPa 28d strength ready Ready Mix 245 0.620690
+mix concrete.
+
+31 10048467 24.5 MPa 28d strength ready Ready Mix 245 0.578125
+mix concrete.
+
+32 10041261 24.5 MPa 28d strength ready Ready Mix 245 0.513889
+mix concrete.
+
+33 10072802 24.5 MPa 28d strength ready Ready Mix 245 0.481928
+mix concrete.
+
+LABELING SUSTAINABILITY | 5
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix Designs: 26 to 30 MPa
+
+Table 4: Declared products with Mix designs: 26 to 30 MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# Short description Product type strength, .
+name/ID ratio
+MPa
+34 10011079 28 MPa 28d strength ready mix | Ready Mix 28 0.580645
+concrete.
+35 10068980 28 MPa 28d strength ready mix | Ready Mix 28 0.537791
+concrete.
+36 10010699 28 MPa 28d strength ready mix | Ready Mix 28 0.513158
+concrete.
+37 10010840 28 MPa 28d strength ready mix | Ready Mix 28 0.428571
+concrete.
+38 10062076 28 MPa 28d strength ready mix | Ready Mix 28 0.375000
+concrete.
+
+Mix Designs: 31 to 35 MPa
+
+Table 5: Declared products with Mix designs: 31 to 35 MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# Short description Product type strength, .
+name/ID ratio
+MPa
+39 10041259 315 MPa 28d strength ready Ready Mix 315 0.545455
+mix concrete.
+40 10045331 315 MPa 28d strength ready Ready Mix 315 0.486842
+mix concrete.
+41 10065388 315 MPa 28d strength ready Ready Mix 315 0.439560
+mix concrete.
+42 10041258 35 MPa 28d strength ready mix | Ready Mix 35.0 0.514286
+concrete.
+43 10072763 35 MPa 28d strength ready mix | Ready Mix 35.0 0.468354
+concrete.
+44 10067191 35 MPa 28d strength ready mix | Ready Mix 35.0 0.400000
+concrete.
+
+Mix Designs: 36 to 40 MPa
+
+Table 6: Declared products with Mix designs: 36 to 40 MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# q Short description Product type strength, .
+name/ID ratio
+MPa
+45 10058499 38.5 MPa 28d strength ready Ready Mix 38.5 0.486486
+mix concrete.
+46 10062563 38.5 MPa 28d strength ready Ready Mix 38.5 0.409091
+mix concrete.
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix Designs: 41 to 45 MPa
+
+Table 7: Declared products with Mix designs: 41 to 45 MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# Short description Product type strength, .
+name/ID ratio
+MPa
+47 10048460 42 MPa 28d strength ready mix | Ready Mix 42 0.402439
+concrete.
+48 10027316 42 MPa 28d strength ready mix | Ready Mix 42 0.411111
+concrete.
+49 10048322 42 MPa 28d strength ready mix | Ready Mix 42 0.360000
+concrete.
+50 10062291 45 MPa 28d strength ready mix | Ready Mix 45 0.377574
+
+concrete.
+
+Mix Designs: 46 to 50 MPa
+
+Table 8: Declared products with Mix designs: 46 to 50 MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# Short description Product type strength, .
+name/ID ratio
+MPa
+51 10052003 45.5 MPa 28d strength ready Ready Mix A5.5 0.420455
+mix concrete.
+52 10052062 49 MPa 28d strength ready mix | Ready Mix 49.0 0.418605
+concrete.
+53 10049785 49 MPa 28d strength ready mix | Ready Mix 49.0 0.385417
+concrete.
+54 10072161 49 MPa 28d strength ready mix | Ready Mix 49.0 0.298246
+
+concrete.
+
+Mix Designs: 56 to 60 MPa
+
+Table 9: Declared products with Mix designs: 56 to 60 MPa considered in this environmental product declaration
+
+Unique 28 day H20 to cement
+Mix# q Short description Product type strength, .
+name/ID ratio
+MPa
+55 10072640 56 MPa 28d strength ready mix | Ready Mix 56 0.327434
+concrete.
+56 10049790 56 MPa 28d strength ready mix | Ready Mix 56 0.330097
+
+concrete.
+
+LABELING SUSTAINABILITY | 7
+ENVIRONMENTAL PRODUCT DECLARATION
+
+READY MIX CONCRETE DESIGN COMPOSITION
+
+The following figures provide mass breakdown (kg per functional unit) of the material composition of
+each ready mix concrete design considered. Please note that the presented breakdown has been
+randomly altered by +/-10%, and is therefore only an approximation: this manipulation is to ensure
+confidentiality
+
+Table 10: Ready mix concrete composition
+
+Product Components Raw Material, weight?
+Cement Proprietary
+Aggregates | 30-60.00
+Others | 0.01-5.00
+Total | 100.00
+
+SYSTEM BOUNDARIES
+
+The following figure depicts the cradle-to-gate system boundary considered in this study,
+
+Life Cycle Impacts
+A1-A3 A4-A5 B1-B7 C1-Ca4
+PRODUCT STAGE INSTALLATION PROCESS STAGE USE STAGE END OF LIFE STAGE
+A1 Raw material supply A4 Transport to site B1 Use C1 De-installation/
+A2 Transport A5 Installation B2 Maintenance Demolition
+A3 Manufacturing Process B3 Repaid C2 Transport
+B4 Replacement C3 Waste processing
+B5 Refurbishment C4 Disposal of Waste
+B6 Operational energy use
+B7 Operational water use
+X ND ND ND
+
+Figure 1: General Life cycle phases for consideration in a construction works system
+
+This is a Cradle-to-gate life cycle assessment and the following life cycle stages are included in the
+study:
+
+e A1: Raw material supply (upstream processes) - Extraction, handling, and processing of
+the materials used in manufacturing the declared products in this LCA.
+
+e A2: Transportation - Transportation of A1 materials from the supplier to the “gate” of the
+manufacturing facility (i.e. A3).
+
+e A3: Manufacturing (core processes)- The energy and other utility inputs used to store,
+move, and manufacturer the declared products and to operate the facility.
+
+As according to the PCR, the following figure illustrates the general activities and input requirements
+for producing cement products and is not necessarily exhaustive.
+
+LABELING SUSTAINABILITY | 8 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+System Boundary
+
+Raw Material Supply Transport Manufacturing
+
+(A1) (A2) (A3)
+
+Cements & SCMs Truck, Rail, Ship Energy Carriers (electricity and fuels)
+
+Aggregates Energy Carriers (fuels) Ancillary Materials (Lubricants, motor oil, cleaning chemicals, other
+Admixtures consumables)
+
+Batch Water Water (manufacturing water, including wash water for cement trucks,
+Fibers & Pigments but excluding batch water)
+
+Waste (end of life treatment of ancillary materials and any packaging)
+30% total fleet energy transit mix plants only
+
+Figure 2: General system inputs considered in the product system and categorized by modules in scope
+
+In addition, as according to the relevant PCR, the following requirements are excluded from this
+study:
+
+e Production, manufacture, and construction of A3 building/capital goods and
+infrastructure.
+
+e Production and manufacture of steel production equipment, steel delivery vehicles,
+earth-moving equipment, and laboratory equipment.
+
+e Personnel-related activities (travel, furniture, office supplies).
+
+e Energy use related to company management and sales activities.
+
+For this LCA the manufacturing plant, owned and operated by Holcim Colombia, is located at their
+Planta Sibaté facility in Colombia. Al operating data is formulated using the actual data from Holcim
+Colombia's plant at the above location, including Water, energy consumption and waste generation.
+Al inputs for this system boundary are calculated for the plant.
+
+This life cycle inventory Was organized in a spreadsheet and was then input into an RStudio
+environment where pre-calculated LCIA results for relevant products/activities stemming from the
+ecoinvent v3.8 database and a local EPD database in combination with primary data from Holcim
+Colombia were utilized. Explanations of the contribution of each data source to this study are
+outlined in the section ‘Data Sources and Quality’. Further LCI details for each declared product are
+provided in the sections ‘Detailed LCI tables’ and ‘Transport tables’ of the detailed LCA report. A
+parameter uncertainty analysis was also performed where key statistical results (e.g. min/mean/max
+etc.) are provided in the detailed LCA report.
+
+CUT-OFF CRITERIA
+
+ISO 14044:2006 and the focus PCR requires the LCA model to contain a minimum of 95% of the total
+inflows (mass and energy) to the upstream and core modules be included in this study. The cut-off
+criteria were applied to all other processes unless otherwise noted above as follows. À 1% cut-off is
+considered for all renewable and non-renewable primary energy consumption and the total mass of
+inputs within a unit process where the total of the neglected inputs does not exceed 5%.
+
+LABELING SUSTAINABILITY | 9 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+DATA SOURCES AND DATA QUALITY ASSESSMENT:
+
+Raw material transport: À combination of actual mode/distance combinations were assumed for
+key bulk materials whereas ecoinvent default multi-modal market mix distances were assumed for
+other inputs where no original data could be provided.
+
+Electricity: Electricity consumption values are for Colombia in calendar year 2021. These values
+were direct reported from Colombia records. The unit process “market for electricity, medium
+voltage/electricity, medium voltage/CO/KkKWh" was used to represent the Colombia grid electricity
+used by the concrete plant.
+
+Process/space heating: No fuel is used for space heating at this plant.
+
+Fuel required for machinery: Machinery-related fuel requirements were determined from direct
+Holcim information. The types of machinery used include generators, pumps to pump concrete to
+higher elevations, and transportation equipment used for moving materials. This plant does not have
+electricity therefore it uses diesel to power generators.
+
+Waste generation: Waste generation values are directly reported from Holcim operations for bulk
+waste and hazardous waste. No High-level radioactive waste is generated on-site at this facility.
+Wash \Wwater values are direct reported water use from Holcim Colombia for 2021.
+
+Recovered energy: Not applicable.
+
+Recycled/reused material/components: The amount of returned concrete is based on Holcim
+primary data for the reference year, 2021.
+
+Module A1 material Losses: Due to lack of data, default loss factors Were assumedl.
+
+Direct A3 emissions accounting: Direct emissions for the on-site machinery use the actual fuel
+consumption and the ecoinvent database to calculate those emissions.
+
+Waste transport requirements: Transportation distances are using estimated values. The waste
+hauler cannot guarantee the exact distances traveled due to the variation of route and actual location
+of disposal. Most waste disposal sites are near the plant therefore the 25 km distance is a
+representative estimate. Returned concrete and Wash water, measured in kilograms, is based on
+direct Holcim reporting for the reference year 2021.
+
+Product transport requirements: The diesel fuel used by the mixing trucks is direct primary
+information reported from Holcim Colombia records for the year 2021. Holcim records their fuel for
+their trucks in /km and therefore the information was converted with the following formula: (Ave. km
+to site)’ 2 for return L diesel/km / (ave. m3 of concrete in a load) total concrete volume in m3 ‘
+fraction allocated to A3. A4 is outside the scope of this study.
+
+The following tables depict a list of assumed life cycle inventory üutilized in the LCA modeling to
+
+generate the impact results across the life cycle modules in scope. An assessment of the quality of
+each LCI activities utilized from various sources is also provided.
+
+LABELING SUSTAINABILITY | 10
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Table 11: LCI inputs assumed for module A1 (ie.
+
+raw material supply) Data Quality Assessment Key Fair-1, Good=2, Very
+
+Good =3.
+U]
+®
+>
+® EL > 5
+— Q _ -
+© G = Lo
+[= = Le] Q
+= © [0] O G
+[e] G [=] £ [e] de | €
+r © © Æ © © Q
+Input LClactivity Data.source Ô > FH HO æœ 0
+Water tap water production, ecoinvent Cundinam | v38 in
+conventional V3.8 arca 2021 > >
+treatment/tap 3 3 3
+water/RoW/Kkg
+market for chemical, . . ,
+ue , . ecoinvent Cundinam | v38 in
+Addlitives organic/chemical, 28 arca 2021 2 3 2 3 3
+organic/GLO/kg 3
+Cement HE Cement Progam Boaycà 06
+Operator: Januar
+Labeling ÿ 2023
+Sustainabilit
+y- EPD ID: : : : : :
+6328e320-
+6cab-4d85-
+83f4-
+dca33374d1
+1b
+Sand sand quarry operation, | ecoinvent Cundinam | v38 in
+extraction from river V3.8 arca 2021
+bed/sand/BR/kg;: > 3 > 3 3
+Note: modifications
+made (see ecoinvent
+activity changes table)
+Gravel gravel production, ecoinvent Cundinam | v38 in
+crushed/gravel, V3.8 arca 2021
+crushed/BR/Kkg; Note:
+eu 2 3 2 3 3
+modifications made
+(see ecoinvent activity
+changes table)
+
+DATA QUALITY ASSESSMENT
+
+Data quality/variability requirements, as specified in the PCR, are applied. This section describes the
+
+achieved data quality relative to the ISO 14044:2006 requirements. Data quality is judged based on its
+precision (measured, calculated, or estimated), completeness (e.g. unreported emissions),
+consistency (degree of uniformity of the methodology applied within a study serving as a data
+source) and representativeness (geographical, temporal, and technological).
+
+Precision: Through measurement and calculation, the manufacturers collected and provided primary
+data on their annual production. For accuracy, the LCA practitioner and 3rd Party Verifier validated
+the plant gate-to-gate data.
+
+LABELING SUSTAINABILITY | 11
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Completeness: All relevant specific processes, including inputs (raw materials, energy, and ancillary
+materials) and outputs (emissions and production volume) were considered and modeled to
+represent the specified and declared products. The majority of relevant background materials and
+processes were taken from ecoinvent v3.8 LCI datasets where relatively recent region-specific
+electricity inputs were utilized. The most relevant EPDs requiring key A1 inputs were also utilized
+where readily available.
+
+Consistency: To ensure consistency, the same modeling structure across the respective product
+systems was utilized for all inputs, which consisted of raw material inputs and ancillary material,
+energy flows, water resource inputs, product, and co-products outputs, returned and recovered
+Cement materials, emissions to air, water and soil, and waste recycling and treatment. The same
+background LCI datasets from the ecoinvent v3.8 database were used across all product systems.
+Crosschecks concerning the plausibility of mass and energy flows Wwere continuously conducted. The
+LCA team conducted mass and energy balances at the plant and selected process level to maintain
+a high level of consistency.
+
+Reproducibility: Internal reproducibility is possible since the data and the models are stored and
+available in a machine readable project file for all foreground and background processes, and in
+Labeling Sustainability's proprietary Ready Mix Concrete LCA calculator’ for all production facility
+and product-specific calculations. À considerable level of transparency is provided throughout the
+detailed LCA report as the specifications and material quantity make-up for the declared products
+are presented and key primary and secondary LCI data sources are summarized. The provision of
+more detailed publicly accessible data to allow full external reproducibility was not possible due to
+
+reasons of confidentiality.
+
+‘Labeling Sustainability has developed a proprietary tool that allows the calculation of PCR-
+compliant LCA results for Ready Mix Concrete product designs. The tool auto-calculates results by
+scaling base-unit technosphere inputs (ie. 1 kg sand, 1 KWh electricity, etc.) to replicate the reference
+flow conversions that take place in any typical LCA software like openLCA or SimaPro. The tool was
+tested against several LCASs performed in openLCA and the tool generated identical results to those
+realized in openLCA across every impact category and inventory metric (where comparisons could
+be readily made).
+
+Representativeness: The representativeness of the data is summarized as follows.
+
+e Time related coverage of the manufacturing processes’ primary collected data from
+2021-01-01 to 2021-12-31.
+
+e _ Upstream (background) LCI data was either the PCR specified default (if applicable) or
+more appropriate LCI datasets as found in the country-adjusted ecoinvent v3.8 database.
+
+e _Geographical coverage for inputs required by the A3 facility(ies) is representative of its
+region of focus; other upstream and background processes are based on US, North
+American, or global average data and adjusted to regional electricity mixes when
+relevant.
+
+e Technological coverage is typical or average and specific to the participating facilities for
+all primary data.
+
+LABELING SUSTAINABILITY | 12
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+ENVIRONMENTAL INDICATORS AND INVENTORY METRICS
+
+Per the PCR, this EPD supports the life cycle impact assessment indicators and inventory metrics as
+listed in the tables below. As specified in the PCR, the most recent US EPA Tool for the Reduction
+and Assessment of Chemical and Other Environmental Impacts (TRACI), impact categories were
+utilized as they provide a North American context for the mandatory category indicators to be
+included in the EPD. Additionally, the PCR requires a set of inventory metrics to be reported with the
+LCIA indicators (see tables below).
+
+It should be noted that emerging LCA impact categories and inventory items are still under
+development and can have high levels of uncertainty that preclude international acceptance
+pending further development. Use caution when interpreting data in any of the following categories.
+
+LIMITATIONS
+
+This EPD is a declaration of potential environmental impact and does not support or provide
+definitive comparisons of the environmental performance of specific products. Only EPDS prepared
+from cradle-to-grave life cycle results and based on the same function and reference service life and
+quantified by the same functional unit can be used to assist purchasers and users in making informed
+comparisons between products.
+
+LCIA results are relative expressions and do not predict impacts on category endpoints, the
+exceeding of thresholds, safety margins or risks. Further, LCA offers a wide array of environmental
+impact indicators, and this EPD reports a collection of those, as specified by the PCR.
+
+In addition to the impact results, this EPD provides several metrics related to resource consumption
+and waste generation. While these data may be informational in other ways, they do not provide a
+measure of impact on the environment.
+
+LABELING SUSTAINABILITY | 13 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TOTAL IMPACT SUMMARY
+
+The following table reports the total LCA results for each product produced at the given cement
+facility on a per 1m3 of concrete basis.
+
+Mix Designs: 0 to 15 MPa
+
+Table 12: Total life cycle (across modules in scope) impact results for All declared products, assuming the geometric
+
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP GWP ODP PCOP ADPe ADPf
+M)J, net
+Unit Des À | LN : CO2- | kg DT . NOX- | KgSb-Eq | calorific
+"-q 4 H°Eq 4 value
+Minimum 32.9 0.13 219 2.32e-05 0.49 0.000898 | 1630
+Maximum 5.09e-05 0.002651
+Mean 59.9 0.168 408 3.67e-05 0.887 0.00171 2570
+Median 58.5 0.166 391 3.69e-05 0.874 0.00163 2580
+10062890 32.9 0.13 219 2.32e-05 0.49 0.000898 | 1630
+10047801 58.5 0.166 388 3.48e-05 0.87 0.00163 2440
+10064056 79.1 0.196 551 4.72e-05 116 0.00232 3310
+10011208 69.2 0.181 471 4.08e-05 1.02 0.00198 2860
+10051184 75.2 0.19 521 45e-05 1.11 0.0022 3150
+10073454 76.6 0.193 534 4.66e-05 113 0.00225 3260
+10011451 616 0.17 414 3.69e-05 0.915 0.00174 2580
+10065278 58.4 0165 378 3.37e-05 0.874 0.00159 2360
+10011461 63.8 0.174 431 3.82e-05 0.945 0.00181 2680
+10062841 71.6 0.185 487 4.24e-05 1.06 0.00205 2970
+10011463 76.7 0.193 532 4.57e-05 1.13 0.00224 3200
+10064058 84.1 0.204 592 5.09e-05 1.24 0.002651 3570
+10033497 813 0.199 567 4.83e-05 12 0.00239 3390
+10067123 41.7 0.14 256 2.43e-05 0.63 0.00106 1710
+10067129 43.3 0.143 275 2.6e-05 0.651 0.00114 1830
+10067202 459 0.147 296 2.76e-05 0.688 0.00123 1940
+10045441 47.6 0.153 340 3.348-05 0.697 0.00142 2340
+10072811 50.9 0.159 391 3.69e-05 0.735 0.00163 2580
+10067124 43.8 0.144 274 2.57e-05 0.66 0.00114 1810
+10067200 45.4 0.147 292 2.74e-05 0.681 0.00122 1920
+10011892 50.9 0.158 369 3.56e-05 0.744 0.001655 2490
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+b) Inventory Metrics:
+
+Indicator/LC LFH CBW  CW CNH
+|Metric TPE RE NRE  NRR  RR WDP LFW w c WC CHW Ww
+MJ- | MJ- | MJ- kg  |kg
+Unit kg m3 m3 wast | wast | m3 m3 kg kg
+Eq Eq Eq
+e e
+.. 0.00 0.00 133€ | 0.00
+Minimum 1800 | 80.7 1730 | 448 0788 4.46 115 289 0.163 _08 233 48.1
+Maximum
+0.001 0.00 133€ | 0.00
+Mean 2910 | 16 2740 O.2 42 148 O.1 8.1
+9 9 74 7 26 74 4 374 79 _05 233 4
+. 0.001 0.00 133€ | 0.00
+Median 2900 | 162 2750 ©. 6. 148 O.1 8.1
+9 75 70.4 2 65 4 385 73 _05 233 4
+0.00 0.00 133€ | 0.00
+10062890 1800 | 80.7 1730 | 448 0788 12.4 115 17 0.22 _08 233 48.1
+0.001 0.00 133€ | 0.00
+10047801 2760 | 162 2590 | 66.8 G. 1 O1 481
+47 7 59 > 74 43 356 73 _05 233
+0.001 0.00 133€ | 0.00
+10064056 3770 | 234 3530 | 90.1 61 4.9 173 429 0.163 _08 233 481
+0.001 0.00 133€ | 0.00
+10011208 260 | 200 050 8. 1 1 0.178 481
+3 305 76.4 37 515 57 385 7 _05 233
+0.001 0.00 133€ | 0.00
+1005118 80 | 220 O | 862 2 168 0.168 481
+51154 35 335 147 5.29 116 _05 233
+0.001 0.00 133€ | 0.00
+100 00 | 22 80 | 88.6 G. 172 0.168 481
+73454 37 5 34 58 34 7 437 _05 233
+10011451 2930 | 173 2750 | 704 0001 6.55 148 9-00 0.173 1336 | 0.00 481
+27 | 369 | -05 | 233 |
+0.001 0.00 133€ | 0.00
+10065278 2680 | 160 2520 | 64.6 6.01 140 0.16 481
+527 5 46 | 40 345 3 |o5 | 233
+0.001 0.00 133€ | 0.00
+10011461 040 | 180 2840 G.41 151 O1 481
+4 304 4 73 " 4 5 377 73 _05 233
+0.001 0.00 133€ | 0.00
+10062841 O | 206 180 | 811 .62 162 0.16 481
+4 337 3 49 5 402 3 _05 233
+0.001 0.00 133€ | 0.00
+10011463 3620 | 225 3410 | 87 56 4.79 169 416 0.173 _05 233 481
+0.001 0.00 133€ | 0.00
+10064058 060 | 250 800 . A1 18 0.16 481
+405 4 5 3 97.3 69 54 3 46 3 _05 233
+0.001 0.00 133€ | 0.00
+10033497 3870 | 241 3610 2. 4.46 176 0.163 48.1
+9 ES 68 433 -0O5 233
+0.00 0.00 133€ | 0.00
+10067123 1920 |105 1800 | 46.8 0885 7.61 117 289 0.178 _05 233 48.1
+0.00 0.00 133€ | 0.00
+10067129 2040 | 112 1940 | 49.8 0928 7.98 121 303 0.183 _08 233 481
+0.00 0.00 133€ | 0.00
+0067202 2180 2 2060 2. .76 2 0.18 8.
+Z 7. 1 121 52.9 0976 77 125 312 189 _0& 233 48.1
+0.001 0.00 133€ | 0.00
+100 1 2610 | 131 2470 | 63.6 12. 141 O1 481
+4544 3 47 3 13 7 4 392 94 _05 233
+10072811 2900 | 151 2760 O 0001 11 150 9-00 O.21 1336 | 0.00 481
+7 9 5 7 70.5 2 9 5 401 . _05 233 .
+
+Û
+
+LABELING SUSTAINABILITY | 15 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+1006712 2030 | 112 1920 3 9:09 7.56 120 9:09 0.178 1336 | 0.00 81
+u ? #95] 0903 | 7° 298 | -05 |233 |”
+10067200 2170 |11 2050 | 525 0:09 7.92 125 9:00 0.183 1336 | 0.00 481
+: | 0956 9 312 | -05 233 |
+0.001 0.00 133e | 0.00
+10011892 2780 |1 2650 | 67.8 12. 1 O.21 8.1
+9 7 43 5 7 19 4 47 | 403 os 233 |4
+
+Mix Designs: 15 to 20 MPa
+
+Table 13: Total life cycle (across modules in scope) impact results for Al declared products, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP WP ODP PCOP ADPe ADPf
+MJ, net
+Unit mes À | LN : COz- RS : NOX- | KgSb-Eq | calorific
+4 4 4 4 value
+Minimum 44.2 0.145 282 2.65e-05 0.663 0.00117 1860
+Maximum
+Mean 47.8 0.151 321 3.03e-05 0.709 0.00134 2120
+Median 475 0.15 310 2.88e-05 O.71 0.00129 2020
+10067219 44.2 0.145 282 2.65e-05 0.663 0.00117 1860
+10067201 47.5 0.15 310 2.88e-05 0.71 0.00129 2020
+10032165 516 0.159 372 3.56e-05 0.755 0.00156 2490
+b) Inventory Metrics:
+Indicator/LCI LFH CBW  CW CNH
+Metric TPE RE NRE NRR  RR WDP LFW w c WC CHW w
+MJ- |MJ- | MJ- kg |kg
+Unit kg m3 m3 wast | wast | m3 m3 kg kg
+Eq Eq Eq
+e e
+.. 0.00 0.003 133€ | 0.002
+Minimum 2090 | 11 1980 11 .86 122 0.18 8.1
+9 4 9 5 0944 7 06 3 05 33 4
+Maximum
+0.001 0.003 133€ | 0.002
+Mean 2390 | 128 2250 . 2 132 0.192 8.1
+39 5 579 05 9 3 42 9 _05 33 4
+. 0.00 0.003 133€ | 0.002
+Median 2270 |12 2140 | . 128 0.18 8.1
+7 7 4 54.9 0997 793 2 3 _05 33 4
+0.00 0.003 133€ | 0.002
+1006721 2090 | 11 1980 11 . 122 0.18 8.1
+7219 9 4 9 5 0944 7.93 06 3 05 33 4
+0.00 0.003 133€ | 0.002
+10067201 2270 | 12 2140 . .86 128 0.18 8.1
+7 7 7 4 54.9 0997 7 ” 3 05 33 4
+0.001 0.003 133€ | 0.002
+1003216 2800 |1 2640 | 67. 11.8 146 0.21 8.1
+32165 44 4 77 > 4 98 05 33 4
+
+LABELING SUSTAINABILITY | 16
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix Designs: 21 to 25 MPa
+
+Table 14: Total life cycle (across modules in scope) impact results for AL declared products, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP WP ODP PCOP ADPe ADPf
+MJ, net
+Unit Des À | LN : COz- 9 DT . NOX- | KgSb-Eq | calorific
+4 4 4 4 value
+Minimum 48.2 0.15 308 2.85e-05 0.724 0.00129 2000
+Maximum 3.97e-05 0.00186
+Mean 567 0162 375 3.43e-05 0.826 0.00158 2400
+Median 551 0.161 369 3.37e-05 0.818 0.00155 2360
+10066981 48.2 0.15 308 2.85e-05 0.724 0.00129 2000
+10073458 514 0.156 337 3.14e-05 0.767 0.00141 2200
+10060245 55.1 0.161 369 3.37e-05 0.818 0.001655 2360
+10029084 58.5 0.167 404 3.65e-05 0.864 0.0017 2560
+10072702 641 0.175 441 3.97e-05 0.947 0.00186 2780
+10011050 50.3 0.154 331 3.08e-05 0.751 0.00138 2160
+10048467 53 0.159 359 3.33e-05 0.786 0.0015 2330
+10041261 57.4 0165 392 3.57e-05 0.849 0.00165 2500
+10072802 631 0.173 437 3.96-05 0.931 0.00184 2730
+b) Inventory Metrics:
+Indicator/L TPE RE NRE NR RR WD LEW  LFHW CBW  cWW cHW CNH
+CI Metric R P C C VW
+Unit My- Nu MJ- k m m ct kg m m k k
+Eq Eq g 3 3 waste 3 3 g g
+Eq e
+.. 225 54. 0.0010 0.0031 133e- | 0.0023
+Minimum a 127 | 2110 6 1 718 | 127 6 0.172 05 : 48.1
+Maximum
+271 255 | 65. | 0.0011 0.0036 133e- | 0.0023
+Mean 0 154 0 6 : 7.97 | 142 1 0.194 O6 3 48.1
+. 267 252 | 64. | 0.0011 0.0036 133e- | 0.0023
+Median 0 151 0 6 7 7.89 | 140 1 0.194 O6 . 48.1
+225 54. 0.0010 0.0031 133e- | 0.0023
+10066981 o 127 | 2110 6 À 7.27 | 127 6 0.172 05 : 48.1
+247 233 | 59. 0.0011 0.0034 133e- | 0.0023
+10073458 o 139 0 9 1 8.42 | 135 6 0.189 05 3 481
+267 252 | 64. 0.0011 0.0035 133e- | 0.0023
+10060245 o 151 0 6 . 7.82 | 140 6 0.189 05 3 48.1
+289 | 16 273 | 69. | 0.0012 0.0037 133e- | 0.0023
+10029084 o 7 o 8 6 7.89 | 148 5 0.215 05 : 48.1
+314 294 | 76. 0.0013 133e- | 0.0023
+10072702 18 .8 1 0.00 (oi 481
+727 o 3 o 9 3 7.89 55 4 94 05 3
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+243 |13 230 | 58. 0.0010 0.0033 133e- | 0.0023
+10011050 o 6 0 8 8 8.24 | 133 9 0.189 05 3 48.1
+263 248 0.0011 0.0036 133e- | 0.0023
+1004846 L 6 8.8 140 (oi 48.1
+48467 0 A5 o 4 5 7 4 1 94 05 3
+10041261 282 |16 265 | 68. | 0.0012 815 | 146 0.0037 0194 133e- | 0.0023 481
+O O O 2 3 2 O5 3
+310 290 0.0013 0.0038 133e- | 0.0023
+10072802 o 182 0 74.5 3 718 | 153 6 0.21 05 3 48.1
+
+Mix Designs: 26 to 30 MPa
+
+Table 15: Total life cycle (across modules in scope) impact results for AL declared products, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP WP ODP PCOP ADPe ADPf
+M)J, net
+L f kg COz2- kg CFC- kg NOx- ’
+Unit es | KkgN . IDE Le * | kg Sb-Eq | calorific
+4 4 q 4 value
+Minimum 52.5 0.157 348 3.21e-05 0.781 0.00146 2250
+Maximum 70.5 | 0.184 494 4.34e-05 1.04 0.00208 3040
+Mean 60.4 0.169 414 3.72e-05 0.894 0.00174 2600
+Median 59.2 0.168 409 3.71e-05 0.874 0.00172 2590
+10011079 B2.5 0.157 348 3.216-05 0.781 0.00146 2250
+10068980 55.7 0162 374 3.37e-05 0.827 0.00157 2360
+10010699 59.2 0.168 409 3.71e-05 0.874 0.00172 2590
+10010840 64.2 0.175 443 3.96e-05 0.947 0.00186 2770
+10062076 70.5 0.184 494 4.34e-05 1.04 0.00208 3040
+b) Inventory Metrics:
+Indicator/L NR NR WD CBW  cWW CNH
+CI Metric TPE RE E R RR p LFW  LFHW c c CHW w
+Unit MJ- Nu My- k m m ct kg m m k k
+Eq Eq g 3 3 waste 3 3 g g
+Eq e
+.. 253 238 0.0011 0.0034 133e- | 0.0023
+M 61.6 6. 0.18 8.
+inimum o 143 o 1 7 79 | 137 8 189 dE : 48.1
+Maximum
+294 276 0.0012 0.0037 1.33e- | 0.0023
+Mean 171 1 . 1 O1 8.1
+0 7 0 7 7 7.47 A9 7 93 05 3 4
+. 293 | 16 275 | 70. 0.0012 0.0038 1.33e- | 0.0023
+Med 38 |1 0.18 8.1
+edian 0 8 0 7 9 7-3 A9 ‘ 9 05 3 4
+253 238 0.0011 0.0034 133e- | 0.0023
+10011079 0 143 o 61.6 , 8.11 137 8 0.189 05 à 48.1
+267 |15 250 | 64. 0.0011 0.0034 133e- | 0.0023
+10068980 o 6 o . , 697 | 140 8 0.194 05 3 48.1
+
+LABELING SUSTAINABILITY | 18
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+293 | 16 275 | 70. 0.0012 0.0038 133e- | 0.0023
+10010699 0 8 o 9 8.08 | 149 1 0.205 05 3 48.1
+313 18 295 0.0013 0.0039 133e- | 0.0023
+10010840 . 38 |1 0.18 8.1
+4 o 5 o 755 6 7.3 55 4 9 05 3 4
+345 | 20 | 323 0.0014 0.0041 133e- | 0.0023
+10062076 82. G. 16 0.18 8.1
+7 o 5 0 7 3 79 4 5 9 05 3 4
+
+Mix Designs: 31 to 35 MPa
+
+Table 16: Total life cycle (across modules in scope) impact results for All declared products, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP WP ODP PCOP ADPe ADPf
+MJ, net
+Unit Des À | LgN : COz- 9 DT : NOX- | kg Sb-Eq | calorific
+4 4 4 q value
+Minimum 54.6 0.161 365 3.35e-05 0.812 0.00153 2350
+Maximum 69.3 0.183 493 4.38e-05 1.02 0.00208 cioere)
+Mean 61.4 0.171 425 3.83e-05 0.906 0.00179 2680
+Median 60.4 0.17 416 3.76e-05 0.891 0.00175 2640
+10041259 54.6 0.161 365 3.35e-05 0.812 0.00153 2350
+10045331 59.4 0.168 411 3.74e-05 0.876 0.00173 2620
+10065388 67 0.18 475 4.23e-05 0.983 0.002 2960
+10041258 56.7 0.164 383 3.49€-05 0.842 0.00161 2440
+10072763 613 0.171 422 3.79e-05 0.906 0.00177 2650
+10067191 69.3 0.183 493 4.38e-05 1.02 0.00208 3060
+b) Inventory Metrics:
+Indicator/LCI TPE RE NRE NRR  RR WDP  LFW LFH CBW  CW cHW CNH
+Metric W C WC \Ww
+MJ- |MJ- | M)- kg | kg
+Unit kg m3 m3 wast | wast | m3 m3 kg kg
+Eq Eq Eq
+e e
+.. 0.001 0.00 133€ | 0.002
+Minimum 2640 |1 2490 | 6 61 140 0.18 8.1
+4 A9 49 4 14 7 4 356 9 -05 33 4
+Maximum
+0.001 0.00 133€ | 0.002
+Mean 030 | 174 2850 | 732 7. 152 0.196 48.1
+303 5 3 3 93 5 388 9 05 33
+. 0.001 0.00 133€ | 0.002
+Median 2980 | 171 2800 2.2 8 150 O.1 8.1
+9 7 7 28 7.04 5 385 94 -05 33 4
+0.001 0.00 133€ | 0.002
+100412 2640 |1 2490 | 6 . 140 0.18 8.1
+41259 4 A9 49 4 14 797 A 356 9 -05 33 4
+0.001 0.00 133€ | 0.002
+100 1 2950 | 16 2780 1.8 8.48 150 O1 8.1
+4533 95 7 7 7 28 4 5 387 94 -05 33 4
+0.001 0.00 133€ | 0.002
+10065388 O | 196 150 80.6 .8 162 O.21 8.1
+53 334 9 315 45 7.84 414 -05 33 4
+
+LABELING SUSTAINABILITY | 19 @
+
+Û
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+0.001 0.00 133€ | 0.002
+10041258 2760 |1 2590 | 66.8 .8 1 0.18 8.1
+4125 7 57 59 2 7.84 43 365 9 -05 33 4
+0.001 0.00 133€ | 0.002
+10072763 3000 | 175 2820 | 72.7 7.61 151 0.194 48.1
+28 383 ° -O5 33
+0.001 0.00 133€ | 0.002
+10067191 80 | 20 260 | 83. .8 166 O2 8.1
+719 34 3 3 35 48 7.85 425 -05 33 4
+
+Mix Designs: 36 to 40 MPa
+
+Table 17: Total life cycle (across modules in scope) impact results for AL declared products, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP WP ODP PCOP ADPe ADPf
+MJ, net
+Unit Des À | LgN : COz- 9 DT : NOX- | kg Sb-Eq | calorific
+4 4 4 q value
+Minimum 58.8 0.167 400 3.62e-05 0.872 0.00168 2530
+Maximum 66.2 0.178 460 4.08e-05 0.977 0.00194 2860
+Mean 62.5 0.172 430 3.85e-05 0.924 0.00181 2700
+Median 62.5 0.172 430 3.85e-05 0.924 0.00181 2700
+10058499 58.8 0.167 400 3.62e-05 0.872 0.00168 2530
+10062563 66.2 0.178 460 4.08e-05 0.977 0.00194 2860
+b) Inventory Metrics:
+Indicator/LCI TPE RE NRE  NRR RR WDP  LFW LFH CBW  CW cHW CNH
+Metric W C WC \Ww
+MJ- |MJ- | M)- kg | kg
+Unit kg m3 m3 wast | wast | m3 m3 kg kg
+Eq Eq Eq
+e e
+.. 0.001 0.00 133€ | 0.002
+Minimum 2860 | 166 2690 | 68. 12 1 0.18 8.1
+9 9 25 7 A7 372 9 -05 33 4
+Maximum
+0.001 0.00 133€ | 0.002
+Mean 050 | 178 2860 . A2 152 0.18 8.1
+305 7 734 34 74 5 386 9 05 33 4
+. 0.001 0.00 133€ | 0.002
+Median 050 | 178 2860 . A2 152 0.18 8.1
+305 7 734 34 74 5 386 9 -05 33 4
+0.001 0.00 133€ | 0.002
+10058 2860 | 166 2690 | 68. 71 1 0.18 8.1
+58499 9 9 25 77 A7 372 9 05 33 4
+0.001 0.00 133€ | 0.002
+1006256 240 | 190 040 .8 12 158 0.18 8.1
+563 324 9 304 77 44 7 5 4 9 -05 33 4
+
+LABELING SUSTAINABILITY | 20
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix Designs: 41 to 45 MPa
+
+Table 18: Total Life cycle (across modules in scope) impact results for All declared products, assuming the geometric
+
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP GWwP ODP PCOP ADPe ADPf
+M)J, net
+Unit nes À | KyN . COz- 9 DT . NOX- | kg Sb-Eq | calorific
+q q 4 4 value
+Minimum 63.4 0.174 435 3.91e-05 0.936 0.00183 2730
+Maximum 72.6 0.188 512 4.49€-05 1.07 0.00216 3140
+Mean 67.2 0.18 469 417e-05 0.992 0.00198 2920
+Median 66.5 0.178 464 4158-05 0.98 0.00196 2900
+10048460 63.4 0.174 435 3.916-05 0.936 0.00183 2730
+10027316 66.9 0.179 470 418e-05 0.985 0.00198 2920
+10048322 72.6 0.188 512 4.49€-05 1.07 0.00216 3140
+10062291 66.1 0.178 459 4116-05 0.975 0.00194 2870
+b) Inventory Metrics:
+Indicator/LC TPE RE NRE NRR RR WDP  LFW LFH CBW  CW cHW CNH
+I Metric W C WC \Ww
+MJ- |MJ- | M- kg  |kg
+Unit kg m3 m3 wast | wast | m3 m3 kg kg
+Eq Eq Eq
+e e
+.. 0.001 0.00 133€ | 0.00
+Minimum 080 | 181 2910 6 6.8 1 O1 8.1
+3 9 74 34 5 54 303 73 | 05 233 4
+Maximum
+0.001 0.00 133€ | 0.00
+Mean 00 |1 110 , . 160 0.182 8.1
+33 95 3 795 ” 7.44 109 _05 233 4
+. 0.001 0.00 133€ | 0.00
+Median 3280 | 192 3090 | 79 38 7.6 160 408 0.181 6e 233 48.1
+0.001 0.00 133€ | 0.00
+10048460 080 | 181 2910 6 6 1 O1 8.1
+484 3 9 74 34 7.65 54 393 73 05 233 4
+0.001 0.00 133€ | 0.00
+10027316 10 |1 110 6 | 161 O1 8.1
+73 33 94 3 79 42 7.55 109 94 05 233 4
+0.001 0.00 133€ | 0.00
+10048322 60 | 21 O | 85. 6.8 168 0.18 8.1
+483 35 4 334 55 54 5 427 9 05 233 4
+10062291 3240 | 190 3070 | 784 90-001 7.71 159 9-00 0.173 1336 | 0:00 48.1
+| 35 | 407 | -05 | 233 |
+
+LABELING SUSTAINABILITY | 21
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix Designs: 46 to 50 MPa
+
+Table 19: Total Life cycle (across modules in scope) impact results for All declared products, assuming the geometric
+
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP GWwP ODP PCOP ADPe ADPf
+M)J, net
+Unit nes À | KyN . COz- 9 DT . NOX- | kg Sb-Eq | calorific
+q q 4 4 value
+Minimum 65.2 0.177 452 4.02e-05 0.962 0.0019 2810
+Maximum 80 0.199 574 5.01e-05 117 0.00243 3500
+Mean 70.3 0.184 496 4.38e-05 1.03 0.00209 3060
+Median 68 0.181 A79 4.26e-05 0.998 0.00202 2980
+10052003 65.7 0.178 463 4.15e-05 0.967 0.00195 2900
+10052062 65.2 0.177 A52 4.02e-05 0.962 0.0019 2810
+10049785 70.2 0.184 495 4.36e-05 1.03 0.00208 3050
+10072161 80 0.199 574 5.01e-05 117 0.00243 3500
+b) Inventory Metrics:
+Indicator/LC TPE RE NRE NRR RR WDP  LFW LFH CBW  CW CHW CNH
+I Metric W C WC \Ww
+MJ- |MJ- | M- kg  |kg
+Unit kg m3 m3 wast | wast | m3 m3 kg kg
+Eq Eq Eq
+e e
+.. 0.001 0.00 133€ | 0.00
+Minimum 190 | 18 000 G. 6.96 1 0.178 8.1
+319 7 3 76.9 35 9 57 397 7 _05 233 4
+Maximum
+0.001 0.00 133€ | 0.00
+Mean 80 | 20 270 | 83. 36 166 0.18 8.1
+34 5 327 672 147 73 422 9 _05 233 4
+. 0.001 0.00 133€ | 0.00
+Median O | 198 180 | 81. 1 162 0.192 8.1
+337 9 3 3 44 719 414 9 _05 233 4
+0.001 0.00 133€ | 0.00
+10052003 3280 | 189 3100 | 79.2 42 8.08 160 au 0.194 05 233 48.1
+0.001 0.00 133€ | 0.00
+10052062 190 | 18 000 G. .32 1 0.18 8.1
+5 319 7 3 769 35 73 57 397 9 _05 233 4
+0.001 0.00 133€ | 0.00
+100 8 60 | 206 250 | 83, .06 16 O1 8.1
+49785 34 325 34 45 7 5 118 94 05 233 4
+0.001 0.00 133€ | 0.00
+10072161 O | 238 O 2 6.96 181 0.178 8.1
+7 397 3 374 95 65 9 464 7 05 233 4
+
+LABELING SUSTAINABILITY | 22
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Mix Designs: 56 to 60 MPa
+
+Table 20: Total life cycle (across modules in scope) impact results for All declared products, assuming the geometric
+mean point values on a per 1 m3 of concrete basis.
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP GWwP ODP PCOP ADPe ADPf
+M)J, net
+Unit nes À | KyN . COz- 9 DT . NOX- | kg Sb-Eq | calorific
+q q 4 4 value
+Minimum 74.2 0.19 526 4.63e-05 1.09 0.00222 3240
+Maximum 79.4 0.198 567 4.92e-05 116 0.00239 3440
+Mean 76.8 0.194 546 4.78e-05 1.12 0.00231 3340
+Median 76.8 0.194 546 4.78e-05 1.12 0.00231 3340
+10072640 79.4 0.198 567 4.92e-05 116 0.00239 3440
+10049790 74.2 0.19 526 4.63e-05 1.09 0.00222 3240
+b) Inventory Metrics:
+Indicator/LC TPE RE NRE NRR RR WDP  LFW LFH CBW CW cHW CNH
+I Metric W C WC \Ww
+MJ- |MJ- | M- kg  |kg
+Unit kg m3 m3 wast | wast | m3 m3 kg kg
+Eq Eq Eq
+e e
+.. 0.001 0.00 133€ | 0.00
+Minimum 670 | 21 O | 88. 62 172 0.178 8.1
+367 7 345 5 57 5 7 439 Ÿ _05 233 4
+0.00 0.00 e 0.00
+O20 690 02.6 9 0.194 A8
+O0 À @)
+0.001 0.00 133€ | 0.00
+Mean 800 | 22 O 1 6. 176 0.186 8.1
+3 Ÿ 357 9 62 7 Ÿ 145 _05 233 4
+. 0.001 0.00 133€ | 0.00
+Median 800 | 22 O 1 6. 176 0.186 8.1
+3 Ÿ 357 9 62 7 Ÿ 145 _05 233 4
+0.001 0.00 133€ | 0.00
+10072640 3920 | 237 3690 | 93.6 66 G.25 179 461 0.194 08 233 481
+0.001 0.00 133€ | 0.00
+100 [e) 670 | 21 O | 88. 1 172 0.178 8.1
+4979 367 7 345 5 57 715 7 439 7 05 233 4
+
+ADDITIONAL ENVIRONMENTAL INFO
+
+No regulated substances of very high concern are uütilized on site.
+
+The PCR allows for the grouping of similar products. Examples of grouping for concrete products
+include performance categories of compressive strength and high early strength, material
+characteristics of lightweight concrete, and production categories of ready-mix and central mix.
+Alternately, if a single value is chosen for each impact category for all products, the value reported
+should be the highest impact within the range of variation: therefore, the EPD would report the
+highest single value for each impact category amongst all of the products or plants included in the
+average EPD analysis." (PCR for Concrete v2.1)
+
+LABELING SUSTAINABILITY | 23
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+All the ready-mix concrete products manufactured at the plant are listed below. À complete LCA
+with resulting impacts for the study was performed on all highlighted mixes. The non-highlighted
+mixes listed below are grouped by characteristics and then the amount of cement. The highest value
+for the GWP for each mix that was not part of the LCA but is within the 10% range is taken from the
+LCA mix as part of the study. The table outlines the GWP for all mixes produced at this plant as
+allowed by the PCR.
+
+Table 21: Mix Designs 0 to 15 MPa
+
+Mix GWP MPa
+10062890 2
+10011196 3,9
+10047801 389 4
+10072770 389 4
+10064056 551 4,1
+10011208 471 4,1
+10011201 471 4,1
+10051184 521 4,2
+10074757 521 4,2
+10011455 534 4,3
+10073454 534 4,3
+10011451 414 4,3
+10065278 378 4,5
+10062841 378 4,5
+10034430 378 4,5
+10011461 432 4,5
+10011462 432 4,5
+10072724 432 4,5
+10073492 432 4,5
+10042828 432 4,5
+10051183 432 4,5
+10062840 432 4,5
+10072722 432 4,5
+10011463 532 4,5
+10072723 532 4,5
+10064058 592 4,5
+10075052 592 4,8
+10033497 567 5
+10067129 275 10,5
+10067123 256 10,5
+10074596 256 10,5
+10010904 256 10,5
+10024091 256 10,5
+10010907 256 10,5
+10072676 256 10,5
+10075112 256 10,5
+10075113 256 10,5
+
+LABELING SUSTAINABILITY | 24 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+10011831 256 10,5
+10045441 340 10,5
+10012294 391 12,5
+10072811 391 12,5
+10067124 274 14
+10067206 274 14
+10048440 274 14
+10067200 292 14
+10010908 292 14
+10010916 292 14
+10072677 292 14
+10012342 292 14
+10011980 292 14
+10011892 369 14
+10075159 369 14
+
+Table 22: Mix Designs 16 to 20 MPa
+
+Mix GWP MPa
+10067201 310 17,5
+10067219 282 17,5
+10067125 310 17,5
+10010957 310 17,5
+10010961 310 17,5
+10072689 310 17,5
+10034324 310 17,5
+10012383 310 17,5
+10065299 310 17,5
+10075270 310 17,5
+10074620 310 17,5
+10074621 310 17,5
+10032165 372 17,5
+
+Table 23: Mix Designs 21 to 25 MPa
+
+Mix GWP MPa
+10069029 337 21
+10010993 337 21
+10010824 337 21
+10010826 337 21
+10072700 337 21
+10048463 337 21
+10069025 337 21
+
+LABELING SUSTAINABILITY | 25 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+10073456 337 21
+10048446 337 21
+10048447 337 21
+10073458 337 21
+10010971 337 21
+10010974 337 21
+10012862 337 21
+10072701 337 21
+10074597 337 21
+10011007 337 21
+10012718 337 21
+10045184 337 21
+10072678 337 21
+10052878 337 21
+10011158 337 21
+10072187 337 21
+10011168 337 21
+10048838 337 21
+10018317 337 21
+10049797 337 21
+10054062 337 21
+10069902 337 21
+10072186 337 21
+10011473 337 21
+10050605 337 21
+10011712 337 21
+10068955 337 21
+10068979 337 21
+10011713 337 21
+10068956 337 21
+10068970 337 21
+10062781 337 21
+10062783 337 21
+10053027 359 24,5
+10027110 359 24,5
+10048466 359 24,5
+10048467 359 24,5
+10073459 359 24,5
+10048450 359 24,5
+10062929 359 24,5
+10073500 359 24,5
+10011050 331 24,5
+10011068 331 24,5
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+10044044 331 24,5
+10073453 331 24,5
+10011161 331 24,5
+10068972 331 24,5
+10068975 331 24,5
+10029083 331 24,5
+10011175 331 24,5
+10041255 331 24,5
+10068986 331 24,5
+10041261 392 24,5
+10068981 392 24,5
+10034861 392 24,5
+10051947 392 24,5
+10010830 392 24,5
+10069123 392 24,5
+10034872 392 24,5
+10072802 437 24,5
+
+Table 24: Mix Designs 26 to 30 MPa
+
+Mix GWP MPa
+10048470 348 28
+10048452 348 28
+10048453 348 28
+10064712 348 28
+10064765 348 28
+10074598 348 28
+10074680 348 23
+10069980 348 28
+10010995 348 28
+10011073 348 28
+10011074 348 28
+10041260 348 28
+10072709 348 28
+10011078 348 28
+10011079 348 28
+10011093 348 28
+10044417 348 28
+10072704 348 28
+10062705 348 28
+10049203 348 28
+10011143 348 28
+10018504 348 28
+
+LABELING SUSTAINABILITY | 27 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+10062745 348 28
+10010699 409 28
+10044630 409 28
+10048790 409 28
+10063709 409 28
+10072430 409 28
+10010841 409 28
+10057307 409 28
+10072711 409 28
+10072715 409 28
+10010844 409 28
+10049872 409 28
+10056283 409 28
+10072706 409 28
+10072708 409 28
+10048469 409 28
+10073501 409 28
+10074607 409 28
+10074681 409 28
+10073502 409 28
+10011069 409 28
+10072713 409 28
+10012719 409 28
+10072707 409 28
+10072760 409 28
+10072761 409 28
+10074599 409 28
+10052887 409 28
+10017778 409 28
+10060244 409 28
+10072188 409 28
+10011178 409 28
+10051941 409 28
+10027860 409 28
+10051940 409 28
+10060249 409 28
+10074436 409 28
+10063765 409 28
+10011477 409 28
+10053885 409 28
+10033740 409 28
+10011719 409 28
+10068957 409 28
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+10068976 409 28
+10072718 409 28
+10011772 409 28
+10051949 409 28
+10068980 374 28
+10068982 374 28
+10072717 374 28
+10062706 374 28
+10068642 374 28
+10072721 374 28
+10057678 374 28
+10029081 374 28
+10064013 374 28
+10010835 374 28
+10072710 374 28
+10010840 443 28
+10050078 443 28
+10059470 443 28
+10072705 443 28
+10010843 443 28
+10072560 443 28
+10032353 443 28
+10074648 443 28
+10074177 443 28
+10070924 443 28
+10062076 494 28
+10072089 494 28
+10062799 494 28
+10072617 494 28
+10051180 494 28
+10010759 494 28
+
+Table 25: Mix Designs 31 to 35 MPa
+
+Mix GWP MPa
+10041259 365 31,5
+10048456 365 31,5
+10021898 365 31,5
+10047430 365 31,5
+10045331 411 31,5
+10044144 411 31,5
+10065388 475 31,5
+10032252 475 31,5
+
+LABELING SUSTAINABILITY | 29 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+10062359 475 31,5
+10065068 475 31,5
+10048475 422 35
+10048457 422 35
+10074630 422 35
+10011136 422 35
+10012884 422 35
+10072763 422 35
+10074756 422 35
+10011145 422 35
+10018040 422 35
+10072762 422 35
+10017770 422 35
+10050073 422 35
+10062754 422 35
+10011778 422 35
+10062293 422 35
+10062300 422 35
+10062294 422 35
+10062780 422 35
+10034867 422 35
+10028491 422 35
+10059062 422 35
+10060247 422 35
+10060283 422 35
+10072140 422 35
+10047081 422 35
+10072720 422 35
+10072719 422 35
+
+Table 26: Mix Designs 36 to 40 MPa
+
+Mix GWP MPa
+10058499 400 38,5
+10062563 460 38,5
+
+Table 27: Mix Designs: 41 to 45 MPa
+
+Mix GWP MPa
+10035114 435 42
+10052794 435 42
+10047946 435 42
+
+LABELING SUSTAINABILITY | 30
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+10052092 435 42
+10048443 435 42
+10073471 435 42
+10048460 435 42
+10073491 435 42
+10074632 435 42
+10011154 435 42
+10041239 435 42
+10072764 435 42
+10072765 435 42
+10027316 470 42
+10062413 470 42
+10063510 470 42
+10063530 470 42
+10048322 512 42
+10073455 512 42
+10074437 512 42
+10062292 459 45
+10062291 459 45
+
+Table 28: Mix Designs 46 to 50 MPa
+
+Mix GWP MPa
+10052003 463 45,5
+10072088 474 49
+10072161 474 49
+10049785 495 49
+10072716 495 49
+10052062 452 49
+10061645 452 49
+
+Table 29: Mix Designs 51 to 60 MPa
+
+Mix GWP MPa
+10043923 452 52,3
+10072640 52,3
+10049790 474 56
+
+LABELING SUSTAINABILITY | 31
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+REFERENCES
+ASTM Standards:
+
+e ASTM A36/A36M Standard Specification for Carbon Structural Steel
+
+e ASTM A108 Standard Specification for Steel Bar, Carbon and Alloy, Cold-Finished
+
+e ASTM A123/A123M Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron
+and Steel Products
+
+e ASTM A153/A153M Standard Specification for Zinc Coating (Hot-Dip) on lron and Steel
+Hardware
+
+e ASTM A184 Standard Specification for Welded Deformed Steel Bar Mats for Concrete
+Reinforcement
+
+e ASTM A307 Standard Specification for Carbon Steel Bolts, Studs, and Threaded Rod
+60,000 PSI Tensile Strength
+
+e ASTM A416/A416M Standard Specification for Steel Strand, Uncoated Seven-Wire for
+Prestressed Concrete
+
+e ASTM A555/A555M Standard Specification for General Requirements for Stainless Steel
+Wire and Wire Rods
+
+e ASTM A615/A615M Standard Specification for Deformed and Plain Carbon-Steel Bars for
+Concrete Reinforcement
+
+e ASTM A6G6 Standard Specification for Annealed or Cold-\Worked Austenitic Stainless
+Steel Sheet, Strip, Plate, and Flat Bar
+
+e ASTM A706/A706M Standard Specification for Deformed and Plain Low-Alloy Steel Bars
+for Concrete Reinforcement
+
+e ASTM A767/A767M Standard Specification for Zinc-Coated (Galvanized) Steel Bars for
+Concrete Reinforcement
+
+e ASTM A775/A775M Standard Specification for Epoxy-Coated Steel Reinforcing Bars
+
+e ASTM A820/A820M Standard Specification for Steel Fibers for Fiber-Reinforced
+Concrete
+
+e ASTM A884/A884M Standard Specification for Epoxy-Coated Steel Wire and Welded
+Wire Reinforcement
+
+e ASTM A934/A934M Standard Specification for Epoxy-Coated Prefabricated Steel
+Reinforcing Bars
+
+e ASTM A1064/A1064M Standard Specification for Carbon-Steel Wire and Welded Wire
+Reinforcement, Plain and Deformed, for Concrete
+
+e ASTM C33/C33M Standard Specification for Concrete Aggregates
+
+e ASTM C94 Standard Specification for Ready-Mixed Concrete
+
+e ASTM C150/C150M Standard Specification for Portland Cement
+
+e ASTM C260/C260M Standard Specification for Air-Entraining Admixtures for Concrete
+
+e ASTM C598 Standard Specification for Blended Hydraulic Cements
+
+e ASTM C618 Standard Specification for Coal Fly Ash and Raw or Calcined Natural
+Pozzolan for Use in Concrete
+
+e ASTM C979/C9o79M Standard Specification for Pigments for Integrally Colored Concrete
+
+e ASTM C989/C989M Standard Specification for Slag Cement for Use in Concrete and
+Mortars
+
+LABELING SUSTAINABILITY | 32
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+e ASTM C1017/C1017M Standard Specification for Chemical Admixtures for Use in
+Producing Flowing Concrete
+
+e ASTM C1116/C1116M Standard Specification for Fiber-Reinforced Concrete
+
+e ASTM C1157/C1157M Standard Performance Specification for Hydraulic Cement
+
+e ASTM C1240 Standard Specification for Silica Fume Used in Cementitious Mixtures
+
+e ASTM C1602/C1602M Standard Specification for Mixing Water Used in the Production of
+Hydraulic Cement Concrete
+
+e ASTM G109 Standard Test Method for Determining Effects of Chemical Admixtures on
+Corrosion of Embedded Steel Reinforcement in Concrete Exposed to Chloride
+Environments
+
+e ASTM C330/C330M Standard Specification for Lightweight Aggregates for Structural
+Concrete
+
+e ASTM C494/C494M Standard Specification for Chemical Admixtures for Concrete
+
+CSA Standards:
+
+e  CAN/CGSB-140 Anticorrosive Structural Steel Alkyd Primer
+
+e  CAN/CSA G30.18 Carbon steel bars for concrete reinforcement
+
+e _CAN/CSA A3000 Cementitious Materials Compendium
+
+e  CAN/CSA G40.20/G40.21 General requirements for rolled or welded structural quality
+steel / Structural quality steel
+
+e  CAN/CSA A23.1/A23.2 Concrete Materials and Methods of Concrete Construction/Test
+methods and Standard Practices for Concrete
+
+e  CAN/CSA A23.4 Precast concrete - Materials and construction
+
+e CSA S806 Design and construction of building structures with fiber-reinforced polymers
+
+ISO Standards:
+
++ [SO 6707-1: 2014 Buildings and Civil Engineering Works - Vocabulary - Part 1: General
+Terms
+
+e |SO 1402119909 Environmental Labels and Declarations - Self-declared Environmental
+Claims (Type Il Environmental Labeling)
+
+e ISO 1400252006 Environmental Labels and Declarations - Type Ill Environmental
+Declarations - Principles and Procedures
+
+e _1SO 14040:2006 Environmental Management - Life Cycle Assessment - Principles and
+Framework
+
+e _1SO 14044:2006 Environmental Management - Life Cycle Assessment - Requirements and
+Guidelines
+
+e ISO 14067:2018 Greenhouse Gases - Carbon Footprint of Products - Requirements and
+Guidelines for Quantification
+
+e ISO 14050:2009 Environmental Management - Vocabulary
+
+e ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration of
+Building Products
+
+LABELING SUSTAINABILITY | 33 @
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+EN Standards:
+
+e EN 16757 Sustainability of construction works - Environmental product declarations -
+Product Category Rules for concrete and concrete elements
+
+e EN 15804 Sustainability of construction works - Environmental product declarations -
+Core rules for the product category of construction products
+
+Other References:
+
+e US EPA Waste Reduction Model (WARM), Ely Ash
+Chapter: http://epa.gov/climatechange/wycd/Wwaste/downloads/fly-ash-chapter10-
+28-10.pdf
+
+e American Concrete Institute (ACI) 211: Standard Practice for Selecting Proportions for
+Normal, Heavyweight, and Mass Concrete.
+
+e  ACI 318-14 Building Code Requirements for Structural Concrete and Commentary.
+American Concrete Institute. Farmington Hills, MI, USA available
+at https://www.concrete.org/store/
+
+e Mather, B & Ozyildirim, C. (2002). SP-1(02) : Concrete Primer. American Concrete Institute:
+SP0102. American Concrete Institute. Farmington Hills, MI, USA available
+at https://www.concrete.org/store/
+
+e __NSF International (February 2019). Product Category Rules (PCR) for ISO 14025 Type Ill
+Environmental Product Declarations (EPDs) of Concrete v12.
+
+e Product Category Rules for Preparing an Environmental Product Declaration for Precast
+Concrete (UN CPC 37550), ASTM International, March
+2015. https://ww\w.astm.org/CERTIFICATION/DOCS/266.PCR_for_Precast_Concrete.pdf
+
+e _ USGBC LEED va for Building Design and Construction, 11 Jan 2019 available
+at https://www.usgbc.org/resources/pcr-committee-process-resources-part-b
+
+e  USGBC PCR Committee Process & Resources: Part B, USGRC, 7 July 2017 available
+at https://www.usgbc.org/resources/pcr-committee-process-resources-part-b.
+
+LABELING SUSTAINABILITY | 34 @
+

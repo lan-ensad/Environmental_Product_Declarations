@@ -1,0 +1,78 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "date_of_issue": "10 September 2021",
+    "period_of_validity": "5 years; valid until 10 September 2026",
+    "epd_number": "8e8cdd92-0246-4142-a415-fhac64ch410a",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Escobedo Concrete Plant, Nuevo León, México",
+    "product_variants": [
+      {
+        "name": "38250ND2012",
+        "strength": "28.69 MPa",
+        "water_to_cement_ratio": "0.607"
+      },
+      {
+        "name": "39038ND4012",
+        "strength": "46 MPa",
+        "water_to_cement_ratio": "0.607"
+      },
+      {
+        "name": "60100ND4010",
+        "strength": "10.33 MPa",
+        "water_to_cement_ratio": "0.978"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "reference_year": "2020",
+    "system_boundaries": {
+      "A1": "Raw material supply",
+      "A2": "Transport",
+      "A3": "Manufacturing"
+    },
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ]
+  },
+  "transport_and_installation": {
+    "transport_requirements": "Not included in the LCA"
+  },
+  "end_of_life": {
+    "end_of_life_scenarios": "Not included in the LCA"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "187 kg CO2-eq",
+      "maximum": "337 kg CO2-eq",
+      "mean": "273 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "RA CPC40": "0%",
+      "Fly Ash": "100%"
+    },
+    "material_losses": "2% for all materials"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

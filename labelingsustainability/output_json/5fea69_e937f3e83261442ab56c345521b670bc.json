@@ -1,0 +1,50 @@
+{
+  "epd_metadata": {
+    "program_operator": "Labeling Sustainability",
+    "program_operator_address": "11670 W Sunset Blvd., Los Angeles, CA",
+    "program_operator_website": "www.labelingsustainability.com",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "sub_pcr_program_operator": "NSF International",
+    "epd_number": "eGac8eof-0678-452f-b795-561da2e096d4",
+    "date_of_issue": "24 July 2023",
+    "period_of_validity": "5 years; valid until 23 July 2028",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim México Operaciones S.A. de C.V.",
+    "declared_unit": "1 m3 of concrete",
+    "company_description": "Holcim Mexico produces and markets cement, ready-mix concrete, and other products and services for construction. The company has a nationwide presence through 7 cement plants with a current installed capacity to produce 12.6 million tons per year, 23 cement distribution centers, two maritime terminals, 1 Corporate Office, plus 35 ready-mix concrete plants, seven platforms, and a Geocycle transfer center, 26 commercial partners with more than 90 ready-mix concrete plants, more than 500 mixing pots, one aggregates plant and a Technological Innovation Center for Construction (CITEC).",
+    "product_scope": "This EPD reports on 50 concrete mixes manufactured at the Holcim Mexico Operaciones S.A. de C.V. Ruiz Cortinez concrete facility in Nuevo Leon, México."
+  },
+  "lca_information": {
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "ISO 14044:2006 and the focus PCR requires the LCA model to contain a minimum of 95% of the total inflows (mass and energy) to the upstream and core modules be included in this study.",
+    "data_sources_and_quality": "Data quality/variability requirements, as specified in the PCR, are applied. This section describes the achieved data quality relative to the ISO 14044:2006 requirements.",
+    "environmental_indicators": "Per the PCR, this EPD supports the life cycle impact assessment indicators and inventory metrics as listed in the tables below."
+  },
+  "transport_and_installation": null,
+  "end_of_life": {
+    "excluded_stages": "Transportation of the manufactured material to the construction site; on-site construction processes and components; building (infrastructure) use and maintenance; and 'end-of-life' effects."
+  },
+  "carbon_emission_context": {
+    "gwp_minimum": "287 kg CO2-eq",
+    "gwp_maximum": "777 kg CO2-eq",
+    "gwp_mean": "580 kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

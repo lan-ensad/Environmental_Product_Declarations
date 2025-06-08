@@ -1,0 +1,54 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "a15b3b2b-bf76-4a50-9493-do51b5db8864",
+    "date_of_issue": "24 January 2023",
+    "period_of_validity": "5 years; valid until 24 January 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Planta Itulpark, Quito, Ecuador",
+    "product_scope": "15 concrete mixes"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of total inflows included; 1% cut-off for renewable and non-renewable primary energy consumption"
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks reported from Holcim records for 2021"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": "TRACI impact categories used for North American context",
+    "limitations": "EPD does not support definitive comparisons of environmental performance of specific products"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2021"
+  },
+  "additional_info": {
+    "company_description": "Holcim Ecuador is part of the international Holcim group, a leader in innovative and sustainable construction solutions.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

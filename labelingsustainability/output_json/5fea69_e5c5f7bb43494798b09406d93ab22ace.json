@@ -1,0 +1,49 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "9b7870cf-f8e1-464f-9000-45954ab9dc20",
+    "date_of_issue": "29 July 2023",
+    "period_of_validity": "5 years; valid until 29 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Xochimilco, Tlalpan, Ciudad de México",
+    "product_scope": "54 concrete mixes manufactured at the Holcim Mexico Operaciones SA. de C.V. Xochimilco concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.8 database, Holcim México Operaciones SA. de C.V. primary data",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "representativeness": "Data from 2022, region-specific electricity inputs"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "impact_assessment_method": "US EPA TRACI",
+    "total_impact_summary": "Provided for each mix design from 0 to >60 MPa"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Returned concrete based on Holcim primary data for 2022"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

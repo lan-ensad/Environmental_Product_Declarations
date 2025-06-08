@@ -1,0 +1,45 @@
+{
+  "epd_metadata": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "29 September 2021",
+    "period_of_validity": "5 years; valid until 29 September 2026",
+    "epd_number": "efd12f18-6208-4aba-b915-a2e7c1f5c622"
+  },
+  "product_description": {
+    "company_description": "Holcim Mexico Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "product_scope": "This LCA is a cradle-to-gate study, and therefore, stages extending beyond the plant gate are not included."
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "data_sources": "Primary data from Holcim México Operaciones, S.A. de C.V. and ecoinvent V3.6 database.",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "GWP is measured in kg CO2 equivalent."
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": "Various materials have post-industrial and post-consumer content with assumed material losses."
+  },
+  "additional_info": {
+    "environmental_indicators": [
+      "Acidification Potential (AP)",
+      "Eutrophication Potential (EP)",
+      "Photochemical Ozone Creation Potential (POCP)"
+    ],
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards"
+    ]
+  }
+}

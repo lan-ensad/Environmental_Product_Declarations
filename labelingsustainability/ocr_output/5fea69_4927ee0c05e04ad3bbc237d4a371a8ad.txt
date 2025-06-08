@@ -1,0 +1,758 @@
+Environmental
+
+Product Declaration
+
+Pie
+Le |
+
++4
+
+Environmental Product Declaration for cement products
+produced by Holcim Argentina at their Campana facility in
+Buenos Aires, Argentina
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TABLE OF CONTENTS
+
+Administrative Information... sis sissississsssusisss 3
+Company Description ...................,.,,,....,,,,,,,,,.,,,44444444sssssssssssers 4
+Study Goal..................,.,.,,,,,,,,,,4444 sisi issues ssesnesenseenneeenesss 4
+Description Of Product And Scope ........................,.,.,.....,...,....... 5
+Cement Design Summary ........................,,,,,,,,,,,,444ssssssssssss 5
+Cement Design Composition..............,,,.,,,,,,,.,,,4.4ssessssssessm 6
+System Boundaries................,.,,,,.,,,,,,,,,,4,.444444éésssssssissssesrsuness 6
+Cut-Off Criteria..................,,,,,,,,,,,,,,,,..ssssssssssssseeeremenneeres 8
+Data Sources And Data Quality Assessment .........................,,..... 8
+Raw Material Transport... iinrnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnns 8
+EL@CTrICIEY. annees 8
+Process/Space Heating....... in nenne 8
+Fuel Required For Machinery.  innnnnnnnnnnnnnnnnnnnnnnnnnnnns 8
+Waste GENEFATION nn nn 8
+Recovered Energy... inner 8
+Recycled/Reused Material/Components..... ss sssnnnnnnnnnnnnnnnnnnnnnnnnnnnns 8
+Module A1 Material LOSSES......... nee 8
+Direct A3 Emissions ACCOUNEINY nanas 8
+Waste Transport Requirements nn 8
+Data Quality Assessment......................,,.,.,..,,,.,,,.,,,,.,,,,,,,,.,4. 10
+PreCISION...nn nn 10
+Completeness.... nn nn 10
+CONSISTENCY... nan ner 10
+REPrOodUCIDILIEY.... nn nn nn 10
+RepresentatiVeness... nn 11
+Environmental Indicators And Inventory Metrics........................ 11
+Limitations.....................,.....,.,,,,,,.,,,,,,,4444 ss ssssssesseseeeeeemeneeenees 11
+Total Impact Summary... 12
+References... sise ss neneceememeeememeneueune 13
+Astm Standards. nr 13
+Csa Standard nn nanas 13
+Iso Standards. nine 13
+En Standards. nn nn nn nn nn nn ne 14
+Other References nn nn ne eee een 14
+
+LABELING SUSTAINABILITY | 2
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+ADMINISTRATIVE INFORMATION
+
+International Certified Environmental Product Declaration
+
+Declared Product:
+
+This Environmental Product Declaration (EPD) covers
+cement products produced by Holcim Argentina
+Declared unit: 1 tonne of cement
+
+Declaration Owner:
+
+Holcim Argentina
+
+680 Humberto Primo, Complejo Capitalinas, Edificio
+Suquia, Piso 4, Oficina 47
+
+Cordoba, Argentina
+
+holcim.com.ar
+
+Program Operator:
+
+Labeling Sustainability
+
+Address, 11670 W Sunset Blvd.
+
+City, State, Los Angeles, CA
+
+http://labelinsustainability.com/
+
+Product Category Rule:
+
+Core PCR: ISO 21930:2017 Sustainability in buildings and
+civil engineering works - Core rules for environmental
+product declarations of construction products and
+services SUbPCR: Product Category Rules (PCR) for ISO
+14025 Type Ill Environmental Product Declarations (EPD)
+of Portland, Blended, Mansory, Mortar and Plastic
+(stucco) Cements, Valid through March 31, 2025.
+
+Sub PCR Program Operator: NSF International
+
+Sub-category PCR review was conducted by: Thomas P.
+Gloria, Ph. D. of Industrial Ecology Consultants: 35
+Bracebridge, Rd. Newton, MA 02459-1728,
+tgloria@industrial-ecology.com. Mr. Bill Stough,
+Sustainable Research Group: PO Box 1684, Grand
+Rapids, MI 49501-1684,
+bstough@sustainableresearchgroup.com. Mr. Jack
+Geilbig, EcoForm: 2624 Abelia War, Suite 611, Knoxville,
+TN 37931, jgeilbig@ecoform.com
+
+Independent LCA
+
+Reviewer and EPD Verifier:
+
+This EPD was independently verified in accordance with
+ISO 14025. The life cycle assessment Was independently
+reviewed in accordance ISO 14044 and the referenced
+PCR.
+
+Independent verification of the declaration, according to
+ISO 14025:2006
+
+Internal À ; External X
+
+Third Party Verifier
+
+Geoffrey Guest, Certified 3rd Party Verifier under the
+CSA group (www.csaregistries.ca), Labeling
+Sustainability (www.labelingsustainability.com),
+P3Optima (www.P30Optima.com)
+
+Date of Issue:
+
+O2 January 2023
+
+Period of Validity:
+
+5 years; valid until 02 January 2028
+
+EPD Number:
+
+d206e47c-5644-4196-8181-176b6ad07f44
+
+ HOLCIM
+
+ê LABELING
+
+sustainability
+
+aile
+
+tU1I/
+
+ASTM INTERNATIONAL
+
+LABELING SUSTAINABILITY | 3
+ENVIRONMENTAL PRODUCT DECLARATION
+
+COMPANY DESCRIPTION
+
+Holcim Argentina belongs to the Holcim Group and is a world leader in innovative and sustainable
+solutions for construction. With more than 90 years of experience in Argentina, it employs more than
+1,000 collaborators and has extensive coverage of the national territory. It has four cement plants
+located in the provinces of Cérdoba, Mendoza, Jujuy and Buenos Aires. Likewise, it has permanent
+and mobile plants of elaborated concrete: a plant of stone aggregates; and another for industrial
+waste co-processing, called Geocycle.
+
+At Holcim, we work for the cities of the future. The world population is estimated to reach 10 billion
+by 2050, with 70% of people living in cities by then. With 1.6 billion people lacking adequate housing
+and sanitation, we need to build livable cities that work for everyone. At Holcim, we are part of the
+solution.
+
+United in our vision to be the global leader in innovative and sustainable building solutions, we play
+an essential role in accelerating our world's transition to a more inclusive, net-zero emissions future.
+Driven by our purpose to create progress for people and the planet, we are at the forefront of
+sustainable building solutions.
+
+STUDY GOAL
+
+The intended application of this life cycle assessment (LCA) is to comply with the procedures for
+creating a Type Ill environmental product declaration (EPD) and publish the EPD for public review on
+the website, http://labelingsustainability.com/ . This level of study is in accordance with EPD
+Product Category Rule (PCR) for Cement published by NSF (2020) and is a PCR in accordance with
+ISO 21930 for Preparing an Environmental Product Declaration for Portland, Blended Hydraulic,
+Masonry, Mortar, and Plastic (Stucco) Cements. EPDSs for cements that follow other PCRs may not be
+comparable. International Standards Organization (ISO) 14025:2006 Environmental labels and
+declarations, Type lil environmental declarations-Principles and procedures; ISO 14044:2006
+Environmental management, Life cycle assessment- Requirements and guidelines; and ISO
+14040:2006 Environmental management, Life cycle assessment-Principles and framework. The
+performance of this study and its subsequent publishing is in alignment with the business-to-
+business (B2B) communication requirements for the environmental assessment of building products.
+The study does not intend to support comparative assertions and is intended to be disclosed to the
+public.
+
+This project report was commissioned to differentiate Holcim Argentina from their competition for
+the following reasons: generate an advantage for the organization: offer customers information to
+help them make informed product decisions; improve the environmental performance of Holcim
+Argentina by continuously measuring, controlling and reducing the environmental impacts of their
+products; help project facilitators working on Leadership in Energy and Environmental Design (LEED)
+projects achieve their credit goal: and to strengthen Holcim Argentina's license to operate in the
+community. The intended audience for this LCA report is Holcim Argentina's employees, their
+suppliers, project specifiers of their products, architects, and engineers. The EPD report is also
+available for policy makers, government officials interested in sustainability, academic professors,
+and LCA professionals. This LCA report does not include product comparisons from other facilities.
+
+LABELING SUSTAINABILITY | 4 @)
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+DESCRIPTION OF PRODUCT AND SCOPE
+
+This EPD is prepared for products classified as UN CPC Group 3744-Cement or CSI MasterFormat
+Division 03 30 00 Cast-in-Place Concrete.
+
+This EPD is primary reported Holcim data from the reference year 2021. It reports on the ten cement
+mixes produced at the Campana cement plant, made from primarily limestone. These ten cement
+mixes make up 100% of yearly production at the Campana cement plant. Cement from the Campana
+cement plant is used in the EPDs for concrete mixes in Argentina concrete plants. This is a grinding
+facility only and does not house a kiln.
+
+This LCA assumes the impacts from products manufactured in accordance with the standards
+outlined in this report. This LCA is a cradle-to-gate study , and therefore, stages extending beyond
+the plant gate are not included in this LCA. Excluded stages include transportation of the
+manufactured material to the construction site; on-site construction processes and components:
+building (infrastructure) use and maintenance: and “end-of-life” effects.
+
+CEMENT DESIGN SUMMARY
+
+The following tables provide a list of the cement products considered in this EPD along with key
+performance parameters.
+
+Table 1: Declared products with AlL declared products considered in this environmental product declaration
+
+. Unique ou Product Resistance Resistance @28
+Mix name/ID Short description Type Days (MPa) 5 Days (MPa)
+
+1 CPCA40 (Bulk) Versatile cement specially Ordinary NA 40
+formulated for concrete Portland
+mixers.
+
+2 CAH4OARS ARS certified very high Ordinary NA 40
+durability cement with low Portland
+heat of hydration.
+
+3 CAH40 (Bag) Highly versatile product for Ordinary NA 40
+finished concrete and Portland
+masonry applications.
+
+4 CAH30 Cement with high durability Ordinary NA 30
+and low heat of hydration Portland
+resistance 30
+
+5 CPC 40 (Bag) Highly versatile product for Ordinary NA 40
+finished concrete and Portland
+masonry applications.
+
+6 CPC40 PLUS Highly versatile product for Ordinary NA 40
+
+(Bag) finished concrete and Portland
+
+masonry applications.
+
+7 CPC50 (Bulk) Cement for high Ordinary NA 5O
+performance precasters and | Portland
+concretes.
+
+LABELING SUSTAINABILITY | 5
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+CEMENT DESIGN COMPOSITION
+
+The following figures provide mass breakdown (kg per functional unit) of the material composition of
+each cement design considered. Please note that the presented breakdown has been randomly
+altered by +/-10% and is therefore only an approximation: this manipulation is to ensure
+confidentiality.
+
+Table 2 Cement composition
+
+Product Components Raw Material, weight%
+Clinker Proprietary
+Mineral Additions (limestone and Pozzolana) | 30-60.00
+Others | 0.01-5.00
+Total | 100.00
+
+SYSTEM BOUNDARIES
+
+The following figure depicts the cradle-to-gate system boundary considered in this study (ND= Not
+Defined)
+
+Life Cycle Impacts
+A1-A3 A4-A5 B1-B7 C1-Ca
+PRODUCT STAGE INSTALLATION PROCESS STAGE USE STAGE END OF LIFE STAGE
+A1 Raw material supply A4 Transport to site B1 Use C1 De-installation/
+A2 Transport A5 Installation B2 Maintenance Demolition
+A3 Manufacturing Process B3 Repaid C2 Transport
+
+B4 Replacement C3 Was cessing
+B5 Refurbishment C4 Disposal of Waste
+B6 Operational energy use
+B7 Operational water use
+
+X ND ND ND
+
+Figure 1: General Life cycle phases for consideration in a construction works system
+
+This is a Cradle-to-gate life cycle assessment and the following life cycle stages are included in the
+study:
+
+e A1: Raw material supply (upstream processes) - Extraction, handling, and processing of
+the materials used in manufacturing the declared products in this LCA.
+
+e A2: Transportation - Transportation of A1 materials from the supplier to the “gate” of the
+manufacturing facility (i.e. A3).
+
+e A3: Manufacturing (core processes)- The energy and other utility inputs used to store,
+move, and manufacturer the declared products and to operate the facility.
+
+As according to the PCR, the following figure illustrates the general activities and input requirements
+for producing cement products and is not necessarily exhaustive.
+
+LABELING SUSTAINABILITY | 6
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+resources from nature A1. Raw materials
+emissions to nature
+
++ Quarrying raw materials
+inputs from technosphere + Crushing and grinding material > _ _ |
++ Procuring other raw traditional and alternative materials
+
+non-A1 inputs from technosphere . emissions to nature
+P P | A2. Transport of A1 raw materials
+| > __
+
+A3. Manufacturing
+
+Raw material preparation
+
++ Crushing & grinding materials
++ Dry mixing & blending
+
++ Pre-heating
+
+Clinker production
+non-A1 inputs from technosphere + Rotary kiln calcination
++ Cooling
++ Clinker storage
+
+emissions to nature
+
+Cement finishing Delcarled unit: 1 tonne cement
+- Addition of raw materials
+
+-+ Finish grinding
+
++ Product storage
+
+- Packaging Waste collection transported
+
++ Shipping to treatment facility
+
+Figure 2: General system inputs considered in the product system and categorized by modules in scope
+
+In addition, as according to the relevant PCR, the following requirements are excluded from this
+study:
+
+e Production, manufacture and construction of A3 building/capital goods and
+infrastructure.
+
+e Production and manufacture of steel production equipment, steel delivery vehicles,
+earthmoving equipment, and laboratory equipment.
+
+e Personnel-related activities (travel, furniture, office supplies):
+
+e Energy use related to company management and sales activities.
+
+For this LCA the manufacturing plant, owned and operated by Holcim Argentina, is located at their
+Planta Campana facility in Argentina. All operating data is formulated using the actual data from
+Holcim Argentina plant at the above location, including water, energy consumption and waste
+generation. Al inputs for this system boundary are calculated for the plant.
+
+This life cycle inventory Was organized in a spreadsheet and was then input into an RStudio
+environment where pre-calculated LCIA results for relevant products/activities stemming from the
+ecoinvent v3.8 database and a local EPD database in combination with primary data from Holcim
+Argentina were utilized. Explanations of the contribution of each data source to this study are
+outlined in the section ‘Data Sources and Quality”. Further LCI details for each declared product are
+provided in the sections ‘Detailed LCI tables’ and ‘Transport tables’ of the detailed LCA report. A
+parameter uncertainty analysis was also performed where key statistical results (e.g. min/mean/max
+etc.) are provided in the detailed LCA report.
+
+LABELING SUSTAINABILITY | 7
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+CUT-OFF CRITERIA
+
+ISO 14044:2006 and the focus PCR requires the LCA model to contain a minimum of 95% of the total
+inflows (mass and energy) to the upstream and core modules be included in this study. The cut-off
+criteria were applied to all other processes unless otherwise noted above as follows. À 1% cut-off is
+considered for all renewable and non-renewable primary energy consumption and the total mass of
+inputs within a unit process where the total of the neglected inputs does not exceed 5%.
+
+DATA SOURCES AND DATA QUALITY ASSESSMENT
+
+Raw material transport: À combination of actual mode/distance combinations were assumed for
+key bulk materials whereas ecoinvent default multi-modal market mix distances were assumed for
+other inputs where no original data could be provided.
+
+Electricity: Electrcity values entered Were from primary Holcim Argentina reporting for the reference
+year 2021. The ecoinvent unit process “market for electricity, medium voltage/electricity, medium
+voltage/AR/KWh" \was used.
+
+Process/space heating: Natural gas is used for drying the clinker at this facility. Campana is a
+grinding facility only. It does not have a kiln..
+
+Fuel required for machinery: There is no additional fuel used for machinery at this plant.
+
+Waste generation: Waste generation values are directly reported from Holcim operations for the
+reference year 2021.
+
+Recovered energy: Not Applicable.
+Recycled/reused material/components: Not applicable.
+Module A1 material Losses: Due to lack of data, default loss factors were assumedl.
+
+Direct A3 emissions accounting: All emission data are based on primary fuel reporting from Holcim
+Argentina. This is a grinding facility only therefore it does not have a kiln. Only natural gas in burned at
+this location for which an ecoinvent unit process was used.
+
+Waste transport requirements: Transportation distances are using estimated values. The waste
+hauler cannot guarantee the exact distances traveled due to the variation of route and actual location
+of disposal. Most hazardous waste disposal sites are near the plant therefore the 25 km distance is a
+representative estimate.
+
+The following tables depict a list of assumed life cycle inventory üutilized in the LCA modeling to
+generate the impact results across the life cycle modules in scope. An assessment of the quality of
+each LCI activities utilized from various sources is also provided.
+
+LABELING SUSTAINABILITY | 8 @)
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Table 3: LCI inputs assumed for module A1 (i.e. raw material supply)
+
+- û
+8 E > 5
+É 5 3 à
+9 5 5 $ 9 + E£
+© © Æ © d ©
+Input LClactivity Data.source Ô > HF HO x 0
+CLINKER clinker ecoinvent Buenos V3.8 in
+Local production/clinker/Ro | v3.8 Aires 2021 3 3 3 3 3
+W/Kkg
+Limestone limestone production, ecoinvent Mendoza | v38in
+crushed, for V3.8 2021
+mill/limestone, 2 3 2 3 3
+crushed, for
+mil/RoW/Kkg
+Puzzlano market for cement, ecoinvent Mendoza | v38in
+pozzolana and fly ash V3.8 2021
+36-55%/cement, 2 3 2 3 3
+pozzolana and fly ash
+36-55%/RoW/kg
+CLINKER CA | Clinker CA Progam Mendoza, | 19-
+Operator: Jan-23
+Labeling
+Sustainabilit
+ÿ- EPD ID:
+fa8b3271- 3 3 3 3 3
+b31f-4e88-
+a727-
+cfdcafd2e73
+f
+CLINKER MG | Clinker MG Progam Cordoba 24-
+Operator: Jan-23
+Labeling
+Sustainabilit
+ÿ- EPD ID:
+f2621473- 3 3 3 3 3
+b677-4eod-
+9047-
+0a38323ea4
+ee
+CLINKER PV | CLINKER PV Progam JüjUuy 20-
+Operator: Jan-23
+Labeling
+Sustainabilit
+ÿ- EPD ID:
+doc13d31- 3 3 3 3 3
+83f9-4490-
+8b4b-
+6a36c139e8
+eo
+
+LABELING SUSTAINABILITY | 9
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+Bag market for packing, ecoinvent Provincia | v38in
+cement/packing, V3.8 de 2021 3 > 3 3
+cement/GLO/kg Buenos
+
+Aires
+
+Gypsum gypsum quarry ecoinvent Aires v3.8 in
+operation/gypsum, V3.8 2021 2 3 2 3 3
+mineral/Ro\WW/kg
+
+Sla Waste input produced | See A3 Buenos See A3
+
+° off-site Fo inputs Aires inputs A3 |2 A3 | A3
+
+DATA QUALITY ASSESSMENT
+
+Data quality/variability requirements, as specified in the PCR, are applied. This section describes the
+achieved data quality relative to the ISO 14044:2006 requirements. Data quality is judged based on its
+precision (measured, calculated, or estimated), completeness (e.g. unreported emissions),
+consistency (degree of uniformity of the methodology applied within a study serving as a data
+source) and representativeness (geographical, temporal, and technological).
+
+Precision: Through measurement and calculation, the manufacturers collected and provided primary
+data on their annual production. For accuracy, the LCA practitioner and 3rd Party Verifier validated
+the plant gate-to-gate data.
+
+Completeness: Al relevant specific processes, including inputs (raw materials, energy, and ancillary
+materials) and outputs (emissions and production volume) were considered and modeled to
+represent the specified and declared products. Most relevant background materials and processes
+were taken from ecoinvent v3.6 LCI datasets where relatively recent region-specific electricity inputs
+were utilized. The most relevant EPDs requiring key A1 inputs were also utilized where readily
+available.
+
+Consistency: To ensure consistency, the same modeling structure across the respective product
+systems was utilized for all inputs, which consisted of raw material inputs and ancillary material,
+energy flows, water resource inputs, product, and co-products outputs, returned and recovered
+Cement materials, emissions to air, water and soil, and waste recycling and treatment. The same
+background LCI datasets from the ecoinvent v3.6 database were used across all product systems.
+Crosschecks concerning the plausibility of mass and energy flows Wwere continuously conducted. The
+LCA team conducted mass and energy balances at the plant and selected process level to maintain
+a high level of consistency.
+
+Reproducibility: Internal reproducibility is possible since the data and the models are stored and
+available in a machine-readable project file for all foreground and background processes, and in
+Eco-Purpose's proprietary Cement LCA calculator” for all production facility and product-specific
+calculations. À considerable level of transparency is provided throughout the detailed LCA report as
+the specifications and material quantity make-up for the declared products are presented and key
+primary and secondary LCI data sources are summarized. The provision of more detailed publicly
+accessible data to allow full external reproducibility was not possible due to reasons of
+confidentiality.
+
+Label Sustainability has developed a proprietary tool that allows the calculation of PCR-compliant
+LCA results for Cement product designs. The tool auto-calculates results by scaling base-unit
+Technosphere inputs (i.e. 1 kg sand, 1 KWh electricity, etc.) to replicate the reference flow
+conversions that take place in any typical LCA software like openLCA or SimaPro. The tool was
+
+LABELING SUSTAINABILITY | 10
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+tested against several LCAs performed in openLCA and the tool generated identical results to those
+realized in openLCA across every impact category and inventory metric (where comparisons could
+be readily made).
+
+Representativeness: The representativeness of the data is summarized as follows.
+
+e Time related coverage of the manufacturing processes’ primary collected data from
+2020-01-01 to 2020-12-31.
+
+e _ Upstream (background) LCI data was either the PCR specified default (if applicable) or
+more appropriate LCI datasets as found in the country-adjusted ecoinvent v3.6 database.
+
+e _Geographical coverage for inputs required by the A3 facility(ies) is representative of its
+region of focus; other upstream and background processes are based on US, North
+American, or global average data and adjusted to regional electricity mixes when
+relevant.
+
+e _Technological coverage is typical or average and specific to the participating facilities for
+all primary data.
+
+ENVIRONMENTAL INDICATORS AND INVENTORY METRICS
+
+Per the PCR, this EPD supports the life cycle impact assessment indicators and inventory metrics as
+listed in the tables below. As specified in the PCR, the most recent US EPA Tool for the Reduction
+and Assessment of Chemical and Other Environmental Impacts (TRACI), impact categories were
+utilized as they provide a North American context for the mandatory category indicators to be
+included in the EPD. Additionally, the PCR requires a set of inventory metrics to be reported with the
+LCIA indicators.
+
+It should be noted that emerging LCA impact categories and inventory items are still under
+development and can have high levels of uncertainty that preclude international acceptance
+pending further development. Use caution when interpreting data in any of the following categories.
+
+LIMITATIONS
+
+This EPD is a declaration of potential environmental impact and does not support or provide
+definitive comparisons of the environmental performance of specific products. Only EPDS prepared
+from cradle-to-grave life cycle results and based on the same function and reference service life and
+quantified by the same functional unit can be used to assist purchasers and users in making informed
+comparisons between products.
+
+LCIA results are relative expressions and do not predict impacts on category endpoints, the
+exceeding of thresholds, safety margins or risks. Further, LCA offers a wide array of environmental
+impact indicators, and this EPD reports a collection of those, as specified by the PCR.
+
+In addition to the impact results, this EPD provides several metrics related to resource consumption
+and waste generation. While these data may be informational in other ways, they do not provide a
+measure of impact on the environment.
+
+LABELING SUSTAINABILITY | 11
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+TOTAL IMPACT SUMMARY
+
+The following table reports the total LCA results for each product produced at the given cement
+facility on a per 1 tonne of cement basis.
+
+Table 4: Total Life cycle (across modules in scope) impact results for All declared products, assuming the geometric mean
+point values on a per 1 tonne of cement basis
+
+a) Midpoint Impact Categories:
+
+Indicator/LCI Metric AP EP G\WP ODP PCOP ADPe ADPf
+M)J, net
+Unit M EQ À LyN Ed COz- Een Ed NOX-  KoSb-Eq  calorific
+value
+Minimum 10.7 0.0174 41 6.83e-06 0171 0.00142 590
+122 0.134 950 427e-05 2.07 0.00351 6170
+Mean 72.7 0.0823 539 2.63e-05 123 0.00277 3640
+Median 79.9 0.0905 600 2.9e-05 1.35 0.00305 3760
+CPC40 (Bulk) 871 0.0996 688 3.26e-05 147 0.00321 3840
+CAH40ARS 78.6 0.0852 567 2.67e-05 1.33 0.00266 4290
+CAH40 (Bag) 711 0.0841 542 2.71e-05 119 0.00289 3420
+CAH30 50.6 0.0575 359 1936-05 0.845 0.00242 2820
+CPC 40 (Bag) 97.8 0.108 702 3.196-05 1.66 0.00329 5160
+CPC40 PLUS (Bag) 813 0.0959 634 3.08e-05 137 0.00329 3680
+CPC50 (Bulk) 116 0.123 844 3.7e-05 1.97 0.00337 6170
+b) Inventory Metrics:
+Né LCI TPE RE NRE  NRR RR WDP  LFW  LFHW  bioC
+
+kg kg
+waste waste
+0.0003 0.0016
+
+Unit MJ-Eq MJ-Eq MJ-Eqa kg m3 m3 kg
+
+Minimum
+
+Maximum
+
+O.0047 O.0045
+
+Mean 4090 142 3940 95.6 8 0.397 33.2 9
+. 0.0016 O.0047 -
+Median 4270 145 4080 102 1 0.436 35.2 8 avr
+0.00 0.00
+CPC40 (Bulk) 4300 121 4170 105 3 14 0.488 35.6 4 47 -0.413
+CAH40ARS 4780 114 4660 109 D O.4 32.3 0.00511 -O.1
+CAH40 (Bag) 3940 226 3690 91.3 0.0135 0.414 35.5 + 0.673
+0.0008 0.0036 -
+CAH30 3130 736 3050 726 à 0269 307 , 0.0847
+0.0062
+CPC 40 (Bag) 5880 270 5620 132 0.0134  O.528 35.4 0.802
+
+1
+
+LABELING SUSTAINABILITY | 12 @)
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+CPC40 PLUS (Bag) | 4240 239 3990 100 0.0128 0.458 37 > 0.644
+CPC50 (Bulk) 6860 169 6710 166 0588 35 a _0157
+
+REFERENCES
+
+ASTM Standards:
+
+e ASTM C150/C150M Standard Specification for Portland Cement
+
+e ASTM C260/C260M Standard Specification for Air-Entraining Admixtures for Concrete
+
+e ASTM C598 Standard Specification for Blended Hydraulic Cements
+
+e ASTM C618 Standard Specification for Coal Fly Ash and Raw or Calcined Natural
+Pozzolan for Use in Concrete
+
+e ASTM Co79/C9o79M Standard Specification for Pigments for Integrally Colored Concrete
+
+e ASTM C989/C989M Standard Specification for Slag Cement for Use in Concrete and
+Mortars
+
+e ASTM C1017/C1017M Standard Specification for Chemical Admixtures for Use in
+Producing Flowing Concrete
+
+e ASTM C1116/C1116M Standard Specification for Fiber-Reinforced Concrete
+
+e ASTM C1157/C1157M Standard Performance Specification for Hydraulic Cement
+
+e ASTM C1240 Standard Specification for Silica Fume Used in Cementitious Mixtures
+
+e ASTM C1602/C1602M Standard Specification for Mixing Water Used in the Production of
+Hydraulic Cement Concrete
+
+e ASTM G109 Standard Test Method for Determining Effects of Chemical Admixtures on
+Corrosion of Embedded Steel Reinforcement in Concrete Exposed to Chloride
+Environments
+
+CSA Standards:
+
+e _CAN/CSA A3000 Cementitious Materials Compendium
+e  CAN/CSA G40.20/G40.21 General requirements for rolled or welded structural quality
+steel / Structural quality steel
+
+ISO Standards:
+
+e ISO 6707-1: 2014 Buildings and Civil Engineering Works - Vocabulary - Part 1: General
+Terms
+
+e |SO 1402119909 Environmental Labels and Declarations - Self-declared Environmental
+Claims (Type Il Environmental Labeling)
+
+e ISO 1402522006 Environmental Labels and Declarations - Type Ill Environmental
+Declarations - Principles and Procedures
+
+e _1SO 14040:2006 Environmental Management - Life Cycle Assessment - Principles and
+Framework
+
+e _1SO 14044:2006 Environmental Management - Life Cycle Assessment - Requirements and
+Guidelines
+
+ENVIRONMENTAL PRODUCT DECLARATION
+
+e ISO 14067:2018 Greenhouse Gases - Carbon Footprint of Products - Requirements and
+Guidelines for Quantification
+
+e ISO 14050:2009 Environmental Management - Vocabulary
+
+e ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration of
+Building Products
+
+EN Standards:
+
+e EN 16757 Sustainability of construction works - Environmental product declarations -
+Product Category Rules for concrete and concrete elements
+
+e EN 15804 Sustainability of construction works - Environmental product declarations -
+Core rules for the product category of construction products
+
+Other References:
+
+e US EPA Waste Reduction Model (WARM), Fly Ash
+Chapter: http://epa.gov/climatechange/wycd/Wwaste/downloads/fly-ash-chapter10-
+28-10.pdf
+e  USGBC LEED va for Building Design and Construction, 11 Jan 2019 available
+at https://www.usgbc.org/resources/pcr-committee-process-resources-part-b
+e _ USGBC PCR Committee Process & Resources: Part B, USGRC, 7 July 2017 available
+at https://www.usgbc.org/resources/pcr-committee-process-resources-part-b.
+
+LABELING SUSTAINABILITY | 14
+

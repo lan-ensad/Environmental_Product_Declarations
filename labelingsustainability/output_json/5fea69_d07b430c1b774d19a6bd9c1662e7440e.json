@@ -1,0 +1,80 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "epd_number": "87726855-35c1-46d2-8b21-809811b290f1",
+    "date_of_issue": "06 December 2021",
+    "period_of_validity": "5 years; valid until 07 December 2026",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group",
+    "standards": [
+      "ISO 21930:2017",
+      "ISO 14025:2006",
+      "ISO 14044:2006"
+    ]
+  },
+  "product_description": {
+    "declared_unit": "1 m3 of concrete",
+    "products": [
+      {
+        "mix_id": "04250NB2014",
+        "description": "31.48 MPa 28d strength ready mix concrete. No SCMSs are used in this mix.",
+        "strength_mpa": 31.48,
+        "water_to_cement_ratio": 0.6555421
+      },
+      {
+        "mix_id": "04250NB2018",
+        "description": "31.52 MPa 28d strength ready mix concrete. No SCMSs are used in this mix.",
+        "strength_mpa": 31.52,
+        "water_to_cement_ratio": 0.6655305
+      },
+      {
+        "mix_id": "04250ND2014",
+        "description": "32.14 MPa 28d strength ready mix concrete. No SCMSs are used in this mix.",
+        "strength_mpa": 32.14,
+        "water_to_cement_ratio": 0.649748
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "system_boundaries": {
+      "A1": "Raw material supply",
+      "A2": "Transportation",
+      "A3": "Manufacturing"
+    },
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules.",
+    "data_sources": "ecoinvent v3.6 database and a local EPD database",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "reproducibility": "Internal reproducibility possible",
+      "representativeness": "Time-related coverage from 2020-01-01 to 2020-12-31"
+    }
+  },
+  "transport_and_installation": {
+    "transport_requirements": "Primary transportation for delivering the concrete in mixing trucks calculated using total concrete transported/(concrete/load){km per load}L/km."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": "GWP100 measured in kg CO2 equivalent"
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "MA CPC 40 Cement": "0",
+      "Coarse Aggregate": "0.02",
+      "Limestone Fine Aggregate": "0.02"
+    },
+    "material_losses": "Default loss factors assumed due to lack of data"
+  },
+  "additional_info": {
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "US EPA Waste Reduction Model (WARM)"
+    ]
+  }
+}

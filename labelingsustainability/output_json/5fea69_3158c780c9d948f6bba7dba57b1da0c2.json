@@ -1,0 +1,90 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "date_of_issue": "10 September 2021",
+    "period_of_validity": "5 years; valid until 10 September 2026",
+    "epd_number": "a2656613-f54e-41a84-9d52-22ed0b66834a",
+    "iso_standards": [
+      "ISO 21930:2017",
+      "ISO 14025:2006",
+      "ISO 14044:2006",
+      "ISO 14040:2006"
+    ],
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Mitras Concrete Plant, Nuevo León, México",
+    "product_variants": [
+      {
+        "mix_id": "60200NB2016",
+        "strength": "25.64 MPa",
+        "water_to_cement_ratio": "0.6529851"
+      },
+      {
+        "mix_id": "70200NB2014",
+        "strength": "25.99 MPa",
+        "water_to_cement_ratio": "0.6320000"
+      },
+      {
+        "mix_id": "70200ND2008",
+        "strength": "23.43 MPa",
+        "water_to_cement_ratio": "0.9064171"
+      },
+      {
+        "mix_id": "70200ND2010",
+        "strength": "24.75 MPa",
+        "water_to_cement_ratio": "0.6086957"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to site",
+      "On-site construction processes",
+      "End-of-life effects"
+    ],
+    "data_sources": "Primary data from Holcim México Operaciones, S.A. de C.V. and ecoinvent V3.6 database"
+  },
+  "transport_and_installation": {
+    "transport_requirements": "Transportation of A1 materials from the supplier to the manufacturing facility",
+    "installation_requirements": null
+  },
+  "end_of_life": {
+    "end_of_life_scenarios": "Not included in this LCA"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "203 kg CO2-eq",
+      "maximum": "351 kg CO2-eq",
+      "mean": "269 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "RA CPC40": "0%",
+      "Fly Ash": "100%",
+      "Gravel 3": "0%"
+    },
+    "material_losses": "2% for all materials"
+  },
+  "additional_info": {
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ],
+    "additional_environmental_info": "No regulated substances of very high concern are utilized on site."
+  }
+}

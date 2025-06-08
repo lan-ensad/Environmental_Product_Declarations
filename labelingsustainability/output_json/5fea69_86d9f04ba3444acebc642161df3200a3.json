@@ -1,0 +1,154 @@
+{
+  "epd_metadata": {
+    "declared_product": "cement products produced by Holcim Argentina",
+    "declared_unit": "1 tonne of cement",
+    "declaration_owner": "Holcim Argentina",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "Product Category Rules (PCR) for ISO 14025 Type III Environmental Product Declarations (EPD) of Portland, Blended, Masonry, Mortar and Plastic (stucco) Cements",
+    "sub_pcr_program_operator": "NSF International",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group",
+    "date_of_issue": "20 January 2023",
+    "period_of_validity": "5 years; valid until 20 January 2028",
+    "epd_number": "doc13d31-83f9-4490-8b4b-6a36c139e8e0"
+  },
+  "product_description": {
+    "company_description": "Holcim Argentina belongs to the Holcim Group and is a world leader in innovative and sustainable solutions for construction.",
+    "product_classification": "UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete",
+    "cement_design_summary": [
+      {
+        "mix_number": 1,
+        "description": "Albañileria Masonry Cement",
+        "product_type": "Ordinary Portland",
+        "mpa_28_days": 55
+      },
+      {
+        "mix_number": 2,
+        "description": "CPF40 Filler Portland Cement",
+        "product_type": "Ordinary Portland",
+        "mpa_28_days": 40
+      },
+      {
+        "mix_number": 3,
+        "description": "CPP40 Versatile cement",
+        "product_type": "Portland Pozzolana",
+        "mpa_28_days": 30
+      },
+      {
+        "mix_number": 4,
+        "description": "CPC30 Composite Portland Cement Class 30",
+        "product_type": "Ordinary Portland",
+        "mpa_28_days": 40
+      },
+      {
+        "mix_number": 5,
+        "description": "Exported Clinker for Export",
+        "product_type": "Clinker",
+        "mpa_28_days": null
+      }
+    ],
+    "cement_design_composition": {
+      "clinker": "Proprietary",
+      "mineral_additions": "30-60.00%",
+      "others": "0.01-5.00%",
+      "total": "100.00%"
+    }
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources_and_quality": {
+      "raw_material_transport": "Combination of actual mode/distance combinations and ecoinvent default multi-modal market mix distances",
+      "electricity": "Direct reported from Holcim Argentina records",
+      "process_space_heating": "No fuel used for space heating",
+      "fuel_required_for_machinery": "Determined from direct Holcim information for gasoline",
+      "waste_generation": "Directly reported from Holcim operations",
+      "recovered_energy": "Not applicable",
+      "recycled_reused_material_components": "Not applicable",
+      "module_a1_material_losses": "Default loss factors assumed",
+      "direct_a3_emissions_accounting": "Based on primary fuel reporting from Holcim Argentina"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": null,
+  "recycled_materials_handling": null,
+  "additional_info": {
+    "environmental_indicators_and_inventory_metrics": "Supports the life cycle impact assessment indicators and inventory metrics as listed in the tables.",
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "total_impact_summary": {
+      "midpoint_impact_categories": {
+        "AP": "82.8 M EQ",
+        "EP": "0.0809 kg N EQ",
+        "WP": "617 kg CO2-EQ",
+        "ODP": "2.49e-05 kg CFC-11-EQ",
+        "PCOP": "126 kg NOX-EQ",
+        "ADPe": "0.00304 kg Sb-Eq",
+        "ADPf": "3740 MJ, net calorific value"
+      },
+      "inventory_metrics": {
+        "TPE": "4230 MJ-Eq",
+        "RE": "54 MJ-Eq",
+        "NRE": "4060 MJ-Eq",
+        "NRR": "30 kg",
+        "RR": "5 kg",
+        "WDP": "0.649 m3",
+        "LFW": "333 kg waste",
+        "LFHW": "5 kg waste",
+        "bioC": "0.0862 kg"
+      }
+    },
+    "references": {
+      "astm_standards": [
+        "ASTM C150/C150M",
+        "ASTM C260/C260M",
+        "ASTM C598",
+        "ASTM C618",
+        "ASTM C979/C979M",
+        "ASTM C989/C989M",
+        "ASTM C1017/C1017M",
+        "ASTM C1116/C1116M",
+        "ASTM C1157/C1157M",
+        "ASTM C1240",
+        "ASTM C1602/C1602M",
+        "ASTM G109"
+      ],
+      "csa_standards": [
+        "CAN/CSA A3000",
+        "CAN/CSA G40.20/G40.21"
+      ],
+      "iso_standards": [
+        "ISO 6707-1: 2014",
+        "ISO 14021:1999",
+        "ISO 14025:2006",
+        "ISO 14040:2006",
+        "ISO 14044:2006",
+        "ISO 14067:2018",
+        "ISO 14050:2009",
+        "ISO 21930:2017"
+      ],
+      "en_standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "other_references": [
+        "US EPA Waste Reduction Model (WARM)",
+        "USGBC LEED v4 for Building Design and Construction",
+        "USGBC PCR Committee Process & Resources: Part B"
+      ]
+    }
+  }
+}

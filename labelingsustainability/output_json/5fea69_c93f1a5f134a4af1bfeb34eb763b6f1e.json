@@ -1,0 +1,70 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim El Salvador",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "valid_through": "March 31, 2025",
+    "epd_number": "ae8c3b6d-1972-4402-b184-115794c37a67",
+    "date_of_issue": "21 July 2023",
+    "period_of_validity": "5 years; valid until 20 July 2028",
+    "independent_verification": "External",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "declared_product": "Cement products produced by Holcim El Salvador",
+    "declared_unit": "1 tonne of cement",
+    "facility_location": "El Ronco facility in Metapan, El Salvador",
+    "product_classification": "UN CPC Group 3744-Cement or CSI MasterFormat Division 03 30 00 Cast-in-Place Concrete",
+    "cement_mixes": [
+      "Cemento Fuerte",
+      "Cemento Maestro",
+      "Cemento Multibase",
+      "Cemento ARI 5000",
+      "Cemento Holcim 5000",
+      "Cemento Fuerte Industrial",
+      "Clinker for Export"
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "Primary reported Holcim data from the reference year 2021",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) included"
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp": {
+      "minimum": 1020,
+      "maximum": 1890,
+      "mean": 1400,
+      "unit": "kg CO2-Eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Any recycled or reused materials are detailed in the A1 input table."
+  },
+  "additional_info": {
+    "company_description": "Holcim El Salvador is part of the Holcim Group, a world leader in innovative and sustainable solutions for construction.",
+    "limitations": "This EPD is a declaration of potential environmental impact and does not support or provide definitive comparisons of the environmental performance of specific products.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

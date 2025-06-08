@@ -1,0 +1,114 @@
+{
+  "epd_metadata": {
+    "epd_number": "205062f5-3e30-4df4-836e-d353a7esb4aa",
+    "date_of_issue": "05 December 2021",
+    "period_of_validity": "5 years; valid until 05 December 2026",
+    "program_operator": "Labeling Sustainability",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group",
+    "iso_standards": [
+      "ISO 21930:2017",
+      "ISO 14025:2006",
+      "ISO 14044:2006",
+      "ISO 14040:2006"
+    ]
+  },
+  "product_description": {
+    "declared_unit": "1 m3 of concrete",
+    "declared_product": "Ready mix concrete products",
+    "manufacturer": "Holcim México Operaciones, S.A. de C.V.",
+    "facility_location": "Tijuana 1 (KTIZ) Concrete Plant, Baja California, México",
+    "product_types": [
+      {
+        "mix_id": "70200NB2014",
+        "description": "21.87 MPa 28d strength ready mix concrete. No SCMSs are used in this mix.",
+        "strength_mpa": 21.87,
+        "water_to_cement_ratio": 0.829932
+      },
+      {
+        "mix_id": "70250NB2014",
+        "description": "27.85 MPa 28d strength ready mix concrete. SCMS, fly ash, are used in this mix.",
+        "strength_mpa": 27.85,
+        "water_to_cement_ratio": 0.7223881
+      },
+      {
+        "mix_id": "70250ND2010",
+        "description": "27.16 MPa 28d strength ready mix concrete. SCMS, fly ash, are used in this mix.",
+        "strength_mpa": 27.16,
+        "water_to_cement_ratio": 0.721519
+      },
+      {
+        "mix_id": "77045ND4010",
+        "description": "4.41 MPa 28d strength ready mix concrete. SCMS, fly ash, are used in this mix.",
+        "strength_mpa": 4.41,
+        "water_to_cement_ratio": 0.6337209
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "system_boundaries": {
+      "included_stages": [
+        "A1: Raw material supply",
+        "A2: Transportation",
+        "A3: Manufacturing"
+      ],
+      "excluded_stages": [
+        "A4: Transport to site",
+        "A5: Installation",
+        "B1-B7: Use stage",
+        "C1-C4: End of life stage"
+      ]
+    },
+    "data_sources": "ecoinvent V3.6 database and a local EPD database",
+    "cut_off_criteria": "1% cut-off for all renewable and non-renewable primary energy consumption and the total mass of inputs within a unit process where the total of the neglected inputs does not exceed 5%"
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Primary transportation for delivering the concrete in mixing trucks was calculated using the formula: Total concrete transported/(concrete/load){km per load)L/km."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": 381,
+      "maximum": 438,
+      "mean": 405,
+      "median": 400,
+      "unit": "kg CO2-Eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": [
+      {
+        "product_name": "HS CPC40 Cement",
+        "primary_content": 1,
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      },
+      {
+        "product_name": "Coarse Aggregate",
+        "primary_content": 1,
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      }
+    ],
+    "reused_or_recycled_components": {
+      "concrete_returned": {
+        "value": 900,
+        "units": "m3",
+        "location": "off-site"
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

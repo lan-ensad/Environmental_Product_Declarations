@@ -1,0 +1,176 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Argentina",
+    "facility_location": "KHP9 facility in Mendoza, Argentina",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "7csebdsc-6a47-49b4-a5bc-1d76416f45ad",
+    "date_of_issue": "25 June 2023",
+    "validity_period": "5 years, valid until 24 June 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete",
+    "declared_unit": "1 m3 of concrete",
+    "product_types": [
+      {
+        "mix_id": "H200K15P2NS-ARS",
+        "strength_mpa": 20,
+        "water_to_cement_ratio": 0.62
+      },
+      {
+        "mix_id": "H300K15P2NS-ARS",
+        "strength_mpa": 30,
+        "water_to_cement_ratio": 0.47
+      },
+      {
+        "mix_id": "S350K15P1NS-ARS",
+        "strength_mpa": 35,
+        "water_to_cement_ratio": 0.41
+      }
+    ],
+    "composition": {
+      "cement": "Proprietary",
+      "aggregates": "30-60.00",
+      "others": "0.01-5.00"
+    }
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent v3.8 database, Holcim Argentina primary data",
+    "cut_off_criteria": "Minimum of 95% of total inflows included"
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks is based on Holcim Argentina records for 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": {
+      "AP": "Acidification Potential",
+      "EP": "Eutrophication Potential",
+      "GWP": "Global Warming Potential",
+      "ODP": "Ozone Depletion Potential",
+      "PCOP": "Photochemical Ozone Creation Potential",
+      "ADPe": "Abiotic Depletion Potential (elements)",
+      "ADPf": "Abiotic Depletion Potential (fossil fuels)"
+    },
+    "total_impact_summary": {
+      "H200K15P2NS-ARS": {
+        "AP": 49.5,
+        "EP": 0.0681,
+        "GWP": 281,
+        "ODP": 2.49e-05,
+        "PCOP": 0.78,
+        "ADPe": 0.00133,
+        "ADPf": 2590
+      },
+      "H300K15P2NS-ARS": {
+        "AP": 56.9,
+        "EP": 0.0761,
+        "GWP": 344,
+        "ODP": 2.79e-05,
+        "PCOP": 0.9,
+        "ADPe": 0.0016,
+        "ADPf": 3040
+      },
+      "S350K15P1NS-ARS": {
+        "AP": 56.1,
+        "EP": 0.0754,
+        "GWP": 396,
+        "ODP": 3.08e-05,
+        "PCOP": 0.882,
+        "ADPe": 0.00184,
+        "ADPf": 3570
+      }
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Amount of returned concrete is based on Holcim primary data for 2021."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": {
+      "ASTM Standards": [
+        "ASTM A36/A36M",
+        "ASTM A108",
+        "ASTM A123/A123M",
+        "ASTM A153/A153M",
+        "ASTM A184",
+        "ASTM A307",
+        "ASTM A416/A416M",
+        "ASTM A555/A555M",
+        "ASTM A615/A615M",
+        "ASTM A666",
+        "ASTM A706/A706M",
+        "ASTM A767/A767M",
+        "ASTM A775/A775M",
+        "ASTM A820/A820M",
+        "ASTM A884/A884M",
+        "ASTM A934/A934M",
+        "ASTM A1064/A1064M",
+        "ASTM C33/C33M",
+        "ASTM C94",
+        "ASTM C150/C150M",
+        "ASTM C260/C260M",
+        "ASTM C595",
+        "ASTM C618",
+        "ASTM C979/C979M",
+        "ASTM C989/C989M",
+        "ASTM C1017/C1017M",
+        "ASTM C1116/C1116M",
+        "ASTM C1157/C1157M",
+        "ASTM C1240",
+        "ASTM C1602/C1602M",
+        "ASTM G109",
+        "ASTM C330/C330M",
+        "ASTM C494/C494M"
+      ],
+      "CSA Standards": [
+        "CAN/CGSB-140",
+        "CAN/CSA G30.18",
+        "CAN/CSA A3000",
+        "CAN/CSA G40.20/G40.21",
+        "CAN/CSA A23.1/A23.2",
+        "CAN/CSA A23.4",
+        "CSA S806"
+      ],
+      "ISO Standards": [
+        "ISO 6707-1:2014",
+        "ISO 14021:1999",
+        "ISO 14025:2006",
+        "ISO 14040:2006",
+        "ISO 14044:2006",
+        "ISO 14067:2018",
+        "ISO 14050:2009",
+        "ISO 21930:2017"
+      ],
+      "EN Standards": [
+        "EN 16757",
+        "EN 15804"
+      ],
+      "Other References": [
+        "US EPA Waste Reduction Model (WARM)",
+        "American Concrete Institute (ACI) 211",
+        "ACI 318-14",
+        "Mather, B & Ozyildirim, C. (2002). SP-1(02) : Concrete Primer",
+        "NSF International (February 2019)",
+        "Product Category Rules for Precast Concrete",
+        "USGBC LEED v4 for Building Design and Construction",
+        "USGBC PCR Committee Process & Resources: Part B"
+      ]
+    }
+  }
+}

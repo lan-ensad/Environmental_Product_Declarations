@@ -1,0 +1,53 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "58a32ba3-100c-4da5-8edb-8de1bf38e1eb",
+    "date_of_issue": "13 July 2023",
+    "period_of_validity": "5 years; valid until 12 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Tlaxcalancingo facility in San Andrés Cholula, Puebla, México",
+    "product_scope": "38 concrete mixes manufactured at the Holcim Mexico Operaciones S.A. de C.V. Tlaxcalancingo concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.8 database and a local EPD database in combination with primary data from Holcim México Operaciones S.A. de C.V.",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "representativeness": "Time-related coverage from 2022-01-01 to 2022-12-31"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": {
+    "included_stages": "Not included in this LCA. Excluded stages include transportation of the manufactured material to the construction site; on-site construction processes and components; building use and maintenance; and end-of-life effects."
+  },
+  "carbon_emission_context": {
+    "gwp_min": 107,
+    "gwp_max": 672,
+    "gwp_mean": 632,
+    "gwp_unit": "kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

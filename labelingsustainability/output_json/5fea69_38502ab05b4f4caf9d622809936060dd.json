@@ -1,0 +1,58 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim Ecuador",
+    "address": "S/N Av. Barcelona y José Rodriguez Bonin, Edif. El Caimän, Piso 2, Guayaquil, Ecuador",
+    "website": "www.holcim.com.ec",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_website": "www.labelinsustainability.com",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "01995322-3038-478a-a4e9-954e6f047a4d",
+    "date_of_issue": "16 January 2023",
+    "period_of_validity": "5 years; valid until 16 January 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Concrete products produced by Holcim Ecuador",
+    "declared_unit": "1 m3 of concrete",
+    "product_scope": "15 concrete mixes manufactured at the Planta Piady Holcim Ecuador concrete facility in Durän, Ecuador"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent v3.8 database, Holcim Ecuador's primary data"
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by the mixing trucks is direct primary information reported from Holcim records for the year 2021."
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "environmental_indicators": "TRACI impact categories for North American context",
+    "limitations": "This EPD does not support or provide definitive comparisons of the environmental performance of specific products."
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "The amount of returned concrete is based on Holcim primary data for the reference year, 2021."
+  },
+  "additional_info": {
+    "company_description": "Holcim Ecuador is part of the international Holcim group, a leader in innovative and sustainable construction solutions.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

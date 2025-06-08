@@ -1,0 +1,109 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "epd_number": "9342cecb-2e43-41864-94a8-9c42a7e6a035",
+    "date_of_issue": "05 December 2021",
+    "period_of_validity": "5 years; valid until 05 December 2026",
+    "iso_standards": [
+      "ISO 21930:2017",
+      "ISO 14025:2006",
+      "ISO 14044:2006",
+      "ISO 14040:2006"
+    ],
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "declared_unit": "1 m3 of concrete",
+    "products": [
+      {
+        "mix_id": "04250NB2014",
+        "strength_mpa": 33.88,
+        "water_to_cement_ratio": 0.6187688
+      },
+      {
+        "mix_id": "04250NB2018",
+        "strength_mpa": 30.3,
+        "water_to_cement_ratio": 0.6244591
+      },
+      {
+        "mix_id": "04250ND2014",
+        "strength_mpa": 32.09,
+        "water_to_cement_ratio": 0.8051128
+      },
+      {
+        "mix_id": "642501B2014",
+        "strength_mpa": 30.23,
+        "water_to_cement_ratio": 0.5722465
+      },
+      {
+        "mix_id": "642501B2018",
+        "strength_mpa": 30.23,
+        "water_to_cement_ratio": 0.5888074
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "system_boundaries": {
+      "A1": "Raw material supply",
+      "A2": "Transportation",
+      "A3": "Manufacturing"
+    },
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules.",
+    "data_sources": "ecoinvent v3.6 database and a local EPD database",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "reproducibility": "Internal reproducibility possible"
+    }
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "unit": "kg CO2-Eq",
+      "minimum": 229,
+      "maximum": 306,
+      "mean": 272
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "MA CPC 40 Cement": {
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      },
+      "Limestone Coarse Aggregate": {
+        "post_industrial_content": 0,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": {
+      "astm_standards": [
+        "ASTM A36/A36M",
+        "ASTM A108",
+        "ASTM A123/A123M"
+      ],
+      "csa_standards": [
+        "CAN/CGSB-140",
+        "CAN/CSA G30.18"
+      ],
+      "iso_standards": [
+        "ISO 6707-1: 2014",
+        "ISO 14021:1999"
+      ],
+      "en_standards": [
+        "EN 16757",
+        "EN 15804"
+      ]
+    }
+  }
+}

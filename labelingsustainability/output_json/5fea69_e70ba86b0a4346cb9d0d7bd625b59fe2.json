@@ -1,0 +1,112 @@
+{
+  "epd_metadata": {
+    "epd_number": "a36487e5-3c82-4bc5-9003-a231359f3299",
+    "date_of_issue": "21 September 2021",
+    "period_of_validity": "5 years; valid until 21 September 2026",
+    "program_operator": "Labeling Sustainability",
+    "program_operator_contact": "http://labelinsustainability.com/",
+    "iso_standards": [
+      "ISO 21930:2017",
+      "ISO 14025:2006",
+      "ISO 14044:2006",
+      "ISO 14040:2006"
+    ],
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the CSA group"
+  },
+  "product_description": {
+    "declared_unit": "1 m3 of concrete",
+    "declared_product": "Ready mix concrete products",
+    "manufacturer": "Holcim México Operaciones, S.A. de C.V.",
+    "manufacturing_location": "Los Reyes Concrete Plant, Estado de México, Mexico",
+    "product_variants": [
+      {
+        "mix_id": "04250NB2012",
+        "strength": "2.68 MPa",
+        "water_to_cement_ratio": "0.9210526",
+        "uuid": "acbbacc7-ae85-80c-897b-497143c24"
+      },
+      {
+        "mix_id": "04300NB2012",
+        "strength": "4.17 MPa",
+        "water_to_cement_ratio": "0.7780143",
+        "uuid": "08a8385d-3730-048-80f7-5259585"
+      },
+      {
+        "mix_id": "04300NB2018",
+        "strength": "3.61 MPa",
+        "water_to_cement_ratio": "0.7819576",
+        "uuid": "188ff1e0-acod-49f3-004c-483324"
+      },
+      {
+        "mix_id": "04300RB2012",
+        "strength": "3.7 MPa",
+        "water_to_cement_ratio": "0.7101373",
+        "uuid": "206b6782-f6f7-41f1-9ce2-4a17f9058d29"
+      },
+      {
+        "mix_id": "04350NB2012",
+        "strength": "3.91 MPa",
+        "water_to_cement_ratio": "0.6746236",
+        "uuid": "4e7db080-1d96-ce-92533"
+      },
+      {
+        "mix_id": "04350NB2018",
+        "strength": "37 MPa",
+        "water_to_cement_ratio": "0.6817628",
+        "uuid": "85425ae7-b675-4200-0454-7beobedb2ad7"
+      }
+    ]
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "scope": "Cradle-to-gate",
+    "reference_year": "2020",
+    "system_boundaries": {
+      "A1": "Raw material supply",
+      "A2": "Transport",
+      "A3": "Manufacturing"
+    },
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.6, local EPD database, primary data from Holcim México Operaciones, S.A. de C.V."
+  },
+  "transport_and_installation": null,
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "301 kg CO2-eq",
+      "maximum": "410 kg CO2-eq",
+      "mean": "368 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "raw_material_recycled_content": {
+      "CPC 40 Cement": {
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      },
+      "Gravel 1": {
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      },
+      "Andesite": {
+        "primary_content": "1",
+        "post_industrial_content": "0",
+        "post_consumer_content": "0",
+        "material_losses": "0.02"
+      }
+    }
+  },
+  "additional_info": {
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

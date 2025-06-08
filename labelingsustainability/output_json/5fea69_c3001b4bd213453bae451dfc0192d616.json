@@ -1,0 +1,50 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "acd33cb8-fa84-427d-958a-edib7b167f5a",
+    "date_of_issue": "13 July 2023",
+    "period_of_validity": "5 years; valid until 13 July 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier under the International EPD Program"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "manufacturing_location": "Puebla, México",
+    "product_scope": "52 concrete mixes manufactured at the Holcim Mexico Operaciones S.A. de C.V. Puebla concrete facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules",
+    "data_sources": "ecoinvent V3.8 database and a local EPD database",
+    "data_quality_assessment": "Precision, completeness, consistency, and representativeness are ensured as per ISO 14044:2006 requirements."
+  },
+  "transport_and_installation": {
+    "raw_material_transport": "Combination of actual mode/distance combinations and ecoinvent default multi-modal market mix distances",
+    "product_transport_requirements": "Diesel fuel used by the mixing trucks is direct primary information reported from Holcim México records for the year 2022."
+  },
+  "end_of_life": {
+    "end_of_life_stages": "Excluded from this LCA"
+  },
+  "carbon_emission_context": {
+    "gwp_minimum": "12",
+    "gwp_maximum": "686",
+    "gwp_mean": "619"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_material_components": "Amount of returned concrete is based on Holcim primary data for the reference year, 2022."
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

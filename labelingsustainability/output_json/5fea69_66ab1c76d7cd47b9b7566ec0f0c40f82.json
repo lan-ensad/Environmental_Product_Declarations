@@ -1,0 +1,71 @@
+{
+  "epd_metadata": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "declaration_owner": "Holcim México Operaciones, S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_lca_reviewer": "Geoffrey Guest",
+    "date_of_issue": "28 August 2021",
+    "period_of_validity": "5 years; valid until 28 August 2026",
+    "epd_number": "oofcdfc2-1a36-4d90-9704-ofc7d7414a68"
+  },
+  "product_description": {
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "study_goal": "The intended application of this life cycle assessment (LCA) is to comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "description_of_product_and_scope": "This EPD is primary reported Holcim data from the reference year 2020 and uses direct reported Holcim information whenever possible. This LCA is a cradle-to-gate study."
+  },
+  "lca_information": {
+    "system_boundaries": "Cradle-to-gate",
+    "included_stages": [
+      "A1: Raw material supply",
+      "A2: Transportation",
+      "A3: Manufacturing"
+    ],
+    "excluded_stages": [
+      "Transportation to the construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources_and_quality": "Primary data from Holcim México Operaciones, S.A. de C.V. and ecoinvent V3.6 database."
+  },
+  "transport_and_installation": {
+    "raw_material_transport": "A combination of actual mode/distance combinations were assumed for key bulk materials.",
+    "product_transport_requirements": "NA"
+  },
+  "end_of_life": {
+    "waste_generation": {
+      "hazardous_waste": "5508 Kg",
+      "non_hazardous_waste": "21124 kg"
+    },
+    "waste_transport_requirements": "NA"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": "348 kg CO2-eq",
+      "maximum": "408 kg CO2-eq",
+      "mean": "381 kg CO2-eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "CPC40R Cement": "0",
+      "Gravel 1": "0",
+      "Andsite": "1",
+      "Limestone Sand": "1",
+      "Water": "0"
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

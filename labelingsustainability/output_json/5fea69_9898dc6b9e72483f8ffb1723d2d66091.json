@@ -1,0 +1,70 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones, SA. de CV.",
+    "program_operator": "Labeling Sustainability",
+    "product_category_rule": "ISO 21930:2017",
+    "pcr_program_operator": "NSF International",
+    "independent_verifier": "Geoffrey Guest",
+    "date_of_issue": "14 August 2021",
+    "period_of_validity": "5 years; valid until 14 August 2026",
+    "epd_number": null
+  },
+  "product_description": {
+    "declared_product": "Ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "company_description": "Holcim México Operaciones SA de CV produces and markets cement, ready-mix concrete, and other products and services for construction.",
+    "product_scope": "Cradle-to-gate study"
+  },
+  "lca_information": {
+    "study_goal": "To comply with the procedures for creating a Type III environmental product declaration (EPD) and publish the EPD for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "cut_off_criteria": "Minimum of 95% of the total inflows (mass and energy) to the upstream and core modules.",
+    "data_sources": "ecoinvent V3.6 database and primary data from Holcim México Operaciones, SA. de C.V.",
+    "data_quality_assessment": {
+      "precision": "Measured and calculated",
+      "completeness": "All relevant specific processes considered",
+      "consistency": "Same modeling structure across product systems",
+      "reproducibility": "Internal reproducibility possible",
+      "representativeness": "Time-related coverage from 2020-01-01 to 2020-12-31"
+    }
+  },
+  "transport_and_installation": {
+    "transport_requirements": "Transportation of A1 materials from the supplier to the manufacturing facility.",
+    "installation_process": null
+  },
+  "end_of_life": {
+    "end_of_life_stage": "Not included in this LCA"
+  },
+  "carbon_emission_context": {
+    "global_warming_potential": {
+      "minimum": 210,
+      "maximum": 268,
+      "mean": 241,
+      "unit": "kg CO2-Eq"
+    }
+  },
+  "recycled_materials_handling": {
+    "recycled_content": {
+      "RA CPC40": {
+        "post_industrial_content": 1,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      },
+      "Fly Ash": {
+        "post_industrial_content": 1,
+        "post_consumer_content": 0,
+        "material_losses": 0.02
+      }
+    }
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site.",
+    "references": [
+      "ASTM Standards",
+      "CSA Standards",
+      "ISO Standards",
+      "EN Standards",
+      "Other References"
+    ]
+  }
+}

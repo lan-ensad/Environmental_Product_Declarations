@@ -1,0 +1,46 @@
+{
+  "epd_metadata": {
+    "declaration_owner": "Holcim México Operaciones S.A. de C.V.",
+    "program_operator": "Labeling Sustainability",
+    "core_pcr": "ISO 21930:2017",
+    "sub_pcr": "NSF International (March 2020)",
+    "epd_number": "d322573d-dd1d-46bc-a493-3482170a8e36",
+    "date_of_issue": "03 August 2023",
+    "period_of_validity": "5 years; valid until 02 August 2028",
+    "third_party_verifier": "Geoffrey Guest, Certified 3rd Party Verifier"
+  },
+  "product_description": {
+    "declared_product": "Various ready mix concrete products",
+    "declared_unit": "1 m3 of concrete",
+    "facility_location": "Toluca, Estado de México, México",
+    "product_scope": "47 concrete mixes manufactured at the Toluca facility"
+  },
+  "lca_information": {
+    "study_goal": "To comply with procedures for creating a Type III EPD and publish it for public review.",
+    "system_boundaries": "Cradle-to-gate",
+    "excluded_stages": [
+      "Transportation to construction site",
+      "On-site construction processes",
+      "Building use and maintenance",
+      "End-of-life effects"
+    ],
+    "data_sources": "ecoinvent V3.8 database, Holcim México primary data",
+    "cut_off_criteria": "Minimum of 95% of total inflows included"
+  },
+  "transport_and_installation": {
+    "product_transport_requirements": "Diesel fuel used by mixing trucks reported from Holcim México records for 2022"
+  },
+  "end_of_life": null,
+  "carbon_emission_context": {
+    "gwp_min": 92,
+    "gwp_max": 662,
+    "gwp_mean": 614,
+    "gwp_unit": "kg CO2-eq"
+  },
+  "recycled_materials_handling": {
+    "recycled_reused_materials": "Amount of returned concrete based on Holcim primary data for 2022"
+  },
+  "additional_info": {
+    "regulated_substances": "No regulated substances of very high concern are utilized on site."
+  }
+}
