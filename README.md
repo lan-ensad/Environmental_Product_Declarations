@@ -38,3 +38,7 @@ It could be some unicode caracter artefact. Launch `clean_unicode.py` it will al
 ## Warning
 
 Be sure to evaluate the cost of the API request before to proceed.
+
+## Work with json
+
+`ask_json.py` you see a little exemple how you can use the repo with the github api.
